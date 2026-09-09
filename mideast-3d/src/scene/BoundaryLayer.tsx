@@ -33,8 +33,8 @@ export const BOUNDARY_LINE_OPACITY = 0.9;
 /** Line styles rendered with a dash pattern; all others are solid. */
 export const DASHED_LINE_STYLES: ReadonlySet<string> = new Set(['armistice', 'occupation', 'partition-proposal', 'buffer']);
 
-const DASH_SIZE = 0.014;
-const GAP_SIZE = 0.009;
+const DASH_SIZE = 0.012;
+const GAP_SIZE = 0.008;
 
 interface ZoneEntry {
   kind: 'zone';

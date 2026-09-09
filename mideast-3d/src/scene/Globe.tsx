@@ -121,7 +121,7 @@ function Atmosphere() {
     () => ({
       uColor: { value: new Color('#3b6fb5') },
       uInner: { value: Math.sqrt(1 - 1 / (ATMOSPHERE_SCALE * ATMOSPHERE_SCALE)) },
-      uStrength: { value: 0.55 },
+      uStrength: { value: 0.8 },
     }),
     [],
   );
