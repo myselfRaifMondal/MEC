@@ -299,7 +299,8 @@ def features() -> list[dict]:
                note='Approximate route of the Israeli West Bank barrier (fence/wall), begun 16 June '
                     '2002; about 85% of the route runs inside the West Bank according to UN OCHA. '
                     'Built and planned sections (Ariel finger, Ma\'ale Adumim, Gush Etzion) are '
-                    'shown together; hand-digitised, simplified.',
+                    'shown together; hand-digitised and heavily simplified (the real route winds '
+                    'over ~700 km).',
                source='hand-digitised from UN OCHA West Bank barrier route maps'))
     return F
 

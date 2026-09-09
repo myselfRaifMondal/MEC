@@ -286,19 +286,28 @@ async function checkLinks(): Promise<void> {
   console.log(`Checking ${unique.length} unique source URLs...`);
   const dead: string[] = [];
   const blocked: string[] = [];
+  const unreachable: string[] = [];
   let i = 0;
   const worker = async () => {
     while (i < unique.length) {
       const s = unique[i++]!;
       const status = await fetchStatus(s.url);
-      if (status === 404 || status === 410 || status === 0) dead.push(`${s.eventId}: ${s.url} (${status || 'network error'})`);
+      if (status === 404 || status === 410) dead.push(`${s.eventId}: ${s.url} (${status})`);
+      else if (status === 0) unreachable.push(`${s.eventId}: ${s.url}`);
       else if (status === 401 || status === 403 || status === 429) blocked.push(`${s.eventId}: ${s.url} (${status})`);
     }
   };
   await Promise.all(Array.from({ length: 8 }, worker));
   for (const d of dead) err(`dead link - ${d}`);
   for (const b of blocked) warn(`bot-blocked (could not verify) - ${b}`);
-  console.log(`Links: ${unique.length - dead.length - blocked.length} ok, ${blocked.length} bot-blocked, ${dead.length} dead`);
+  // A network error (DNS failure, refused/blocked connection, timeout) says nothing
+  // about the page itself, e.g. when run behind an egress-restricted proxy.
+  for (const u of unreachable) warn(`unreachable from this network (could not verify) - ${u}`);
+  const ok = unique.length - dead.length - blocked.length - unreachable.length;
+  console.log(`Links: ${ok} ok, ${blocked.length} bot-blocked, ${unreachable.length} unreachable from this network, ${dead.length} dead`);
+  if (unreachable.length > unique.length / 2) {
+    console.log('Most URLs were unreachable: this network appears to block outbound access; re-run the link check from an unrestricted machine.');
+  }
 }
 
 async function fetchStatus(url: string): Promise<number> {
