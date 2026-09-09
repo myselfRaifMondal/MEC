@@ -23,7 +23,9 @@ export default function App() {
       </Suspense>
       <Header />
       <SidePanel />
-      <Timeline />
+      <div className="absolute inset-x-0 bottom-0 z-20">
+        <Timeline />
+      </div>
     </div>
   );
 }

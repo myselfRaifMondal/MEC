@@ -97,7 +97,8 @@ let state: AppState = {
   hoveredEventId: null,
   activeChapterId: initialChapter.id,
   boundaryStatus: null,
-  panelOpen: true,
+  // Start collapsed on narrow (phone) viewports so the globe is visible first.
+  panelOpen: typeof window === 'undefined' || window.innerWidth >= 768,
 };
 
 const listeners = new Set<() => void>();
