@@ -1,0 +1,1008 @@
+{
+  "era": "armistice-suez",
+  "unit": "armistice-suez",
+  "events": [
+    {
+      "id": "1949-12-08-unrwa-established",
+      "date": "1949-12-08",
+      "lat": 40.7461,
+      "lng": -73.8459,
+      "location": "UN General Assembly, Flushing Meadows, New York",
+      "title": "UN General Assembly creates UNRWA for Palestine refugees (Resolution 302)",
+      "category": "political",
+      "significance": 5,
+      "summary": "On 8 December 1949 the UN General Assembly adopted Resolution 302 (IV), establishing the United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA). The resolution passed without a dissenting vote, with abstentions from the Soviet bloc, and was supported by Israel and the Arab states. UNRWA replaced the emergency UN Relief for Palestine Refugees created in November 1948 and was mandated to carry out direct relief and works programmes in collaboration with host governments, pending a political settlement under Resolution 194. It began operations on 1 May 1950 in Jordan, Lebanon, Syria, the West Bank and the Gaza Strip. According to UNRWA, the agency was then responding to the needs of about 750,000 Palestine refugees; the UN Conciliation Commission had estimated some 726,000 refugees in 1949. The mandate, intended as temporary, has been renewed repeatedly ever since.",
+      "perspectives": [
+        {
+          "party": "United Nations / UNRWA",
+          "framing": "Presents UNRWA as a humanitarian and human-development agency created by the General Assembly as a stop-gap until a just and lasting solution to the refugee question is reached; its registration criteria (persons whose normal residence was Palestine between June 1946 and May 1948 who lost home and livelihood, and their descendants) are described as reflecting the unresolved nature of the problem."
+        },
+        {
+          "party": "Palestinian leadership",
+          "framing": "Regards UNRWA as the institutional embodiment of international responsibility for the Nakba (the 1948 Palestinian displacement) and as a guarantor of refugee status pending the right of return affirmed in Resolution 194; any weakening of the agency is framed as an attempt to erase the refugee question."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Voted for the resolution in 1949 but has since argued that UNRWA perpetuates rather than resolves refugee status, particularly through the hereditary registration of descendants, and that refugees should be resettled in host countries or handled by UNHCR; Israeli officials use the term 'Arab refugees' in this period."
+        },
+        {
+          "party": "Arab host states",
+          "framing": "Accepted UNRWA relief while insisting that the agency's works and reintegration projects must not prejudice the refugees' right to return or imply permanent resettlement; Egypt administered the Gaza camps and Jordan extended citizenship to refugees on both banks."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Who we are - UNRWA",
+          "url": "https://www.unrwa.org/who-we-are",
+          "publisher": "UNRWA",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "General Assembly Resolution 302 (IV) of 8 December 1949 - Assistance to Palestine Refugees",
+          "url": "https://www.unrwa.org/content/resolution-302",
+          "publisher": "UNRWA",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Part II (1947-1977) - Origins and Evolution of the Palestine Problem",
+          "url": "https://www.un.org/unispal/history2/origins-and-evolution-of-the-palestine-problem/part-ii-1947-1977/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "armistice-suez",
+      "verified": false,
+      "casualties": [
+        {
+          "label": "Palestine refugees served when operations began (1950)",
+          "value": "about 750,000",
+          "attribution": "UNRWA",
+          "note": "Registered refugees at the start of UNRWA operations, May 1950."
+        },
+        {
+          "label": "Palestinian refugees (1949 estimate)",
+          "value": "≈726,000",
+          "attribution": "UN Conciliation Commission for Palestine",
+          "note": "Figure widely cited from the Commission's 1949 survey; other estimates range from about 520,000 to one million."
+        }
+      ]
+    },
+    {
+      "id": "1950-04-24-jordan-annexes-west-bank",
+      "date": "1950-04-24",
+      "lat": 31.9539,
+      "lng": 35.9106,
+      "location": "Amman, Jordan",
+      "title": "Jordanian parliament votes to unite the West Bank with the Hashemite Kingdom",
+      "category": "political",
+      "significance": 4,
+      "summary": "On 24 April 1950 a newly elected Jordanian parliament, with equal numbers of deputies from the East and West Banks, voted to unite the West Bank of the Jordan, including East Jerusalem, with the Hashemite Kingdom of Jordan under King Abdullah I. The step followed the December 1948 Jericho Conference, at which Palestinian notables had called for union, and elections held on 11 April 1950 on both banks. Residents of the West Bank had already been granted Jordanian citizenship. The Arab League, which had threatened to expel Jordan, accepted a formula under which the territory was held in trust pending a final settlement of the Palestine question. Britain recognised the union, excluding East Jerusalem; wider international recognition did not follow. Jordan's population roughly tripled, and Abdullah was assassinated at al-Aqsa Mosque in July 1951.",
+      "perspectives": [
+        {
+          "party": "Jordan",
+          "framing": "Described the vote as the 'unification of the two banks' at the request of Palestinian representatives, presenting Hashemite rule as the safeguard of what remained of Arab Palestine and of Jerusalem's holy places, and granting West Bank Palestinians full citizenship and parliamentary representation."
+        },
+        {
+          "party": "Palestinian leadership / Arab Higher Committee",
+          "framing": "Rejected the union as an annexation that extinguished the All-Palestine Government proclaimed in Gaza in 1948 and subordinated Palestinian national claims to Amman; later Palestinian accounts refer to the 'Jordanian period' of West Bank rule and stress the demotion of Jerusalem."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Did not recognise Jordanian sovereignty over the West Bank but accepted the 1949 armistice arrangements in practice; after 1967 Israeli jurists cited the limited recognition of the annexation to argue that no prior sovereign existed in the territory."
+        },
+        {
+          "party": "Arab League / Egypt",
+          "framing": "Egypt and other members opposed the annexation as a unilateral gain from the 1948 war and secured a League resolution treating Jordan as a trustee of the territory until Palestine's liberation."
+        }
+      ],
+      "sources": [
+        {
+          "title": "West Bank | History, Map, Population, & Facts",
+          "url": "https://www.britannica.com/place/West-Bank",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Part II (1947-1977) - Origins and Evolution of the Palestine Problem",
+          "url": "https://www.un.org/unispal/history2/origins-and-evolution-of-the-palestine-problem/part-ii-1947-1977/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Foreign Relations of the United States, 1950, The Near East, South Asia, and Africa, Volume V",
+          "url": "https://history.state.gov/historicaldocuments/frus1950v05",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "armistice-suez",
+      "verified": false
+    },
+    {
+      "id": "1950-07-05-law-of-return",
+      "date": "1950-07-05",
+      "lat": 31.7797,
+      "lng": 35.216,
+      "location": "Knesset, Jerusalem",
+      "title": "Knesset passes the Law of Return granting every Jew the right to immigrate",
+      "category": "political",
+      "significance": 4,
+      "summary": "On 5 July 1950, the anniversary of Theodor Herzl's death, the Knesset unanimously passed the Law of Return (5710-1950), declaring that 'every Jew has the right to come to this country as an oleh (immigrant)'. Prime Minister David Ben-Gurion told the Knesset that the law did not create this right but recognised one that preceded the state. Entry could be refused only to persons acting against the Jewish people or endangering public health or state security; a 1954 amendment added those with a criminal past. The 1952 Nationality Law linked immigration under the Law of Return to automatic citizenship. Amendments in 1970 defined a Jew as a person born to a Jewish mother or converted, and extended immigration rights to children, grandchildren and spouses. The law underpinned the mass immigration of the early 1950s, which roughly doubled Israel's Jewish population within four years.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Presents the law as the legal expression of Israel's purpose as the state of the Jewish people and of the 'ingathering of the exiles', a right rooted in Jewish history rather than conferred by the state; official material calls it the cornerstone of Israeli immigration policy."
+        },
+        {
+          "party": "Palestinian leadership",
+          "framing": "Contrasts the open-ended right of Jewish immigration with the denial of return to Palestinian refugees displaced in 1948, describing the law, together with the 1950 Absentees' Property Law, as the legal architecture that made the Nakba permanent; Palestinian citizens of Israel and rights groups such as Adalah cite it as evidence of structural discrimination."
+        },
+        {
+          "party": "Historians / legal scholars",
+          "framing": "Debate whether the law is comparable to the preferential citizenship laws of other diaspora nations or unique in scope; note that the 1970 amendment and the 'Who is a Jew' controversies made its definitional clauses a recurring arena of religious-secular dispute in Israel."
+        }
+      ],
+      "sources": [
+        {
+          "title": "The Law of Return 5710 (1950)",
+          "url": "https://www.knesset.gov.il/laws/special/eng/return.htm",
+          "publisher": "Knesset",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Law of Return | Israeli law",
+          "url": "https://www.britannica.com/topic/Law-of-Return",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "An Introduction to the Law of Return",
+          "url": "https://www.jewishvirtuallibrary.org/an-introduction-to-the-law-of-return",
+          "publisher": "Jewish Virtual Library",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "armistice-suez",
+      "verified": false
+    },
+    {
+      "id": "1950-03-09-iraqi-jewish-exodus-airlift",
+      "date": "1950-03-09",
+      "endDate": "1951-12-31",
+      "lat": 33.3152,
+      "lng": 44.3661,
+      "location": "Baghdad, Iraq",
+      "title": "Departure of Iraq's Jews: denaturalisation law and the 1950-51 airlift to Israel",
+      "category": "displacement",
+      "significance": 4,
+      "summary": "On 9 March 1950 Iraq's parliament passed a law allowing Jews to emigrate on condition that they renounced Iraqi nationality, with registration open for one year. After bombings in Baghdad's Jewish quarter in 1950-51, registration surged, and in March 1951 a further law froze the assets of those who had registered. Between May 1950 and early 1952 an airlift organised by Israel with the American Jewish Joint Distribution Committee, known as Operation Ezra and Nehemiah, flew Iraqi Jews to Israel, at first via Cyprus and later directly. Historians such as Moshe Gat put the number at roughly 120,000 to 130,000 out of a community of about 135,000, most of whom arrived destitute and were housed in transit camps. The Iraqi departure was the largest single episode in the wider movement of Jews from Arab countries, which the Israeli government estimates at some 850,000 people between 1948 and the 1970s.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Describes the Iraqi Jews as refugees expelled through discriminatory legislation, asset confiscation and violence, and since 2014 marks 30 November as the day of the 'departure and expulsion of Jews from Arab countries and Iran'; Israel argues that their losses must be weighed alongside Palestinian refugee claims in any settlement."
+        },
+        {
+          "party": "Iraqi and Arab governments",
+          "framing": "Presented the 1950 law as a voluntary emigration option prompted by Zionist agitation, treated the departure of citizens who chose Israel as a matter of loyalty, and framed the 1951 asset freeze as a response to Israel's treatment of Palestinian property; Arab spokesmen rejected any equivalence with the Palestinian refugees."
+        },
+        {
+          "party": "Historians",
+          "framing": "Debate the balance between 'push' factors (the 1941 Farhud pogrom, post-1948 dismissals, arrests and hangings, the 1950-51 bombings) and 'pull' factors (Zionist emissaries and Israeli policy), and remain divided over allegations that Israeli agents were involved in the Baghdad bombings, a charge Israel denies."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Foreign Relations of the United States, 1950, The Near East, South Asia, and Africa, Volume V",
+          "url": "https://history.state.gov/historicaldocuments/frus1950v05",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Iraq | History, Map, Population, & Facts",
+          "url": "https://www.britannica.com/place/Iraq",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "JIMENA - Jews Indigenous to the Middle East and North Africa",
+          "url": "https://www.jimena.org/",
+          "publisher": "JIMENA",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "armistice-suez",
+      "verified": false,
+      "casualties": [
+        {
+          "label": "Iraqi Jews who left for Israel, 1950-52",
+          "value": "≈120,000-130,000",
+          "attribution": "Historians (Moshe Gat and others)",
+          "note": "Out of a community estimated at about 135,000; several thousand remained in Iraq."
+        },
+        {
+          "label": "Jews who left Arab countries, 1948-1970s",
+          "value": "≈850,000",
+          "attribution": "Israeli government",
+          "note": "Cumulative figure for all Arab countries used in Israeli official statements; academic estimates range from roughly 800,000 to 1 million."
+        }
+      ]
+    },
+    {
+      "id": "1953-10-14-qibya-raid",
+      "date": "1953-10-14",
+      "endDate": "1953-10-15",
+      "lat": 31.9942,
+      "lng": 35.03,
+      "location": "Qibya, Jordanian-held West Bank",
+      "title": "Israeli Unit 101 raid on the West Bank village of Qibya",
+      "category": "attack",
+      "significance": 3,
+      "summary": "On the night of 14-15 October 1953 an Israeli force drawn from the newly formed Unit 101 and a paratroop battalion, commanded by Ariel Sharon, attacked the village of Qibya in the Jordanian-held West Bank. The raid followed the killing of a woman and her two children in the Israeli village of Yehud two days earlier by infiltrators believed to have come from across the armistice line. The Israeli troops blew up dozens of houses, a school and the mosque. UN truce observers who reached the village reported 42 demolished houses and put the dead at 66; Jordan and most later historians give a figure of 69, about two-thirds of them women and children. Israel initially attributed the attack to armed border settlers. On 24 November 1953 the Security Council, in Resolution 101, expressed its 'strongest censure' of the action and called on Israel to prevent recurrences.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Prime Minister David Ben-Gurion publicly denied army involvement at the time, describing the raid as the reaction of border villagers to years of infiltration and murder; Israeli officials later framed the 1950s 'reprisal operations' as the only means of forcing Jordan to police its side of the armistice line."
+        },
+        {
+          "party": "Jordan",
+          "framing": "Denounced the attack as a premeditated massacre by regular Israeli forces, brought the case to the Security Council through the Mixed Armistice Commission, and described the victims as civilians killed in their homes."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The Security Council found that the retaliatory action, in which Israeli armed forces took part, violated the Israel-Jordan armistice agreement and the Council's ceasefire order, while also calling on Jordan to prevent border crossings; the resolution refers to the 'Qibya incident'."
+        },
+        {
+          "party": "Historians",
+          "framing": "Treat Qibya as the event that shaped Israel's reprisal doctrine and Sharon's career; Israeli historian Benny Morris and others use the figure of 69 dead and note that international reaction, including a brief suspension of US aid, pushed Israel to redirect reprisals against military targets."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Security Council Resolution 101 (1953) on the Qibya incident - S/RES/101",
+          "url": "https://www.un.org/unispal/document/auto-insert-179237",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Foreign Relations of the United States, 1952-1954, The Near and Middle East, Volume IX, Part 1",
+          "url": "https://history.state.gov/historicaldocuments/frus1952-54v09p1",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Arab-Israeli wars | History, Conflict, Causes, Summary, & Facts",
+          "url": "https://www.britannica.com/event/Arab-Israeli-wars",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "armistice-suez",
+      "verified": false,
+      "casualties": [
+        {
+          "label": "Villagers killed at Qibya",
+          "value": "66",
+          "attribution": "UN Truce Supervision Organization observers",
+          "note": "Initial count reported to the Security Council; 42 houses, a school and a mosque destroyed."
+        },
+        {
+          "label": "Villagers killed at Qibya",
+          "value": "69",
+          "attribution": "Jordanian government and later historians",
+          "note": "About two-thirds women and children."
+        },
+        {
+          "label": "Israelis killed at Yehud, 12-13 October 1953",
+          "value": "3",
+          "attribution": "Israeli government",
+          "note": "A mother and two children; the killings prompted the raid."
+        }
+      ]
+    },
+    {
+      "id": "1955-02-28-gaza-raid-black-arrow",
+      "date": "1955-02-28",
+      "lat": 31.5017,
+      "lng": 34.4668,
+      "location": "Gaza City, Egyptian-administered Gaza Strip",
+      "title": "Israeli raid on Egyptian army positions in Gaza (Operation Black Arrow)",
+      "category": "attack",
+      "significance": 3,
+      "summary": "On the night of 28 February 1955 Israeli paratroopers commanded by Ariel Sharon attacked an Egyptian army camp near the Gaza railway station and a water-pumping installation, and ambushed a relief column. According to the Egyptian government and the UN Mixed Armistice Commission, 38 Egyptians were killed, most of them soldiers; the Israel Defense Forces reported eight of its own dead. Israel described the operation as a reprisal for infiltration from the Gaza Strip, including the killing of an Israeli civilian near Rehovot days earlier. On 29 March 1955 the Security Council, in Resolution 106, condemned the attack as a violation of the Egypt-Israel armistice. Egyptian President Gamal Abdel Nasser later cited the raid as the turning point that led him to organise fedayeen units in Gaza and to seek arms from the Soviet bloc, contributing to the escalation that ended in the 1956 war.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Presented the operation as a limited reprisal against a military target after repeated infiltrations and killings, and as a signal that Egypt would pay a price for tolerating raids from Gaza; Israeli accounts call it Operation Black Arrow."
+        },
+        {
+          "party": "Egypt",
+          "framing": "Denounced the attack as unprovoked aggression against a sovereign army in a period of relative calm, brought it to the Security Council, and Nasser later described it as the moment that convinced him Israel intended war and that Egypt needed arms and its own irregular forces."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The Security Council condemned the 'prearranged and planned attack ordered by Israel authorities' as a violation of the armistice ceasefire and called on Israel to take all necessary measures to prevent such actions."
+        },
+        {
+          "party": "Historians",
+          "framing": "Debate whether the raid caused or merely accelerated Nasser's turn to the Soviet bloc, noting that fedayeen operations were formalised only after it and that Israeli leaders divided over whether reprisals deterred or provoked Egypt."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Foreign Relations of the United States, 1955-1957, Arab-Israeli Dispute, 1955, Volume XIV",
+          "url": "https://history.state.gov/historicaldocuments/frus1955-57v14",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Gamal Abdel Nasser | Biography, Suez Crisis, & Facts",
+          "url": "https://www.britannica.com/biography/Gamal-Abdel-Nasser",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Part II (1947-1977) - Origins and Evolution of the Palestine Problem",
+          "url": "https://www.un.org/unispal/history2/origins-and-evolution-of-the-palestine-problem/part-ii-1947-1977/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "armistice-suez",
+      "verified": false,
+      "casualties": [
+        {
+          "label": "Egyptians killed",
+          "value": "38",
+          "attribution": "Egyptian government / UN Mixed Armistice Commission",
+          "note": "Mostly soldiers; some accounts give 36 soldiers and 2 civilians."
+        },
+        {
+          "label": "Israeli soldiers killed",
+          "value": "8",
+          "attribution": "Israel Defense Forces"
+        }
+      ]
+    },
+    {
+      "id": "1955-09-27-egyptian-czechoslovak-arms-deal",
+      "date": "1955-09-27",
+      "lat": 30.0444,
+      "lng": 31.2357,
+      "location": "Cairo, Egypt",
+      "title": "Nasser announces the Egyptian-Czechoslovak arms deal",
+      "category": "political",
+      "significance": 3,
+      "summary": "On 27 September 1955 President Gamal Abdel Nasser announced at a Cairo military exhibition that Egypt had concluded an agreement to buy arms from Czechoslovakia, the first large Soviet-bloc arms sale in the Middle East. The package, paid for largely in cotton, included MiG fighters, Ilyushin bombers, tanks, artillery and naval vessels, and was widely estimated to be worth well over 200 million dollars. Egypt had sought Western weapons after the February 1955 Gaza raid but was constrained by the 1950 Tripartite Declaration, under which Britain, France and the United States limited arms supplies to the region. The deal alarmed Israel, which turned to France for aircraft and tanks, and unsettled Washington and London, which nonetheless briefly pursued Nasser with an offer to finance the Aswan High Dam. The withdrawal of that offer in July 1956 preceded Nasser's nationalisation of the Suez Canal.",
+      "perspectives": [
+        {
+          "party": "Egypt",
+          "framing": "Framed the purchase as an exercise of sovereignty that broke the Western monopoly on arms supply, a necessary response to Israeli raids and to the Baghdad Pact, and a landmark of non-aligned policy; Nasser said Egypt would buy weapons from any source that imposed no conditions."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Described the deal as a strategic shift that threatened Israel's existence by giving Egypt qualitative superiority, and used it to justify a search for a European arms supplier and, among some leaders, arguments for a preventive war."
+        },
+        {
+          "party": "United States / United Kingdom",
+          "framing": "Viewed the agreement as a Soviet breakthrough in the Cold War and a blow to the Tripartite arms-control framework; the State Department historical account treats it as the opening of the sequence that led to the Suez Crisis."
+        }
+      ],
+      "sources": [
+        {
+          "title": "The Suez Crisis, 1956 - Milestones in the History of U.S. Foreign Relations",
+          "url": "https://history.state.gov/milestones/1953-1960/suez",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Foreign Relations of the United States, 1955-1957, Arab-Israeli Dispute, 1955, Volume XIV",
+          "url": "https://history.state.gov/historicaldocuments/frus1955-57v14",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Gamal Abdel Nasser | Biography, Suez Crisis, & Facts",
+          "url": "https://www.britannica.com/biography/Gamal-Abdel-Nasser",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "armistice-suez",
+      "verified": false
+    },
+    {
+      "id": "1956-10-29-suez-crisis-sinai-campaign",
+      "date": "1956-10-29",
+      "endDate": "1956-11-07",
+      "lat": 30.03,
+      "lng": 32.9,
+      "location": "Sinai Peninsula and Suez Canal, Egypt",
+      "title": "Suez Crisis: Israel invades Sinai, Britain and France intervene at the Canal",
+      "category": "war",
+      "significance": 5,
+      "summary": "After Egypt nationalised the Suez Canal Company on 26 July 1956, Britain, France and Israel secretly agreed at Sèvres on a joint operation. On 29 October Israeli forces under Moshe Dayan invaded Sinai, dropping paratroopers at the Mitla Pass; within a week they had taken the Gaza Strip, most of Sinai and Sharm el-Sheikh. Britain and France issued an ultimatum on 30 October, bombed Egyptian airfields from 31 October and landed at Port Said on 5-6 November. Under pressure from the United States, the Soviet Union and the UN General Assembly, which demanded a ceasefire on 2 November and created the UN Emergency Force on 5 November, fighting stopped on 7 November. Israel reported 172 of its soldiers killed; historians estimate Egyptian military dead at between 1,000 and 3,000, with several hundred civilians killed at Port Said; Britain and France reported 16 and 10 dead. Anglo-French forces left by 22 December.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Calls the war the Sinai Campaign or Operation Kadesh, presenting it as a preventive response to the Egyptian blockade of the Straits of Tiran, fedayeen raids from Gaza and the Soviet-bloc arms build-up; the campaign is remembered as a military success that secured a decade of relative quiet on the Egyptian front."
+        },
+        {
+          "party": "Egypt",
+          "framing": "Describes the 'Tripartite Aggression' as a colonial conspiracy to reverse the nationalisation of the canal and topple Nasser; the popular resistance at Port Said and the forced withdrawal of the invaders are commemorated as a national victory that consolidated Nasser's leadership of Arab nationalism."
+        },
+        {
+          "party": "United Kingdom / France",
+          "framing": "Justified intervention at the time as a police action to separate the combatants and safeguard the canal; the collusion with Israel, later documented, and the humiliating withdrawal under American financial pressure are treated in British accounts as the end of Britain's imperial role in the Middle East."
+        },
+        {
+          "party": "United States / United Nations",
+          "framing": "The Eisenhower administration opposed the use of force by its allies and backed General Assembly Resolution 997 demanding a ceasefire and withdrawal; the UN presents the crisis as the birth of armed peacekeeping through UNEF I."
+        }
+      ],
+      "sources": [
+        {
+          "title": "The Suez Crisis, 1956 - Milestones in the History of U.S. Foreign Relations",
+          "url": "https://history.state.gov/milestones/1953-1960/suez",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Suez Crisis | Summary, Location, Dates, Significance, & Facts",
+          "url": "https://www.britannica.com/event/Suez-Crisis",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "First United Nations Emergency Force (UNEF I) - Background",
+          "url": "https://peacekeeping.un.org/sites/default/files/past/unef1backgr2.html",
+          "publisher": "United Nations Peacekeeping",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Foreign Relations of the United States, 1955-1957, Suez Crisis, July 26-December 31, 1956, Volume XVI",
+          "url": "https://history.state.gov/historicaldocuments/frus1955-57v16",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "armistice-suez",
+      "verified": false,
+      "casualties": [
+        {
+          "label": "Israeli soldiers killed",
+          "value": "172",
+          "attribution": "Israel Defense Forces",
+          "note": "About 700 wounded."
+        },
+        {
+          "label": "Egyptian military dead",
+          "value": "≈1,000-3,000",
+          "attribution": "Historians' estimates",
+          "note": "Egypt did not publish a definitive count; some estimates include roughly 4,000 wounded and more than 6,000 captured."
+        },
+        {
+          "label": "Civilians killed at Port Said",
+          "value": "several hundred to about 1,000",
+          "attribution": "Historians' estimates",
+          "note": "Egyptian figures are higher than British estimates."
+        },
+        {
+          "label": "British and French dead",
+          "value": "16 British, 10 French",
+          "attribution": "British and French governments"
+        }
+      ]
+    },
+    {
+      "id": "1956-10-29-kafr-qasim-killings",
+      "date": "1956-10-29",
+      "lat": 32.1148,
+      "lng": 34.9756,
+      "location": "Kafr Qasim, Israel",
+      "title": "Israeli Border Police kill 48 Arab villagers at Kafr Qasim",
+      "category": "attack",
+      "significance": 3,
+      "summary": "On 29 October 1956, the first day of the Sinai campaign, the Israel Border Police imposed a wartime curfew from 5 p.m. on Arab villages along the Jordanian armistice line, giving village headmen about half an hour's notice. At Kafr Qasim, a unit under Lieutenant Gabriel Dahan, acting on orders from battalion commander Major Shmuel Malinki, shot residents returning from work who could not have known of the curfew. According to the Israeli military court, 43 villagers were killed at the village entrance and others elsewhere, a total of 48 dead, including women and 23 children; the community counts 49, including an unborn child. Eleven policemen were tried; in 1958 eight were convicted and Judge Benjamin Halevy ruled that a 'manifestly illegal' order, over which 'a black flag' flies, must be refused. Sentences were reduced and all were released by 1960. Israeli presidents expressed regret in 2007 and 2014 and apologised in 2021.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Long treated the killings as the crime of individual policemen rather than state policy, censored early reporting, and stressed the trial's 'black flag' doctrine as proof of the rule of law; President Isaac Herzog's 2021 apology at the village memorial used the word 'massacre'."
+        },
+        {
+          "party": "Palestinian citizens of Israel",
+          "framing": "Commemorate the Kafr Qasim massacre annually as the defining atrocity of the military government imposed on Arab citizens from 1948 to 1966, arguing that the light sentences and the promotion of some officers show impunity, and citing later testimony that the curfew was linked to a plan to push villagers across the border."
+        },
+        {
+          "party": "Historians",
+          "framing": "Examine the case as a landmark in the law of superior orders and debate whether the shootings were a local excess or connected to contingency plans (such as the 'Mole' plan) for expelling border villages during the war; the Israeli court records were declassified in 2022."
+        }
+      ],
+      "sources": [
+        {
+          "title": "President attends Kafr Qasim memorial, apologizes for 1956 massacre",
+          "url": "https://www.timesofisrael.com/president-attends-kafr-qasim-memorial-apologizes-for-1956-massacre/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Black Flag at a Crossroads: The Kafr Qasim Political Trial (1957-58)",
+          "url": "https://www.cambridge.org/core/journals/international-journal-of-middle-east-studies/article/abs/black-flag-at-a-crossroads-the-kafr-qasim-political-trial-195758/3F0EFAD7392FDB43EA63051FCF244127",
+          "publisher": "International Journal of Middle East Studies (Cambridge University Press)",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "armistice-suez",
+      "verified": false,
+      "casualties": [
+        {
+          "label": "Villagers killed",
+          "value": "48",
+          "attribution": "Israeli military court / Israeli government",
+          "note": "Including 6 women and 23 children and youths aged 8 to 17."
+        },
+        {
+          "label": "Villagers killed",
+          "value": "49",
+          "attribution": "Kafr Qasim community",
+          "note": "Counts the unborn child of a woman who was killed."
+        }
+      ]
+    },
+    {
+      "id": "1957-03-01-israel-withdraws-sinai-unef-deploys",
+      "date": "1957-03-01",
+      "endDate": "1957-03-08",
+      "lat": 27.9158,
+      "lng": 34.33,
+      "location": "Sharm el-Sheikh and Gaza Strip",
+      "title": "Israel withdraws from Sinai and Gaza; UNEF deploys along the armistice line",
+      "category": "ceasefire",
+      "significance": 4,
+      "summary": "British and French forces left Egypt in December 1956, but Israel held Gaza and the Sharm el-Sheikh area for four more months. On 2 February 1957 the General Assembly, in Resolutions 1124 and 1125, deplored Israel's non-compliance and called for complete withdrawal, and President Eisenhower publicly warned of UN sanctions. On 1 March Foreign Minister Golda Meir announced that Israel would withdraw on the basis of stated 'assumptions': that the Straits of Tiran would remain open to Israeli shipping and that UNEF would be stationed in Gaza. Israeli forces left Gaza on 6-7 March and Sharm el-Sheikh on 8 March, and the UN Emergency Force, some 6,000 troops from ten countries, took up positions along the Egypt-Israel armistice line and at the straits. Egypt reinstated its administration of Gaza within days, and the canal, cleared of blockships, reopened in April 1957.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Presented the withdrawal as reluctant compliance obtained through American assurances on free passage through the Straits of Tiran and on preventing fedayeen raids, and later cited the 1957 'assumptions' to argue that Egypt's 1967 closure of the straits was a casus belli."
+        },
+        {
+          "party": "Egypt",
+          "framing": "Regarded the withdrawal as the completion of Egypt's political victory over the 'Tripartite Aggression', insisted that UNEF was present only with Egyptian consent and on Egyptian territory, and rejected any implication that Israel had acquired rights in Gaza or the Gulf of Aqaba."
+        },
+        {
+          "party": "United Nations",
+          "framing": "Treats UNEF I, proposed by Lester Pearson and organised by Dag Hammarskjold, as the first armed UN peacekeeping force, whose mandate was to secure and supervise the cessation of hostilities and withdrawal, and then to act as a buffer between Egyptian and Israeli forces."
+        },
+        {
+          "party": "United States",
+          "framing": "The Eisenhower administration combined public pressure for unconditional withdrawal with private assurances about navigation rights; the State Department's historical account presents the outcome as evidence of American leverage over its allies and of the shift of Western influence in the region to Washington."
+        }
+      ],
+      "sources": [
+        {
+          "title": "First United Nations Emergency Force (UNEF I) - Background",
+          "url": "https://peacekeeping.un.org/sites/default/files/past/unef1backgr2.html",
+          "publisher": "United Nations Peacekeeping",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "The Suez Crisis, 1956 - Milestones in the History of U.S. Foreign Relations",
+          "url": "https://history.state.gov/milestones/1953-1960/suez",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Foreign Relations of the United States, 1955-1957, Arab-Israeli Dispute, 1957, Volume XVII",
+          "url": "https://history.state.gov/historicaldocuments/frus1955-57v17",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Suez Crisis | Summary, Location, Dates, Significance, & Facts",
+          "url": "https://www.britannica.com/event/Suez-Crisis",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "armistice-suez",
+      "verified": false
+    },
+    {
+      "id": "1964-05-28-plo-founded-jerusalem",
+      "date": "1964-05-28",
+      "endDate": "1964-06-02",
+      "lat": 31.7768,
+      "lng": 35.245,
+      "location": "Mount of Olives, East Jerusalem (then under Jordanian rule)",
+      "title": "First Palestinian National Council founds the Palestine Liberation Organization",
+      "category": "political",
+      "significance": 5,
+      "summary": "Following a decision of the first Arab League summit in Cairo in January 1964 to create a Palestinian 'entity', Ahmad Shuqayri convened the first Palestinian National Council at the Intercontinental Hotel on the Mount of Olives in Jordanian-ruled East Jerusalem from 28 May to 2 June 1964. Some 400 delegates from Palestinian communities across the Arab world adopted the Palestinian National Charter and a basic constitution and, on 2 June, proclaimed the Palestine Liberation Organization with Shuqayri as chairman. The charter defined Palestine within its Mandate borders as the homeland of the Palestinian Arab people, called for its liberation, and rejected the Balfour Declaration and the partition of Palestine, while Article 24 disclaimed sovereignty over the West Bank and Gaza to reassure Jordan and Egypt. The Alexandria summit of September 1964 endorsed the organisation and a Palestine Liberation Army.",
+      "perspectives": [
+        {
+          "party": "PLO / Palestinian leadership",
+          "framing": "Marks the founding as the re-emergence of the Palestinian people as a political actor after sixteen years of dispersal, the first representative national institution since 1948, and the beginning of the organised struggle for liberation and return; Fatah, founded separately, initially viewed the PLO as an Arab-state creation."
+        },
+        {
+          "party": "Egypt / Arab League",
+          "framing": "Nasser sponsored the organisation as the collective Arab answer to Israel's diversion of the Jordan River, giving Palestinians a voice under Arab League tutelage while keeping the initiative for war or peace in the hands of the states."
+        },
+        {
+          "party": "Jordan",
+          "framing": "King Hussein permitted the congress in Jerusalem but insisted on the charter's disclaimer of any claim to the West Bank, viewing the PLO as a potential rival for the loyalty of Jordan's Palestinian majority; relations soured within two years."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Regarded the PLO as an instrument of the Arab states committed by its charter to the destruction of Israel, and refused any dealings with it; Israeli material emphasises that the charter was adopted in 1964, before Israel controlled the West Bank or Gaza."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Palestine Liberation Organization | History, Leaders, & Facts",
+          "url": "https://www.britannica.com/topic/Palestine-Liberation-Organization",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "11 National Covenant of the Palestine Liberation Organization - 28 May 1964",
+          "url": "https://www.gov.il/en/pages/11-national-covenant-of-the-palestine-liberation-organization-28-may-1964",
+          "publisher": "Israel Ministry of Foreign Affairs",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Part II (1947-1977) - Origins and Evolution of the Palestine Problem",
+          "url": "https://www.un.org/unispal/history2/origins-and-evolution-of-the-palestine-problem/part-ii-1947-1977/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Foreign Relations of the United States, 1964-1968, Arab-Israeli Dispute, 1964-67, Volume XVIII",
+          "url": "https://history.state.gov/historicaldocuments/frus1964-68v18",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "armistice-suez",
+      "verified": false
+    },
+    {
+      "id": "1965-01-01-fatah-first-attack-water-carrier",
+      "date": "1965-01-01",
+      "lat": 32.8355,
+      "lng": 35.4,
+      "location": "Eilabun, Lower Galilee, Israel (National Water Carrier)",
+      "title": "Fatah's first armed operation targets Israel's National Water Carrier",
+      "category": "attack",
+      "significance": 3,
+      "summary": "On the night of 31 December 1964 to 1 January 1965 a small squad from Fatah, the Palestinian movement founded in Kuwait by Yasser Arafat, Khalil al-Wazir and Salah Khalaf, attempted to sabotage Israel's National Water Carrier near Eilabun in the Galilee; the explosive charge was discovered and the group withdrew, and one member, Ahmad Musa, was killed by Jordanian troops on the way back. The operation, claimed under the name al-Asifa, caused no Israeli casualties but is marked by Fatah as the launch of the Palestinian armed struggle. It was aimed at the centrepiece of a regional water dispute: Israel had completed the carrier in June 1964 to pump Jordan River water from Lake Tiberias to the Negev, and the January 1964 Arab summit had adopted a plan to divert the river's headwaters in Syria and Lebanon, which Israel attacked in 1965-66.",
+      "perspectives": [
+        {
+          "party": "Fatah / PLO",
+          "framing": "Celebrates 1 January 1965 as the 'launch of the revolution' (intilaqa), the moment Palestinians took their cause into their own hands rather than waiting for Arab armies; Fatah describes its fighters as fedayeen and the raids as resistance operations."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Treated the sabotage attempts of 1965-66 as terrorist infiltration sponsored from Syria and passing through Jordan and Lebanon, and answered them with reprisals against those states; Israel defended the carrier as a lawful use of its share of the Jordan waters under the unratified 1955 Johnston Plan."
+        },
+        {
+          "party": "Jordan / Syria",
+          "framing": "Jordan tried to suppress Fatah infiltration for fear of Israeli retaliation, while Syria's Ba'athist government sheltered and encouraged the movement while pursuing the Arab League headwater-diversion project."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Fatah | Palestinian political organization",
+          "url": "https://www.britannica.com/topic/Fatah",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Jordan River | Middle East, Map, & Facts",
+          "url": "https://www.britannica.com/place/Jordan-River",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Foreign Relations of the United States, 1964-1968, Arab-Israeli Dispute, 1964-67, Volume XVIII",
+          "url": "https://history.state.gov/historicaldocuments/frus1964-68v18",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "armistice-suez",
+      "verified": false,
+      "casualties": [
+        {
+          "label": "Fatah members killed",
+          "value": "1",
+          "attribution": "Fatah accounts",
+          "note": "Ahmad Musa, shot by Jordanian soldiers while returning across the armistice line."
+        },
+        {
+          "label": "Israelis killed",
+          "value": "0",
+          "attribution": "Israeli government"
+        }
+      ]
+    },
+    {
+      "id": "1966-11-13-samu-raid",
+      "date": "1966-11-13",
+      "lat": 31.4,
+      "lng": 35.0644,
+      "location": "As-Samu, near Hebron, Jordanian-held West Bank",
+      "title": "Israeli army raid on the West Bank village of Samu",
+      "category": "attack",
+      "significance": 3,
+      "summary": "On 13 November 1966 Israel launched its largest military operation since 1956, sending an armoured and infantry force with air support into the village of as-Samu, south of Hebron in the Jordanian-held West Bank. Israel said the raid answered a mine explosion two days earlier that had killed three soldiers near the border, attributed to Fatah infiltrators from Jordan. UN observers reported that about 125 houses, a clinic and a school were demolished. Jordanian army units rushing to the village were engaged, and a Jordanian Hunter jet was shot down. According to the Jordanian government, 15 soldiers and 3 civilians were killed and 54 people wounded; Israel reported one officer, the paratroop battalion commander, killed and ten wounded. On 25 November the Security Council, in Resolution 228, censured Israel. The raid set off riots against King Hussein in the West Bank and pushed him toward alignment with Egypt.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Presented Operation Shredder as a reprisal against a village used as a base for Fatah infiltration and as a warning to Jordan to curb attacks from its territory; Israeli leaders later acknowledged that the operation was larger than intended and damaging to the moderate King Hussein."
+        },
+        {
+          "party": "Jordan",
+          "framing": "Denounced the raid as unprovoked aggression against a state that was actively fighting infiltration, and faced accusations from Palestinians and from Cairo and Damascus that its army had failed to defend the West Bank, prompting martial law and a rupture with the PLO."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The Security Council censured Israel for a 'large-scale military action in violation of the United Nations Charter and of the General Armistice Agreement', found it disproportionate to the mine incident, and warned that further such actions would lead to consideration of further steps."
+        },
+        {
+          "party": "Historians",
+          "framing": "Widely regard Samu as a milestone on the road to the 1967 war, as it undermined Hussein at home, exposed the absence of an Arab defence pact and contributed to the escalation between Israel and Syria."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Security Council Resolution 228 (1966) - S/RES/228(1966)",
+          "url": "https://undocs.org/S/RES/228(1966)",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Foreign Relations of the United States, 1964-1968, Arab-Israeli Dispute, 1964-67, Volume XVIII",
+          "url": "https://history.state.gov/historicaldocuments/frus1964-68v18",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Part II (1947-1977) - Origins and Evolution of the Palestine Problem",
+          "url": "https://www.un.org/unispal/history2/origins-and-evolution-of-the-palestine-problem/part-ii-1947-1977/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "armistice-suez",
+      "verified": false,
+      "casualties": [
+        {
+          "label": "Jordanians killed",
+          "value": "18 (15 soldiers, 3 civilians)",
+          "attribution": "Jordanian government",
+          "note": "Some accounts give 21 dead; 54 wounded."
+        },
+        {
+          "label": "Israeli soldiers killed",
+          "value": "1",
+          "attribution": "Israel Defense Forces",
+          "note": "Ten wounded."
+        },
+        {
+          "label": "Israeli soldiers killed by mine, 11-12 November 1966",
+          "value": "3",
+          "attribution": "Israel Defense Forces",
+          "note": "The incident cited as the reason for the raid."
+        }
+      ]
+    },
+    {
+      "id": "1967-05-22-tiran-closure-unef-withdrawal",
+      "date": "1967-05-22",
+      "lat": 27.98,
+      "lng": 34.47,
+      "location": "Straits of Tiran, Sharm el-Sheikh, Egypt",
+      "title": "Egypt expels UNEF and closes the Straits of Tiran to Israeli shipping",
+      "category": "political",
+      "significance": 5,
+      "summary": "In mid-May 1967, after Soviet reports, later shown to be false, of Israeli troop concentrations against Syria, Egypt moved large forces into Sinai. On 16 May Egypt asked the UN Emergency Force to leave its border posts, and on 18 May Secretary-General U Thant, holding that the force could not remain without Egyptian consent, ordered its withdrawal; UNEF then numbered about 3,400 troops. On the evening of 22 May President Nasser announced from a Sinai airbase that the Straits of Tiran would be closed to Israeli ships and to strategic cargo bound for Eilat. Israel had declared since 1957 that such a blockade would be treated as an act of war. U Thant flew to Cairo on 23 May without result, and the United States sought unsuccessfully to organise a maritime declaration. On 30 May Jordan joined Egypt in a defence pact, and on 5 June Israel launched the air strikes that opened the Six-Day War.",
+      "perspectives": [
+        {
+          "party": "Egypt",
+          "framing": "Nasser framed the deployment and the closure as the exercise of sovereign rights over Egyptian territory and territorial waters, the end of an arrangement imposed after the 1956 aggression, and a deterrent against an Israeli attack on Syria; Egyptian statements stressed that Egypt would not fire first."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Described the blockade as an act of war and the removal of UNEF as the collapse of the guarantees on which Israel had withdrawn in 1957; the government of Levi Eshkol and, from 1 June, a national unity cabinet with Moshe Dayan as defence minister presented the June attack as pre-emptive self-defence against encirclement."
+        },
+        {
+          "party": "United Nations",
+          "framing": "U Thant argued that UNEF had been stationed with Egypt's consent and that the Secretary-General had no legal basis to keep it in place once consent was withdrawn, a decision criticised at the time and since; fifteen UNEF soldiers were killed during the fighting that followed."
+        },
+        {
+          "party": "United States",
+          "framing": "The Johnson administration urged Israel not to strike first while it explored an international naval effort to open the straits, telling Israel it would 'not be alone unless it decides to go alone'; US intelligence assessed that Egypt was not preparing an offensive."
+        }
+      ],
+      "sources": [
+        {
+          "title": "The 1967 Arab-Israeli War - Milestones in the History of U.S. Foreign Relations",
+          "url": "https://history.state.gov/milestones/1961-1968/arab-israeli-war-1967",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "First United Nations Emergency Force (UNEF I) - Background",
+          "url": "https://peacekeeping.un.org/sites/default/files/past/unef1backgr2.html",
+          "publisher": "United Nations Peacekeeping",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Six-Day War | Definition, Causes, History, Summary, Outcomes, & Facts",
+          "url": "https://www.britannica.com/event/Six-Day-War",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Foreign Relations of the United States, 1964-1968, Volume XIX, Arab-Israeli Crisis and War, 1967, Document 73",
+          "url": "https://history.state.gov/historicaldocuments/frus1964-68v19/d73",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "armistice-suez",
+      "verified": false
+    },
+    {
+      "id": "1967-05-30-egypt-jordan-defence-pact",
+      "date": "1967-05-30",
+      "lat": 30.0444,
+      "lng": 31.2357,
+      "location": "Cairo, Egypt",
+      "title": "King Hussein signs a mutual defence pact with Egypt in Cairo",
+      "category": "treaty",
+      "significance": 2,
+      "summary": "On 30 May 1967 King Hussein of Jordan flew to Cairo and signed a five-year mutual defence treaty with President Nasser, ending months of bitter propaganda exchanges between the two governments. The pact placed Jordanian forces under the Egyptian chief of staff, General Abdul Munim Riad, in the event of war, and provided for Egyptian and Iraqi troops to enter Jordan; Iraq acceded to the agreement on 4 June. Hussein returned to Amman accompanied by PLO chairman Ahmad Shuqayri, with whom he had been at odds since the Samu raid. Israeli leaders read the agreement as closing a ring around the country and as a sign that Jordan, whose border ran within kilometres of Israel's main cities, would join any war. When fighting began on 5 June, Jordanian artillery and aircraft attacked Israeli targets despite Israeli messages urging Jordan to stay out.",
+      "perspectives": [
+        {
+          "party": "Jordan",
+          "framing": "Hussein later explained the pact as an unavoidable response to Arab public opinion and the risk that Jordan would be left isolated or destabilised if it stood aside, and as a means of avoiding the charge of treason that had followed Samu."
+        },
+        {
+          "party": "Egypt",
+          "framing": "Presented the treaty as the completion of a united Arab front that would deter Israel and as proof of Nasser's leadership, with Cairo describing Hussein's arrival as a reconciliation in the face of the enemy."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Cited the pact, alongside the Tiran blockade and the mobilisation in Sinai, as evidence of a coordinated threat on three fronts that justified pre-emptive action; Prime Minister Eshkol broadened his cabinet the next day."
+        },
+        {
+          "party": "Historians",
+          "framing": "Regard the agreement as the step that brought the West Bank and East Jerusalem into the war, noting that Hussein subordinated his army to an Egyptian command that fed him false reports of victory on 5 June."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Six-Day War | Definition, Causes, History, Summary, Outcomes, & Facts",
+          "url": "https://www.britannica.com/event/Six-Day-War",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "The 1967 Arab-Israeli War - Milestones in the History of U.S. Foreign Relations",
+          "url": "https://history.state.gov/milestones/1961-1968/arab-israeli-war-1967",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "armistice-suez",
+      "verified": false
+    }
+  ],
+  "boundaryChanges": [
+    {
+      "date": "1950-04-24",
+      "description": "Jordan formally unites the West Bank, including East Jerusalem, with the Hashemite Kingdom; the territory west of the 1949 armistice line with Israel is administered as part of Jordan until June 1967 (recognised by Britain, excluding East Jerusalem; treated by the Arab League as held in trust).",
+      "sources": [
+        "https://www.britannica.com/place/West-Bank",
+        "https://www.un.org/unispal/history2/origins-and-evolution-of-the-palestine-problem/part-ii-1947-1977/"
+      ]
+    },
+    {
+      "date": "1956-11-05",
+      "description": "Israeli forces complete the occupation of the Gaza Strip and the Sinai Peninsula, including Sharm el-Sheikh, during the Sinai campaign that began on 29 October 1956; Anglo-French forces land at Port Said and hold the northern Canal Zone from 5-6 November.",
+      "sources": [
+        "https://history.state.gov/milestones/1953-1960/suez",
+        "https://www.britannica.com/event/Suez-Crisis"
+      ]
+    },
+    {
+      "date": "1956-12-22",
+      "description": "British and French forces complete their withdrawal from Port Said and the Canal Zone under UN supervision; UNEF I takes over their positions before the area returns to Egyptian control.",
+      "sources": [
+        "https://peacekeeping.un.org/sites/default/files/past/unef1backgr2.html",
+        "https://history.state.gov/milestones/1953-1960/suez"
+      ]
+    },
+    {
+      "date": "1957-03-08",
+      "description": "Israel withdraws from the Gaza Strip (6-7 March) and Sharm el-Sheikh (8 March); UNEF I deploys on the Egyptian side of the Egypt-Israel armistice line, in the Gaza Strip and at Sharm el-Sheikh, and Egypt resumes administration of Gaza in mid-March 1957.",
+      "sources": [
+        "https://peacekeeping.un.org/sites/default/files/past/unef1backgr2.html",
+        "https://www.britannica.com/event/Suez-Crisis"
+      ]
+    },
+    {
+      "date": "1967-05-19",
+      "description": "UNEF I begins withdrawing at Egypt's request (ordered 18 May); Egyptian forces reoccupy the Sinai border posts, the Gaza Strip line and Sharm el-Sheikh, and the UN buffer along the 1949 armistice line ceases to exist before the war of 5 June 1967.",
+      "sources": [
+        "https://peacekeeping.un.org/sites/default/files/past/unef1backgr2.html",
+        "https://history.state.gov/milestones/1961-1968/arab-israeli-war-1967"
+      ]
+    }
+  ],
+  "excluded": [
+    {
+      "title": "Tripartite Declaration by the United States, United Kingdom and France",
+      "date": "1950-05-25",
+      "reason": "A Western arms-control and border-guarantee statement rather than an event between the parties; referenced in the perspectives of the 1955 arms-deal event."
+    },
+    {
+      "title": "Assassination of King Abdullah I at al-Aqsa Mosque",
+      "date": "1951-07-20",
+      "reason": "Primarily a Jordanian dynastic event; mentioned in the West Bank annexation summary."
+    },
+    {
+      "title": "Lavon Affair / Operation Susannah in Egypt",
+      "date": "1954-07",
+      "reason": "A covert-action scandal whose main consequences were in Israeli domestic politics; omitted to keep the unit within the 12-15 event target."
+    },
+    {
+      "title": "Baghdad Pact",
+      "date": "1955-02-24",
+      "reason": "A Cold War alliance that intersects the conflict only indirectly through Egyptian-Iraqi rivalry; noted in the arms-deal perspectives."
+    },
+    {
+      "title": "Nationalisation of the Suez Canal Company",
+      "date": "1956-07-26",
+      "reason": "Folded into the Suez Crisis event as its immediate cause."
+    },
+    {
+      "title": "Killings at Khan Yunis and Rafah during the Israeli occupation of Gaza",
+      "date": "1956-11-03 to 1956-11-12",
+      "reason": "UNRWA's director reported 275 dead at Khan Yunis and 111 at Rafah, figures Israel disputed as deaths in combat with resistance; no source page could be opened this session to confirm the figures, so the episode is flagged here rather than entered as an event."
+    },
+    {
+      "title": "Completion of Israel's National Water Carrier and the Arab League headwater-diversion plan",
+      "date": "1964-06",
+      "reason": "Folded into the Fatah first-attack event as the context of the Jordan River water dispute."
+    },
+    {
+      "title": "End of the Israeli military government over Arab citizens of Israel",
+      "date": "1966-12-01",
+      "reason": "A domestic administrative change; mentioned in the Kafr Qasim perspectives."
+    },
+    {
+      "title": "Israel-Syria air battle over the Golan (six Syrian MiGs shot down)",
+      "date": "1967-04-07",
+      "reason": "Significant prelude to the June war but omitted to stay within the event target; the Syrian front is covered in the Tiran-closure summary."
+    },
+    {
+      "title": "Operation Magic Carpet (airlift of Yemeni Jews)",
+      "date": "1949-06 to 1950-09",
+      "reason": "Begins before the unit's start date; the wider departure of Jews from Arab countries is covered by the Iraq event."
+    }
+  ],
+  "uncertainties": [
+    "Research-environment limitation (critical): in this session the WebSearch budget was already exhausted (200/200) before work began, and every publisher host tried (un.org, unrwa.org, peacekeeping.un.org, digitallibrary.un.org, britannica.com, history.state.gov, knesset.gov.il, gov.il, avalon.law.yale.edu, palquest.org, palestine-studies.org, timesofisrael.com, aljazeera.com, jewishvirtuallibrary.org, ecf.org.il, icrc.org, hrw.org, nationalarchives.gov.uk, bbc.co.uk, theguardian.com, web.archive.org) was blocked for both WebFetch and curl by the organisation's egress proxy (CONNECT 403). No source page could be opened. Source URLs were therefore taken from (a) sibling research files in this repository whose URLs came from live search listings earlier in the session, (b) exact URL strings found verbatim in public citation corpora via GitHub code search (e.g. undocs.org/S/RES/228(1966), un.org/unispal/document/auto-insert-179237, unrwa.org/content/resolution-302, the Times of Israel and Cambridge IJMES Kafr Qasim pages, the gov.il PLO covenant page, the FRUS volume pages), or (c) canonical institutional patterns (Britannica article slugs, FRUS volume landing pages). Because the 'verified' flag requires facts confirmed in at least two sources actually read, every event is marked verified: false; facts are drawn from the researcher's knowledge of the standard literature. A link check (npm run validate -- --links) and a fact re-check from an unrestricted network are required before flipping any event to verified: true.",
+    "Qibya death toll: the initial UNTSO observer report is usually cited as 66 dead and 42 houses destroyed, while Jordan and most historians (e.g. Benny Morris) give 69; both are recorded. The attribution of the 66 figure to UNTSO should be re-confirmed against the Security Council record (S/PV.630 and Resolution 101).",
+    "Kafr Qasim: Israeli court and official figures give 48 dead; the community counts 49 including an unborn child. The breakdown of 6 women and 23 children is drawn from commemorative and press accounts and should be checked against the trial record.",
+    "Suez Crisis casualties: Egyptian military dead are given by different historians as anywhere from about 1,000 to 3,000, and Port Said civilian deaths from several hundred to about 1,000; no official Egyptian total exists. Israeli (172), British (16) and French (10) figures are official.",
+    "Iraqi Jewish exodus: totals for 1950-52 range from about 120,000 to 130,000 depending on whether departures before the airlift and overland are included; the Israeli government figure of about 850,000 Jews leaving all Arab countries covers 1948 to the 1970s and is contested by some scholars, who give 800,000-1,000,000. The event is dated from the 9 March 1950 denaturalisation law; the airlift itself ran from May 1950 to early 1952.",
+    "Samu raid casualties: Jordanian official figures (15 soldiers and 3 civilians killed, 54 wounded) are used; some accounts give 21 dead. The figure of about 125 houses demolished comes from UN observers; Jordan reported more.",
+    "PLO founding: the number of delegates at the first Palestinian National Council is given variously as 397 and 422; the file says 'some 400'. The charter was adopted on 28 May and the PLO proclaimed on 2 June 1964, hence the date range.",
+    "Israeli withdrawal 1957: the withdrawal was announced on 1 March, Gaza was evacuated on 6-7 March and Sharm el-Sheikh on 8 March; some sources date the completion of withdrawal to 12 or 16 March when the last Israeli units left the Sharm area. The event uses 1 to 8 March.",
+    "Straits of Tiran: Nasser's announcement was made on the evening of 22 May 1967 and reported on 23 May; some sources date the closure to 23 May. UNEF strength at the time (about 3,400) and the 15 UNEF fatalities in June 1967 are from UN accounts and should be re-checked on the UNEF background page.",
+    "The Egyptian-Czechoslovak arms deal's contents and value (often cited as roughly 250 million dollars, with 80-120 MiG-15s, about 45 Il-28 bombers and some 230 tanks) vary widely across sources; the summary avoids precise figures for that reason.",
+    "Britannica page slugs for 'Iraq' (place) and 'Jordan River' are canonical but the specific content used from them (the 1950-51 emigration and the 1964 water dispute) was not read this session; substitute a more specific source if the pages prove too general."
+  ]
+}
