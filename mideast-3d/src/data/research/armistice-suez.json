@@ -68,6 +68,68 @@
       ]
     },
     {
+      "id": "1950-03-09-iraqi-jewish-exodus-airlift",
+      "date": "1950-03-09",
+      "endDate": "1951-12-31",
+      "lat": 33.3152,
+      "lng": 44.3661,
+      "location": "Baghdad, Iraq",
+      "title": "Departure of Iraq's Jews: denaturalisation law and the 1950-51 airlift to Israel",
+      "category": "displacement",
+      "significance": 4,
+      "summary": "On 9 March 1950 Iraq's parliament passed a law allowing Jews to emigrate on condition that they renounced Iraqi nationality, with registration open for one year. After bombings in Baghdad's Jewish quarter in 1950-51, registration surged, and in March 1951 a further law froze the assets of those who had registered. Between May 1950 and early 1952 an airlift organised by Israel with the American Jewish Joint Distribution Committee, known as Operation Ezra and Nehemiah, flew Iraqi Jews to Israel, at first via Cyprus and later directly. Historians such as Moshe Gat put the number at roughly 120,000 to 130,000 out of a community of about 135,000, most of whom arrived destitute and were housed in transit camps. The Iraqi departure was the largest single episode in the wider movement of Jews from Arab countries, which the Israeli government estimates at some 850,000 people between 1948 and the 1970s.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Describes the Iraqi Jews as refugees expelled through discriminatory legislation, asset confiscation and violence, and since 2014 marks 30 November as the day of the 'departure and expulsion of Jews from Arab countries and Iran'; Israel argues that their losses must be weighed alongside Palestinian refugee claims in any settlement."
+        },
+        {
+          "party": "Iraqi and Arab governments",
+          "framing": "Presented the 1950 law as a voluntary emigration option prompted by Zionist agitation, treated the departure of citizens who chose Israel as a matter of loyalty, and framed the 1951 asset freeze as a response to Israel's treatment of Palestinian property; Arab spokesmen rejected any equivalence with the Palestinian refugees."
+        },
+        {
+          "party": "Historians",
+          "framing": "Debate the balance between 'push' factors (the 1941 Farhud pogrom, post-1948 dismissals, arrests and hangings, the 1950-51 bombings) and 'pull' factors (Zionist emissaries and Israeli policy), and remain divided over allegations that Israeli agents were involved in the Baghdad bombings, a charge Israel denies."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Foreign Relations of the United States, 1950, The Near East, South Asia, and Africa, Volume V",
+          "url": "https://history.state.gov/historicaldocuments/frus1950v05",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Iraq | History, Map, Population, & Facts",
+          "url": "https://www.britannica.com/place/Iraq",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "JIMENA - Jews Indigenous to the Middle East and North Africa",
+          "url": "https://www.jimena.org/",
+          "publisher": "JIMENA",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "armistice-suez",
+      "verified": false,
+      "casualties": [
+        {
+          "label": "Iraqi Jews who left for Israel, 1950-52",
+          "value": "≈120,000-130,000",
+          "attribution": "Historians (Moshe Gat and others)",
+          "note": "Out of a community estimated at about 135,000; several thousand remained in Iraq."
+        },
+        {
+          "label": "Jews who left Arab countries, 1948-1970s",
+          "value": "≈850,000",
+          "attribution": "Israeli government",
+          "note": "Cumulative figure for all Arab countries used in Israeli official statements; academic estimates range from roughly 800,000 to 1 million."
+        }
+      ]
+    },
+    {
       "id": "1950-04-24-jordan-annexes-west-bank",
       "date": "1950-04-24",
       "lat": 31.9539,
@@ -164,68 +226,6 @@
       ],
       "era": "armistice-suez",
       "verified": false
-    },
-    {
-      "id": "1950-03-09-iraqi-jewish-exodus-airlift",
-      "date": "1950-03-09",
-      "endDate": "1951-12-31",
-      "lat": 33.3152,
-      "lng": 44.3661,
-      "location": "Baghdad, Iraq",
-      "title": "Departure of Iraq's Jews: denaturalisation law and the 1950-51 airlift to Israel",
-      "category": "displacement",
-      "significance": 4,
-      "summary": "On 9 March 1950 Iraq's parliament passed a law allowing Jews to emigrate on condition that they renounced Iraqi nationality, with registration open for one year. After bombings in Baghdad's Jewish quarter in 1950-51, registration surged, and in March 1951 a further law froze the assets of those who had registered. Between May 1950 and early 1952 an airlift organised by Israel with the American Jewish Joint Distribution Committee, known as Operation Ezra and Nehemiah, flew Iraqi Jews to Israel, at first via Cyprus and later directly. Historians such as Moshe Gat put the number at roughly 120,000 to 130,000 out of a community of about 135,000, most of whom arrived destitute and were housed in transit camps. The Iraqi departure was the largest single episode in the wider movement of Jews from Arab countries, which the Israeli government estimates at some 850,000 people between 1948 and the 1970s.",
-      "perspectives": [
-        {
-          "party": "Israeli government",
-          "framing": "Describes the Iraqi Jews as refugees expelled through discriminatory legislation, asset confiscation and violence, and since 2014 marks 30 November as the day of the 'departure and expulsion of Jews from Arab countries and Iran'; Israel argues that their losses must be weighed alongside Palestinian refugee claims in any settlement."
-        },
-        {
-          "party": "Iraqi and Arab governments",
-          "framing": "Presented the 1950 law as a voluntary emigration option prompted by Zionist agitation, treated the departure of citizens who chose Israel as a matter of loyalty, and framed the 1951 asset freeze as a response to Israel's treatment of Palestinian property; Arab spokesmen rejected any equivalence with the Palestinian refugees."
-        },
-        {
-          "party": "Historians",
-          "framing": "Debate the balance between 'push' factors (the 1941 Farhud pogrom, post-1948 dismissals, arrests and hangings, the 1950-51 bombings) and 'pull' factors (Zionist emissaries and Israeli policy), and remain divided over allegations that Israeli agents were involved in the Baghdad bombings, a charge Israel denies."
-        }
-      ],
-      "sources": [
-        {
-          "title": "Foreign Relations of the United States, 1950, The Near East, South Asia, and Africa, Volume V",
-          "url": "https://history.state.gov/historicaldocuments/frus1950v05",
-          "publisher": "US Office of the Historian",
-          "accessedDate": "2026-09-09"
-        },
-        {
-          "title": "Iraq | History, Map, Population, & Facts",
-          "url": "https://www.britannica.com/place/Iraq",
-          "publisher": "Encyclopaedia Britannica",
-          "accessedDate": "2026-09-09"
-        },
-        {
-          "title": "JIMENA - Jews Indigenous to the Middle East and North Africa",
-          "url": "https://www.jimena.org/",
-          "publisher": "JIMENA",
-          "accessedDate": "2026-09-09"
-        }
-      ],
-      "era": "armistice-suez",
-      "verified": false,
-      "casualties": [
-        {
-          "label": "Iraqi Jews who left for Israel, 1950-52",
-          "value": "≈120,000-130,000",
-          "attribution": "Historians (Moshe Gat and others)",
-          "note": "Out of a community estimated at about 135,000; several thousand remained in Iraq."
-        },
-        {
-          "label": "Jews who left Arab countries, 1948-1970s",
-          "value": "≈850,000",
-          "attribution": "Israeli government",
-          "note": "Cumulative figure for all Arab countries used in Israeli official statements; academic estimates range from roughly 800,000 to 1 million."
-        }
-      ]
     },
     {
       "id": "1953-10-14-qibya-raid",
@@ -411,6 +411,61 @@
       "verified": false
     },
     {
+      "id": "1956-10-29-kafr-qasim-killings",
+      "date": "1956-10-29",
+      "lat": 32.1148,
+      "lng": 34.9756,
+      "location": "Kafr Qasim, Israel",
+      "title": "Israeli Border Police kill 48 Arab villagers at Kafr Qasim",
+      "category": "attack",
+      "significance": 3,
+      "summary": "On 29 October 1956, the first day of the Sinai campaign, the Israel Border Police imposed a wartime curfew from 5 p.m. on Arab villages along the Jordanian armistice line, giving village headmen about half an hour's notice. At Kafr Qasim, a unit under Lieutenant Gabriel Dahan shot residents returning from work who could not have known of the curfew. According to the Israeli military court, 43 villagers were killed at the village entrance and others elsewhere, a total of 48 dead, including women and 23 children; the community counts 49, including an unborn child. Eleven policemen were tried; in 1958 eight were convicted and Judge Benjamin Halevy ruled that a 'manifestly illegal' order, over which 'a black flag' flies, must be refused. Sentences were reduced and all were released by 1960. Israeli presidents expressed regret in 2007 and 2014 and apologised in 2021.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Long treated the killings as the crime of individual policemen rather than state policy, censored early reporting, and stressed the trial's 'black flag' doctrine as proof of the rule of law; President Isaac Herzog's 2021 apology at the village memorial used the word 'massacre'."
+        },
+        {
+          "party": "Palestinian citizens of Israel",
+          "framing": "Commemorate the Kafr Qasim massacre annually as the defining atrocity of the military government imposed on Arab citizens from 1948 to 1966, arguing that the light sentences and the promotion of some officers show impunity, and citing later testimony that the curfew was linked to a plan to push villagers across the border."
+        },
+        {
+          "party": "Historians",
+          "framing": "Examine the case as a landmark in the law of superior orders and debate whether the shootings were a local excess or connected to contingency plans (such as the 'Mole' plan) for expelling border villages during the war; the Israeli court records were declassified in 2022."
+        }
+      ],
+      "sources": [
+        {
+          "title": "President attends Kafr Qasim memorial, apologizes for 1956 massacre",
+          "url": "https://www.timesofisrael.com/president-attends-kafr-qasim-memorial-apologizes-for-1956-massacre/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Black Flag at a Crossroads: The Kafr Qasim Political Trial (1957-58)",
+          "url": "https://www.cambridge.org/core/journals/international-journal-of-middle-east-studies/article/abs/black-flag-at-a-crossroads-the-kafr-qasim-political-trial-195758/3F0EFAD7392FDB43EA63051FCF244127",
+          "publisher": "International Journal of Middle East Studies (Cambridge University Press)",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "armistice-suez",
+      "verified": false,
+      "casualties": [
+        {
+          "label": "Villagers killed",
+          "value": "48",
+          "attribution": "Israeli military court / Israeli government",
+          "note": "Including 6 women and 23 children and youths aged 8 to 17."
+        },
+        {
+          "label": "Villagers killed",
+          "value": "49",
+          "attribution": "Kafr Qasim community",
+          "note": "Counts the unborn child of a woman who was killed."
+        }
+      ]
+    },
+    {
       "id": "1956-10-29-suez-crisis-sinai-campaign",
       "date": "1956-10-29",
       "endDate": "1956-11-07",
@@ -420,7 +475,7 @@
       "title": "Suez Crisis: Israel invades Sinai, Britain and France intervene at the Canal",
       "category": "war",
       "significance": 5,
-      "summary": "After Egypt nationalised the Suez Canal Company on 26 July 1956, Britain, France and Israel secretly agreed at Sèvres on a joint operation. On 29 October Israeli forces under Moshe Dayan invaded Sinai, dropping paratroopers at the Mitla Pass; within a week they had taken the Gaza Strip, most of Sinai and Sharm el-Sheikh. Britain and France issued an ultimatum on 30 October, bombed Egyptian airfields from 31 October and landed at Port Said on 5-6 November. Under pressure from the United States, the Soviet Union and the UN General Assembly, which demanded a ceasefire on 2 November and created the UN Emergency Force on 5 November, fighting stopped on 7 November. Israel reported 172 of its soldiers killed; historians estimate Egyptian military dead at between 1,000 and 3,000, with several hundred civilians killed at Port Said; Britain and France reported 16 and 10 dead. Anglo-French forces left by 22 December.",
+      "summary": "After Egypt nationalised the Suez Canal Company on 26 July 1956, Britain, France and Israel secretly agreed at Sèvres on a joint operation. On 29 October Israeli forces invaded Sinai, dropping paratroopers at the Mitla Pass; within a week they had taken the Gaza Strip, most of Sinai and Sharm el-Sheikh. Britain and France issued an ultimatum on 30 October, bombed Egyptian airfields from 31 October and landed at Port Said on 5-6 November. Under pressure from the United States, the Soviet Union and the UN General Assembly, which demanded a ceasefire on 2 November and created the UN Emergency Force on 5 November, fighting stopped on 7 November. Israel reported 172 of its soldiers killed; historians estimate Egyptian military dead at between 1,000 and 3,000, with several hundred civilians killed at Port Said; Britain and France reported 16 and 10 dead. Anglo-French forces left by 22 December.",
       "perspectives": [
         {
           "party": "Israeli government",
@@ -490,61 +545,6 @@
           "label": "British and French dead",
           "value": "16 British, 10 French",
           "attribution": "British and French governments"
-        }
-      ]
-    },
-    {
-      "id": "1956-10-29-kafr-qasim-killings",
-      "date": "1956-10-29",
-      "lat": 32.1148,
-      "lng": 34.9756,
-      "location": "Kafr Qasim, Israel",
-      "title": "Israeli Border Police kill 48 Arab villagers at Kafr Qasim",
-      "category": "attack",
-      "significance": 3,
-      "summary": "On 29 October 1956, the first day of the Sinai campaign, the Israel Border Police imposed a wartime curfew from 5 p.m. on Arab villages along the Jordanian armistice line, giving village headmen about half an hour's notice. At Kafr Qasim, a unit under Lieutenant Gabriel Dahan, acting on orders from battalion commander Major Shmuel Malinki, shot residents returning from work who could not have known of the curfew. According to the Israeli military court, 43 villagers were killed at the village entrance and others elsewhere, a total of 48 dead, including women and 23 children; the community counts 49, including an unborn child. Eleven policemen were tried; in 1958 eight were convicted and Judge Benjamin Halevy ruled that a 'manifestly illegal' order, over which 'a black flag' flies, must be refused. Sentences were reduced and all were released by 1960. Israeli presidents expressed regret in 2007 and 2014 and apologised in 2021.",
-      "perspectives": [
-        {
-          "party": "Israeli government",
-          "framing": "Long treated the killings as the crime of individual policemen rather than state policy, censored early reporting, and stressed the trial's 'black flag' doctrine as proof of the rule of law; President Isaac Herzog's 2021 apology at the village memorial used the word 'massacre'."
-        },
-        {
-          "party": "Palestinian citizens of Israel",
-          "framing": "Commemorate the Kafr Qasim massacre annually as the defining atrocity of the military government imposed on Arab citizens from 1948 to 1966, arguing that the light sentences and the promotion of some officers show impunity, and citing later testimony that the curfew was linked to a plan to push villagers across the border."
-        },
-        {
-          "party": "Historians",
-          "framing": "Examine the case as a landmark in the law of superior orders and debate whether the shootings were a local excess or connected to contingency plans (such as the 'Mole' plan) for expelling border villages during the war; the Israeli court records were declassified in 2022."
-        }
-      ],
-      "sources": [
-        {
-          "title": "President attends Kafr Qasim memorial, apologizes for 1956 massacre",
-          "url": "https://www.timesofisrael.com/president-attends-kafr-qasim-memorial-apologizes-for-1956-massacre/",
-          "publisher": "The Times of Israel",
-          "accessedDate": "2026-09-09"
-        },
-        {
-          "title": "Black Flag at a Crossroads: The Kafr Qasim Political Trial (1957-58)",
-          "url": "https://www.cambridge.org/core/journals/international-journal-of-middle-east-studies/article/abs/black-flag-at-a-crossroads-the-kafr-qasim-political-trial-195758/3F0EFAD7392FDB43EA63051FCF244127",
-          "publisher": "International Journal of Middle East Studies (Cambridge University Press)",
-          "accessedDate": "2026-09-09"
-        }
-      ],
-      "era": "armistice-suez",
-      "verified": false,
-      "casualties": [
-        {
-          "label": "Villagers killed",
-          "value": "48",
-          "attribution": "Israeli military court / Israeli government",
-          "note": "Including 6 women and 23 children and youths aged 8 to 17."
-        },
-        {
-          "label": "Villagers killed",
-          "value": "49",
-          "attribution": "Kafr Qasim community",
-          "note": "Counts the unborn child of a woman who was killed."
         }
       ]
     },
@@ -804,7 +804,7 @@
       "title": "Egypt expels UNEF and closes the Straits of Tiran to Israeli shipping",
       "category": "political",
       "significance": 5,
-      "summary": "In mid-May 1967, after Soviet reports, later shown to be false, of Israeli troop concentrations against Syria, Egypt moved large forces into Sinai. On 16 May Egypt asked the UN Emergency Force to leave its border posts, and on 18 May Secretary-General U Thant, holding that the force could not remain without Egyptian consent, ordered its withdrawal; UNEF then numbered about 3,400 troops. On the evening of 22 May President Nasser announced from a Sinai airbase that the Straits of Tiran would be closed to Israeli ships and to strategic cargo bound for Eilat. Israel had declared since 1957 that such a blockade would be treated as an act of war. U Thant flew to Cairo on 23 May without result, and the United States sought unsuccessfully to organise a maritime declaration. On 30 May Jordan joined Egypt in a defence pact, and on 5 June Israel launched the air strikes that opened the Six-Day War.",
+      "summary": "In mid-May 1967, after Soviet reports, later shown to be false, of Israeli troop concentrations against Syria, Egypt moved large forces into Sinai. On 16 May Egypt asked the UN Emergency Force to leave its border posts, and on 18 May Secretary-General U Thant, holding that the force could not remain without Egyptian consent, ordered its withdrawal; UNEF then numbered about 3,400 troops. On the evening of 22 May President Nasser announced from a Sinai airbase that the Straits of Tiran would be closed to Israeli ships and to strategic cargo bound for Eilat. Israel had declared since 1957 that such a blockade would be treated as an act of war. The United States sought unsuccessfully to organise a maritime declaration to open the straits. On 30 May Jordan joined Egypt in a defence pact, and on 5 June Israel launched the air strikes that opened the Six-Day War.",
       "perspectives": [
         {
           "party": "Egypt",

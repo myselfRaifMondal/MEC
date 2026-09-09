@@ -434,20 +434,27 @@ def feature(geom, name: str, kind: str, style: str, valid_from: str, valid_to: s
     if valid_from > valid_to:
         raise ValueError(f'{name}: validFrom {valid_from} > validTo {valid_to}')
     g = geom
+    grid = 10.0 ** -precision
     if kind == 'zone':
         g = clean(g)
         if g.is_empty:
             raise ValueError(f'{name}: empty zone geometry')
         g = simplify(g, tol)
+        # Snap to the output grid *before* serialising so that rounding cannot create
+        # self-touching rings; set_precision repairs the topology while snapping.
+        g = clean(shapely.set_precision(g, grid, mode='valid_output'))
         g = drop_slivers(g)
         if g.geom_type not in ('Polygon', 'MultiPolygon'):
             raise ValueError(f'{name}: zone geometry is {g.geom_type}')
+        if not g.is_valid:
+            raise ValueError(f'{name}: zone geometry invalid after snapping')
     else:
         g = lines_only(g) if g.geom_type not in ('LineString', 'MultiLineString') else g
         if g.is_empty:
             raise ValueError(f'{name}: empty line geometry')
         if tol:
             g = g.simplify(tol, preserve_topology=True)
+        g = lines_only(shapely.set_precision(g, grid, mode='valid_output'))
     props = {'name': name, 'kind': kind, 'style': style, 'validFrom': valid_from, 'validTo': valid_to}
     if note:
         props['note'] = note
