@@ -277,8 +277,8 @@ LEBANON_HILLTOPS = {
     'Labbouneh': [35.150, 33.098],
     'Jabal Blat': [35.288, 33.107],
     'Jal al-Deir': [35.440, 33.100],
-    'Tallet al-Aziziyeh (Hula / Markaba)': [35.528, 33.207],
-    'Tallet al-Hamames (Khiam)': [35.604, 33.296],
+    'Tallet al-Aziziyeh (Hula / Markaba)': [35.510, 33.205],
+    'Tallet al-Hamames (Khiam)': [35.605, 33.290],
 }
 LEBANON_HILLTOP_RADIUS = 0.0055  # degrees (~0.5 km)
 

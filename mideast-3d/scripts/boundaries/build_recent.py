@@ -125,12 +125,11 @@ def features() -> list[dict]:
     pocket_2025 = C.clean(C.polygon(H.GAZA_2025_POCKET_POLY).intersection(gaza))
     expanded_2025 = C.difference(gaza, pocket_2025)
     gaza_city = C.clean(C.polygon(H.GAZA_CITY_2025_POLY).intersection(pocket_2025))
-    yellow_east = C.clean(C.side_polygon(H.YELLOW_LINE, 'east').intersection(gaza))
-    # side_polygon('east') extends the last (westward) segment vertically; make sure the
-    # whole of Rafah south of the line is included by adding the Egypt-border corner.
-    yellow_east = C.union(yellow_east, C.clean(C.polygon(
+    # The line runs north -> south then west to the coast; close it around the south-east
+    # of the strip (Egypt border corner, then far east and north) to get the Israeli side.
+    yellow_east = C.clean(C.polygon(
         H.YELLOW_LINE + [[34.15, 31.347], [34.15, 31.15], [34.65, 31.15], [34.65, 31.65], [34.40, 31.65]]
-    ).intersection(gaza)))
+    ).intersection(gaza))
     yellow_west = C.difference(gaza, yellow_east)
     yellow_line = C.shared_line(yellow_east, yellow_west)
     share = lambda g: round(100 * g.area / gaza.area)  # noqa: E731
