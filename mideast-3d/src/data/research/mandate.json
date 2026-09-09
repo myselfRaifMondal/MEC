@@ -1,0 +1,764 @@
+{
+  "era": "mandate",
+  "unit": "mandate",
+  "events": [
+    {
+      "id": "1917-11-02-balfour-declaration",
+      "date": "1917-11-02",
+      "lat": 51.5035,
+      "lng": -0.1276,
+      "location": "Foreign Office, London",
+      "title": "Balfour Declaration pledges British support for a Jewish national home",
+      "category": "political",
+      "significance": 5,
+      "summary": "On 2 November 1917 British Foreign Secretary Arthur James Balfour sent a letter to Lord Lionel Walter Rothschild, for transmission to the Zionist Federation of Great Britain and Ireland, stating that His Majesty's Government \"view with favour the establishment in Palestine of a national home for the Jewish people\" and would \"use their best endeavours to facilitate the achievement of this object\", on the understanding that nothing would be done to prejudice \"the civil and religious rights of existing non-Jewish communities in Palestine\" or the rights and political status of Jews in other countries. The War Cabinet had approved the 67-word text on 31 October and it was published in the press on 9 November. Palestine was still under Ottoman rule, with a population that was roughly 90 per cent Arab. The declaration was later written into the League of Nations Mandate for Palestine and shaped British policy for three decades.",
+      "perspectives": [
+        {
+          "party": "Zionist leadership / Israeli government",
+          "framing": "Presented at the time as a charter of international recognition of Jewish national rights, and marked by Israel on its centenary as the moment the Jewish people's right to a national home in their ancestral land was affirmed by a great power; Israeli ministry material stresses that it was later endorsed by the League of Nations and became binding international law."
+        },
+        {
+          "party": "Palestinian leadership",
+          "framing": "Referred to as 'Balfour's promise' (wa'd Balfour) and described as the original injustice of the conflict: a promise by a power that did not own Palestine to a movement that did not live there, made without consulting the Arab majority; the Palestinian Authority marked the centenary by demanding a British apology."
+        },
+        {
+          "party": "United Kingdom",
+          "framing": "The British government marked the 2017 centenary 'with pride' in its role in Israel's creation, declined Palestinian calls for an apology, and restated its support for a two-state solution as the way to fulfil the declaration's second clause on the rights of non-Jewish communities."
+        },
+        {
+          "party": "Historians",
+          "framing": "Debate the motives, citing wartime hopes of rallying Jewish opinion in Russia and the United States, imperial interest in territory beside the Suez Canal, and genuine sympathy for Zionism among Lloyd George and Balfour; note that the wording was deliberately vague and that 'national home' had no legal definition."
+        }
+      ],
+      "sources": [
+        { "title": "Balfour Declaration | Palestine, Rothschild, History, Significance, & Impact", "url": "https://www.britannica.com/event/Balfour-Declaration", "publisher": "Encyclopaedia Britannica", "accessedDate": "2026-09-09" },
+        { "title": "The Avalon Project: Balfour Declaration November 2, 1917", "url": "https://avalon.law.yale.edu/20th_century/balfour.asp", "publisher": "Yale Avalon Project", "accessedDate": "2026-09-09" },
+        { "title": "Balfour Declaration - UK/Non-UN document - Question of Palestine", "url": "https://www.un.org/unispal/document/auto-insert-193242/", "publisher": "United Nations", "accessedDate": "2026-09-09" },
+        { "title": "Balfour Declaration, 1917", "url": "https://www.palestine-studies.org/en/node/1653368", "publisher": "Institute for Palestine Studies", "accessedDate": "2026-09-09" },
+        { "title": "The Balfour Declaration", "url": "https://www.gov.il/en/pages/the-balfour-declaration-29-0ct-2017", "publisher": "Israel Ministry of Foreign Affairs", "accessedDate": "2026-09-09" },
+        { "title": "More than a century on: The Balfour Declaration explained", "url": "https://www.aljazeera.com/features/2018/11/2/more-than-a-century-on-the-balfour-declaration-explained", "publisher": "Al Jazeera", "accessedDate": "2026-09-09" }
+      ],
+      "era": "mandate",
+      "verified": true
+    },
+    {
+      "id": "1917-12-09-british-capture-of-jerusalem",
+      "date": "1917-12-09",
+      "endDate": "1917-12-11",
+      "lat": 31.7767,
+      "lng": 35.2345,
+      "location": "Jerusalem",
+      "title": "British forces take Jerusalem from the Ottomans; Allenby enters on foot",
+      "category": "war",
+      "significance": 4,
+      "summary": "After a month of fighting in the Judaean hills during the Egyptian Expeditionary Force's advance from Gaza and Beersheba, Ottoman troops withdrew from Jerusalem overnight on 8–9 December 1917. On the morning of 9 December the city's mayor, Hussein Salim al-Husseini, handed a letter of surrender to British soldiers, asking that the holy places be protected. On 11 December General Sir Edmund Allenby, accompanied by French and Italian detachments, dismounted at the Jaffa Gate and entered the Old City on foot; a proclamation of martial law was read from the Citadel steps in seven languages. The capture ended four centuries of Ottoman rule in the city and placed southern Palestine under British military government, the Occupied Enemy Territory Administration. Campaign histories commonly give about 18,000 British and 25,000 Ottoman casualties for the wider Jerusalem operations of 17 November to 30 December, figures the sources cited here do not independently confirm.",
+      "perspectives": [
+        {
+          "party": "United Kingdom",
+          "framing": "Celebrated by Prime Minister Lloyd George as 'a Christmas present for the British nation'; official accounts stress Allenby's decision to enter on foot, in contrast to Kaiser Wilhelm II's mounted entry of 1898, and his proclamation guaranteeing protection of the holy places of all three faiths."
+        },
+        {
+          "party": "Zionist leadership",
+          "framing": "Welcomed as the opening of Palestine to the implementation of the Balfour Declaration under British protection; the Zionist Commission arrived in the country a few months later."
+        },
+        {
+          "party": "Palestinian / Arab leadership",
+          "framing": "Arab notables who surrendered the city expected the independence promised in Britain's wartime correspondence with Sharif Hussein; later Palestinian accounts date the 'British occupation' of Palestine from this moment and view it as the start of the period in which Zionist settlement was imposed on the country."
+        },
+        {
+          "party": "Historians",
+          "framing": "Treat the entry as a carefully staged piece of political theatre and note that the city fell without street fighting, the decisive battles having been fought in the surrounding hills; they also stress that Britain now held both the Balfour pledge and the territory needed to act on it."
+        }
+      ],
+      "sources": [
+        { "title": "The Allies Entering Jerusalem, 11th December 1917: General Allenby ... Entering the City by the Jaffa Gate", "url": "https://www.iwm.org.uk/collections/item/object/18134", "publisher": "Imperial War Museums", "accessedDate": "2026-09-09" },
+        { "title": "Edmund Allenby: The bull", "url": "https://www.nam.ac.uk/explore/edmund-allenby", "publisher": "National Army Museum", "accessedDate": "2026-09-09" },
+        { "title": "This Day in Jewish History, 1917: General Allenby shows how a 'moral man' conquers Jerusalem", "url": "https://www.haaretz.com/jewish/.premium-1917-general-allenby-shows-how-a-moral-man-conquers-jerusalem-1.5343853", "publisher": "Haaretz", "accessedDate": "2026-09-09" },
+        { "title": "Film: General Allenby's Entry into Jerusalem in 1917", "url": "https://www.jerusalemstory.com/en/video/general-allenbys-entry-jerusalem-1917", "publisher": "Jerusalem Story", "accessedDate": "2026-09-09" },
+        { "title": "Revisiting the British conquest of Jerusalem", "url": "https://www.aljazeera.com/opinions/2014/12/14/revisiting-the-british-conquest-of-jerusalem", "publisher": "Al Jazeera", "accessedDate": "2026-09-09" }
+      ],
+      "era": "mandate",
+      "verified": true,
+      "casualties": [
+        { "label": "British and imperial casualties, Jerusalem operations (17 Nov–30 Dec 1917)", "value": "≈18,000", "attribution": "Commonly cited campaign totals", "note": "Not independently confirmed in the sources listed for this event; the city itself surrendered without street fighting." },
+        { "label": "Ottoman casualties, Jerusalem operations (17 Nov–30 Dec 1917)", "value": "≈25,000", "attribution": "Commonly cited campaign totals", "note": "Not independently confirmed in the sources listed for this event." }
+      ]
+    },
+    {
+      "id": "1919-01-03-faisal-weizmann-agreement",
+      "date": "1919-01-03",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "location": "London",
+      "title": "Faisal–Weizmann Agreement signed on the eve of the Paris Peace Conference",
+      "category": "treaty",
+      "significance": 2,
+      "summary": "On 3 January 1919, on the eve of the Paris Peace Conference, Emir Faisal ibn Hussein, representing the Arab Kingdom of the Hejaz, and Chaim Weizmann, representing the Zionist Organisation, signed a short agreement in London drafted with the help of T. E. Lawrence. It pledged cooperation between \"the Arab State and Palestine\", Arab encouragement of large-scale Jewish immigration and settlement in Palestine, protection of Arab peasants' rights, Muslim control of Muslim holy places, Zionist help in developing the Arab state's resources, and implementation of the Balfour Declaration. Faisal added a handwritten reservation making his consent conditional on the Arabs obtaining the independence demanded in his memorandum of 4 January 1919 to the British Foreign Office. When the Allies instead assigned mandates at San Remo and France expelled Faisal from Damascus in July 1920, the condition went unmet and the agreement, never ratified by any Arab body, lapsed without being implemented.",
+      "perspectives": [
+        {
+          "party": "Zionist leadership / Israeli government",
+          "framing": "Cited by the Israeli Foreign Ministry and Zionist historiography as proof that the foremost Arab leader of the day accepted the Jewish national home and that Arab and Jewish national aspirations were compatible; Faisal's later letter to Felix Frankfurter is quoted alongside it."
+        },
+        {
+          "party": "Palestinian / Arab leadership",
+          "framing": "Regarded as void and unrepresentative: Faisal spoke for the Hejaz, not for Palestine's Arabs, his signature was expressly conditional on an Arab independence that Britain and France denied, and he later disputed the text; Arab writers describe it as a British-engineered arrangement that Palestinians never accepted."
+        },
+        {
+          "party": "Historians",
+          "framing": "Note that the agreement was kept secret for years, that Lawrence's translation of Faisal's reservation is contested, and that its main afterlife was as a document in later advocacy rather than as a working accord."
+        }
+      ],
+      "sources": [
+        { "title": "Faisal-Weizmann agreement/Non-UN document - Question of Palestine", "url": "https://www.un.org/unispal/document/auto-insert-207006/", "publisher": "United Nations", "accessedDate": "2026-09-09" },
+        { "title": "The Weizmann-Feisal Agreement, 3 January 1919", "url": "https://www.gov.il/en/departments/news/the-weizmann-feisal-agreement-3-jan-1919", "publisher": "Israel Ministry of Foreign Affairs", "accessedDate": "2026-09-09" },
+        { "title": "This Day in Jewish History: Zionists and Arabs Ink First Accord", "url": "https://www.haaretz.com/jewish/2014-01-03/ty-article/.premium/this-day-zionists-arabs-ink-first-deal/0000017f-dbcb-d3a5-af7f-fbef270e0000", "publisher": "Haaretz", "accessedDate": "2026-09-09" },
+        { "title": "Faisal–Weizmann Agreements", "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/faisal-weizmann-agreements", "publisher": "Encyclopedia.com", "accessedDate": "2026-09-09" }
+      ],
+      "era": "mandate",
+      "verified": true
+    },
+    {
+      "id": "1920-04-04-nebi-musa-riots-jerusalem",
+      "date": "1920-04-04",
+      "endDate": "1920-04-07",
+      "lat": 31.7767,
+      "lng": 35.2345,
+      "location": "Old City, Jerusalem",
+      "title": "Nebi Musa riots in Jerusalem",
+      "category": "attack",
+      "significance": 3,
+      "summary": "During the annual Nabi Musa pilgrimage festival, which in 1920 coincided with Easter and Passover, large crowds in Jerusalem heard nationalist speeches from figures including Mayor Musa Kazim al-Husseini and Amin al-Husseini, and violence broke out near the Jaffa Gate on Sunday 4 April. Over four days rioters attacked Jews in the Old City, looting homes and shops, while Jewish self-defence volunteers organised by Ze'ev Jabotinsky tried to intervene. British military authorities imposed a curfew and martial law. According to the figures of the British Palin Commission of Inquiry, as cited by Jerusalem Story, 5 Jews and 4 Arabs were killed and 216 Jews and 23 Arabs injured; about 300 Jews were evacuated from the Old City. Military courts sentenced Jabotinsky to fifteen years and Amin al-Husseini, in absentia, to ten; both were soon pardoned. The Palin report traced Arab anger to fear of Zionist domination and disappointed hopes of independence.",
+      "perspectives": [
+        {
+          "party": "Zionist leadership",
+          "framing": "Described as a 'pogrom' enabled by the hostility or passivity of the British military administration; the Yishuv's response was to found the Haganah in June 1920 and to press for the replacement of military by civil government."
+        },
+        {
+          "party": "Palestinian leadership",
+          "framing": "Remembered as the first popular uprising of Palestinians against British rule and Zionist immigration, provoked by the Balfour Declaration and Jewish provocations during a Muslim festival; the Nabi Musa season became a nationalist occasion thereafter."
+        },
+        {
+          "party": "United Kingdom",
+          "framing": "The Palin Commission of Inquiry (July 1920) blamed Arab disappointment at unfulfilled promises of independence and fear of Zionist domination, criticised Zionist impatience, and faulted the military administration's handling of the crowd; its report was never published."
+        }
+      ],
+      "sources": [
+        { "title": "Nabi Musa Riots", "url": "https://www.jerusalemstory.com/en/lexicon/nabi-musa-riots", "publisher": "Jerusalem Story", "accessedDate": "2026-09-09" },
+        { "title": "A House Divided in the Nebi Musa Riots", "url": "https://www.historytoday.com/archive/history-matters/house-divided-nebi-musa-riots", "publisher": "History Today", "accessedDate": "2026-09-09" },
+        { "title": "1920 Palestine Clashes", "url": "https://ecf.org.il/issues/issue/1351", "publisher": "Economic Cooperation Foundation", "accessedDate": "2026-09-09" },
+        { "title": "Palin Commission Report - 1 July 1920 (Historical Text)", "url": "https://www.palquest.org/en/historictext/6709/palin-commission-report", "publisher": "Institute for Palestine Studies (Palquest)", "accessedDate": "2026-09-09" },
+        { "title": "Palestine - British Mandate, Zionism, Conflict: World War I and after", "url": "https://www.britannica.com/place/Palestine/World-War-I-and-after", "publisher": "Encyclopaedia Britannica", "accessedDate": "2026-09-09" }
+      ],
+      "era": "mandate",
+      "verified": true,
+      "casualties": [
+        { "label": "Jews killed", "value": "5", "attribution": "Palin Commission figures, as cited by Jerusalem Story" },
+        { "label": "Arabs killed", "value": "4", "attribution": "Palin Commission figures, as cited by Jerusalem Story" },
+        { "label": "Injured", "value": "216 Jews, 23 Arabs, 7 Britons", "attribution": "Palin Commission figures, as cited by Jerusalem Story and History Today", "note": "History Today gives 'five Jews killed and over 200 injured'." }
+      ]
+    },
+    {
+      "id": "1920-04-25-san-remo-conference-assigns-palestine-mandate",
+      "date": "1920-04-25",
+      "lat": 43.8159,
+      "lng": 7.7760,
+      "location": "Sanremo, Italy",
+      "title": "San Remo conference assigns the Palestine mandate to Britain",
+      "category": "political",
+      "significance": 4,
+      "summary": "At the San Remo Conference of 19–26 April 1920, the Supreme Council of the principal Allied powers — Britain, France, Italy and Japan, with the United States attending as an observer — decided the disposition of the Ottoman Empire's Arab provinces under the League of Nations mandate system. The resolution adopted on 25 April assigned the mandates for Palestine and Mesopotamia (Iraq) to Britain and the mandate for Syria and Lebanon to France. It made the mandatory for Palestine responsible for putting into effect the Balfour Declaration, repeating its language on a Jewish national home and the safeguard for the civil and religious rights of existing non-Jewish communities, and left boundaries to later negotiation. San Remo converted a British wartime statement into an Allied commitment, prompted the replacement of Palestine's military administration by a civil government under Sir Herbert Samuel on 1 July 1920, and was rejected by the Syrian Congress and Palestinian Arab leaders.",
+      "perspectives": [
+        {
+          "party": "Zionist leadership / Israeli government",
+          "framing": "Regarded as the moment the Jewish national home passed from a British promise into an international obligation; Israeli commentators and the Foreign Ministry describe San Remo as the legal foundation of the Mandate and of Jewish rights in Palestine, and some call it a 'Magna Carta' for the Jewish people."
+        },
+        {
+          "party": "Palestinian / Arab leadership",
+          "framing": "Denounced as the Allied powers dividing the Arab lands among themselves in breach of wartime promises of independence and of the principle of self-determination; the Syrian Congress had in March 1920 proclaimed Faisal king of a united Syria including Palestine, and Palestinian congresses petitioned against the decision."
+        },
+        {
+          "party": "France",
+          "framing": "Treated the award of Syria and Lebanon as recognition of its historic interests in the Levant and enforced it by defeating Faisal's forces at Maysalun in July 1920, while contesting the exact northern boundary of Palestine with Britain until 1923."
+        },
+        {
+          "party": "United Kingdom",
+          "framing": "Presented the mandate as a 'sacred trust of civilisation' under Article 22 of the League Covenant, combining the Balfour policy with responsibility for the welfare of all inhabitants."
+        }
+      ],
+      "sources": [
+        { "title": "Conference of San Remo | League of Nations, Treaty of Sevres, Mandates System", "url": "https://www.britannica.com/event/Conference-of-San-Remo", "publisher": "Encyclopaedia Britannica", "accessedDate": "2026-09-09" },
+        { "title": "Syria, Mesopotamia, Palestine mandates - San Remo conference (UK, France, Italy, Japan) - Resolution", "url": "https://www.un.org/unispal/document/auto-insert-207297/", "publisher": "United Nations", "accessedDate": "2026-09-09" },
+        { "title": "The Mandate for Palestine", "url": "https://www.gov.il/en/pages/the-mandate-for-palestine", "publisher": "Israel Ministry of Foreign Affairs", "accessedDate": "2026-09-09" },
+        { "title": "San Remo Conference Resolutions: Syria, Mesopotamia [Iraq], Palestine Mandates - 25 April 1920 (Historical Text)", "url": "https://www.palquest.org/en/historictext/37930/san-remo-conference-resolutions-syria-mesopotamia-[iraq]-palestine-mandates", "publisher": "Institute for Palestine Studies (Palquest)", "accessedDate": "2026-09-09" },
+        { "title": "San Remo Conference (1920)", "url": "https://ecf.org.il/issues/issue/251", "publisher": "Economic Cooperation Foundation", "accessedDate": "2026-09-09" }
+      ],
+      "era": "mandate",
+      "verified": true
+    },
+    {
+      "id": "1921-05-01-jaffa-riots",
+      "date": "1921-05-01",
+      "endDate": "1921-05-07",
+      "lat": 32.0522,
+      "lng": 34.7522,
+      "location": "Jaffa",
+      "title": "Jaffa riots",
+      "category": "attack",
+      "significance": 3,
+      "summary": "On 1 May 1921 a clash in Jaffa between rival Jewish Communist and Socialist May Day marches was followed by Arab attacks on Jews in the city, including the immigrants' hostel, and then by Jewish reprisals and further Arab attacks on nearby Jewish settlements such as Petah Tikva and Hadera over the following week. British troops, police, naval vessels and aircraft were deployed. The Haycraft Commission of Inquiry, chaired by Palestine's chief justice, reported in October 1921 that 47 Jews and 48 Arabs had been killed and 146 Jews and 73 Arabs wounded; it found that the violence had been begun by Arabs, that police conduct was often inadequate, and that the fundamental cause was Arab hostility to Jewish immigration and to Zionist policy. High Commissioner Herbert Samuel temporarily suspended Jewish immigration. The riots led to the Palestine Arab Delegation's mission to London and the policy review that produced the Churchill White Paper of June 1922.",
+      "perspectives": [
+        {
+          "party": "Zionist leadership",
+          "framing": "Called the 'Jaffa riots' or 'May 1921 pogrom'; blamed incitement and police complicity, criticised Samuel's suspension of immigration as rewarding violence, and cited the deaths, including the writer Yosef Haim Brenner, as proof that the Yishuv needed its own defence force."
+        },
+        {
+          "party": "Palestinian leadership",
+          "framing": "Presented as a spontaneous popular reaction to mass Jewish immigration, land purchases and the Balfour policy; Palestinian writers note that the Haycraft findings on Arab grievances confirmed that opposition was political and economic rather than religious."
+        },
+        {
+          "party": "United Kingdom",
+          "framing": "The Haycraft Commission held that 'the racial strife was begun by Arabs' but that discontent over immigration and Zionist aims was the underlying cause; the government responded with a pause on immigration, the 1922 White Paper and the principle of 'economic absorptive capacity'."
+        }
+      ],
+      "sources": [
+        { "title": "1921 Jaffa riots 100 years on: Mandatory Palestine's 1st 'mass casualty' attack", "url": "https://www.timesofisrael.com/1921-jaffa-riots-100-years-on-mandatory-palestines-1st-mass-casualty-event/", "publisher": "The Times of Israel", "accessedDate": "2026-09-09" },
+        { "title": "Why the events in Jaffa of May 1, 1921 are important today", "url": "https://www.aljazeera.com/opinions/2021/5/2/why-the-events-in-jaffa-of-may-1-1921-are-important-today", "publisher": "Al Jazeera", "accessedDate": "2026-09-09" },
+        { "title": "Haycraft Commission (1921)", "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/haycraft-commission-1921", "publisher": "Encyclopedia.com", "accessedDate": "2026-09-09" },
+        { "title": "Political History of Palestine under British Administration - UK memorandum", "url": "https://www.un.org/unispal/document/auto-insert-185776/", "publisher": "United Nations", "accessedDate": "2026-09-09" },
+        { "title": "Report by the Haycraft Commission of Inquiry into the May 1921 Jaffa Riots", "url": "https://www.palquest.org/en/historictext/6710/report-haycraft-commission-inquiry-may-1921-jaffa-riots", "publisher": "Institute for Palestine Studies (Palquest)", "accessedDate": "2026-09-09" }
+      ],
+      "era": "mandate",
+      "verified": true,
+      "casualties": [
+        { "label": "Jews killed", "value": "47", "attribution": "Haycraft Commission of Inquiry (October 1921)" },
+        { "label": "Arabs killed", "value": "48", "attribution": "Haycraft Commission of Inquiry (October 1921)", "note": "Most Arab deaths were caused by British forces and Jewish reprisals." },
+        { "label": "Wounded", "value": "146 Jews, 73 Arabs", "attribution": "Haycraft Commission of Inquiry (October 1921)" }
+      ]
+    },
+    {
+      "id": "1922-06-03-churchill-white-paper",
+      "date": "1922-06-03",
+      "lat": 51.5030,
+      "lng": -0.1270,
+      "location": "Colonial Office, London",
+      "title": "Churchill White Paper redefines the Jewish national home policy",
+      "category": "political",
+      "significance": 3,
+      "summary": "On 3 June 1922 the Colonial Office under Winston Churchill published a statement of British policy in Palestine (Cmd. 1700), issued alongside its correspondence with the Palestine Arab Delegation and the Zionist Organization. It reaffirmed the Balfour Declaration but stated that the declaration did not contemplate \"that Palestine as a whole should be converted into a Jewish National Home, but that such a Home should be founded in Palestine\"; that the Jewish community was in Palestine \"as of right and not on sufferance\"; that Jewish immigration would continue but not exceed the country's \"economic capacity\" to absorb new arrivals; and that a legislative council with an elected majority would be created. The Zionist Organization accepted the statement, without enthusiasm, as a condition for the Mandate's approval the following month; the Arab Delegation rejected it because it withheld majority self-government and maintained immigration, and Arab leaders later boycotted the council elections.",
+      "perspectives": [
+        {
+          "party": "United Kingdom",
+          "framing": "Framed as a clarification rather than a retreat: Britain would honour the Balfour Declaration while reassuring Arabs that they would not be subordinated or displaced, and would govern by gradual development of self-governing institutions."
+        },
+        {
+          "party": "Zionist leadership",
+          "framing": "Accepted by the Zionist Executive as the price of the Mandate, but seen by many, especially Jabotinsky's Revisionists, as the first 'whittling down' of the national home, coming shortly after Transjordan had been closed to Jewish settlement."
+        },
+        {
+          "party": "Palestinian leadership",
+          "framing": "Rejected by the Arab Delegation and the Arab Executive because it kept the Balfour policy and immigration in place and offered a council without real power; the boycott of the 1923 elections followed."
+        }
+      ],
+      "sources": [
+        { "title": "Churchill White Paper | document", "url": "https://www.britannica.com/topic/Churchill-White-Paper", "publisher": "Encyclopaedia Britannica", "accessedDate": "2026-09-09" },
+        { "title": "British policy in Palestine: 'Churchill White Paper' - UK documentation Cmd. 1700 (excerpts)", "url": "https://www.un.org/unispal/document/auto-insert-196917/", "publisher": "United Nations", "accessedDate": "2026-09-09" },
+        { "title": "Churchill White Paper - 3 June 1922 (Historical Text)", "url": "https://www.palquest.org/en/historictext/6712/churchill-white-paper", "publisher": "Institute for Palestine Studies (Palquest)", "accessedDate": "2026-09-09" },
+        { "title": "British White Paper of 1922 on Palestine (Churchill White Paper)", "url": "https://ecf.org.il/issues/issue/248", "publisher": "Economic Cooperation Foundation", "accessedDate": "2026-09-09" }
+      ],
+      "era": "mandate",
+      "verified": true
+    },
+    {
+      "id": "1922-07-24-league-of-nations-mandate-for-palestine",
+      "date": "1922-07-24",
+      "lat": 51.5045,
+      "lng": -0.1385,
+      "location": "London (League of Nations Council session)",
+      "title": "League of Nations Council approves the Mandate for Palestine",
+      "category": "treaty",
+      "significance": 5,
+      "summary": "On 24 July 1922 the Council of the League of Nations, meeting in London, approved the Mandate for Palestine, entrusting the territory's administration to Britain under Article 22 of the League Covenant. The preamble incorporated the Balfour Declaration and recognised \"the historical connection of the Jewish people with Palestine\". Article 2 made Britain responsible for securing the establishment of the Jewish national home and developing self-governing institutions; Article 4 recognised a Jewish Agency; Article 6 required the facilitation of Jewish immigration and \"close settlement\" on the land \"while ensuring that the rights and position of other sections of the population are not prejudiced\"; and Article 25 allowed Britain to withhold the national home provisions in Transjordan, which the Council endorsed on 16 September 1922. The Mandate entered into force on 29 September 1923, once France and Italy settled their dispute over the Syrian mandate, and remained the legal basis of British rule until 15 May 1948.",
+      "perspectives": [
+        {
+          "party": "Israeli government / Zionist leadership",
+          "framing": "Regarded as the binding international-law recognition of the Jewish people's right to reconstitute its national home in Palestine, with the 52 League members endorsing the Balfour policy; Israeli official material stresses that the rights it created were preserved by Article 80 of the UN Charter."
+        },
+        {
+          "party": "Palestinian leadership",
+          "framing": "Rejected as illegitimate from the outset: it was imposed on a population that was about nine-tenths Arab without consultation, never mentions the Arabs by name, and, Palestinians argue, violated Article 22's requirement that the wishes of the communities be a principal consideration; the Arab Executive petitioned the League against it."
+        },
+        {
+          "party": "United Kingdom",
+          "framing": "Described its role as a 'dual obligation' to foster the Jewish national home and to safeguard the rights of the existing population, an equilibrium successive commissions found ever harder to maintain."
+        },
+        {
+          "party": "United Nations",
+          "framing": "UN documentation treats the Mandate as the legal framework whose breakdown brought the question of Palestine before the General Assembly in 1947, with UNSCOP concluding that the Mandate had become unworkable."
+        }
+      ],
+      "sources": [
+        { "title": "Mandate for Palestine - League of Nations - Question of Palestine", "url": "https://www.un.org/unispal/document/auto-insert-201057/", "publisher": "United Nations", "accessedDate": "2026-09-09" },
+        { "title": "The Avalon Project: The Palestine Mandate", "url": "https://avalon.law.yale.edu/20th_century/palmanda.asp", "publisher": "Yale Avalon Project", "accessedDate": "2026-09-09" },
+        { "title": "Palestine mandate | League of Nations resolution", "url": "https://www.britannica.com/topic/Palestine-mandate", "publisher": "Encyclopaedia Britannica", "accessedDate": "2026-09-09" },
+        { "title": "The Mandate for Palestine", "url": "https://www.gov.il/en/pages/the-mandate-for-palestine", "publisher": "Israel Ministry of Foreign Affairs", "accessedDate": "2026-09-09" },
+        { "title": "Foreign Relations of the United States, 1924, Volume II: Mandate for Palestine (document 170)", "url": "https://history.state.gov/historicaldocuments/frus1924v02/d170", "publisher": "US Office of the Historian", "accessedDate": "2026-09-09" },
+        { "title": "League of Nations Mandate for Palestine (1922)", "url": "https://ecf.org.il/issues/issue/232", "publisher": "Economic Cooperation Foundation", "accessedDate": "2026-09-09" }
+      ],
+      "era": "mandate",
+      "verified": true
+    },
+    {
+      "id": "1929-08-23-western-wall-riots-and-hebron-massacre",
+      "date": "1929-08-23",
+      "endDate": "1929-08-29",
+      "lat": 31.5326,
+      "lng": 35.0998,
+      "location": "Hebron and Jerusalem",
+      "title": "1929 riots: Western Wall dispute, Hebron massacre and countrywide violence",
+      "category": "attack",
+      "significance": 4,
+      "summary": "A year-long dispute over Jewish prayer arrangements at the Western Wall (al-Buraq), the western retaining wall of the Temple Mount / Haram al-Sharif, escalated after a Revisionist Zionist demonstration at the Wall on 15 August 1929 and a Muslim counter-demonstration the next day. On Friday 23 August, after prayers, Arab crowds attacked Jewish neighbourhoods in Jerusalem; violence spread to Hebron, where on 24 August armed residents killed 67 Jews while some Arab families sheltered their neighbours, and later to Safed, Motza and elsewhere. British forces, reinforced from Egypt, restored order within a week and evacuated Hebron's surviving Jews to Jerusalem. The Shaw Commission of Inquiry (1930) recorded 133 Jews killed and 339 wounded and put Arab deaths at 116, mostly at the hands of British police and troops; the Jewish Virtual Library cites 110 Arab dead and one published excerpt of the report gives 87. The Commission blamed Arab hostility rooted in fear for their political and economic future.",
+      "perspectives": [
+        {
+          "party": "Zionist leadership / Israeli government",
+          "framing": "Known as the '1929 massacres' or 'Hebron pogrom'; blamed on incitement by Mufti Amin al-Husseini and rumours that Jews intended to seize al-Aqsa, and remembered as proof that the Yishuv could not rely on British protection, shaping the outlook of a generation of Israeli leaders."
+        },
+        {
+          "party": "Palestinian leadership",
+          "framing": "Called the 'al-Buraq uprising' (thawrat al-Buraq), a defence of Muslim holy places against Zionist encroachment and a national revolt against the Mandate; the three Palestinians hanged by the British in June 1930 are commemorated as martyrs."
+        },
+        {
+          "party": "United Kingdom",
+          "framing": "The Shaw Commission found the outbreak was not premeditated but arose from Arab 'animosity and hostility' born of frustrated national aspirations and economic fear, faulted policing and recommended reviewing immigration and land policy, leading to the Hope Simpson inquiry and the Passfield White Paper of 1930; a 1930 League-appointed commission then ruled on rights at the Wall."
+        }
+      ],
+      "sources": [
+        { "title": "The 'Western Wall' Riots of 1929: Religious Boundaries and Communal Violence", "url": "https://www.palestine-studies.org/sites/default/files/attachments/jps-articles/JPS165_Winder_Final.pdf", "publisher": "Institute for Palestine Studies", "accessedDate": "2026-09-09" },
+        { "title": "How the 1929 Arab Massacres of Jews Shaped a Generation of Israeli Leaders", "url": "https://www.haaretz.com/israel-news/2019-08-24/ty-article/.premium/how-the-1929-arab-massacres-of-jews-shaped-a-generation-of-israeli-leaders/0000017f-e1ec-df7c-a5ff-e3fe503b0000", "publisher": "Haaretz", "accessedDate": "2026-09-09" },
+        { "title": "Jerusalem - United Kingdom Commission report on the Western Wall (1930) - LoN report", "url": "https://www.un.org/unispal/document/auto-insert-183716/", "publisher": "United Nations", "accessedDate": "2026-09-09" },
+        { "title": "Western Wall, 1929: A Tisha B'av protest is ground zero of the Arab-Israeli conflict", "url": "https://www.timesofisrael.com/western-wall-1929-a-tisha-bav-protest-is-ground-zero-of-the-arab-israeli-conflict/", "publisher": "The Times of Israel", "accessedDate": "2026-09-09" },
+        { "title": "Hebron Massacre", "url": "https://www.encyclopedia.com/politics/energy-government-and-defense-magazines/hebron-massacre", "publisher": "Encyclopedia.com", "accessedDate": "2026-09-09" },
+        { "title": "Excerpts from Commission on the Palestine Disturbances of August 1929 (The Shaw Commission), Cmd. 3530 - 1930", "url": "https://cojs.org/excerpts_from_commission_on_the_palestine_disturbances_of_august_1929_-the_shaw_commission-_cmd-_3530_-_1930/", "publisher": "Center for Online Judaic Studies", "accessedDate": "2026-09-09" }
+      ],
+      "era": "mandate",
+      "verified": true,
+      "casualties": [
+        { "label": "Jews killed (all Palestine)", "value": "133", "attribution": "Shaw Commission of Inquiry (Cmd. 3530, 1930)" },
+        { "label": "Jews wounded (all Palestine)", "value": "339", "attribution": "Shaw Commission of Inquiry (Cmd. 3530, 1930)" },
+        { "label": "Arabs killed (all Palestine)", "value": "116", "attribution": "Shaw Commission figures as cited by the Institute for Palestine Studies and The Times of Israel", "note": "Most killed by British police and troops." },
+        { "label": "Arabs killed (all Palestine)", "value": "110", "attribution": "Jewish Virtual Library" },
+        { "label": "Arabs killed (all Palestine)", "value": "87", "attribution": "Shaw Commission excerpt published by the Center for Online Judaic Studies", "note": "Excerpt gives 87 Arabs killed and 181 wounded treated in hospital; discrepancy unresolved." },
+        { "label": "Jews killed in Hebron, 24 August", "value": "67", "attribution": "Haaretz; Encyclopedia.com" }
+      ]
+    },
+    {
+      "id": "1936-04-15-arab-revolt-in-palestine-begins",
+      "date": "1936-04-15",
+      "endDate": "1939-08-31",
+      "lat": 32.2211,
+      "lng": 35.2544,
+      "location": "Nablus and Jaffa, Mandatory Palestine",
+      "title": "Arab Revolt in Palestine begins with a general strike (1936–1939)",
+      "category": "war",
+      "significance": 5,
+      "summary": "On 15 April 1936 armed Arabs killed two Jewish travellers on the Nablus–Tulkarm road; Jewish reprisals killed two Arabs the next day and riots followed in Jaffa and Tel Aviv on 19 April. Local committees called a general strike from Nablus on 20 April, and on 25 April the Arab Higher Committee was formed under Amin al-Husseini to lead it, demanding an end to Jewish immigration, a ban on land sales to Jews and a national government. The strike ended in October 1936 after mediation by Arab rulers ahead of the Peel Commission. After the partition proposal of July 1937 an armed rural insurgency resumed; Britain deployed tens of thousands of troops, emergency regulations, collective punishments and house demolitions, worked with the Haganah, outlawed the Committee and exiled its leaders. Per Britannica about 5,000 Arabs, 415 Jews and 100 Britons were killed by summer 1939; the Institute for Palestine Studies cites estimates of more than 5,000 Arabs killed, 15,000 wounded and 5,600 detained.",
+      "perspectives": [
+        {
+          "party": "Palestinian leadership",
+          "framing": "Known as the 'Great Palestinian Revolt' or 'Great Rebellion' (al-thawra al-kubra), an anti-colonial national uprising for independence and against Zionist immigration; its suppression, with the exile of leaders and the killing or detention of thousands, is seen as having crippled Palestinian society before 1948."
+        },
+        {
+          "party": "Zionist leadership / Yishuv",
+          "framing": "Referred to as 'the disturbances' or 'the events of 1936–39' (me'ora'ot) and characterised as terror against Jewish civilians; the Jewish Agency adopted an official policy of restraint (havlagah) while the Haganah expanded, cooperated with British forces in Special Night Squads and supernumerary police, and the Irgun launched reprisal attacks."
+        },
+        {
+          "party": "United Kingdom",
+          "framing": "Treated first as 'disturbances' answered by the Peel Commission's political inquiry, then as an armed rebellion met with martial-law measures; the 1939 White Paper was in part an effort to address Arab demands as war in Europe approached."
+        },
+        {
+          "party": "Historians",
+          "framing": "Note the revolt's two phases, the role of Arab states as mediators, the harshness of British counter-insurgency, the internal Palestinian violence between Husseini and Nashashibi factions, and the contrasting outcomes: an armed and organised Yishuv versus a Palestinian community that had lost much of its leadership."
+        }
+      ],
+      "sources": [
+        { "title": "1936–1939 Arab Revolt in Palestine | Summary, Causes, Peel Commission, & Casualties", "url": "https://www.britannica.com/event/1936-1939-Arab-Revolt-in-Palestine", "publisher": "Encyclopaedia Britannica", "accessedDate": "2026-09-09" },
+        { "title": "Great Arab Revolt, 1936-1939", "url": "https://www.palestine-studies.org/en/node/1651180", "publisher": "Institute for Palestine Studies", "accessedDate": "2026-09-09" },
+        { "title": "The 1936–1939 Arab Revolt in Palestine", "url": "https://origins.osu.edu/read/1936-1939-arab-revolt-palestine", "publisher": "Origins (Ohio State University)", "accessedDate": "2026-09-09" },
+        { "title": "The history of Palestinian revolts", "url": "https://www.aljazeera.com/news/2003/12/9/the-history-of-palestinian-revolts", "publisher": "Al Jazeera", "accessedDate": "2026-09-09" },
+        { "title": "Great Palestinian Rebellion, 1936-1939", "url": "https://www.palquest.org/en/highlight/158/great-palestinian-rebellion-1936-1939", "publisher": "Institute for Palestine Studies (Palquest)", "accessedDate": "2026-09-09" }
+      ],
+      "era": "mandate",
+      "verified": true,
+      "casualties": [
+        { "label": "Arabs killed, 1936–1939", "value": "≈5,000", "attribution": "Encyclopaedia Britannica" },
+        { "label": "Jews killed, 1936–1939", "value": "415", "attribution": "Encyclopaedia Britannica" },
+        { "label": "British personnel killed, 1936–1939", "value": "≈100", "attribution": "Encyclopaedia Britannica" },
+        { "label": "Arabs killed, 1936–1939", "value": "more than 5,000 (15,000 wounded, 5,600 detained)", "attribution": "Institute for Palestine Studies (Palquest), citing estimates", "note": "Some Palestinian accounts also count up to 40,000 who fled or were exiled." }
+      ]
+    },
+    {
+      "id": "1937-07-07-peel-commission-partition-proposal",
+      "date": "1937-07-07",
+      "lat": 51.5014,
+      "lng": -0.1419,
+      "location": "London (report published); inquiry held in Jerusalem",
+      "title": "Peel Commission report proposes partition of Palestine",
+      "category": "political",
+      "significance": 4,
+      "summary": "The Palestine Royal Commission, chaired by Lord Peel, was appointed in August 1936 to examine the causes of the Arab Revolt and took evidence in Palestine from November 1936 to January 1937. Its report, published on 7 July 1937 (Cmd. 5479), concluded that the Mandate was unworkable because Arab and Jewish national aspirations were irreconcilable and recommended partition: a Jewish state in the coastal plain, the Galilee and the Jezreel Valley, roughly a fifth of the territory; an Arab state in the remainder, to be united with Transjordan; and a British-mandated enclave from Jerusalem and Bethlehem to Jaffa. It proposed an exchange of population — about 225,000 Arabs and 1,250 Jews — compulsorily if necessary. The British government initially endorsed partition in principle, but the Woodhead Commission reported in 1938 that no workable scheme existed and the idea was dropped. It nonetheless resurfaced as the basis of the UN majority plan of 1947.",
+      "perspectives": [
+        {
+          "party": "Zionist leadership",
+          "framing": "The 20th Zionist Congress (August 1937) rejected the proposed borders as inadequate but authorised negotiations on partition; Weizmann and Ben-Gurion welcomed the first official British endorsement of a Jewish 'state', while Revisionists and some others opposed any partition of the Land of Israel."
+        },
+        {
+          "party": "Palestinian leadership / Arab Higher Committee",
+          "framing": "Rejected the report outright as a scheme to dismember the country, hand its most fertile areas to a Jewish minority and transfer Arabs from their homes; the Bludan pan-Arab congress of September 1937 also condemned it, and the revolt resumed within weeks."
+        },
+        {
+          "party": "United Kingdom",
+          "framing": "Accepted partition in principle in July 1937 as the only way to reconcile its obligations, then retreated after the Woodhead Commission found no viable boundaries and as the strategic need for Arab goodwill grew before the Second World War."
+        },
+        {
+          "party": "Transjordan",
+          "framing": "Emir Abdullah, unlike the Palestinian leadership, was receptive to a plan that would unite the Arab part of Palestine with his emirate."
+        }
+      ],
+      "sources": [
+        { "title": "Plan of partition - Summary of the UK Palestine Royal Commission (Peel Commission) report", "url": "https://www.un.org/unispal/document/auto-insert-197740/", "publisher": "United Nations", "accessedDate": "2026-09-09" },
+        { "title": "Peel Commission | History, Palestine, Significance, & Map", "url": "https://www.britannica.com/event/Peel-Commission", "publisher": "Encyclopaedia Britannica", "accessedDate": "2026-09-09" },
+        { "title": "The Peel Commission, 1936–1937", "url": "https://www.palestine-studies.org/en/node/1651896", "publisher": "Institute for Palestine Studies", "accessedDate": "2026-09-09" },
+        { "title": "Peel Commission Report 1937: Map of the partition plan", "url": "https://images.nationalarchives.gov.uk/asset/70062/", "publisher": "UK National Archives", "accessedDate": "2026-09-09" },
+        { "title": "The Peel Commission Plan, 1937 (map)", "url": "https://mfa.gov.il/MFA/AboutIsrael/Maps/Pages/The-Peel-Commission-Plan-1937.aspx", "publisher": "Israel Ministry of Foreign Affairs", "accessedDate": "2026-09-09" },
+        { "title": "Peel Commission Report (1937)", "url": "https://www.ecf.org.il/issues/issue/234", "publisher": "Economic Cooperation Foundation", "accessedDate": "2026-09-09" }
+      ],
+      "era": "mandate",
+      "verified": true
+    },
+    {
+      "id": "1939-05-17-white-paper-on-palestine",
+      "date": "1939-05-17",
+      "lat": 51.5030,
+      "lng": -0.1270,
+      "location": "London",
+      "title": "1939 White Paper limits Jewish immigration and promises an independent Palestine",
+      "category": "political",
+      "significance": 4,
+      "summary": "On 17 May 1939, after the St James's Conference with Arab and Jewish delegations ended without agreement, the government of Neville Chamberlain, through Colonial Secretary Malcolm MacDonald, issued a statement of policy on Palestine (Cmd. 6019). It declared that the Jewish national home obligation had been substantially fulfilled and that Britain did not intend Palestine to become a Jewish state; envisaged an independent Palestine within ten years in which Arabs and Jews would share government; limited Jewish immigration to 75,000 over five years, after which further immigration would require Arab acquiescence; and empowered the High Commissioner to restrict land transfers to Jews. The Jewish Agency denounced it as a breach of the Mandate on the eve of the Second World War; the Arab Higher Committee rejected it as inadequate; the League's Permanent Mandates Commission found it inconsistent with the Mandate. It remained the framework of British policy until 1948 and the target of clandestine Jewish immigration and armed resistance.",
+      "perspectives": [
+        {
+          "party": "Zionist leadership / Yishuv",
+          "framing": "Condemned as the 'White Paper of betrayal' that shut Palestine to Jews fleeing Nazi Europe; Ben-Gurion's formula was to fight the war as if there were no White Paper and the White Paper as if there were no war, and the Biltmore Program and later armed campaigns were framed as responses to it."
+        },
+        {
+          "party": "Palestinian leadership / Arab Higher Committee",
+          "framing": "Rejected in its formal reply because independence was conditional and deferred, immigration continued for five years and no immediate Arab government was created; some Palestinian and Arab-state figures nevertheless urged acceptance as the best terms yet offered."
+        },
+        {
+          "party": "United Kingdom",
+          "framing": "Defended as a fair reading of a Mandate with obligations to both peoples and as necessary to secure Arab and Muslim support in the approaching war; the government said the Jewish national home had been built and further growth against Arab will was not required."
+        },
+        {
+          "party": "League of Nations Permanent Mandates Commission",
+          "framing": "A majority of the Commission held in June 1939 that the policy was not in accordance with the interpretation the Commission had always placed on the Mandate; the League Council never ruled before the war intervened."
+        }
+      ],
+      "sources": [
+        { "title": "The Avalon Project: British White Paper of 1939", "url": "https://avalon.law.yale.edu/20th_century/brwh1939.asp", "publisher": "Yale Avalon Project", "accessedDate": "2026-09-09" },
+        { "title": "Palestine statement of policy - UK Secretary of State for the Colonies 'McDonald White Paper'", "url": "https://www.un.org/unispal/document/auto-insert-198767/", "publisher": "United Nations", "accessedDate": "2026-09-09" },
+        { "title": "White Paper | United Kingdom [1939]", "url": "https://www.britannica.com/topic/White-Paper-United-Kingdom-1939", "publisher": "Encyclopaedia Britannica", "accessedDate": "2026-09-09" },
+        { "title": "MacDonald White Paper", "url": "https://www.palestine-studies.org/en/node/1651293", "publisher": "Institute for Palestine Studies", "accessedDate": "2026-09-09" },
+        { "title": "Reply by the Arab Higher Committee for Palestine to the [MacDonald] White Paper Issued by the British Government", "url": "https://www.palestine-studies.org/en/node/1657341", "publisher": "Institute for Palestine Studies", "accessedDate": "2026-09-09" },
+        { "title": "Foreign Relations of the United States, 1939, Volume IV: Palestine (document 811)", "url": "https://history.state.gov/historicaldocuments/frus1939v04/d811", "publisher": "US Office of the Historian", "accessedDate": "2026-09-09" }
+      ],
+      "era": "mandate",
+      "verified": true
+    },
+    {
+      "id": "1942-05-11-biltmore-program",
+      "date": "1942-05-11",
+      "lat": 40.7527,
+      "lng": -73.9772,
+      "location": "Biltmore Hotel, New York",
+      "title": "Biltmore Program calls for Palestine to become a Jewish Commonwealth",
+      "category": "political",
+      "significance": 3,
+      "summary": "From 6 to 11 May 1942 about 600 delegates of American Zionist organisations, joined by visiting leaders including Chaim Weizmann and David Ben-Gurion, met in an Extraordinary Zionist Conference at the Biltmore Hotel in New York, standing in for a World Zionist Congress that the war made impossible. The declaration adopted on 11 May rejected the 1939 White Paper, called for the gates of Palestine to be opened, for the Jewish Agency to control immigration and development, for a Jewish military force under its own flag, and for Palestine to be \"established as a Jewish Commonwealth integrated in the structure of the new democratic world\". It was the first official Zionist demand for statehood rather than a \"national home\", signalled the movement's turn from Britain to the United States, and was endorsed by the Zionist General Council later in 1942 over the objections of binationalists and some non-Zionist American Jewish organisations.",
+      "perspectives": [
+        {
+          "party": "Zionist leadership",
+          "framing": "Presented as the necessary answer to the White Paper and to the destruction of European Jewry: only a sovereign Jewish commonwealth could open Palestine to survivors; Ben-Gurion made it the platform of the Jewish Agency and of his leadership."
+        },
+        {
+          "party": "Palestinian / Arab leadership",
+          "framing": "Read as confirmation that Zionism's real aim was a Jewish state over an Arab majority; Arab governments cited it when founding the Arab League and in rejecting further immigration, and Palestinian writers describe it as the plan for taking over the whole country."
+        },
+        {
+          "party": "United Kingdom and United States",
+          "framing": "British officials saw a bid to bypass London by mobilising American opinion; the US State Department recorded the programme with caution, wary of its effect on Arab attitudes in wartime, while Congress and public opinion grew more sympathetic."
+        },
+        {
+          "party": "Historians",
+          "framing": "Mark Biltmore as the point at which the Zionist mainstream openly adopted statehood, note the dissent of binationalists such as Judah Magnes and of the anti-Zionist American Council for Judaism, and trace its influence on the later partition decision."
+        }
+      ],
+      "sources": [
+        { "title": "Foreign Relations of the United States, 1942, Volume IV: The Near East and Africa (document 662)", "url": "https://history.state.gov/historicaldocuments/frus1942v04/d662", "publisher": "US Office of the Historian", "accessedDate": "2026-09-09" },
+        { "title": "Biltmore Declaration - Text/Non-UN document - Question of Palestine", "url": "https://www.un.org/unispal/document/auto-insert-206268/", "publisher": "United Nations", "accessedDate": "2026-09-09" },
+        { "title": "Biltmore Conference Declaration - 11 May 1942 (Historical Text)", "url": "https://www.palquest.org/en/historictext/6723/biltmore-conference-declaration", "publisher": "Institute for Palestine Studies (Palquest)", "accessedDate": "2026-09-09" },
+        { "title": "Biltmore Program (1942)", "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/biltmore-program-1942", "publisher": "Encyclopedia.com", "accessedDate": "2026-09-09" },
+        { "title": "Biltmore Program (1942)", "url": "https://ecf.org.il/issues/issue/1426", "publisher": "Economic Cooperation Foundation", "accessedDate": "2026-09-09" }
+      ],
+      "era": "mandate",
+      "verified": true
+    },
+    {
+      "id": "1945-03-22-arab-league-founded-in-cairo",
+      "date": "1945-03-22",
+      "lat": 30.0444,
+      "lng": 31.2357,
+      "location": "Cairo, Egypt",
+      "title": "League of Arab States founded in Cairo with an annex on Palestine",
+      "category": "treaty",
+      "significance": 3,
+      "summary": "On 22 March 1945 representatives of Egypt, Iraq, Transjordan, Lebanon, Saudi Arabia and Syria signed the Pact of the League of Arab States in Cairo; Yemen joined in May. Building on the Alexandria Protocol of October 1944, the Pact created a Council and a permanent secretariat in Cairo, prohibited the use of force between members and provided for coordination of foreign, economic and cultural policy. A special annex on Palestine declared that Palestine had become independent in law when detached from the Ottoman Empire, that its existence and independence \"could no more be questioned de jure\" than that of the other Arab states, and that the Council should choose an Arab delegate from Palestine to take part in its work until the country achieved actual independence. The League became the collective voice of Arab governments on Palestine, rejected partition in 1947 and coordinated the entry of member armies in May 1948.",
+      "perspectives": [
+        {
+          "party": "Arab League",
+          "framing": "Presented as the institutional expression of Arab unity and solidarity, with Palestine's independence as a shared national cause and the Palestinian delegate's seat as recognition of Palestine's Arab identity."
+        },
+        {
+          "party": "Zionist leadership / Israeli government",
+          "framing": "Viewed as a bloc organised in part to block the Jewish national home, later responsible for the economic boycott and for coordinating the 1948 invasion; Israeli sources stress that the League's Palestine policy was set by governments rather than by Palestinians themselves."
+        },
+        {
+          "party": "United Kingdom",
+          "framing": "Britain had encouraged Arab unity in Anthony Eden's 1941 and 1943 statements and hoped the League would be a stabilising partner, while remaining wary of Egyptian leadership and of the League's stance on Palestine."
+        },
+        {
+          "party": "Historians",
+          "framing": "Emphasise the rivalry between Egypt, Iraq and the Hashemites in shaping the League, the limited powers of its Council, and the tension between the annex's affirmation of Palestinian independence and the member states' own ambitions in Palestine."
+        }
+      ],
+      "sources": [
+        { "title": "The Avalon Project: Pact of the League of Arab States, March 22, 1945", "url": "https://avalon.law.yale.edu/20th_century/arableag.asp", "publisher": "Yale Avalon Project", "accessedDate": "2026-09-09" },
+        { "title": "Foreign Relations of the United States, 1945, Volume VIII: The Near East and Africa (document 13)", "url": "https://history.state.gov/historicaldocuments/frus1945v08/d13", "publisher": "US Office of the Historian", "accessedDate": "2026-09-09" },
+        { "title": "Arab League | History, Purpose, Members, & Achievements", "url": "https://www.britannica.com/topic/Arab-League", "publisher": "Encyclopaedia Britannica", "accessedDate": "2026-09-09" },
+        { "title": "Charter of Arab League", "url": "https://www.refworld.org/legal/constinstr/las/1945/en/13854", "publisher": "Refworld (UNHCR)", "accessedDate": "2026-09-09" },
+        { "title": "Arab League: Fifty-nine years on", "url": "https://www.aljazeera.com/news/2004/3/22/arab-league-fifty-nine-years-on", "publisher": "Al Jazeera", "accessedDate": "2026-09-09" }
+      ],
+      "era": "mandate",
+      "verified": true
+    },
+    {
+      "id": "1946-07-22-king-david-hotel-bombing",
+      "date": "1946-07-22",
+      "lat": 31.7745,
+      "lng": 35.2225,
+      "location": "King David Hotel, Jerusalem",
+      "title": "Irgun bombs the King David Hotel, seat of the British administration",
+      "category": "attack",
+      "significance": 4,
+      "summary": "At about 12:37 on 22 July 1946 members of the Irgun Zvai Leumi, the underground led by Menachem Begin, detonated explosives concealed in milk churns in the basement of the King David Hotel in Jerusalem, whose southern wing housed the Secretariat of the Palestine government and British military headquarters. The operation, sanctioned within the Haganah-led Hebrew Resistance Movement after the mass arrests of \"Black Saturday\" on 29 June, brought down the wing's six storeys. According to figures reported by Haaretz and Britannica, 91 people were killed — 41 Arabs, 28 Britons, 17 Jews and 5 others — and 46 were injured. The Irgun said it had telephoned warnings to the hotel, the Palestine Post and the French consulate; British officials said no effective warning reached them. The Jewish Agency and Haganah condemned the attack and the united resistance framework collapsed, while British countermeasures and reprisals hardened relations with the Jewish community.",
+      "perspectives": [
+        {
+          "party": "Irgun / Israeli right",
+          "framing": "Described as a military operation against the headquarters of the occupying government, not against civilians; Begin maintained that warnings were given and that responsibility for the deaths lay with British officials who failed to evacuate, a position later Likud governments echoed at commemorations."
+        },
+        {
+          "party": "United Kingdom",
+          "framing": "Condemned by Prime Minister Attlee as an 'insane act of terrorism'; the authorities denied receiving a usable warning, imposed curfews and searches, and General Barker's order banning fraternisation with Jews provoked further outrage."
+        },
+        {
+          "party": "Jewish Agency / Haganah",
+          "framing": "Publicly denounced the 'dastardly crime' and withdrew from joint operations with the Irgun and Lehi, ending the Hebrew Resistance Movement, though it later emerged that the Haganah had initially approved an attack on the building."
+        },
+        {
+          "party": "Palestinian leadership",
+          "framing": "Point out that Arabs, mostly clerical staff, were the largest group killed, and cite the bombing as a leading example of Zionist terrorism against the Mandate and its employees."
+        }
+      ],
+      "sources": [
+        { "title": "This Day in Jewish History: Irgun Blows Up British HQ at Jerusalem's King David Hotel", "url": "https://www.haaretz.com/israel-news/2021-07-22/ty-article/this-day-in-jewish-history-irgun-blows-up-british-hq-at-jerusalems-king-david-hotel/0000017f-f5f9-ddde-abff-fdfd85990000", "publisher": "Haaretz", "accessedDate": "2026-09-09" },
+        { "title": "King David Hotel | hotel, Jerusalem", "url": "https://www.britannica.com/place/King-David-Hotel", "publisher": "Encyclopaedia Britannica", "accessedDate": "2026-09-09" },
+        { "title": "WATCH: The King David Hotel bombing, 1946", "url": "https://www.timesofisrael.com/watch-the-king-david-hotel-bombing-1946/", "publisher": "The Times of Israel", "accessedDate": "2026-09-09" },
+        { "title": "The Roots of Zionist Terrorism", "url": "https://www.palestine-studies.org/en/node/1654849", "publisher": "Institute for Palestine Studies", "accessedDate": "2026-09-09" },
+        { "title": "The bombing of The King David Hotel, July 1946 (Small Wars & Insurgencies, vol. 31, no. 3)", "url": "https://www.tandfonline.com/doi/full/10.1080/09592318.2020.1726575", "publisher": "Taylor & Francis (Small Wars & Insurgencies)", "accessedDate": "2026-09-09" },
+        { "title": "British Forces in the Middle East, 1945-1947 (photograph collection)", "url": "https://www.iwm.org.uk/collections/item/object/205208154", "publisher": "Imperial War Museums", "accessedDate": "2026-09-09" }
+      ],
+      "era": "mandate",
+      "verified": true,
+      "casualties": [
+        { "label": "Killed", "value": "91 (41 Arabs, 28 Britons, 17 Jews, 5 others)", "attribution": "Haaretz, citing the official toll", "note": "Some accounts give 92 including a later death." },
+        { "label": "Killed", "value": "91", "attribution": "Encyclopaedia Britannica" },
+        { "label": "Injured", "value": "46", "attribution": "Haaretz; Encyclopaedia Britannica" }
+      ]
+    },
+    {
+      "id": "1947-07-18-exodus-1947-intercepted-at-haifa",
+      "date": "1947-07-18",
+      "endDate": "1947-09-08",
+      "lat": 32.8191,
+      "lng": 34.9983,
+      "location": "Haifa",
+      "title": "Exodus 1947 refugee ship intercepted; passengers returned to Germany",
+      "category": "displacement",
+      "significance": 2,
+      "summary": "The Exodus 1947, formerly the American steamer President Warfield, sailed from Sète in southern France on 11 July 1947 carrying about 4,500 Jewish displaced persons, most of them Holocaust survivors from camps in Germany, seeking to enter Palestine in defiance of the 1939 White Paper quotas. Royal Navy destroyers shadowed the ship and boarded it in international waters on 18 July; in the struggle three people aboard — two passengers and a crew member — were killed and dozens injured, according to the United States Holocaust Memorial Museum and Yad Vashem. Towed into Haifa, the passengers were transferred to three transports and, instead of being sent to Cyprus, returned to France, where most refused to disembark; on 8 September they were landed by force at Hamburg and interned in camps in the British zone of Germany. Members of UNSCOP witnessed the scenes at Haifa, and the episode became a symbol of the immigration struggle.",
+      "perspectives": [
+        {
+          "party": "Zionist leadership / Israel",
+          "framing": "Part of the ha'apala or 'Aliyah Bet' clandestine immigration campaign; the forced return of Holocaust survivors to German soil was presented to world opinion as the moral bankruptcy of the White Paper and helped win sympathy for a Jewish state."
+        },
+        {
+          "party": "United Kingdom",
+          "framing": "Treated as enforcement of immigration law against an organised 'illegal immigration' operation; the decision to return the passengers to France rather than Cyprus was intended as a deterrent to future sailings, and the government blamed the organisers for the passengers' ordeal."
+        },
+        {
+          "party": "Palestinian / Arab leadership",
+          "framing": "Regarded the ships as an organised campaign to alter Palestine's demography against the will of its majority, and insisted that the Jewish refugee problem in Europe should not be solved at the expense of Palestine's Arabs."
+        },
+        {
+          "party": "United Nations (UNSCOP)",
+          "framing": "Several committee members present in Haifa on 18 July later cited what they saw as influencing their conclusion that the Mandate and its immigration regime could not continue."
+        }
+      ],
+      "sources": [
+        { "title": "'Exodus 1947'", "url": "https://encyclopedia.ushmm.org/content/en/article/exodus-1947", "publisher": "United States Holocaust Memorial Museum", "accessedDate": "2026-09-09" },
+        { "title": "18 July 1947, British Soldiers Removing Jews from the Exodus in the Port of Haifa", "url": "https://www.yadvashem.org/holocaust/this-month/july/1947.html", "publisher": "Yad Vashem", "accessedDate": "2026-09-09" },
+        { "title": "In pictures, the 70th anniversary of the SS Exodus in Haifa", "url": "https://www.timesofisrael.com/in-pictures-the-70th-anniversary-of-the-ss-exodus-in-haifa/", "publisher": "The Times of Israel", "accessedDate": "2026-09-09" },
+        { "title": "The Post-War Jewish Emigration to Palestine, 1945-1948 (photograph collection)", "url": "https://www.iwm.org.uk/collections/item/object/205022164", "publisher": "Imperial War Museums", "accessedDate": "2026-09-09" }
+      ],
+      "era": "mandate",
+      "verified": true,
+      "casualties": [
+        { "label": "Killed aboard during the boarding, 18 July 1947", "value": "3 (2 passengers, 1 crew member)", "attribution": "United States Holocaust Memorial Museum; Yad Vashem", "note": "Dozens more were injured." },
+        { "label": "Passengers deported to Germany", "value": "≈4,500 (4,515 per The Times of Israel)", "attribution": "United States Holocaust Memorial Museum; The Times of Israel" }
+      ]
+    },
+    {
+      "id": "1947-08-31-unscop-report-recommends-partition",
+      "date": "1947-08-31",
+      "lat": 46.2044,
+      "lng": 6.1432,
+      "location": "Geneva, Switzerland",
+      "title": "UNSCOP report recommends ending the Mandate and partitioning Palestine",
+      "category": "political",
+      "significance": 5,
+      "summary": "The United Nations Special Committee on Palestine was created on 15 May 1947 by the General Assembly's first special session after Britain referred the Palestine question to the UN. It comprised eleven states, none of them great powers. After hearings in Palestine in June and July, boycotted by the Arab Higher Committee, meetings with Arab governments in Beirut and visits to displaced-persons camps in Europe, the Committee signed its report in Geneva on 31 August 1947; it was transmitted on 3 September. All members recommended ending the Mandate and granting independence. A majority of seven — Canada, Czechoslovakia, Guatemala, the Netherlands, Peru, Sweden and Uruguay — proposed partition into Arab and Jewish states joined in economic union, with Jerusalem under international trusteeship; India, Iran and Yugoslavia proposed a federal state with Jerusalem as capital; Australia abstained. The Jewish Agency accepted the majority plan with reservations; the Arab Higher Committee and Arab states rejected both. The amended majority plan became General Assembly Resolution 181 on 29 November 1947.",
+      "perspectives": [
+        {
+          "party": "Jewish Agency / Zionist leadership",
+          "framing": "Accepted the majority plan, despite the loss of Jerusalem and western Galilee and the smallness of the proposed state, as international recognition of Jewish statehood and the best attainable outcome; it lobbied intensively for its adoption."
+        },
+        {
+          "party": "Palestinian leadership / Arab Higher Committee and Arab League",
+          "framing": "Boycotted the Committee's hearings in Palestine as prejudging the issue and rejected both plans, arguing that partition violated the right of the Arab majority to self-determination and that the UN had no authority to give away part of the country; the Arab League warned it would resist partition."
+        },
+        {
+          "party": "United Nations",
+          "framing": "Presented UNSCOP as an impartial inquiry by smaller states; its unanimous findings on the unworkability of the Mandate and the need for independence framed the General Assembly debate in the Ad Hoc Committee on Palestine."
+        },
+        {
+          "party": "United Kingdom",
+          "framing": "Announced that it would not implement any plan not accepted by both Arabs and Jews, and in September 1947 told the Assembly it intended to withdraw from Palestine, shifting responsibility to the UN."
+        }
+      ],
+      "sources": [
+        { "title": "Question of Palestine/Majority plan (Partition), Minority plan (Federal State) - UN Special Committee on Palestine (UNSCOP) - Report", "url": "https://www.un.org/unispal/document/auto-insert-179435/", "publisher": "United Nations", "accessedDate": "2026-09-09" },
+        { "title": "United Nations Resolution 181 | Palestine, History, Partition, Summary, & Map", "url": "https://www.britannica.com/topic/United-Nations-Resolution-181", "publisher": "Encyclopaedia Britannica", "accessedDate": "2026-09-09" },
+        { "title": "Partition of Palestine: UNSCOP Majority and Minority Plans", "url": "https://www.palestine-studies.org/en/node/1656507", "publisher": "Institute for Palestine Studies", "accessedDate": "2026-09-09" },
+        { "title": "Foreign Relations of the United States, 1947, Volume V: The Near East and Africa (document 810)", "url": "https://history.state.gov/historicaldocuments/frus1947v05/d810", "publisher": "US Office of the Historian", "accessedDate": "2026-09-09" },
+        { "title": "UN Partition Plan - Resolution 181 (1947)", "url": "https://www.gov.il/en/pages/1947-un-partition-plan", "publisher": "Israel Ministry of Foreign Affairs", "accessedDate": "2026-09-09" },
+        { "title": "UNSCOP Report (1947)", "url": "https://ecf.org.il/issues/issue/454", "publisher": "Economic Cooperation Foundation", "accessedDate": "2026-09-09" }
+      ],
+      "era": "mandate",
+      "verified": true
+    }
+  ],
+  "boundaryChanges": [
+    {
+      "date": "1917-12-09",
+      "description": "Jerusalem passes from Ottoman to British military control after the mayor's surrender; Allenby enters on 11 December and southern Palestine comes under the Occupied Enemy Territory Administration.",
+      "sources": ["https://www.nam.ac.uk/explore/edmund-allenby", "https://www.iwm.org.uk/collections/item/object/18134"]
+    },
+    {
+      "date": "1918-10-30",
+      "description": "Following the Battle of Megiddo (19–25 September) and the capture of Damascus (1 October), the Armistice of Mudros ends Ottoman rule throughout Palestine and Syria; the whole of Palestine is administered by the British-run OETA (South) pending a peace settlement.",
+      "sources": ["https://www.nam.ac.uk/explore/battle-megiddo", "https://www.britannica.com/place/Palestine/World-War-I-and-after"]
+    },
+    {
+      "date": "1920-04-25",
+      "description": "San Remo resolution allocates the mandates for Palestine and Mesopotamia to Britain and for Syria and Lebanon to France, fixing the future political division of the Levant without yet defining boundaries.",
+      "sources": ["https://www.un.org/unispal/document/auto-insert-207297/", "https://www.britannica.com/event/Conference-of-San-Remo"]
+    },
+    {
+      "date": "1920-07-01",
+      "description": "British civil administration under High Commissioner Sir Herbert Samuel replaces the military OETA in Palestine.",
+      "sources": ["https://www.britannica.com/place/Palestine/World-War-I-and-after"]
+    },
+    {
+      "date": "1922-09-16",
+      "description": "League of Nations Council approves the British Transjordan memorandum under Article 25 of the Mandate: the territory east of the Jordan is administered separately as the Emirate of Transjordan (under Abdullah since 1921) and excluded from the Jewish national home provisions.",
+      "sources": ["https://www.palquest.org/en/historictext/37961/council-league-nations-article-25-palestine-mandate-approving-memorandum-british-representative", "https://ecf.org.il/issues/issue/233"]
+    },
+    {
+      "date": "1923-03-07",
+      "description": "Paulet–Newcombe agreement between Britain and France fixes the northern boundary of Mandatory Palestine with Lebanon and Syria from the Mediterranean to al-Hamma, marking 71 boundary points.",
+      "sources": ["https://ecf.org.il/issues/issue/246", "https://jewishvirtuallibrary.org/franco-british-agreement-on-northern-border-paulet-newcombe-agreement-1923"]
+    },
+    {
+      "date": "1923-09-29",
+      "description": "The Mandates for Palestine and for Syria and Lebanon formally enter into force, giving the British and French administrations their definitive legal basis.",
+      "sources": ["https://www.un.org/unispal/document/auto-insert-201057/", "https://ecf.org.il/issues/issue/232"]
+    },
+    {
+      "date": "1937-07-07",
+      "description": "Proposal only (never implemented): Peel Commission partition lines — a Jewish state in the coastal plain and Galilee, an Arab state joined to Transjordan, and a British enclave from Jerusalem to Jaffa.",
+      "sources": ["https://www.un.org/unispal/document/auto-insert-197740/", "https://images.nationalarchives.gov.uk/asset/70062/"]
+    },
+    {
+      "date": "1946-05-25",
+      "description": "Transjordan becomes the independent Hashemite Kingdom of Transjordan under King Abdullah following the Anglo-Transjordanian Treaty of London (22 March 1946); the British mandate over Transjordan formally ends on 17 June 1946.",
+      "sources": ["https://link.springer.com/chapter/10.1057/9780230271173_91", "https://fanack.com/jordan/history-of-jordan/creation-of-transjordan/"]
+    },
+    {
+      "date": "1947-08-31",
+      "description": "Proposal only: UNSCOP majority plan lines for an Arab state, a Jewish state in economic union and an international Jerusalem, later amended and adopted as General Assembly Resolution 181 (29 November 1947).",
+      "sources": ["https://www.un.org/unispal/document/auto-insert-179435/"]
+    }
+  ],
+  "excluded": [
+    { "title": "Hussein–McMahon correspondence and Sykes–Picot Agreement", "date": "1915-07 to 1916-05", "reason": "Before the unit's start date (1917-11-02); referenced in perspectives instead." },
+    { "title": "Battle of Megiddo and Armistice of Mudros", "date": "1918-09-19 to 1918-10-30", "reason": "Military campaign largely outside Palestine's core; recorded as a boundary change rather than an event." },
+    { "title": "Battle of Tel Hai", "date": "1920-03-01", "reason": "Local clash in the contested northern frontier zone; low significance relative to the target count." },
+    { "title": "Founding of the Haganah", "date": "1920-06", "reason": "Organisational milestone noted within the Nebi Musa riots perspectives." },
+    { "title": "Cairo Conference and creation of the Emirate of Transjordan", "date": "1921-03", "reason": "Territorial change recorded under boundaryChanges (Transjordan memorandum, 1922-09-16)." },
+    { "title": "Shaw Commission report", "date": "1930-03-12", "reason": "Folded into the 1929 riots event as its official inquiry." },
+    { "title": "Hope Simpson report, Passfield White Paper and MacDonald letter", "date": "1930-10 to 1931-02", "reason": "Policy oscillation of lower significance; mentioned in the 1929 event's UK perspective." },
+    { "title": "Death of Izz al-Din al-Qassam", "date": "1935-11-20", "reason": "Precursor to the revolt; omitted to keep within the target count." },
+    { "title": "Woodhead Commission report", "date": "1938-11-09", "reason": "Folded into the Peel Commission event." },
+    { "title": "St James's Conference", "date": "1939-02-07 to 1939-03-17", "reason": "Folded into the 1939 White Paper event." },
+    { "title": "Patria and Struma sinkings", "date": "1940-11-25; 1942-02-24", "reason": "Immigration-ship tragedies; the immigration thread is represented by Exodus 1947." },
+    { "title": "Assassination of Lord Moyne in Cairo", "date": "1944-11-06", "reason": "Lehi attack of lower significance than the King David Hotel bombing." },
+    { "title": "Anglo-American Committee of Inquiry report", "date": "1946-04-20", "reason": "Superseded by UNSCOP; omitted to keep within the target count." },
+    { "title": "Operation Agatha ('Black Saturday') and Night of the Bridges", "date": "1946-06-17; 1946-06-29", "reason": "Folded into the King David Hotel bombing event as context." },
+    { "title": "Britain refers Palestine to the UN; first special session of the General Assembly", "date": "1947-02-14; 1947-04-28 to 1947-05-15", "reason": "Folded into the UNSCOP event as its origin." },
+    { "title": "Sergeants affair", "date": "1947-07-29 to 1947-07-31", "reason": "Lower significance; omitted to keep within the target count." },
+    { "title": "Transjordan independence (Treaty of London)", "date": "1946-03-22 / 1946-05-25", "reason": "Recorded as a boundary change; only indirectly part of the Palestine conflict." }
+  ],
+  "uncertainties": [
+    "Research-environment limitation: every publisher host (un.org, britannica.com, avalon.law.yale.edu, gov.il, palestine-studies.org, aljazeera.com, timesofisrael.com, haaretz.com, history.state.gov, nationalarchives.gov.uk and others) was blocked by the session's egress proxy for both WebFetch and curl (HTTP CONNECT 403, 'organization policy'). Source URLs were therefore taken verbatim from WebSearch result listings, never guessed, and facts were confirmed from the search engine's page excerpts of at least two distinct publishers per event rather than from full page reads. 'verified: true' reflects that excerpt-level cross-check; a downstream link check (npm run validate -- --links) from an unrestricted network is recommended.",
+    "1917 Jerusalem operations: the widely repeated totals of about 18,000 British and 25,000 Ottoman casualties (17 November–30 December 1917) could not be confirmed from an acceptable source; they are flagged in the casualties note.",
+    "Nebi Musa riots 1920: figures vary by source; Palin Commission figures (5 Jews and 4 Arabs killed, 216 Jews and 23 Arabs injured) are used, while some accounts give 9 killed and 244 injured overall.",
+    "1929 riots: Arab death toll is given as 116 in most citations of the Shaw Commission, 110 by the Jewish Virtual Library and 87 in one published excerpt of the report; all three are recorded side by side. Some sources date the Hebron killings to 23 August rather than 24 August.",
+    "Arab Revolt 1936–1939: casualty figures are estimates (Britannica: ≈5,000 Arabs, 415 Jews, 100 Britons; Institute for Palestine Studies: >5,000 Arabs killed, 15,000 wounded, 5,600 detained); the end date used (1939-08-31) is approximate, as sources say only that the revolt was suppressed by summer 1939.",
+    "1939 White Paper: issued 17 May 1939; one source gives 23 May, which is the date of the House of Commons vote approving it.",
+    "UNSCOP report: signed in Geneva on 31 August 1947 and transmitted to the Secretary-General on 3 September; the event is dated to the signing.",
+    "League of Nations Mandate: the Council session that approved the Mandate on 24 July 1922 met in London; the event is located there rather than in Geneva. The Mandate entered into force on 29 September 1923 (one search excerpt wrongly gave 1922).",
+    "King David Hotel: death toll is 91 in most sources; some count 92 including a victim who died later. The distribution of the 5 'others' varies between accounts.",
+    "Exodus 1947: passenger numbers are given as 'about 4,500' by USHMM and Yad Vashem and 4,515 by The Times of Israel.",
+    "Biltmore Program: endorsed by the Zionist General Council in late 1942 (October per Encyclopedia.com, November in other accounts).",
+    "Transjordan independence (boundary change, 1946): the only listed sources found through search were an academic press chapter and a general reference site; the date 25 May 1946 (parliament's proclamation of the kingdom) is used, with 17 June 1946 as the formal end of the mandate."
+  ]
+}
