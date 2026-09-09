@@ -96,9 +96,9 @@ export default function SidePanel() {
       className={
         'absolute inset-x-0 bottom-[120px] z-10 flex flex-col rounded-t-xl border-t border-[var(--color-border)] ' +
         'bg-[var(--color-panel)] text-[15px] leading-relaxed text-[var(--color-text)] shadow-[0_-8px_32px_rgba(0,0,0,0.35)] ' +
-        'max-h-[calc(100dvh_-_190px)] transition-[height] duration-300 ease-out motion-reduce:transition-none ' +
-        (panelOpen ? 'h-[72dvh] ' : 'h-[30dvh] ') +
-        'md:inset-x-auto md:top-0 md:right-0 md:bottom-[96px] md:h-auto md:max-h-none md:w-[400px] md:rounded-none ' +
+        'transition-[height] duration-300 ease-out motion-reduce:transition-none ' +
+        (panelOpen ? 'h-[min(72dvh,calc(100dvh_-_230px))] ' : 'h-[30dvh] ') +
+        'md:inset-x-auto md:top-0 md:right-0 md:bottom-[96px] md:h-auto md:w-[400px] md:rounded-none ' +
         'md:border-t-0 md:border-l md:shadow-none md:backdrop-blur-md md:transition-none'
       }
     >

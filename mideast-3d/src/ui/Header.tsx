@@ -32,7 +32,7 @@ export default function Header() {
   return (
     <header className="pointer-events-none absolute left-0 top-0 z-20 p-3 md:p-4">
       <div className="pointer-events-auto w-[min(calc(100vw_-_24px),420px)] rounded-lg border border-[var(--color-border)] bg-[var(--color-panel)] px-3 py-2 md:px-4 md:py-3 md:backdrop-blur-md">
-        <h1 className="text-[15px] font-semibold leading-tight tracking-tight text-[var(--color-text)] md:text-[17px]">
+        <h1 className="text-[14px] font-semibold leading-tight tracking-tight text-[var(--color-text)] md:text-[17px]">
           Middle East Crisis: A Sourced 3D Timeline
         </h1>
         <p className="mt-1 hidden text-[13px] leading-snug text-[var(--color-muted)] md:block">
@@ -46,7 +46,8 @@ export default function Header() {
           onKeyDown={onKeyDown}
         >
           <summary
-            className={`-ml-1 mt-0.5 inline-flex min-h-11 cursor-pointer select-none list-none items-center gap-1 rounded-md px-1 text-[13px] text-[var(--color-muted)] hover:text-[var(--color-text)] md:mt-1 md:min-h-7 ${FOCUS} [&::-webkit-details-marker]:hidden`}
+            // 44px hit area on touch screens; negative vertical margins keep the visible box compact.
+            className={`-mx-1 -my-2 inline-flex min-h-11 cursor-pointer select-none list-none items-center gap-1 rounded-md px-1 text-[13px] text-[var(--color-muted)] hover:text-[var(--color-text)] md:my-0 md:mt-1 md:min-h-7 ${FOCUS} [&::-webkit-details-marker]:hidden`}
           >
             About &amp; sources
             <svg

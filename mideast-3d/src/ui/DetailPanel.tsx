@@ -5,7 +5,6 @@
  */
 import { useEffect, useId, useRef, type CSSProperties } from 'react';
 import { CATEGORY_COLORS, CATEGORY_LABELS, EVENT_CATEGORIES, type EventCategory, type TimelineEvent } from '../data/types';
-import { chapterForEvent } from '../data/loader';
 import { actions, formatDate } from '../state/store';
 import { chapterEvents, openEvent } from './ChapterPanel';
 import { SignificanceDots } from './Legend';
@@ -62,7 +61,6 @@ export default function DetailPanel({ event }: DetailPanelProps) {
     headingRef.current?.focus({ preventScroll: true });
   }, [event.id]);
 
-  const chapter = chapterForEvent(event);
   const siblings = chapterEvents(event.era).events;
   const index = siblings.findIndex((e) => e.id === event.id);
   const prev = index > 0 ? siblings[index - 1] : undefined;
@@ -121,18 +119,12 @@ export default function DetailPanel({ event }: DetailPanelProps) {
           <span aria-hidden="true"> &middot; </span>
           <span>{event.location}</span>
         </p>
-        <p className="mt-1 flex items-center gap-2 text-[12px] text-[var(--color-muted)]">
+        <p className="mt-1 flex items-center gap-2 whitespace-nowrap text-[12px] text-[var(--color-muted)]">
           <span>Significance</span>
           <span aria-hidden="true">
             <SignificanceDots value={event.significance} />
           </span>
           <span>{event.significance} of 5</span>
-          {chapter && (
-            <>
-              <span aria-hidden="true">&middot;</span>
-              <span className="truncate">{chapter.title}</span>
-            </>
-          )}
         </p>
       </header>
 
