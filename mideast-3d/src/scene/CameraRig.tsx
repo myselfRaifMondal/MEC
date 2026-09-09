@@ -22,7 +22,7 @@ type Controls = ComponentRef<typeof OrbitControls>;
 export const CAMERA_MIN_DISTANCE = 1.15;
 export const CAMERA_MAX_DISTANCE = 4;
 /** Closest the camera comes when focusing an event (globe radii). */
-export const EVENT_FOCUS_DISTANCE = 1.7;
+export const EVENT_FOCUS_DISTANCE = 1.3;
 export const CHAPTER_FLIGHT_SECONDS = 1.6;
 export const EVENT_FLIGHT_SECONDS = 1.2;
 const BASE_ROTATE_SPEED = 0.5;

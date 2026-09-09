@@ -165,7 +165,8 @@ export const actions = {
     }
   },
   selectEvent(id: string | null): void {
-    setState({ selectedEventId: id, panelOpen: id ? true : state.panelOpen });
+    // Selecting an event pauses playback so the detail panel and globe stay put.
+    setState({ selectedEventId: id, panelOpen: id ? true : state.panelOpen, playing: id ? false : state.playing });
   },
   hoverEvent(id: string | null): void {
     if (state.hoveredEventId !== id) setState({ hoveredEventId: id });

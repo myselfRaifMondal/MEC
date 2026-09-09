@@ -176,7 +176,7 @@ function Graticule() {
 
 export default function Globe({ children, graticule = true, onBackgroundClick }: GlobeProps) {
   return (
-    <div data-testid="globe-canvas" className="absolute inset-0">
+    <div data-testid="globe-canvas" className="absolute inset-x-0 top-0 bottom-[calc(120px+30dvh)] md:bottom-24 md:right-[400px]">
       <p className="sr-only">Interactive globe. Drag to rotate, scroll or pinch to zoom.</p>
       <Canvas
         dpr={[1, 1.75]}
