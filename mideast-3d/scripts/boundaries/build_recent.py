@@ -56,7 +56,6 @@ NED = C.NE_SOURCE_DISPUTED
 day_before = M.day_before
 
 # ------------------------------------------------------------------ key dates
-OCT7 = '2023-10-07'
 GROUND_INVASION = '2023-10-27'        # IDF ground operation begins in northern Gaza
 NETZARIM_START = '2023-11-05'         # IDF announces Gaza City encircled, strip cut in two
 BUFFER_START = '2023-12-01'           # ~1 km perimeter buffer zone reported from Dec 2023
@@ -66,7 +65,6 @@ KHAN_YOUNIS_END = '2024-04-07'        # 98th Division withdrawn from Khan Younis
 RAFAH_START = '2024-05-07'            # IDF seizes the Rafah crossing
 PHILADELPHI = '2024-05-29'            # IDF announces operational control of the Philadelphi corridor
 LEBANON_GROUND = '2024-10-01'         # Israeli ground operation in south Lebanon begins
-LEBANON_CEASEFIRE = '2024-11-27'      # Israel-Lebanon ceasefire in force
 SYRIA_ENTRY = '2024-12-08'            # IDF enters the UNDOF area of separation and Mount Hermon
 GAZA_CEASEFIRE_1 = '2025-01-19'       # first phase of the January 2025 ceasefire
 IRON_WALL = '2025-01-21'              # IDF operation in Jenin camp begins (Tulkarm from 27 Jan)
@@ -77,7 +75,6 @@ MORAG = '2025-04-02'                  # Morag corridor announced
 GAZA_CITY_OFFENSIVE = '2025-09-16'    # ground push into Gaza City
 GAZA_CEASEFIRE_2 = '2025-10-10'       # ceasefire under the 20-point plan; Yellow Line
 LEBANON_2026 = '2026-03-02'           # Hezbollah enters the 2026 Iran war; Israeli ground operations follow
-LEBANON_CEASEFIRE_2026 = '2026-04-08' # Pakistan-mediated ceasefire (per research overview)
 
 # Research-workflow sources (src/data/research/chapters-sources.json, accessed 2026-09-09)
 SRC_2803 = ('UN meeting coverage, Security Council resolution 2803 (17 Nov 2025), '
@@ -92,8 +89,6 @@ SRC_CNN_LBN = ('CNN, 27 Nov 2024, Israel-Hezbollah ceasefire takes effect, '
 SRC_BRIT_CEASEFIRE = ('Encyclopaedia Britannica, Israel-Hamas War: ceasefire and hostage exchange '
                       '(Jan-Mar 2025), https://www.britannica.com/event/Israel-Hamas-War/'
                       'Ceasefire-and-hostage-exchange-January-March-2025')
-SRC_OHCHR_2024 = ('OHCHR, 15 Aug 2024, Gaza death toll passes 40,000, https://www.ohchr.org/en/'
-                  'statements-and-speeches/2024/08/gaza-turk-pleads-end-fighting-death-toll-passes-40000')
 GAZA_MAPS = ('hand-digitised from IDF evacuation/deployment maps as carried by Times of Israel, '
              'Reuters and Al Jazeera, UN OCHA Gaza situation updates and ISW/Critical Threats '
              'control-of-terrain maps')
@@ -128,7 +123,7 @@ def features() -> list[dict]:
     # The line runs north -> south then west to the coast; close it around the south-east
     # of the strip (Egypt border corner, then far east and north) to get the Israeli side.
     yellow_east = C.clean(C.polygon(
-        H.YELLOW_LINE + [[34.15, 31.347], [34.15, 31.15], [34.65, 31.15], [34.65, 31.65], [34.40, 31.65]]
+        H.YELLOW_LINE + [[34.15, 31.337], [34.15, 31.15], [34.65, 31.15], [34.65, 31.65], [34.35, 31.65]]
     ).intersection(gaza))
     yellow_west = C.difference(gaza, yellow_east)
     yellow_line = C.shared_line(yellow_east, yellow_west)

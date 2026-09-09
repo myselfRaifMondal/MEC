@@ -1,0 +1,965 @@
+{
+  "era": "camp-david-lebanon",
+  "unit": "camp-david-lebanon",
+  "events": [
+    {
+      "id": "1974-10-28-rabat-summit-plo-recognised-arafat-un",
+      "date": "1974-10-28",
+      "lat": 34.0209,
+      "lng": -6.8416,
+      "location": "Rabat, Morocco (and UN General Assembly, New York)",
+      "title": "Rabat summit names PLO sole Palestinian representative; Arafat addresses UN",
+      "category": "political",
+      "significance": 3,
+      "summary": "At the seventh Arab League summit in Rabat, Morocco, on 28 October 1974, Arab heads of state recognised the Palestine Liberation Organization as the sole legitimate representative of the Palestinian people and affirmed its right to establish a national authority on any liberated Palestinian territory. Jordan's King Hussein, whose government had claimed to speak for West Bank Palestinians, accepted the decision. On 13 November 1974 PLO chairman Yasser Arafat became the first representative of a non-state entity to address a plenary session of the UN General Assembly, telling delegates that he carried an olive branch in one hand and a freedom fighter's gun in the other. On 22 November the Assembly adopted Resolution 3236, affirming Palestinian rights to self-determination, national independence and sovereignty and the right of return, and Resolution 3237, granting the PLO observer status. Israel and the United States voted against both resolutions.",
+      "perspectives": [
+        {
+          "party": "PLO / Palestinian leadership",
+          "framing": "Presents Rabat and the UN appearance as international recognition of the Palestinian people as a national actor with the PLO as its sole legitimate representative, and describes the armed struggle as legitimate resistance to occupation; Arafat's speech is remembered for the 'olive branch' formula."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Rejected the PLO as a terrorist organisation committed by its covenant to Israel's destruction, opposed its admission to the General Assembly and regarded Resolution 3236 as one-sided; Israel did not recognise the PLO until 1993."
+        },
+        {
+          "party": "Jordan",
+          "framing": "King Hussein reluctantly accepted the Rabat decision, giving up Jordan's claim to negotiate for the West Bank, while maintaining administrative and legal ties to the territory until 1988."
+        },
+        {
+          "party": "United Nations",
+          "framing": "Describes 1974 as the year the Palestinian question returned to the General Assembly agenda as a question of the inalienable rights of a people rather than solely a refugee problem, with the PLO invited to participate as an observer."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Part II (1947-1977) - Origins and Evolution of the Palestine Problem",
+          "url": "https://www.un.org/unispal/history2/origins-and-evolution-of-the-palestine-problem/part-ii-1947-1977/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Palestine Liberation Organization | History, Leaders, & Facts",
+          "url": "https://www.britannica.com/topic/Palestine-Liberation-Organization",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "General Assembly Resolution 3236 (XXIX) - Question of Palestine, 22 November 1974",
+          "url": "https://undocs.org/A/RES/3236(XXIX)",
+          "publisher": "United Nations (Official Document System)",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "General Assembly Resolution 3237 (XXIX) - Observer status for the PLO, 22 November 1974",
+          "url": "https://undocs.org/A/RES/3237(XXIX)",
+          "publisher": "United Nations (Official Document System)",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "camp-david-lebanon",
+      "verified": false
+    },
+    {
+      "id": "1975-04-13-lebanese-civil-war-begins",
+      "date": "1975-04-13",
+      "lat": 33.8605,
+      "lng": 35.5255,
+      "location": "Ain al-Rummaneh, Beirut, Lebanon",
+      "title": "Lebanese civil war begins with the Ain al-Rummaneh bus attack in Beirut",
+      "category": "war",
+      "significance": 4,
+      "summary": "On 13 April 1975 gunmen fired on a congregation outside a Maronite church in Beirut's Ain al-Rummaneh district, where Phalangist (Kataeb) leader Pierre Gemayel was attending a service, killing four people. Hours later Phalangist gunmen attacked a bus carrying Palestinians through the same district, killing about 27 passengers according to most accounts, with reported figures ranging from 22 to 30. The killings ignited fighting between Christian militias and an alliance of the PLO and the leftist Lebanese National Movement, beginning a civil war that lasted until 1990. Syrian forces intervened in June 1976 and were later endorsed by the Arab League as an Arab Deterrent Force; Israel armed Christian militias and, from 1978, a client militia in the south. The PLO's armed presence in Lebanon, sanctioned by the 1969 Cairo Agreement, was central to the conflict. Commonly cited estimates put the war's death toll over fifteen years at 120,000 to 150,000.",
+      "perspectives": [
+        {
+          "party": "Lebanese Phalangist / Kataeb leadership",
+          "framing": "Described the fighting as a defence of Lebanese sovereignty against an armed Palestinian 'state within a state' that had drawn Israeli reprisals onto Lebanon, and portrayed the church shooting as the provocation that began the war."
+        },
+        {
+          "party": "PLO and Lebanese National Movement",
+          "framing": "Called the bus attack the 'Ain al-Rummaneh massacre' and the opening act of a Phalangist campaign against Palestinians and their Lebanese allies, framing the war as a struggle against a sectarian Maronite-dominated order."
+        },
+        {
+          "party": "Syria",
+          "framing": "Presented its 1976 intervention as restoring order and preventing partition of Lebanon, acting with Arab League endorsement; critics on all sides saw it as an attempt to control Lebanon and the PLO."
+        },
+        {
+          "party": "Historians",
+          "framing": "Generally treat the 13 April incidents as the trigger rather than the cause of a war rooted in sectarian power-sharing, socioeconomic grievances, the Palestinian armed presence after 1970 and regional rivalries."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Lebanese Civil War | Causes, Combatants, Timeline, & Facts",
+          "url": "https://www.britannica.com/event/Lebanese-Civil-War",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "The Reagan Administration and Lebanon, 1981-1984",
+          "url": "https://history.state.gov/milestones/1981-1988/lebanon",
+          "publisher": "US Department of State, Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Israel - War in Lebanon",
+          "url": "https://www.britannica.com/place/Israel/War-in-Lebanon",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "camp-david-lebanon",
+      "verified": false,
+      "casualties": [
+        {
+          "label": "Killed in the Ain al-Rummaneh bus attack",
+          "value": "about 27 (reported range 22-30)",
+          "attribution": "Contemporary press and historians' accounts",
+          "note": "Figures for the bus attack of 13 April 1975 vary by source."
+        },
+        {
+          "label": "Killed in the church shooting earlier the same day",
+          "value": "4",
+          "attribution": "Contemporary press and historians' accounts"
+        },
+        {
+          "label": "Total killed in the Lebanese civil war, 1975-1990",
+          "value": "≈120,000-150,000",
+          "attribution": "Historians' estimates (range)",
+          "note": "No authoritative official count exists; estimates vary widely."
+        }
+      ]
+    },
+    {
+      "id": "1976-03-30-land-day",
+      "date": "1976-03-30",
+      "lat": 32.8644,
+      "lng": 35.2978,
+      "location": "Sakhnin, Galilee, Israel",
+      "title": "Land Day: six Palestinian citizens of Israel killed during Galilee strike",
+      "category": "political",
+      "significance": 2,
+      "summary": "On 30 March 1976 Palestinian citizens of Israel held a general strike and demonstrations against a government plan to expropriate roughly 20,000 dunams (about 2,000 hectares) of land in the Galilee, much of it Arab-owned, for state and Jewish development projects. Israeli police and army units entered villages including Sakhnin, Arraba and Deir Hanna to confront protesters; in clashes there and in Kafr Kanna and Taybeh six unarmed Palestinian citizens of Israel were shot dead, about 100 people were injured and hundreds were arrested, according to Palestinian civil-rights organisations and press accounts. The strike was the first mass political mobilisation of Arab citizens of Israel since 1948, and the date has been commemorated annually since then as Land Day (Yawm al-Ard) by Palestinians in Israel, in the occupied territories and in the diaspora. The land expropriation nonetheless proceeded.",
+      "perspectives": [
+        {
+          "party": "Palestinian citizens of Israel / Palestinian leadership",
+          "framing": "Commemorate Land Day as a founding moment of collective Palestinian identity inside Israel and as resistance to what they call the 'Judaization of the Galilee' and the confiscation of Arab land; the six dead are described as martyrs of the land."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Described the expropriations as lawful development of state land for the whole population, and characterised the strike as illegal disturbances incited by the Communist Party (Rakah) in which security forces responded to violent rioting."
+        },
+        {
+          "party": "Historians",
+          "framing": "See 1976 as the point at which Arab citizens of Israel, under military government until 1966, began organising as a national minority; the day later became a pan-Palestinian commemoration linking citizens of Israel with the occupied territories."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Land Day",
+          "url": "https://www.britannica.com/topic/Land-Day",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Land Day - topic page",
+          "url": "https://www.timesofisrael.com/topic/land-day/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "camp-david-lebanon",
+      "verified": false,
+      "casualties": [
+        {
+          "label": "Palestinian citizens of Israel killed",
+          "value": "6",
+          "attribution": "Widely reported figure (Israeli and Palestinian accounts)"
+        },
+        {
+          "label": "Injured",
+          "value": "about 100",
+          "attribution": "Palestinian civil-rights organisations and press accounts"
+        }
+      ]
+    },
+    {
+      "id": "1977-05-17-likud-election-victory",
+      "date": "1977-05-17",
+      "lat": 31.7767,
+      "lng": 35.2054,
+      "location": "Knesset, Jerusalem",
+      "title": "Likud wins Israeli election, ending Labour's dominance; Begin becomes PM",
+      "category": "political",
+      "significance": 3,
+      "summary": "In elections to the ninth Knesset on 17 May 1977 the right-wing Likud bloc led by Menachem Begin won 43 of 120 seats, ahead of the Labour Alignment's 32, ending almost three decades of Labour-led government since 1948 in what Israelis called the mahapach, or upheaval. Begin formed a coalition with the National Religious Party and Agudat Yisrael, appointed Labour's Moshe Dayan as foreign minister and later added the centrist Democratic Movement for Change. The new government was ideologically committed to retaining the West Bank, which it called Judea and Samaria, and it expanded Israeli settlements there and in the Gaza Strip and the Golan Heights. Under Begin, Israel nonetheless entered negotiations with Egypt that produced the Camp David Accords and the 1979 peace treaty, while confrontation with the PLO in Lebanon led towards the 1982 war.",
+      "perspectives": [
+        {
+          "party": "Likud / Israeli government",
+          "framing": "Presented the victory as a democratic revolution ending Labour's hegemony and affirming the Jewish people's right to the whole Land of Israel; Begin described Judea and Samaria as liberated, not occupied, territory."
+        },
+        {
+          "party": "Palestinian leadership / PLO",
+          "framing": "Viewed Begin, a former Irgun commander, as an advocate of permanent Israeli control of the occupied territories, and pointed to accelerated settlement building as evidence that the autonomy offered at Camp David was not intended to lead to statehood."
+        },
+        {
+          "party": "United States",
+          "framing": "The Carter administration initially feared Begin's positions would obstruct a comprehensive settlement, but later worked with him to reach the Egyptian-Israeli agreements."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Likud | Israeli political party",
+          "url": "https://www.britannica.com/topic/Likud",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Menachem Begin",
+          "url": "https://www.britannica.com/biography/Menachem-Begin",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Camp David Accords and the Arab-Israeli Peace Process",
+          "url": "https://history.state.gov/milestones/1977-1980/camp-david",
+          "publisher": "US Department of State, Office of the Historian",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "camp-david-lebanon",
+      "verified": false
+    },
+    {
+      "id": "1977-11-19-sadat-visits-jerusalem",
+      "date": "1977-11-19",
+      "lat": 31.7767,
+      "lng": 35.2054,
+      "location": "Knesset, Jerusalem",
+      "title": "Sadat visits Jerusalem and addresses the Knesset",
+      "category": "political",
+      "significance": 4,
+      "summary": "On 19 November 1977 Egyptian President Anwar Sadat flew to Israel, becoming the first Arab head of state to visit the country, after telling the Egyptian parliament on 9 November that he was ready to go to the ends of the earth, even to the Knesset, in search of peace. Prime Minister Menachem Begin had responded with a formal invitation. On 20 November Sadat addressed the Knesset in Jerusalem, offering peace and recognition in return for Israeli withdrawal from all territories occupied in 1967 and a solution of the Palestinian question based on self-determination; Begin replied that everything was negotiable except Jerusalem. The visit broke the Arab consensus against direct dealings with Israel: Syria, Libya, Algeria, South Yemen and the PLO condemned it and formed a Steadfastness and Confrontation Front. It opened the direct negotiations that led to the Camp David summit of September 1978.",
+      "perspectives": [
+        {
+          "party": "Egypt",
+          "framing": "Sadat presented the journey as a bold initiative to break the psychological barrier between Arabs and Israelis and recover Sinai, insisting he sought a comprehensive peace including Palestinian rights rather than a separate deal."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Welcomed the visit as historic recognition of Israel by the largest Arab state and as vindication of its call for direct negotiations, while rejecting full withdrawal to the 1967 lines and any Palestinian state."
+        },
+        {
+          "party": "PLO and the Steadfastness Front",
+          "framing": "Condemned the visit as a betrayal of Arab solidarity and of the Palestinian cause, and accused Sadat of pursuing a separate peace that would leave the occupation of the West Bank, Gaza and the Golan intact."
+        },
+        {
+          "party": "United States",
+          "framing": "The Carter administration, which had been pursuing a Geneva conference with Soviet participation, shifted to supporting direct Egyptian-Israeli talks and later mediated them."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Camp David Accords and the Arab-Israeli Peace Process",
+          "url": "https://history.state.gov/milestones/1977-1980/camp-david",
+          "publisher": "US Department of State, Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Anwar Sadat | Biography, History, Facts, & Death",
+          "url": "https://www.britannica.com/biography/Anwar-Sadat",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Camp David Accords | Summary, History, & Facts",
+          "url": "https://www.britannica.com/event/Camp-David-Accords",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "camp-david-lebanon",
+      "verified": false
+    },
+    {
+      "id": "1978-03-11-coastal-road-attack-operation-litani-unifil",
+      "date": "1978-03-11",
+      "endDate": "1978-03-21",
+      "lat": 33.2705,
+      "lng": 35.2038,
+      "location": "Southern Lebanon (Tyre-Litani area); coastal highway near Herzliya, Israel",
+      "title": "Coastal Road attack, Operation Litani and UN Resolution 425 creating UNIFIL",
+      "category": "war",
+      "significance": 3,
+      "summary": "On 11 March 1978 eleven Fatah militants who had landed by sea north of Tel Aviv hijacked a bus on the coastal highway; in the ensuing fighting with Israeli forces near Herzliya 38 Israelis, including 13 children, were killed and more than 70 wounded, according to the Israeli government, and nine of the attackers died. On 14 March Israel launched Operation Litani, occupying southern Lebanon up to the Litani River with the stated aim of pushing PLO fighters away from the border. Lebanese and Palestinian figures cited by historians put deaths at roughly 1,100 to 2,000, most of them Lebanese and Palestinian civilians, with between 100,000 and 250,000 people displaced; Israel reported about 20 soldiers killed. On 19 March the UN Security Council adopted Resolution 425, calling for Israeli withdrawal and establishing the UN Interim Force in Lebanon (UNIFIL), whose first troops arrived within days. Israel withdrew by 13 June, handing border positions to the militia of Major Saad Haddad.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Calls the bus hijacking the Coastal Road massacre, the deadliest terrorist attack in Israel to that date, and describes Operation Litani as a necessary military response to eliminate PLO bases used to attack northern Israel."
+        },
+        {
+          "party": "PLO",
+          "framing": "Described the seaborne raid as a commando operation against Israel led by Dalal Mughrabi, and the invasion as collective punishment of Lebanese and Palestinian civilians intended to destroy the Palestinian presence in south Lebanon."
+        },
+        {
+          "party": "Lebanon",
+          "framing": "Protested the invasion as a violation of its sovereignty causing mass displacement, and sought Security Council action to secure Israeli withdrawal and restore state authority in the south."
+        },
+        {
+          "party": "United Nations",
+          "framing": "Resolution 425 called for strict respect for Lebanon's territorial integrity and Israel's immediate withdrawal; UNIFIL's mandate was to confirm the withdrawal, restore peace and security and help the Lebanese government regain authority, tasks it describes as obstructed by Israel's hand-over to the Haddad militia."
+        }
+      ],
+      "sources": [
+        {
+          "title": "UNIFIL Background",
+          "url": "https://unifil.unmissions.org/en/background",
+          "publisher": "United Nations Interim Force in Lebanon",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Security Council Resolution 425 (1978) - S/RES/425(1978)",
+          "url": "https://undocs.org/S/RES/425(1978)",
+          "publisher": "United Nations (Official Document System)",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Lebanese Civil War | Causes, Combatants, Timeline, & Facts",
+          "url": "https://www.britannica.com/event/Lebanese-Civil-War",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "camp-david-lebanon",
+      "verified": false,
+      "casualties": [
+        {
+          "label": "Israelis killed in the Coastal Road attack",
+          "value": "38 (including 13 children)",
+          "attribution": "Israeli government",
+          "note": "More than 70 wounded; nine of the eleven attackers were killed."
+        },
+        {
+          "label": "Killed in Lebanon during Operation Litani",
+          "value": "≈1,100-2,000",
+          "attribution": "Lebanese and Palestinian figures cited by historians",
+          "note": "Mostly Lebanese and Palestinian civilians; no authoritative count."
+        },
+        {
+          "label": "Displaced in southern Lebanon",
+          "value": "≈100,000-250,000",
+          "attribution": "UN and Lebanese estimates cited by historians"
+        },
+        {
+          "label": "Israeli soldiers killed in Operation Litani",
+          "value": "about 20",
+          "attribution": "Israel Defense Forces"
+        }
+      ]
+    },
+    {
+      "id": "1978-09-17-camp-david-accords",
+      "date": "1978-09-17",
+      "lat": 39.6481,
+      "lng": -77.4653,
+      "location": "Camp David, Maryland, United States",
+      "title": "Camp David Accords signed by Sadat, Begin and Carter",
+      "category": "treaty",
+      "significance": 5,
+      "summary": "After thirteen days of secluded negotiations hosted by US President Jimmy Carter at the presidential retreat of Camp David, Maryland, Egyptian President Anwar Sadat and Israeli Prime Minister Menachem Begin signed two framework agreements at the White House on 17 September 1978. The Framework for the Conclusion of a Peace Treaty between Egypt and Israel provided for full Israeli withdrawal from the Sinai Peninsula, demilitarised zones and normal relations in exchange for peace. The Framework for Peace in the Middle East proposed a five-year transitional period of full autonomy for the inhabitants of the West Bank and Gaza under an elected self-governing authority, with negotiations on the final status of the territories, and invoked Security Council Resolution 242. Jordan and Palestinian representatives, invited to join, declined, and the autonomy talks later stalled. Sadat and Begin shared the 1978 Nobel Peace Prize; an Arab summit in Baghdad in November threatened Egypt with sanctions.",
+      "perspectives": [
+        {
+          "party": "United States",
+          "framing": "Presents the accords as a landmark of American mediation that produced the first Arab-Israeli peace and a framework, however incomplete, for resolving the Palestinian question through negotiation under Resolution 242."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Regarded the accords as securing peace with its most powerful neighbour at the price of Sinai while preserving Israeli claims in Judea and Samaria; Begin insisted that autonomy applied to inhabitants, not territory, and did not preclude settlements."
+        },
+        {
+          "party": "Egypt",
+          "framing": "Sadat described the agreements as the path to recovering all of Sinai and as a first step toward comprehensive peace, though Egyptian foreign minister Muhammad Ibrahim Kamil resigned in protest at the weak linkage to Palestinian rights."
+        },
+        {
+          "party": "PLO and Arab League states",
+          "framing": "Rejected the accords as a separate peace concluded without Palestinian participation, and argued that 'autonomy' amounted to continued occupation; the Baghdad summit resolved to isolate Egypt if it signed a treaty."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Camp David Accords and the Arab-Israeli Peace Process",
+          "url": "https://history.state.gov/milestones/1977-1980/camp-david",
+          "publisher": "US Department of State, Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Camp David Accords; September 17, 1978",
+          "url": "https://avalon.law.yale.edu/20th_century/campdav.asp",
+          "publisher": "Yale Law School, Avalon Project",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Camp David Accords | Summary, History, & Facts",
+          "url": "https://www.britannica.com/event/Camp-David-Accords",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "camp-david-lebanon",
+      "verified": false
+    },
+    {
+      "id": "1979-03-26-egypt-israel-peace-treaty",
+      "date": "1979-03-26",
+      "lat": 38.8977,
+      "lng": -77.0365,
+      "location": "White House, Washington, DC",
+      "title": "Egypt and Israel sign peace treaty in Washington",
+      "category": "treaty",
+      "significance": 5,
+      "summary": "On 26 March 1979 Anwar Sadat and Menachem Begin signed the Egypt-Israel peace treaty on the White House lawn, with Jimmy Carter signing as witness, after Carter's visits to Cairo and Jerusalem earlier that month resolved a deadlock over linkage to Palestinian autonomy, oil supplies and timing. The treaty, the first between Israel and an Arab state, ended the state of war that had existed since 1948, committed Israel to withdraw from the Sinai Peninsula in stages over three years, limited forces in defined zones, guaranteed Israeli passage through the Suez Canal and the Strait of Tiran, and provided for full diplomatic and economic relations; ambassadors were exchanged in February 1980. Most Arab states broke relations with Egypt: the Arab League suspended its membership on 27 March 1979 and moved its headquarters from Cairo to Tunis. The PLO and the Steadfastness Front denounced the treaty as a separate peace that abandoned the Palestinians.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Hails the treaty as the cornerstone of Israel's security, removing the largest Arab army from the circle of war in exchange for territory, and as a model of land-for-peace with a state that recognised Israel."
+        },
+        {
+          "party": "Egypt",
+          "framing": "Presents the treaty as the recovery of every inch of Egyptian territory through diplomacy and as fulfilment of Sadat's initiative, while stressing that Egypt continued to support Palestinian rights and the autonomy negotiations."
+        },
+        {
+          "party": "Arab League / Steadfastness Front",
+          "framing": "Condemned Egypt for breaking Arab ranks and recognising Israel without a settlement for the Palestinians, Syria or Jordan, and expelled Egypt from Arab institutions until 1989."
+        },
+        {
+          "party": "United States",
+          "framing": "Regards the treaty as one of the major achievements of US diplomacy, underwritten by large annual military and economic aid to both countries and by the Multinational Force and Observers in Sinai."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Camp David Accords and the Arab-Israeli Peace Process",
+          "url": "https://history.state.gov/milestones/1977-1980/camp-david",
+          "publisher": "US Department of State, Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Israel-Egypt Peace Treaty; March 26, 1979",
+          "url": "https://avalon.law.yale.edu/20th_century/isregypt.asp",
+          "publisher": "Yale Law School, Avalon Project",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Anwar Sadat | Biography, History, Facts, & Death",
+          "url": "https://www.britannica.com/biography/Anwar-Sadat",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Camp David Accords | Summary, History, & Facts",
+          "url": "https://www.britannica.com/event/Camp-David-Accords",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "camp-david-lebanon",
+      "verified": false
+    },
+    {
+      "id": "1980-07-30-jerusalem-basic-law-and-unsc-478",
+      "date": "1980-07-30",
+      "lat": 31.7767,
+      "lng": 35.2054,
+      "location": "Knesset, Jerusalem",
+      "title": "Knesset passes Jerusalem Basic Law; Security Council Resolution 478 rejects it",
+      "category": "political",
+      "significance": 3,
+      "summary": "On 30 July 1980 the Knesset enacted the Basic Law: Jerusalem, Capital of Israel, declaring 'Jerusalem, complete and united' to be the capital of Israel and the seat of the president, Knesset, government and Supreme Court. The law consolidated the extension of Israeli law to East Jerusalem carried out in June 1967 and was passed while Egyptian-Israeli talks on Palestinian autonomy were under way, prompting Egypt to suspend them. On 20 August 1980 the UN Security Council adopted Resolution 478 by fourteen votes to none, with the United States abstaining, declaring the law null and void, affirming that it violated international law and calling on states with diplomatic missions in Jerusalem to withdraw them. The thirteen countries with embassies in the city subsequently moved them to Tel Aviv. Israel maintains that Jerusalem has been its capital since 1949; Palestinians claim East Jerusalem as the capital of a future state.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Describes the Basic Law as a declaratory affirmation of Jerusalem's status as the eternal, undivided capital of the Jewish people, changing nothing on the ground, and regards Resolution 478 as a political act that ignores Jewish history in the city."
+        },
+        {
+          "party": "Palestinian leadership / PLO",
+          "framing": "Calls the law the annexation of occupied Arab Jerusalem and a violation of international law, and demands East Jerusalem, including the Haram al-Sharif / Temple Mount, as the capital of a Palestinian state."
+        },
+        {
+          "party": "United Nations",
+          "framing": "Holds that the acquisition of territory by force is inadmissible, that East Jerusalem is occupied territory, and that measures altering the character and status of the city are null and void; Resolution 478 has been reaffirmed in later resolutions."
+        },
+        {
+          "party": "Egypt",
+          "framing": "Protested that the law violated the spirit of the Camp David framework and suspended the autonomy negotiations in response."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Basic Law: Jerusalem, Capital of Israel",
+          "url": "https://www.knesset.gov.il/laws/special/eng/basic10_eng.htm",
+          "publisher": "The Knesset",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Security Council Resolution 478 (1980) - S/RES/478(1980)",
+          "url": "https://undocs.org/S/RES/478(1980)",
+          "publisher": "United Nations (Official Document System)",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Part III (1978-1983) - Origins and Evolution of the Palestine Problem",
+          "url": "https://www.un.org/unispal/history2/origins-and-evolution-of-the-palestine-problem/part-iii-1978-1983/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "camp-david-lebanon",
+      "verified": false
+    },
+    {
+      "id": "1981-12-14-golan-heights-law",
+      "date": "1981-12-14",
+      "lat": 32.9925,
+      "lng": 35.6900,
+      "location": "Golan Heights (Katzrin), Israeli-occupied Syrian territory",
+      "title": "Israel applies its law to the Golan Heights; Security Council Resolution 497",
+      "category": "political",
+      "significance": 2,
+      "summary": "On 14 December 1981 the Knesset passed the Golan Heights Law, extending Israeli law, jurisdiction and administration to the Syrian territory Israel had occupied since June 1967, in a single-day session called by Prime Minister Menachem Begin. The measure, widely described as annexation, replaced military government with civilian administration and offered Israeli citizenship to the roughly 13,000 Druze residents, most of whom refused it and staged a months-long general strike in 1982. On 17 December 1981 the UN Security Council unanimously adopted Resolution 497, declaring the Israeli decision null and void and without international legal effect and demanding that it be rescinded. The United States suspended a recently signed strategic cooperation memorandum with Israel in protest. Syria continued to demand the return of the entire plateau to the line of 4 June 1967, and the Golan remained the central issue in later Israeli-Syrian negotiations.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Argued that Syria had used the heights to shell Israeli communities before 1967, had rejected peace, and that applying Israeli law regularised the status of a strategically vital area; Israel avoids the word annexation and refers to the Golan as sovereign Israeli territory."
+        },
+        {
+          "party": "Syria",
+          "framing": "Denounces the law as illegal annexation of occupied Syrian land and insists that no peace is possible without full Israeli withdrawal from the Golan."
+        },
+        {
+          "party": "United Nations",
+          "framing": "Resolution 497 and later General Assembly resolutions treat the Golan as occupied Syrian territory to which the Fourth Geneva Convention applies, and reject the Israeli measure as without legal effect."
+        },
+        {
+          "party": "Golan Druze residents",
+          "framing": "Most residents declared loyalty to Syria, refused Israeli citizenship and, in 1982, held a general strike against the imposition of Israeli identity cards."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Golan Heights | Map, Israel, Syria, & History",
+          "url": "https://www.britannica.com/place/Golan-Heights",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Security Council Resolution 497 (1981) - S/RES/497(1981)",
+          "url": "https://undocs.org/S/RES/497(1981)",
+          "publisher": "United Nations (Official Document System)",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Part III (1978-1983) - Origins and Evolution of the Palestine Problem",
+          "url": "https://www.un.org/unispal/history2/origins-and-evolution-of-the-palestine-problem/part-iii-1978-1983/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "camp-david-lebanon",
+      "verified": false
+    },
+    {
+      "id": "1982-04-25-israel-completes-sinai-withdrawal",
+      "date": "1982-04-25",
+      "lat": 27.9158,
+      "lng": 34.3299,
+      "location": "Sharm el-Sheikh, Sinai Peninsula, Egypt",
+      "title": "Israel completes withdrawal from Sinai under the peace treaty",
+      "category": "political",
+      "significance": 3,
+      "summary": "On 25 April 1982 Israel completed its withdrawal from the Sinai Peninsula, three years after signing the peace treaty, returning the final third of the territory to Egypt on schedule despite the assassination of Anwar Sadat in October 1981. Earlier stages had returned El Arish in May 1979 and about two-thirds of the peninsula by January 1980. In the final days Israeli soldiers forcibly removed settlers and nationalist protesters from Yamit and other settlements in north-eastern Sinai, which were then demolished, and handed over airfields, oil installations and Sharm el-Sheikh. Egyptian President Hosni Mubarak reaffirmed the treaty, and a US-led Multinational Force and Observers took up positions to monitor the limited-force zones. Sinai became the first territory captured by Israel in 1967 to be returned to Arab sovereignty. A dispute over the small Taba enclave was settled by arbitration in Egypt's favour in 1988 and 1989.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Presented the withdrawal as proof that Israel honours agreements and pays a painful territorial price for peace, while insisting that the Sinai precedent of dismantling settlements did not apply to Judea, Samaria and Gaza."
+        },
+        {
+          "party": "Egypt",
+          "framing": "Celebrated 25 April as Sinai Liberation Day, the complete restoration of Egyptian sovereignty over its territory achieved by Sadat's initiative and confirmed under Mubarak."
+        },
+        {
+          "party": "Israeli settlers and nationalist opposition",
+          "framing": "Opposed the evacuation of Yamit as the uprooting of Jewish communities and a dangerous precedent; the Movement to Stop the Retreat from Sinai organised the resistance."
+        },
+        {
+          "party": "Palestinian leadership",
+          "framing": "Noted that Egypt had regained its land while the autonomy framework for the West Bank and Gaza remained unimplemented and settlement construction accelerated."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Camp David Accords and the Arab-Israeli Peace Process",
+          "url": "https://history.state.gov/milestones/1977-1980/camp-david",
+          "publisher": "US Department of State, Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Camp David Accords | Summary, History, & Facts",
+          "url": "https://www.britannica.com/event/Camp-David-Accords",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Part III (1978-1983) - Origins and Evolution of the Palestine Problem",
+          "url": "https://www.un.org/unispal/history2/origins-and-evolution-of-the-palestine-problem/part-iii-1978-1983/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "camp-david-lebanon",
+      "verified": false
+    },
+    {
+      "id": "1982-06-06-israel-invades-lebanon",
+      "date": "1982-06-06",
+      "endDate": "1982-08-12",
+      "lat": 33.5571,
+      "lng": 35.3729,
+      "location": "Southern Lebanon and Beirut",
+      "title": "Israel invades Lebanon (Operation Peace for Galilee) and besieges Beirut",
+      "category": "war",
+      "significance": 5,
+      "summary": "On 6 June 1982, three days after the shooting of its ambassador in London by the Abu Nidal group, Israel invaded Lebanon in an operation it named Peace for Galilee, stating the aim of pushing PLO forces 40 kilometres from the border. Israeli forces advanced far beyond that line, fought Syrian units in the Beqaa Valley, and by 13 June had encircled West Beirut, where the PLO leadership and thousands of fighters were based. The siege, marked by heavy shelling and air strikes on the city, lasted until a ceasefire on 12 August. The UN Security Council demanded Israeli withdrawal in Resolution 509 on 6 June. Lebanese police figures cited by news agencies put deaths in Lebanon by late August at about 17,800, most of them civilians; Israel disputed those figures. The IDF reported 368 soldiers killed by the end of the siege. The war ended the PLO's territorial base in Lebanon and drew US Marines into a multinational force.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Presented Operation Peace for Galilee as a defensive war to end PLO rocket and terrorist attacks on northern Israel after the July 1981 ceasefire, later expanded by Defence Minister Ariel Sharon to remove the PLO and Syrian forces from Lebanon; Israeli critics called it a war of choice."
+        },
+        {
+          "party": "PLO / Palestinian leadership",
+          "framing": "Describes the invasion as an attempt to destroy the Palestinian national movement and the refugee camps, and the ten-week defence of Beirut as heroic resistance that ended only when Lebanese allies asked the PLO to leave."
+        },
+        {
+          "party": "Lebanon",
+          "framing": "Successive Lebanese governments condemned the invasion and occupation, while Phalangist leaders under Bashir Gemayel welcomed the removal of the PLO and were elected to the presidency in August 1982 with Israeli support."
+        },
+        {
+          "party": "United Nations",
+          "framing": "Resolution 509 demanded that Israel withdraw immediately and unconditionally to Lebanon's internationally recognised boundaries; UNIFIL positions were overrun and the force's mandate could not be carried out."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Israel - War in Lebanon",
+          "url": "https://www.britannica.com/place/Israel/War-in-Lebanon",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "The Reagan Administration and Lebanon, 1981-1984",
+          "url": "https://history.state.gov/milestones/1981-1988/lebanon",
+          "publisher": "US Department of State, Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "UNIFIL Background",
+          "url": "https://unifil.unmissions.org/en/background",
+          "publisher": "United Nations Interim Force in Lebanon",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Security Council Resolution 509 (1982) - S/RES/509(1982)",
+          "url": "https://undocs.org/S/RES/509(1982)",
+          "publisher": "United Nations (Official Document System)",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "camp-david-lebanon",
+      "verified": false,
+      "casualties": [
+        {
+          "label": "Killed in Lebanon, June-August 1982",
+          "value": "≈17,800",
+          "attribution": "Lebanese police figures cited by news agencies",
+          "note": "Includes civilians and combatants; Israel disputed the figures and other estimates range from roughly 10,000 to 19,000."
+        },
+        {
+          "label": "Israeli soldiers killed by the end of the siege of Beirut",
+          "value": "368",
+          "attribution": "Israel Defense Forces",
+          "note": "Israeli military deaths rose to more than 650 by the 1985 withdrawal."
+        }
+      ]
+    },
+    {
+      "id": "1982-08-21-plo-evacuation-from-beirut",
+      "date": "1982-08-21",
+      "endDate": "1982-09-01",
+      "lat": 33.9020,
+      "lng": 35.5140,
+      "location": "Port of Beirut, Lebanon",
+      "title": "PLO fighters and leadership evacuated from Beirut; Arafat departs for Tunis",
+      "category": "displacement",
+      "significance": 4,
+      "summary": "Under a plan negotiated by US envoy Philip Habib and accepted by Lebanon, Israel and the PLO, Palestinian fighters began leaving West Beirut by sea and by road on 21 August 1982, supervised by a multinational force of US, French and Italian troops. Yasser Arafat sailed from the port on 30 August and the evacuation ended on 1 September. Contemporary US and press accounts put the number of PLO and Palestine Liberation Army fighters evacuated at roughly 8,000 to 11,000, together with about 3,600 Syrian soldiers; the fighters were dispersed to Tunisia, Syria, Jordan, Iraq, Sudan, the two Yemens and Algeria, and the PLO's headquarters moved to Tunis. The United States gave written assurances that Palestinian civilians remaining in the camps would be protected, and the multinational force left Beirut by 10 September. The departure removed the PLO's last territorial base bordering Israel and left the refugee camps without armed defenders two weeks before the Sabra and Shatila killings.",
+      "perspectives": [
+        {
+          "party": "PLO",
+          "framing": "Presented the departure as an honourable withdrawal after a two-month defence of Beirut, undertaken to spare the city, and accused the United States and Israel of breaking guarantees for the safety of the civilians left behind."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Described the evacuation as the achievement of the war's central aim, the expulsion of the PLO's military infrastructure from Lebanon, and later argued that the PLO's dispersal to Tunis weakened it politically."
+        },
+        {
+          "party": "United States",
+          "framing": "Credited the Habib mission with ending the siege without a battle for the city, and framed the multinational force as a short-term guarantor of a peaceful evacuation rather than a peacekeeping presence."
+        },
+        {
+          "party": "Lebanon",
+          "framing": "The Lebanese government and most Lebanese factions sought the PLO's departure to end the siege and restore state authority, while Palestinian residents of the camps feared retaliation once the fighters left."
+        }
+      ],
+      "sources": [
+        {
+          "title": "The Reagan Administration and Lebanon, 1981-1984",
+          "url": "https://history.state.gov/milestones/1981-1988/lebanon",
+          "publisher": "US Department of State, Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Palestine Liberation Organization | History, Leaders, & Facts",
+          "url": "https://www.britannica.com/topic/Palestine-Liberation-Organization",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Israel - War in Lebanon",
+          "url": "https://www.britannica.com/place/Israel/War-in-Lebanon",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Part III (1978-1983) - Origins and Evolution of the Palestine Problem",
+          "url": "https://www.un.org/unispal/history2/origins-and-evolution-of-the-palestine-problem/part-iii-1978-1983/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "camp-david-lebanon",
+      "verified": false,
+      "casualties": [
+        {
+          "label": "PLO and Palestine Liberation Army fighters evacuated from Beirut",
+          "value": "≈8,000-11,000",
+          "attribution": "Contemporary US and press accounts",
+          "note": "Figures vary by source; about 8,300 PLO fighters is a commonly cited count."
+        },
+        {
+          "label": "Syrian soldiers evacuated",
+          "value": "≈3,600",
+          "attribution": "Contemporary US and press accounts"
+        }
+      ]
+    },
+    {
+      "id": "1982-09-16-sabra-and-shatila-massacre",
+      "date": "1982-09-16",
+      "endDate": "1982-09-18",
+      "lat": 33.8585,
+      "lng": 35.4935,
+      "location": "Sabra and Shatila, West Beirut, Lebanon",
+      "title": "Sabra and Shatila massacre in Israeli-controlled West Beirut",
+      "category": "attack",
+      "significance": 5,
+      "summary": "Between 16 and 18 September 1982, two days after the assassination of Lebanese President-elect Bashir Gemayel, Lebanese Phalangist (Kataeb) militiamen entered the Sabra neighbourhood and the adjoining Shatila Palestinian refugee camp in West Beirut and killed Palestinian and Lebanese civilians, including women, children and elderly people, over roughly 36 hours. Israeli forces, which had moved into West Beirut on 15 September, surrounded the camps, allowed the militia in and fired illumination flares at night. Israel's Kahan Commission estimated 700 to 800 dead; Lebanese authorities counted about 460 bodies, and the Palestinian Red Crescent reported more than 2,000, with some estimates higher. The UN Security Council condemned the killings in Resolution 521 on 19 September, and the General Assembly in December termed them an act of genocide. In February 1983 the Kahan Commission found Israel indirectly responsible and Defence Minister Ariel Sharon personally responsible, leading to his resignation; no Phalangist commander was prosecuted.",
+      "perspectives": [
+        {
+          "party": "Palestinian leadership / PLO",
+          "framing": "Describes the killings as a massacre of defenceless refugees carried out under Israeli protection after the fighters had left on US guarantees, and holds Israel and its commanders directly responsible alongside the Phalange."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Accepted the Kahan Commission's finding of indirect responsibility for failing to foresee and stop the militia, while stressing that the killings were committed by Lebanese Phalangists and denying that Israeli soldiers took part; some Israelis at the time called the inquiry a model of accountability."
+        },
+        {
+          "party": "Lebanese Forces / Phalange",
+          "framing": "Denied ordering a massacre, portraying the entry into the camps as a search for remaining fighters after Gemayel's assassination; the party has never accepted institutional responsibility."
+        },
+        {
+          "party": "United Nations",
+          "framing": "Resolution 521 condemned 'the criminal massacre of Palestinian civilians in Beirut'; General Assembly resolution 37/123 D of 16 December 1982 resolved that the massacre was an act of genocide, a characterisation contested by Israel and several Western states."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Sabra and Shatila massacres | Lebanon, 1982",
+          "url": "https://www.britannica.com/event/Sabra-and-Shatila-massacres",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "The Reagan Administration and Lebanon, 1981-1984",
+          "url": "https://history.state.gov/milestones/1981-1988/lebanon",
+          "publisher": "US Department of State, Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Security Council Resolution 521 (1982) - S/RES/521(1982)",
+          "url": "https://undocs.org/S/RES/521(1982)",
+          "publisher": "United Nations (Official Document System)",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Part III (1978-1983) - Origins and Evolution of the Palestine Problem",
+          "url": "https://www.un.org/unispal/history2/origins-and-evolution-of-the-palestine-problem/part-iii-1978-1983/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "camp-david-lebanon",
+      "verified": false,
+      "casualties": [
+        {
+          "label": "Killed (estimate)",
+          "value": "700-800",
+          "attribution": "Israeli Kahan Commission of Inquiry (1983)",
+          "note": "Based on Israeli military intelligence assessments; the commission said the true figure might be higher."
+        },
+        {
+          "label": "Bodies counted",
+          "value": "≈460",
+          "attribution": "Lebanese authorities",
+          "note": "Count of bodies recovered from the camps; excludes people buried by relatives or taken away."
+        },
+        {
+          "label": "Killed",
+          "value": "more than 2,000",
+          "attribution": "Palestinian Red Crescent Society",
+          "note": "Some Palestinian and journalistic estimates put the toll at up to 3,500."
+        }
+      ]
+    },
+    {
+      "id": "1983-10-23-beirut-bombings-emergence-of-hezbollah",
+      "date": "1983-10-23",
+      "lat": 33.8209,
+      "lng": 35.4884,
+      "location": "Beirut International Airport area, Lebanon",
+      "title": "Beirut bombings of 1983 and the emergence of Hezbollah",
+      "category": "attack",
+      "significance": 4,
+      "summary": "On 23 October 1983 two truck bombs struck the barracks of the US Marine contingent at Beirut airport and a French paratroop base in the city's south-west, killing 241 US service members and 58 French soldiers, according to their governments, along with several Lebanese civilians. Six months earlier, on 18 April 1983, a car bomb had destroyed the US embassy on Beirut's seafront, killing 63 people, including 17 Americans, according to the State Department. A group calling itself Islamic Jihad claimed the attacks; the United States attributed them to Lebanese Shia militants organised with Iranian Revolutionary Guard support, the network that became Hezbollah, which had formed after the 1982 Israeli invasion and published its founding open letter in February 1985. Hezbollah denies responsibility for the 1983 bombings. The multinational force withdrew in February 1984, the Israel-Lebanon agreement of 17 May 1983 collapsed, and Hezbollah's armed campaign against Israeli forces in southern Lebanon began.",
+      "perspectives": [
+        {
+          "party": "United States",
+          "framing": "Describes the barracks bombing as the deadliest terrorist attack on Americans before 2001, attributes it to Hezbollah acting with Iranian direction, and designated Hezbollah a foreign terrorist organisation in 1997."
+        },
+        {
+          "party": "Hezbollah",
+          "framing": "Presents itself as an Islamic resistance movement born of the 1982 invasion to expel Israeli and Western forces from Lebanon, denies involvement in the 1983 bombings, and describes attacks on foreign troops in Lebanon as resistance to occupation."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Regards Hezbollah as an Iranian proxy created to wage war on Israel from Lebanon, and cites its attacks on Israeli forces from 1983 onward as justification for maintaining the security zone."
+        },
+        {
+          "party": "Iran",
+          "framing": "Acknowledges supporting the formation of Hezbollah as part of Islamic resistance to Israel and Western intervention, while denying operational responsibility for the Beirut bombings."
+        }
+      ],
+      "sources": [
+        {
+          "title": "The Reagan Administration and Lebanon, 1981-1984",
+          "url": "https://history.state.gov/milestones/1981-1988/lebanon",
+          "publisher": "US Department of State, Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "What Is Hezbollah?",
+          "url": "https://www.cfr.org/backgrounder/what-hezbollah",
+          "publisher": "Council on Foreign Relations",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Hezbollah | Meaning, History, Ideology, & Facts",
+          "url": "https://www.britannica.com/topic/Hezbollah",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "camp-david-lebanon",
+      "verified": false,
+      "casualties": [
+        {
+          "label": "US service members killed in the barracks bombing, 23 October 1983",
+          "value": "241",
+          "attribution": "US Department of Defense",
+          "note": "220 Marines, 18 sailors and 3 soldiers."
+        },
+        {
+          "label": "French soldiers killed in the Drakkar building bombing, 23 October 1983",
+          "value": "58",
+          "attribution": "French government"
+        },
+        {
+          "label": "Killed in the US embassy bombing, 18 April 1983",
+          "value": "63 (including 17 Americans)",
+          "attribution": "US Department of State"
+        }
+      ]
+    },
+    {
+      "id": "1985-06-10-israel-withdraws-to-south-lebanon-security-zone",
+      "date": "1985-06-10",
+      "lat": 33.3625,
+      "lng": 35.5917,
+      "location": "Marjayoun, southern Lebanon",
+      "title": "Israel withdraws to a self-declared 'security zone' in southern Lebanon",
+      "category": "political",
+      "significance": 2,
+      "summary": "Following a cabinet decision of 14 January 1985, Israel withdrew its forces from most of Lebanon in three stages, leaving Sidon in February, the Beqaa and Nabatiyeh areas in April, and completing the pullback on 10 June 1985. It retained a strip roughly 10 to 20 kilometres deep along the border, which it called the security zone, policed together with the South Lebanon Army militia under General Antoine Lahad and overlapping UNIFIL's area of operations. The withdrawal, prompted by mounting casualties and domestic opposition, followed the collapse of the 17 May 1983 Israel-Lebanon agreement and a growing guerrilla campaign by Shia militias, including Hezbollah and Amal, against the occupation. Israel said the zone was needed to protect its northern towns; Lebanon and the United Nations regarded it as continued occupation contrary to Resolution 425. Fighting between Hezbollah and Israeli and SLA forces continued in and around the zone until Israel's full withdrawal in May 2000.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Presented the security zone as a limited defensive buffer to keep attackers away from Israel's northern border after the failure of the 1983 agreement, and the SLA as a local Lebanese partner."
+        },
+        {
+          "party": "Hezbollah",
+          "framing": "Called the zone an occupation to be ended by resistance, and treated the 1985 withdrawal as the first fruit of its armed campaign; the SLA was described as a collaborationist militia."
+        },
+        {
+          "party": "Lebanon",
+          "framing": "The Lebanese government demanded complete Israeli withdrawal under Resolution 425 and did not recognise the SLA, while residents of the zone lived under a mixed Israeli-SLA administration."
+        },
+        {
+          "party": "United Nations",
+          "framing": "UNIFIL reported that Israel's continued control of the zone prevented it from fulfilling its mandate, and the Security Council repeatedly reiterated its call for full withdrawal."
+        }
+      ],
+      "sources": [
+        {
+          "title": "UNIFIL Background",
+          "url": "https://unifil.unmissions.org/en/background",
+          "publisher": "United Nations Interim Force in Lebanon",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Israel - War in Lebanon",
+          "url": "https://www.britannica.com/place/Israel/War-in-Lebanon",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Hezbollah | Meaning, History, Ideology, & Facts",
+          "url": "https://www.britannica.com/topic/Hezbollah",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "camp-david-lebanon",
+      "verified": false
+    }
+  ],
+  "boundaryChanges": [],
+  "excluded": [],
+  "uncertainties": []
+}
