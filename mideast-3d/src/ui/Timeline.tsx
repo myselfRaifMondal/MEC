@@ -250,6 +250,8 @@ function useTrackWidth(ref: RefObject<HTMLDivElement | null>): number {
 /* ------------------------------------------------------------------ */
 
 const MIN_LABEL_PX = 56;
+/** Rough advance width of one uppercase 10px tracking-wide character. */
+const LABEL_CHAR_PX = 6.6;
 const ACTIVE_BG = 'color-mix(in srgb, var(--color-accent) 14%, transparent)';
 
 const ChapterMarkers = memo(function ChapterMarkers({
@@ -259,18 +261,35 @@ const ChapterMarkers = memo(function ChapterMarkers({
   activeChapterId: string;
   trackWidth: number;
 }) {
+  // The active label may overflow its segment; anchor it to whichever side has
+  // room and hide inactive labels it would cover.
+  const activeMarker = MARKERS.find((m) => m.chapter.id === activeChapterId);
+  let anchorRight = false;
+  let activeLabelStart = 0;
+  let activeLabelEnd = 0;
+  if (activeMarker) {
+    const estLabelPx = activeMarker.chapter.title.length * LABEL_CHAR_PX + 8;
+    const segStart = (activeMarker.startPct / 100) * trackWidth;
+    const segEnd = ((activeMarker.startPct + activeMarker.widthPct) / 100) * trackWidth;
+    anchorRight = estLabelPx > trackWidth - segStart && segEnd > trackWidth - segStart;
+    activeLabelStart = anchorRight ? segEnd - estLabelPx : segStart;
+    activeLabelEnd = anchorRight ? segEnd : segStart + estLabelPx;
+  }
+
   return (
     <div className="relative h-[22px] md:h-7" role="group" aria-label="Chapters">
       {MARKERS.map((m) => {
         const { id, title } = m.chapter;
         const active = id === activeChapterId;
-        const fits = (m.widthPct / 100) * trackWidth >= MIN_LABEL_PX;
-        const anchorRight = m.startPct > 55;
+        const segStart = (m.startPct / 100) * trackWidth;
+        const segEnd = ((m.startPct + m.widthPct) / 100) * trackWidth;
+        const covered = activeMarker !== undefined && segStart < activeLabelEnd && segEnd > activeLabelStart;
+        const fits = segEnd - segStart >= MIN_LABEL_PX && !covered;
         const labelClass = active
-          ? `absolute top-1/2 z-10 block -translate-y-1/2 whitespace-nowrap rounded px-1 text-[10px] font-medium uppercase leading-4 tracking-wide text-amber-300 ${
+          ? `pointer-events-none absolute top-1/2 z-10 block -translate-y-1/2 whitespace-nowrap rounded px-1 text-[10px] font-medium uppercase leading-4 tracking-wide text-amber-300 ${
               anchorRight ? 'right-0' : 'left-1'
             }`
-          : `absolute left-1.5 right-0.5 top-1/2 -translate-y-1/2 truncate text-[10px] uppercase leading-4 tracking-wide ${
+          : `pointer-events-none absolute left-1.5 right-0.5 top-1/2 -translate-y-1/2 truncate text-[10px] uppercase leading-4 tracking-wide ${
               fits ? 'hidden md:block' : 'hidden'
             }`;
         return (
@@ -293,7 +312,7 @@ const ChapterMarkers = memo(function ChapterMarkers({
           >
             <span
               aria-hidden="true"
-              className={`absolute bottom-0 left-0 w-px ${active ? 'h-full bg-amber-500' : 'h-2.5 bg-slate-400/60'}`}
+              className={`pointer-events-none absolute bottom-0 left-0 w-px ${active ? 'h-full bg-amber-500' : 'h-2.5 bg-slate-400/60'}`}
             />
             <span
               aria-hidden="true"
@@ -387,7 +406,7 @@ function NextIcon() {
 /* ------------------------------------------------------------------ */
 
 const ICON_BUTTON =
-  'inline-flex shrink-0 items-center justify-center rounded-md border transition-colors hover:bg-white/10 focus-visible:outline-2 focus-visible:outline-offset-1 focus-visible:outline-amber-500 disabled:cursor-not-allowed disabled:opacity-35 disabled:hover:bg-transparent';
+  'shrink-0 items-center justify-center rounded-md border transition-colors hover:bg-white/10 focus-visible:outline-2 focus-visible:outline-offset-1 focus-visible:outline-amber-500 disabled:cursor-not-allowed disabled:opacity-35 disabled:hover:bg-transparent';
 
 export default function Timeline() {
   const time = useAppState((s) => s.time);
@@ -475,7 +494,7 @@ export default function Timeline() {
               aria-label={playing ? 'Pause timeline' : 'Play timeline'}
               aria-pressed={playing}
               onClick={actions.togglePlay}
-              className={`${ICON_BUTTON} h-11 w-11 md:h-9 md:w-9`}
+              className={`${ICON_BUTTON} inline-flex h-11 w-11 md:h-9 md:w-9`}
               style={{
                 borderColor: 'var(--color-border)',
                 background: playing ? 'color-mix(in srgb, var(--color-accent) 18%, transparent)' : undefined,

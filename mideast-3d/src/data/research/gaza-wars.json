@@ -1,0 +1,1622 @@
+{
+  "era": "gaza-wars",
+  "unit": "gaza-wars",
+  "events": [
+    {
+      "id": "2007-09-19-israel-declares-gaza-hostile-territory",
+      "date": "2007-09-19",
+      "lat": 31.5017,
+      "lng": 34.4668,
+      "location": "Gaza Strip",
+      "title": "Israel declares Gaza 'hostile territory' and tightens the blockade",
+      "category": "political",
+      "significance": 4,
+      "summary": "On 19 September 2007, three months after Hamas seized control of the Gaza Strip from Fatah, Israel's Security Cabinet unanimously declared Gaza a 'hostile territory' and announced that it would restrict the passage of goods, reduce fuel and electricity supplies and limit the movement of people, citing continued rocket fire on southern Israel. The decision formalised and tightened the closure that Israel and Egypt had applied to Gaza's crossings since June 2007, with Israel controlling the land crossings, airspace and coastline and Egypt controlling the Rafah crossing. UN Secretary-General Ban Ki-moon and Human Rights Watch said cutting essential services to the civilian population would breach Israel's obligations under international humanitarian law, while the United States said it shared Israel's assessment of Hamas. The blockade shaped Gaza's economy and humanitarian conditions for the rest of the era.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Framed the decision as a lawful response to Hamas, described as a terrorist organisation that had turned Gaza into hostile territory, and said sanctions would be applied only after legal and humanitarian review so as not to create a humanitarian crisis."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Called the declaration a 'declaration of war' and collective punishment of 1.5 million Palestinians, and said it would not change its policies."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The Secretary-General urged Israel to reconsider, saying any cut-off of vital services would be contrary to Israel's obligations towards the civilian population under international humanitarian and human rights law; UN agencies later described the closure as a blockade amounting to collective punishment."
+        },
+        {
+          "party": "Human-rights organisations",
+          "framing": "Human Rights Watch said that cutting fuel and electricity to civilians would violate the laws of war, and rejected the argument that the designation released Israel from its obligations as the power controlling Gaza's borders."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Security Cabinet declares Gaza hostile territory",
+          "url": "https://www.un.org/unispal/document/auto-insert-195603",
+          "publisher": "United Nations (UNISPAL)",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Israel labels Gaza 'enemy entity'",
+          "url": "https://www.aljazeera.com/news/2007/9/19/israel-labels-gaza-enemy-entity",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Israel: Threatened Sanctions on Gaza Violate Laws of War",
+          "url": "https://www.hrw.org/news/2007/09/19/israel-threatened-sanctions-gaza-violate-laws-war",
+          "publisher": "Human Rights Watch",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "More UN officials voice concern at Israel's declaration of Gaza as 'hostile territory'",
+          "url": "https://news.un.org/en/story/2007/09/232052",
+          "publisher": "UN News",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "gaza-wars",
+      "verified": true
+    },
+    {
+      "id": "2007-11-27-annapolis-conference",
+      "date": "2007-11-27",
+      "lat": 38.9784,
+      "lng": -76.4922,
+      "location": "Annapolis, Maryland, United States",
+      "title": "Annapolis Conference relaunches Israeli-Palestinian negotiations",
+      "category": "political",
+      "significance": 3,
+      "summary": "On 27 November 2007, US President George W. Bush hosted Israeli Prime Minister Ehud Olmert and Palestinian Authority President Mahmoud Abbas at the United States Naval Academy in Annapolis, Maryland, with delegations from more than 40 countries and organisations, including Saudi Arabia and Syria. Olmert and Abbas issued a Joint Understanding committing both sides to immediate and continuous bilateral negotiations intended to conclude a peace treaty resolving all core issues before the end of 2008, and to implement their obligations under the 2003 Roadmap, with the United States monitoring compliance. Hamas, which controlled Gaza and was not invited, rejected the conference and staged counter-rallies. Negotiations continued through 2008, including far-reaching Israeli proposals, but produced no agreement before Olmert's resignation and the outbreak of the Gaza war in December 2008.",
+      "perspectives": [
+        {
+          "party": "United States",
+          "framing": "Presented Annapolis as the launch of the first serious final-status negotiations in seven years and as international backing for a two-state solution, with the Roadmap as the framework and the US as judge of compliance."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Olmert described the conference as an opportunity to reach a historic agreement and stressed that implementation of any treaty would depend on Palestinian fulfilment of Roadmap security obligations."
+        },
+        {
+          "party": "Palestinian Authority",
+          "framing": "Abbas called for an end to the occupation that began in 1967, a halt to settlement expansion and a resolution of the refugee question, and hoped for a treaty within a year."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Denounced the conference as a betrayal of Palestinian rights, said Abbas had no mandate to negotiate concessions, and organised mass protests in Gaza."
+        }
+      ],
+      "sources": [
+        {
+          "title": "The Annapolis Conference, 27 November 2007",
+          "url": "https://www.gov.il/en/pages/the-annapolis-conference-27-nov-2007",
+          "publisher": "Israel Ministry of Foreign Affairs",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Joint Understanding Read by President Bush at Annapolis Conference",
+          "url": "https://georgewbush-whitehouse.archives.gov/news/releases/2007/11/20071127.html",
+          "publisher": "The White House (archives)",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Israeli-Palestinian Peace Process: The Annapolis Conference (RS22768)",
+          "url": "https://www.everycrsreport.com/reports/RS22768.html",
+          "publisher": "Congressional Research Service",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Annapolis Conference - Joint Understanding (UNISPAL record)",
+          "url": "https://www.un.org/unispal/document/auto-insert-205805",
+          "publisher": "United Nations (UNISPAL)",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "gaza-wars",
+      "verified": true
+    },
+    {
+      "id": "2008-12-27-operation-cast-lead",
+      "date": "2008-12-27",
+      "endDate": "2009-01-18",
+      "lat": 31.5017,
+      "lng": 34.4668,
+      "location": "Gaza Strip",
+      "title": "Operation Cast Lead: Israel's three-week war in Gaza",
+      "category": "war",
+      "significance": 5,
+      "summary": "On 27 December 2008, after the collapse of a six-month Egyptian-brokered truce and renewed rocket fire from Gaza, Israel launched Operation Cast Lead with air strikes across the Gaza Strip, followed by a ground invasion on 3 January 2009. Israel declared a unilateral ceasefire on 18 January 2009 and Hamas announced its own ceasefire hours later; Israeli forces withdrew within days. Casualty figures diverge. B'Tselem recorded 1,387 Palestinians killed, of whom 773 did not take part in hostilities, including 320 minors, while the Israeli military counted 1,166 Palestinian dead, classifying 709 as combatants and 295 as civilians. Thirteen Israelis were killed, per Amnesty International and the Israeli government: three civilians and ten soldiers, four of them by friendly fire. Thousands of homes were destroyed and the blockade remained in place.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Described the operation as a defensive campaign to stop years of rocket and mortar fire on southern Israel and to degrade Hamas's terrorist infrastructure, blaming Hamas for civilian deaths by fighting from within populated areas."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Called the offensive a massacre and aggression against a besieged people, claimed victory for having withstood the assault, and framed its rocket fire as resistance to occupation and blockade."
+        },
+        {
+          "party": "Human-rights organisations",
+          "framing": "B'Tselem, Amnesty International and Human Rights Watch documented large numbers of civilian deaths, the use of white phosphorus and destruction of civilian property, and called for independent investigations of both Israeli forces and Palestinian armed groups."
+        },
+        {
+          "party": "United Nations",
+          "framing": "UN OCHA described a humanitarian crisis compounded by the blockade; the Secretary-General condemned strikes on UN facilities and rocket fire on Israel, and the Human Rights Council established the Goldstone fact-finding mission."
+        }
+      ],
+      "sources": [
+        {
+          "title": "B'Tselem publishes complete fatality figures from Operation Cast Lead",
+          "url": "https://www.btselem.org/press_releases/20090909",
+          "publisher": "B'Tselem",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "'Half of Gaza war dead civilians'",
+          "url": "https://www.aljazeera.com/news/2009/9/9/half-of-gaza-war-dead-civilians",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Israel/Gaza: Operation 'Cast Lead': 22 days of death and destruction",
+          "url": "https://www.amnesty.org/en/documents/mde15/015/2009/en/",
+          "publisher": "Amnesty International",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Eight years after the 2008-2009 (Cast Lead) hostilities in Gaza: lack of accountability persists",
+          "url": "https://www.ochaopt.org/content/eight-years-after-2008-2009-cast-lead-hostilities-gaza-lack-accountability-persists",
+          "publisher": "UN OCHA",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Operation Cast Lead - Humanitarian Aspects",
+          "url": "https://www.gov.il/BlobFolder/generalpage/operation-cast-lead-israel-strikes-back-against-hamas-terror-in-gaza/en/English_SiteTransfer_DOCUMENTS_CastLeadHumanitarianReport.pdf",
+          "publisher": "Israel Ministry of Foreign Affairs",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "gaza-wars",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Palestinians killed in Gaza",
+          "value": "1,387",
+          "attribution": "B'Tselem",
+          "note": "773 did not take part in hostilities (including 320 minors and 109 women); 330 took part; 248 police officers; 36 undetermined."
+        },
+        {
+          "label": "Palestinians killed in Gaza",
+          "value": "1,166",
+          "attribution": "IDF",
+          "note": "709 classified as combatants, 295 as civilians, 162 status unclear."
+        },
+        {
+          "label": "Palestinians killed in Gaza",
+          "value": "≈1,383",
+          "attribution": "Amnesty International",
+          "note": "Including 333 children and 114 women; more than 5,300 injured."
+        },
+        {
+          "label": "Israelis killed",
+          "value": "13",
+          "attribution": "Israeli government / Amnesty International",
+          "note": "3 civilians killed by rockets; 10 soldiers, 4 of them by friendly fire."
+        }
+      ]
+    },
+    {
+      "id": "2009-09-15-goldstone-report",
+      "date": "2009-09-15",
+      "lat": 46.2044,
+      "lng": 6.1432,
+      "location": "Geneva, Switzerland",
+      "title": "Goldstone Report on the Gaza conflict released",
+      "category": "political",
+      "significance": 3,
+      "summary": "On 15 September 2009, the United Nations Fact-Finding Mission on the Gaza Conflict, chaired by South African judge Richard Goldstone and established by the Human Rights Council in April 2009, released its 575-page report on the hostilities of December 2008 to January 2009. It concluded that there was evidence that Israeli forces had committed serious violations of international humanitarian law amounting to war crimes and possibly crimes against humanity, and that rocket and mortar fire by Palestinian armed groups on southern Israel also amounted to war crimes and possibly crimes against humanity. Israel had declined to cooperate with the mission. The report recommended that both sides conduct credible independent investigations within six months and that the Security Council otherwise refer the situation to the International Criminal Court. The Human Rights Council endorsed the report in October 2009 over Israeli and US objections.",
+      "perspectives": [
+        {
+          "party": "United Nations",
+          "framing": "The mission and the Human Rights Council presented the report as an impartial inquiry into violations by all parties and a step against impunity; the Council endorsed its recommendations and later referred it to the General Assembly."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Rejected the report as biased, born of a one-sided mandate from a Council hostile to Israel, and argued that it ignored Hamas's use of civilians as shields and Israel's right to self-defence; Israel refused to cooperate and conducted its own military investigations."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Welcomed the findings against Israel while rejecting the conclusion that its rocket fire constituted war crimes, describing its actions as legitimate resistance."
+        },
+        {
+          "party": "Human-rights organisations",
+          "framing": "Human Rights Watch and Amnesty International urged Israel and Hamas to implement the recommendations and criticised the United States and European states for undermining follow-up."
+        }
+      ],
+      "sources": [
+        {
+          "title": "UN Fact Finding Mission finds strong evidence of war crimes and crimes against humanity committed during the Gaza conflict; calls for end to impunity",
+          "url": "https://www.ohchr.org/en/press-releases/2009/10/un-fact-finding-mission-finds-strong-evidence-war-crimes-and-crimes-against",
+          "publisher": "UN OHCHR",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Israel/Gaza: Implement Goldstone Recommendations on Gaza",
+          "url": "https://www.hrw.org/news/2009/09/16/israel/gaza-implement-goldstone-recommendations-gaza",
+          "publisher": "Human Rights Watch",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Key points of the Goldstone report",
+          "url": "https://www.aljazeera.com/news/2009/10/3/key-points-of-the-goldstone-report",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Report of the United Nations Fact Finding Mission on the Gaza Conflict (A/HRC/12/48)",
+          "url": "https://www2.ohchr.org/english/bodies/hrcouncil/docs/12session/a-hrc-12-48.pdf",
+          "publisher": "UN Human Rights Council",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "gaza-wars",
+      "verified": true
+    },
+    {
+      "id": "2010-05-31-gaza-flotilla-mavi-marmara-raid",
+      "date": "2010-05-31",
+      "lat": 32.65,
+      "lng": 33.55,
+      "location": "Eastern Mediterranean, international waters off Gaza",
+      "title": "Israeli raid on the Gaza flotilla: nine killed aboard the Mavi Marmara",
+      "category": "attack",
+      "significance": 4,
+      "summary": "In the early hours of 31 May 2010, Israeli naval commandos boarded six vessels of a Turkish-led 'Freedom Flotilla' attempting to break the naval blockade of Gaza, about 72 nautical miles from the coast in international waters. On the largest ship, the Mavi Marmara, passengers fought the boarding party and soldiers opened fire; nine activists, eight Turkish citizens and one Turkish-American, were killed and a tenth died of his wounds in 2014. Several Israeli soldiers were injured. Turkey recalled its ambassador and relations with Israel collapsed. A UN Human Rights Council fact-finding mission called the interception unlawful, while the UN Secretary-General's Palmer panel in 2011 found the naval blockade a legitimate security measure but the force used 'excessive and unreasonable'. Israel apologised to Turkey in March 2013 and agreed compensation in 2016; the blockade remained in force.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Said the blockade was a lawful measure to stop weapons reaching Hamas, that the flotilla had refused offers to unload aid at Ashdod, and that soldiers fired in self-defence after being attacked with clubs and knives; the Turkel Commission found the raid and blockade legal."
+        },
+        {
+          "party": "Turkey",
+          "framing": "Condemned the raid as state terrorism and piracy in international waters, demanded an apology, compensation and an end to the blockade, and downgraded diplomatic relations."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The Human Rights Council mission found the use of force clearly unlawful and described some deaths as summary executions; the Palmer panel found the blockade lawful but the boarding excessive, and the Secretary-General called for a credible investigation."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Described the activists as martyrs of the siege and the raid as proof of the blockade's brutality, and called on the international community to end it."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Israeli assault on Gaza-bound flotilla leaves at least 9 dead",
+          "url": "https://www.cnn.com/2010/WORLD/meast/05/31/gaza.protest/index.html",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Report of the Secretary-General's Panel of Inquiry on the 31 May 2010 Flotilla Incident (Palmer Report)",
+          "url": "https://unispal.un.org/pdfs/GazaFlotillaPanelReport.pdf",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "UN calls Israeli raid on flotilla 'excessive'",
+          "url": "https://www.aljazeera.com/news/2011/9/1/un-calls-israeli-raid-on-flotilla-excessive",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Israel Apologizes To Turkey Over 2010 Flotilla Raid",
+          "url": "https://www.npr.org/sections/thetwo-way/2013/03/22/175040664/israel-apologizes-to-turkey-over-2010-flotilla-raid",
+          "publisher": "NPR",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Israeli action against Gaza flotilla 'unlawful' - UN Human Rights Council panel",
+          "url": "https://news.un.org/en/story/2010/09/352342",
+          "publisher": "UN News",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "gaza-wars",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Flotilla passengers killed",
+          "value": "9 (a 10th died of wounds in 2014)",
+          "attribution": "UN Palmer Panel / Al Jazeera",
+          "note": "Eight Turkish citizens and one Turkish-American; more than 50 passengers wounded by live fire per the UN HRC mission."
+        },
+        {
+          "label": "Israeli soldiers injured",
+          "value": "≈10",
+          "attribution": "Israeli government",
+          "note": "No Israeli fatalities."
+        }
+      ]
+    },
+    {
+      "id": "2011-10-18-shalit-prisoner-exchange",
+      "date": "2011-10-18",
+      "lat": 31.2278,
+      "lng": 34.2725,
+      "location": "Kerem Shalom / Rafah crossings, Gaza-Egypt-Israel border",
+      "title": "Gilad Shalit freed in exchange for 1,027 Palestinian prisoners",
+      "category": "treaty",
+      "significance": 3,
+      "summary": "On 18 October 2011, Israeli soldier Gilad Shalit, captured by Hamas-led militants in a cross-border raid near Kerem Shalom in June 2006 and held in Gaza for more than five years, was transferred through Egypt to Israel under an agreement mediated by Egypt and Germany and signed in Cairo a week earlier. In exchange Israel released 1,027 Palestinian prisoners in two phases: 477 on the day of the exchange, sent to Gaza, the West Bank, East Jerusalem or exile abroad, and 550 in December 2011. Those freed included prisoners serving life sentences for attacks that killed Israelis, among them Yahya Sinwar, who later led Hamas in Gaza. Large celebrations were held in Gaza and the West Bank, while in Israel the deal was welcomed by Shalit's supporters and criticised by bereaved families and some security officials.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Prime Minister Netanyahu presented the deal as fulfilling the state's duty to bring a captured soldier home, while acknowledging the heavy price of freeing prisoners with 'blood on their hands'."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Celebrated the exchange as a victory for resistance that freed heroes of the Palestinian struggle, and said it proved that capturing soldiers was the way to free prisoners."
+        },
+        {
+          "party": "Palestinian Authority",
+          "framing": "Abbas welcomed the freed prisoners in Ramallah, while Fatah figures noted that the deal strengthened Hamas politically at the Authority's expense."
+        },
+        {
+          "party": "Egypt",
+          "framing": "Presented its mediation as evidence of its continuing central role in Palestinian-Israeli affairs after the fall of Mubarak."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gilad Shalit | Biography, Prisoner Exchange, Kidnapping, Deal, & Facts",
+          "url": "https://www.britannica.com/biography/Gilad-Shalit",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Both Palestinians and Israelis celebrate prisoner swap",
+          "url": "https://www.cnn.com/2011/10/18/world/meast/israel-prisoner-swap-reax/index.html",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Israeli Soldier Released, Exchange Of Prisoners Begins",
+          "url": "https://www.npr.org/sections/thetwo-way/2011/10/18/141451255/israeli-soldier-released-exchange-of-prisoners-begins",
+          "publisher": "NPR",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "gaza-wars",
+      "verified": true
+    },
+    {
+      "id": "2012-11-14-operation-pillar-of-defense",
+      "date": "2012-11-14",
+      "endDate": "2012-11-21",
+      "lat": 31.5017,
+      "lng": 34.4668,
+      "location": "Gaza Strip",
+      "title": "Operation Pillar of Defense: eight days of Gaza-Israel fighting",
+      "category": "war",
+      "significance": 4,
+      "summary": "On 14 November 2012, Israel opened Operation Pillar of Defense with an air strike that killed Ahmed Jabari, head of Hamas's military wing, after weeks of escalating rocket and mortar fire from Gaza and Israeli strikes. Over eight days Israel struck about 1,500 targets in Gaza, while Palestinian armed groups fired roughly 1,500 rockets at Israel, for the first time reaching the Tel Aviv and Jerusalem areas; the newly deployed Iron Dome system intercepted many. According to B'Tselem, 167 Palestinians were killed by Israeli forces, and six Israelis, four civilians and two members of the security forces, were killed by rocket and mortar fire. An Egyptian-brokered ceasefire, announced in Cairo with US Secretary of State Hillary Clinton present, took effect on 21 November 2012 and included understandings on easing restrictions at Gaza's crossings and along its perimeter.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Described the operation as a response to hundreds of rockets fired at Israeli civilians, aimed at restoring deterrence and destroying Hamas's long-range rocket capabilities, and credited Iron Dome with limiting casualties."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Called Jabari's killing an assassination and the operation aggression against Gaza, claimed victory for reaching Tel Aviv and Jerusalem with rockets, and framed the ceasefire terms on crossings as a gain of the resistance."
+        },
+        {
+          "party": "Egypt",
+          "framing": "President Morsi's government condemned Israeli strikes, recalled its ambassador, and presented its mediation of the ceasefire as evidence of Egypt's regional leadership."
+        },
+        {
+          "party": "Human-rights organisations",
+          "framing": "B'Tselem reported that most uninvolved Palestinian fatalities occurred in the last four days and questioned the legality of several strikes, while also condemning rocket fire at Israeli civilians as a war crime."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Human Rights Violations during Operation Pillar of Defense, 14-21 November 2012",
+          "url": "https://www.btselem.org/press_releases/20130509_pillar_of_defense_report",
+          "publisher": "B'Tselem",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "The Humanitarian Monitor: OPT (October-November 2012) - OCHA report",
+          "url": "https://www.un.org/unispal/document/auto-insert-201184/",
+          "publisher": "UN OCHA (via UNISPAL)",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Operation Pillar of Defense (Gaza) - November 2012",
+          "url": "https://www.adl.org/resources/backgrounder/operation-pillar-defense-gaza-november-2012",
+          "publisher": "Anti-Defamation League",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Operation Pillar of Defense - Meir Amit Intelligence and Terrorism Information Center",
+          "url": "https://www.terrorism-info.org.il/en/20425/",
+          "publisher": "Meir Amit Intelligence and Terrorism Information Center",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "gaza-wars",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Palestinians killed in Gaza",
+          "value": "167",
+          "attribution": "B'Tselem",
+          "note": "Killed by Israeli forces; B'Tselem separately recorded Palestinians killed by rockets that fell short and by Palestinian gunmen. Other tallies (Gaza authorities, UN OCHA) put the total at about 170-175."
+        },
+        {
+          "label": "Israelis killed",
+          "value": "6",
+          "attribution": "B'Tselem / Israeli government",
+          "note": "4 civilians (3 in Kiryat Malachi on 15 November) and 2 members of the security forces."
+        }
+      ]
+    },
+    {
+      "id": "2012-11-29-unga-resolution-67-19-palestine-observer-state",
+      "date": "2012-11-29",
+      "lat": 40.7489,
+      "lng": -73.968,
+      "location": "United Nations Headquarters, New York",
+      "title": "UN General Assembly grants Palestine non-member observer state status",
+      "category": "political",
+      "significance": 4,
+      "summary": "On 29 November 2012, the 65th anniversary of the 1947 partition resolution, the UN General Assembly adopted resolution 67/19 by 138 votes to 9, with 41 abstentions, upgrading Palestine from 'observer entity' to 'non-member observer State'. The resolution reaffirmed the right of the Palestinian people to self-determination and independence in a State of Palestine on the Palestinian territory occupied since 1967, and urged the resumption of negotiations toward a two-state solution. Israel, the United States, Canada and six other states voted against. Palestinian Authority President Mahmoud Abbas presented the bid in person. Israel responded within days by advancing settlement plans, including in the E1 area east of Jerusalem, and by withholding tax revenues collected on behalf of the Palestinian Authority. The new status enabled Palestine to accede to international treaties and, in 2015, to the International Criminal Court.",
+      "perspectives": [
+        {
+          "party": "Palestinian Authority",
+          "framing": "Abbas called the vote a 'birth certificate' for the State of Palestine and a last chance to save the two-state solution, stressing that it did not replace negotiations."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Prime Minister Netanyahu dismissed the resolution as a meaningless unilateral step that would not change anything on the ground, argued that only direct negotiations could create a Palestinian state, and criticised Abbas's speech as incitement."
+        },
+        {
+          "party": "United States",
+          "framing": "Ambassador Susan Rice called the resolution 'unfortunate and counterproductive', saying it placed further obstacles in the path to peace and did not create a state."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The Secretary-General said the vote underscored the urgency of resuming meaningful negotiations, and the Secretariat subsequently used the designation 'State of Palestine' in UN documents."
+        }
+      ],
+      "sources": [
+        {
+          "title": "General Assembly Votes Overwhelmingly to Accord Palestine 'Non-Member Observer State' Status in United Nations (GA/11317)",
+          "url": "https://press.un.org/en/2012/ga11317.doc.htm",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "UN General Assembly votes 138-9, with 41 abstentions, in favor of nonmember status for 'Palestine'",
+          "url": "https://www.timesofisrael.com/abbas-goes-to-the-un-with-the-world-behind-him/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "U.N. Votes To Give Palestinians 'Non-Member Observer State' Status",
+          "url": "https://www.npr.org/sections/thetwo-way/2012/11/29/166174180/u-n-votes-to-give-palestinians-non-member-observer-state-status",
+          "publisher": "NPR",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "U.N. approves Palestinian 'observer state' bid",
+          "url": "https://edition.cnn.com/2012/11/29/world/meast/palestinian-united-nations",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "gaza-wars",
+      "verified": true
+    },
+    {
+      "id": "2014-07-08-operation-protective-edge",
+      "date": "2014-07-08",
+      "endDate": "2014-08-26",
+      "lat": 31.5017,
+      "lng": 34.4668,
+      "location": "Gaza Strip",
+      "title": "Operation Protective Edge: the 50-day Gaza war",
+      "category": "war",
+      "significance": 5,
+      "summary": "Following the kidnapping and killing of three Israeli teenagers in the West Bank in June 2014, mass arrests of Hamas members and intensified rocket fire from Gaza, Israel launched Operation Protective Edge on 8 July 2014 with air strikes, adding a ground offensive on 17 July aimed at Hamas's cross-border tunnels. Fighting lasted 50 days until an open-ended Egyptian-brokered ceasefire on 26 August 2014. Per UN OCHA, 2,251 Palestinians were killed, including 1,462 civilians, of them 551 children; B'Tselem counted 2,202 Palestinians killed by Israeli forces, 1,391 of whom did not take part in hostilities; an Israeli government report counted 2,125 dead and identified at least 936 as militants. On the Israeli side, 67 soldiers and 6 civilians were killed. About 500,000 Gazans were displaced at the peak and roughly 18,000 housing units were destroyed or severely damaged, per OCHA.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Framed the war as self-defence against thousands of rockets and attack tunnels, said Hamas bore responsibility for civilian deaths by embedding in residential areas and using UN facilities, and published its own legal report disputing UN civilian-casualty ratios."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Described the war as steadfast resistance to aggression and siege, claimed the tunnels and rockets had imposed a strategic balance, and demanded an end to the blockade and a seaport as ceasefire terms."
+        },
+        {
+          "party": "United Nations",
+          "framing": "OCHA documented unprecedented destruction and displacement; the Secretary-General condemned strikes on UNRWA schools sheltering civilians and rocket fire on Israel; a Human Rights Council commission of inquiry found possible war crimes by both sides."
+        },
+        {
+          "party": "Egypt",
+          "framing": "Presented itself as the indispensable mediator and blamed Hamas for rejecting its initial ceasefire proposal in mid-July, while keeping the Rafah crossing largely closed."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Key figures on the 2014 hostilities",
+          "url": "https://www.ochaopt.org/content/key-figures-2014-hostilities",
+          "publisher": "UN OCHA",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "50 Days: More than 500 Children: Facts and figures on fatalities in Gaza, Summer 2014",
+          "url": "https://www.btselem.org/press_releases/20160720_fatalities_in_gaza_conflict_2014",
+          "publisher": "B'Tselem",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Israel's fallen in Operation Protective Edge",
+          "url": "https://www.timesofisrael.com/fallen-idf-soldiers-in-operation-protective-edge/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "The 2014 Gaza Conflict: Factual and Legal Aspects",
+          "url": "https://www.gov.il/BlobFolder/generalpage/operation-protective-edge-full-report/en/English_Terrorism_DOCS_2014GazaConflictFullReport.pdf",
+          "publisher": "Israel Ministry of Foreign Affairs",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "'Black Friday': Carnage in Rafah during 2014 Israel/Gaza conflict - Background",
+          "url": "https://blackfriday.amnesty.org/background.php",
+          "publisher": "Amnesty International",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "gaza-wars",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Palestinians killed in Gaza",
+          "value": "2,251",
+          "attribution": "UN OCHA",
+          "note": "Including 1,462 civilians (551 children, 299 women); about 11,000 injured."
+        },
+        {
+          "label": "Palestinians killed in Gaza",
+          "value": "2,202",
+          "attribution": "B'Tselem",
+          "note": "Killed by Israeli forces; 1,391 (63%) did not take part in hostilities, including 526 children."
+        },
+        {
+          "label": "Palestinians killed in Gaza",
+          "value": "2,125",
+          "attribution": "Israeli government",
+          "note": "At least 936 identified as militants; 761 classified as civilians; remainder unclassified (2015 Israeli report)."
+        },
+        {
+          "label": "Israelis killed",
+          "value": "73",
+          "attribution": "Israeli government / UN OCHA",
+          "note": "67 soldiers and 6 civilians (including one child and a foreign national)."
+        },
+        {
+          "label": "Displaced in Gaza",
+          "value": "≈500,000 at peak",
+          "attribution": "UN OCHA",
+          "note": "About 18,000 housing units destroyed or severely damaged."
+        }
+      ]
+    },
+    {
+      "id": "2015-04-01-palestine-joins-international-criminal-court",
+      "date": "2015-04-01",
+      "lat": 52.0705,
+      "lng": 4.3007,
+      "location": "The Hague, Netherlands",
+      "title": "Palestine becomes a State Party to the International Criminal Court",
+      "category": "political",
+      "significance": 3,
+      "summary": "On 1 April 2015, the Rome Statute entered into force for the State of Palestine, making it the 123rd State Party to the International Criminal Court; the Court marked the occasion with a welcoming ceremony at its seat in The Hague attended by Palestinian Foreign Minister Riad al-Malki. Palestine had deposited its instrument of accession with the UN Secretary-General on 2 January 2015, days after a Palestinian statehood resolution failed in the Security Council, and lodged a declaration accepting the Court's jurisdiction retroactively from 13 June 2014, covering the 2014 Gaza war. The Prosecutor opened a preliminary examination in January 2015 and a formal investigation into the situation in Palestine in March 2021. Israel, which is not a State Party, and the United States rejected the accession, arguing that Palestine is not a state, and Israel froze tax transfers to the Palestinian Authority in response.",
+      "perspectives": [
+        {
+          "party": "Palestinian Authority",
+          "framing": "Presented accession as a peaceful, legal path to accountability for Israeli settlement construction and military operations, and as an attribute of statehood following the 2012 UN vote."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Condemned the move as a cynical politicisation of the Court, said Palestine did not meet the criteria of statehood, warned that it exposed Palestinian leaders to prosecution for terrorism, and withheld tax revenues."
+        },
+        {
+          "party": "United States",
+          "framing": "Opposed the accession as counterproductive to peace and as an action against Israel, and later imposed sanctions on ICC officials investigating the situation."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The Secretary-General, as depositary, accepted the accession and the ICC welcomed Palestine as a State Party committed to the rule of law."
+        }
+      ],
+      "sources": [
+        {
+          "title": "ICC welcomes Palestine as a new State Party",
+          "url": "https://www.icc-cpi.int/news/icc-welcomes-palestine-new-state-party",
+          "publisher": "International Criminal Court",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "International Criminal Court welcomes Palestine as State Party to the Rome Statute",
+          "url": "https://news.un.org/en/story/2015/04/494922",
+          "publisher": "UN News",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "ICC Rome Statute enters into force in Palestine",
+          "url": "https://www.coalitionfortheicc.org/news/20150331/icc-rome-statute-enters-force-palestine",
+          "publisher": "Coalition for the International Criminal Court",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "gaza-wars",
+      "verified": true
+    },
+    {
+      "id": "2015-10-03-wave-of-stabbing-and-vehicle-attacks",
+      "date": "2015-10-03",
+      "lat": 31.778,
+      "lng": 35.2354,
+      "location": "Old City of Jerusalem",
+      "title": "Wave of stabbing, shooting and vehicle-ramming attacks begins",
+      "category": "attack",
+      "significance": 3,
+      "summary": "From early October 2015, a wave of largely unorganised attacks by young Palestinians using knives, vehicles and occasionally firearms spread from Jerusalem across the West Bank and Israel, following weeks of tension over access to the Temple Mount / Haram al-Sharif. An attack near the Lions' Gate in Jerusalem's Old City on 3 October 2015, in which two Israelis were killed, is widely cited as its start. UN OCHA recorded 23 Palestinians killed in the week of 6-12 October alone, the highest weekly toll in the West Bank and Israel since its records began in 2005, with more than 2,300 Palestinians and 32 Israelis injured. Over the following months, according to figures reported by France 24, 34 Israelis and nearly 200 Palestinians, most of them assailants, were killed. Israel added checkpoints, demolished attackers' homes and deployed more troops; the violence gradually subsided during 2016.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Described the attacks as a wave of terror driven by Palestinian incitement, including false claims that Israel intended to change the status quo on the Temple Mount, and defended the use of lethal force against attackers."
+        },
+        {
+          "party": "Palestinian Authority",
+          "framing": "Attributed the violence to despair under occupation, settlement expansion and provocations at al-Aqsa, accused Israel of 'field executions' of suspects, and called the period a popular uprising."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Praised the attackers as heroes of an 'al-Quds intifada' and called for escalation."
+        },
+        {
+          "party": "Human-rights organisations",
+          "framing": "B'Tselem and Amnesty International condemned the attacks on civilians while documenting cases in which Palestinian suspects were shot when they no longer posed a threat, and criticised punitive home demolitions as collective punishment."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Protection of Civilians Weekly Report, 6-12 October 2015 (OCHA)",
+          "url": "https://www.un.org/unispal/?p=210326",
+          "publisher": "UN OCHA (via UNISPAL)",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Palestine 2015 attacks triggered new path of resistance",
+          "url": "https://www.aljazeera.com/features/2017/10/4/palestine-2015-attacks-triggered-new-path-of-resistance",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Palestinian 'knife intifada' reflects a generation's despair",
+          "url": "https://www.france24.com/en/20160506-reporter-israel-knife-intifada-palestinian-territories-violence",
+          "publisher": "France 24",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "'Knife terror will not defeat us,' Netanyahu says of Jerusalem stabbings",
+          "url": "https://www.france24.com/en/20151012-israel-attack-palestinian-shot-dead-jerusalem-stabbing-policeman",
+          "publisher": "France 24",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "gaza-wars",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Palestinians killed (week of 6-12 October 2015)",
+          "value": "23",
+          "attribution": "UN OCHA",
+          "note": "Highest weekly toll in the West Bank and Israel since OCHA records began in 2005; 2,311 Palestinians and 32 Israelis injured that week."
+        },
+        {
+          "label": "Israelis killed (October 2015 to May 2016)",
+          "value": "34",
+          "attribution": "France 24",
+          "note": "Cumulative figure reported in May 2016."
+        },
+        {
+          "label": "Palestinians killed (October 2015 to May 2016)",
+          "value": "≈200",
+          "attribution": "France 24",
+          "note": "Mostly assailants killed while carrying out attacks, per the report; human-rights groups dispute some classifications."
+        }
+      ]
+    },
+    {
+      "id": "2016-12-23-unsc-resolution-2334-settlements",
+      "date": "2016-12-23",
+      "lat": 40.7489,
+      "lng": -73.968,
+      "location": "United Nations Headquarters, New York",
+      "title": "UN Security Council adopts resolution 2334 on Israeli settlements",
+      "category": "political",
+      "significance": 4,
+      "summary": "On 23 December 2016, the UN Security Council adopted resolution 2334 by 14 votes to none, with the United States abstaining rather than exercising its veto in the final weeks of the Obama administration. The resolution reaffirmed that Israel's establishment of settlements in Palestinian territory occupied since 1967, including East Jerusalem, has no legal validity and constitutes a flagrant violation of international law and a major obstacle to a two-state solution; it demanded that Israel cease all settlement activity and called on states to distinguish between the territory of Israel and the occupied territories in their dealings. It also condemned violence and incitement against civilians on all sides. It was the Council's first resolution on settlements since 1980. Israel rejected it, recalled ambassadors from several sponsoring states and accused the US of colluding in its passage; the Palestinian leadership welcomed it as a legal foundation for future action.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Prime Minister Netanyahu called the resolution shameful and anti-Israel, said Israel would not abide by it, described the settlements as communities in Judea and Samaria whose status should be settled only by negotiation, and accused the Obama administration of orchestrating the vote."
+        },
+        {
+          "party": "Palestinian Authority",
+          "framing": "Welcomed the resolution as a victory for international law and a rebuke to settlement expansion, and cited it in subsequent diplomatic and legal initiatives."
+        },
+        {
+          "party": "United States",
+          "framing": "The Obama administration abstained, saying settlements endangered the two-state solution, while stressing that it had not drafted the text; the incoming Trump administration and Congress condemned the abstention."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The Secretary-General welcomed the resolution and instructed the Secretariat to report on its implementation every three months, making it a recurring item on the Council's agenda."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Israel's Settlements Have No Legal Validity, Constitute Flagrant Violation of International Law, Security Council Reaffirms (SC/12657)",
+          "url": "https://press.un.org/en/2016/sc12657.doc.htm",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Security Council Resolution 2334: The Legal Significance",
+          "url": "https://www.inss.org.il/publication/security-council-resolution-2334-legal-significance/",
+          "publisher": "Institute for National Security Studies (INSS)",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "UNSCR 2334 on Israeli Settlements",
+          "url": "https://www.lawfaremedia.org/article/unscr-2334-israeli-settlements",
+          "publisher": "Lawfare",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "U.N. Security Council Resolution 2334",
+          "url": "https://harvardlawreview.org/print/vol-130/u-n-security-council-resolution-2334/",
+          "publisher": "Harvard Law Review",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "gaza-wars",
+      "verified": true
+    },
+    {
+      "id": "2017-12-06-us-recognises-jerusalem-as-israel-capital",
+      "date": "2017-12-06",
+      "lat": 38.8977,
+      "lng": -77.0365,
+      "location": "The White House, Washington, D.C.",
+      "title": "United States recognises Jerusalem as Israel's capital",
+      "category": "political",
+      "significance": 4,
+      "summary": "On 6 December 2017, US President Donald Trump signed a proclamation formally recognising Jerusalem as the capital of Israel and directing the State Department to begin relocating the US embassy from Tel Aviv, reversing decades of US policy that the city's status should be settled in negotiations. The proclamation stated that the United States was not taking a position on final-status issues, including the specific boundaries of Israeli sovereignty in Jerusalem. Israeli Prime Minister Benjamin Netanyahu called the decision historic and courageous. Palestinian Authority President Mahmoud Abbas said the United States had disqualified itself as a mediator, and Palestinian factions called days of protest in the West Bank and Gaza. Arab and Muslim states, the European Union and the UN Secretary-General objected, and the UN General Assembly later adopted a resolution declaring any decision altering Jerusalem's status null and void.",
+      "perspectives": [
+        {
+          "party": "United States",
+          "framing": "Presented the decision as recognition of reality, since Jerusalem is the seat of Israel's government, and as a step that would advance rather than hinder peace; the administration said it remained committed to a negotiated agreement."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Hailed recognition of Jerusalem as the eternal, undivided capital of the Jewish people and urged other states to follow."
+        },
+        {
+          "party": "Palestinian Authority",
+          "framing": "Called the decision a violation of international law and UN resolutions that destroyed the US role as an honest broker, declared 'days of rage', and insisted East Jerusalem must be the capital of a Palestinian state."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The Secretary-General warned against unilateral measures that jeopardise a two-state solution; the General Assembly voted 128 to 9 on 21 December 2017 that the status of Jerusalem must be resolved through negotiations."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Presidential Proclamation Recognizing Jerusalem as the Capital of the State of Israel and Relocating the United States Embassy to Israel to Jerusalem",
+          "url": "https://trumpwhitehouse.archives.gov/presidential-actions/presidential-proclamation-recognizing-jerusalem-capital-state-israel-relocating-united-states-embassy-israel-jerusalem/",
+          "publisher": "The White House (archives)",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Reactions From Israel To Trump's Decision To Recognize Jerusalem As Country's Capital",
+          "url": "https://www.npr.org/2017/12/06/568920248/reactions-from-israel-to-trumps-decision-to-recognize-jerusalem-as-countrys-capi",
+          "publisher": "NPR",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Recognizing Jerusalem as Israel's Capital",
+          "url": "https://2017-2021.state.gov/recognizing-jerusalem-as-israels-capital/",
+          "publisher": "U.S. Department of State (archives)",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Outrage after Trump recognizes Jerusalem as Israel's capital",
+          "url": "https://newsinfo.inquirer.net/950487/outrage-after-trump-recognizes-jerusalem-as-israels-capital",
+          "publisher": "Philippine Daily Inquirer (AFP)",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "gaza-wars",
+      "verified": true
+    },
+    {
+      "id": "2018-03-30-great-march-of-return-begins",
+      "date": "2018-03-30",
+      "endDate": "2019-12-27",
+      "lat": 31.47,
+      "lng": 34.52,
+      "location": "Gaza Strip perimeter fence",
+      "title": "Great March of Return protests at the Gaza perimeter fence",
+      "category": "displacement",
+      "significance": 4,
+      "summary": "On 30 March 2018, Land Day, tens of thousands of Palestinians began weekly demonstrations along Gaza's perimeter fence, organised by a committee of civil-society groups and factions including Hamas, demanding the right of return of refugees and an end to the blockade. Most participants stayed in tent camps hundreds of metres from the fence; smaller groups approached it, burned tyres, threw stones and incendiary devices and at times tried to breach it. Israeli forces, including snipers, used live fire, and the IDF said it was defending the border against Hamas-orchestrated attacks. A UN Commission of Inquiry found that between 30 March and 31 December 2018 Israeli forces killed 189 Palestinians, including 35 children, and shot more than 6,100 with live ammunition; one Israeli soldier was killed in July 2018. The protests continued at declining intensity until December 2019, when organisers suspended them.",
+      "perspectives": [
+        {
+          "party": "Palestinian organisers and Hamas",
+          "framing": "Described the marches as a peaceful popular movement asserting the right of return under UN resolution 194 and protesting the siege; Hamas embraced the protests as part of the resistance."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Called the events violent riots organised and financed by Hamas as cover for attacks and attempts to breach the fence and infiltrate Israeli communities, said its rules of engagement were lawful, and noted that Hamas acknowledged many of the dead as its members."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The Human Rights Council's Commission of Inquiry found reasonable grounds to believe Israeli snipers shot at protesters who posed no imminent threat, including children, journalists and medics, possibly amounting to crimes against humanity; OCHA documented mass casualties overwhelming Gaza's health system."
+        },
+        {
+          "party": "Human-rights organisations",
+          "framing": "Amnesty International and B'Tselem said the use of lethal force against unarmed demonstrators was unlawful and called for an arms embargo, while also noting the throwing of incendiary devices by some protesters."
+        }
+      ],
+      "sources": [
+        {
+          "title": "More casualties sustained during the 'Great March of Return' in Gaza",
+          "url": "https://www.ochaopt.org/content/more-casualties-sustained-during-great-march-return-gaza",
+          "publisher": "UN OCHA",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Report of the independent international commission of inquiry on the protests in the Occupied Palestinian Territory (2018)",
+          "url": "https://www.ohchr.org/en/hr-bodies/hrc/co-iopt/report2018-opt",
+          "publisher": "UN OHCHR",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Six Months On: Gaza's Great March of Return",
+          "url": "https://www.amnesty.org/en/latest/campaigns/2018/10/gaza-great-march-of-return/",
+          "publisher": "Amnesty International",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Two Years On: People Injured and Traumatized During the 'Great March of Return' are Still Struggling",
+          "url": "https://www.un.org/unispal/document/two-years-on-people-injured-and-traumatized-during-the-great-march-of-return-are-still-struggling/",
+          "publisher": "United Nations (UNISPAL)",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "gaza-wars",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Palestinians killed at the Gaza fence (30 March - 31 December 2018)",
+          "value": "189",
+          "attribution": "UN Commission of Inquiry",
+          "note": "Including 35 children, 3 health workers and 2 journalists; 183 killed by live ammunition; more than 6,100 shot with live fire."
+        },
+        {
+          "label": "Palestinians killed (30 March - end October 2018)",
+          "value": "171",
+          "attribution": "UN OCHA",
+          "note": "Including 33 children; interim figure at the time of reporting."
+        },
+        {
+          "label": "Israeli soldiers killed",
+          "value": "1",
+          "attribution": "IDF",
+          "note": "Shot near the fence on 20 July 2018; the IDF reported several soldiers injured."
+        }
+      ]
+    },
+    {
+      "id": "2018-05-14-us-embassy-opens-in-jerusalem-gaza-deaths",
+      "date": "2018-05-14",
+      "lat": 31.747,
+      "lng": 35.225,
+      "location": "Jerusalem (Arnona) and the Gaza perimeter",
+      "title": "US embassy opens in Jerusalem; deadliest day of the Gaza protests",
+      "category": "political",
+      "significance": 3,
+      "summary": "On 14 May 2018, the 70th anniversary of Israel's declaration of independence, the United States formally opened its embassy in Jerusalem at its former consular building in the Arnona neighbourhood, with Ivanka Trump, Treasury Secretary Steven Mnuchin and Prime Minister Benjamin Netanyahu among those attending the ceremony. The same day, tens of thousands of Palestinians joined Great March of Return demonstrations at the Gaza perimeter fence, timed to the eve of Nakba Day. Israeli forces fired on demonstrators approaching the fence. The Gaza Health Ministry reported at least 58 Palestinians killed and about 2,700 injured, the deadliest day in Gaza since the 2014 war, while the IDF said it was countering Hamas-directed attempts to breach the fence and later said many of the dead were Hamas members. The split-screen images drew international condemnation and a UN Human Rights Council inquiry.",
+      "perspectives": [
+        {
+          "party": "United States",
+          "framing": "Called the embassy opening the fulfilment of a promise and a recognition of reality, and blamed Hamas for the deaths in Gaza, saying it had cynically sent civilians toward the fence."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Celebrated the embassy as a historic affirmation of Jerusalem's status and said its forces were defending the border against a Hamas-led assault, praising soldiers' restraint."
+        },
+        {
+          "party": "Palestinian Authority",
+          "framing": "Abbas called the embassy an American 'settlement outpost' in Jerusalem, declared a day of mourning and a general strike, and accused Israel of massacres in Gaza."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The Secretary-General and human-rights officials expressed alarm at the loss of life and called for an independent investigation; the Human Rights Council voted days later to establish a commission of inquiry."
+        }
+      ],
+      "sources": [
+        {
+          "title": "US opens new embassy in Jerusalem as dozens are killed in Gaza",
+          "url": "https://www.cnn.com/2018/05/14/politics/jerusalem-us-embassy-trump-intl",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Deadly Protests Engulf Gaza as US Opens Embassy in Jerusalem",
+          "url": "https://www.voanews.com/a/protests-grow-violent-over-us-embassy-move/4394294.html",
+          "publisher": "Voice of America",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Deadly protests erupt over the US Embassy move to Jerusalem",
+          "url": "https://www.cnbc.com/2018/05/14/deadly-protests-erupt-over-the-us-embassy-move-to-jerusalem.html",
+          "publisher": "CNBC",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "gaza-wars",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Palestinians killed in Gaza on 14 May 2018",
+          "value": "at least 58",
+          "attribution": "Gaza Health Ministry",
+          "note": "About 2,700 injured; the toll rose to more than 60 as wounded died in following days."
+        },
+        {
+          "label": "Israelis killed",
+          "value": "0",
+          "attribution": "IDF",
+          "note": "The IDF reported one soldier lightly wounded."
+        }
+      ]
+    },
+    {
+      "id": "2018-07-19-nation-state-basic-law",
+      "date": "2018-07-19",
+      "lat": 31.7767,
+      "lng": 35.205,
+      "location": "Knesset, Jerusalem",
+      "title": "Knesset passes the Nation-State Basic Law",
+      "category": "political",
+      "significance": 3,
+      "summary": "On 19 July 2018, after an all-night debate, the Knesset passed Basic Law: Israel - the Nation-State of the Jewish People by 62 votes to 55 with two abstentions. The law, which has quasi-constitutional status, defines Israel as the nation-state of the Jewish people in which the right to national self-determination is 'unique to the Jewish people', declares a 'complete and united' Jerusalem the capital, makes Hebrew the state language while granting Arabic 'special status', and states that the state views Jewish settlement as a national value to be encouraged. It contains no reference to equality. Prime Minister Benjamin Netanyahu called it a defining moment in the history of Zionism; Arab members of Knesset tore up copies in the chamber, and Adalah and other civil-rights groups said it entrenched discrimination against Arab citizens, a fifth of the population. The Supreme Court upheld the law in July 2021.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Presented the law as anchoring Israel's identity as the Jewish nation-state alongside existing Basic Laws protecting individual rights, and as a response to those who deny the Jewish people's right to a homeland."
+        },
+        {
+          "party": "Arab citizens of Israel and Joint List",
+          "framing": "Called the law the legal enshrinement of apartheid and second-class citizenship, and organised protests in Tel Aviv; Druze leaders, whose community serves in the army, described it as a betrayal."
+        },
+        {
+          "party": "Palestinian Authority",
+          "framing": "Condemned the law as legalising racism and annexation, and as confirming that Israel rejects equality for Palestinians on both sides of the Green Line."
+        },
+        {
+          "party": "European Union",
+          "framing": "Expressed concern that the law complicated a two-state solution and urged respect for the rights of minorities."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Israel passes Jewish state law, enshrining 'national home of the Jewish people'",
+          "url": "https://www.timesofisrael.com/knesset-votes-contentious-jewish-nation-state-bill-into-law/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Israeli parliament votes to approve Nation-State Law that enshrines Jewish supremacy",
+          "url": "https://www.adalah.org/en/content/view/9565",
+          "publisher": "Adalah",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "A new chapter in Israel's 'constitution': Israel as the Nation State of the Jewish People",
+          "url": "https://verfassungsblog.de/a-new-chapter-in-israels-constitution-israel-as-the-nation-state-of-the-jewish-people/",
+          "publisher": "Verfassungsblog",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "gaza-wars",
+      "verified": true
+    },
+    {
+      "id": "2020-09-15-abraham-accords-signed",
+      "date": "2020-09-15",
+      "lat": 38.8977,
+      "lng": -77.0365,
+      "location": "The White House, Washington, D.C.",
+      "title": "Abraham Accords: Israel normalises relations with the UAE and Bahrain",
+      "category": "treaty",
+      "significance": 5,
+      "summary": "On 15 September 2020, at a White House ceremony hosted by President Donald Trump, Israeli Prime Minister Benjamin Netanyahu signed normalisation agreements with the foreign ministers of the United Arab Emirates, Abdullah bin Zayed, and Bahrain, Abdullatif bin Rashid al-Zayani, together with a joint Abraham Accords Declaration. They were the first Arab-Israeli peace agreements since Jordan's 1994 treaty and the first with Gulf states. The UAE agreement, announced on 13 August 2020, was tied to Israel suspending the annexation of parts of the West Bank envisaged under the Trump peace plan. Sudan and Morocco joined later in 2020. The Palestinian leadership condemned the accords as a betrayal of the Arab Peace Initiative's land-for-peace formula, and Iran and Turkey denounced them, while the signatories described a new era of regional cooperation in trade, security, tourism and technology.",
+      "perspectives": [
+        {
+          "party": "United States",
+          "framing": "Trump called the accords the dawn of a new Middle East and a historic breakthrough that bypassed the Palestinian veto over Arab-Israeli peace; the administration paired them with arms sales and other incentives."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Netanyahu described peace for peace rather than land for peace, presenting the accords as proof that normalisation need not wait for a Palestinian agreement, while stating that annexation was suspended, not cancelled."
+        },
+        {
+          "party": "United Arab Emirates and Bahrain",
+          "framing": "Framed the agreements as a pragmatic choice for stability and prosperity, and credited the UAE deal with halting annexation and preserving the possibility of a Palestinian state."
+        },
+        {
+          "party": "Palestinian Authority and Hamas",
+          "framing": "Both condemned the accords as a stab in the back that rewarded occupation and abandoned the Arab consensus; the PA recalled its ambassadors from Abu Dhabi and Manama."
+        },
+        {
+          "party": "Iran",
+          "framing": "Denounced the accords as treachery by Gulf rulers and a strategic mistake that would strengthen Israel and the United States against the region."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Remarks by President Trump, Prime Minister Netanyahu, Minister bin Zayed, and Minister Al Zayani at the Abraham Accords Signing Ceremony",
+          "url": "https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-prime-minister-netanyahu-minister-bin-zayed-minister-al-zayani-abraham-accords-signing-ceremony/",
+          "publisher": "The White House (archives)",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Abraham Accords | Peace Declaration, Summary, Trump, Israel, Bahrain, United Arab Emirates, Morocco, Sudan",
+          "url": "https://www.britannica.com/topic/Abraham-Accords",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Trump Hosts Abraham Accords Signing Between Israel, UAE and Bahrain",
+          "url": "https://www.voanews.com/a/middle-east_trump-hosts-abraham-accords-signing-between-israel-uae-and-bahrain/6195897.html",
+          "publisher": "Voice of America",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "The Abraham Accords - Paradigm Shift or Realpolitik?",
+          "url": "https://www.marshallcenter.org/en/publications/security-insights/abraham-accords-paradigm-shift-or-realpolitik",
+          "publisher": "George C. Marshall European Center for Security Studies",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "gaza-wars",
+      "verified": true
+    },
+    {
+      "id": "2021-05-10-gaza-war-operation-guardian-of-the-walls",
+      "date": "2021-05-10",
+      "endDate": "2021-05-21",
+      "lat": 31.5017,
+      "lng": 34.4668,
+      "location": "Gaza Strip",
+      "title": "May 2021 Gaza war (Operation Guardian of the Walls)",
+      "category": "war",
+      "significance": 5,
+      "summary": "After weeks of tension in Jerusalem over threatened evictions in Sheikh Jarrah and clashes at the al-Aqsa compound on the Temple Mount / Haram al-Sharif, Hamas fired rockets toward Jerusalem on 10 May 2021 and Israel launched Operation Guardian of the Walls. Over 11 days Palestinian armed groups fired more than 4,000 rockets at Israel, and Israel carried out air strikes across Gaza, destroying several high-rise buildings, one housing media offices, and Hamas's tunnel network. According to the UN human rights office as cited by OCHA, 256 Palestinians were killed in Gaza, including 66 children and 40 women, of whom 128 were believed to be civilians, 62 members of armed groups and 66 undetermined; Israel said most of the dead were combatants. In Israel, 12 residents, including two children, and one soldier were killed. An Egyptian-brokered ceasefire took effect on 21 May 2021.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Described the operation as a response to unprovoked rocket fire on Jerusalem, said it struck Hamas's 'metro' tunnels and commanders with unprecedented precision, and attributed civilian deaths to Hamas's use of residential buildings and to rockets falling short inside Gaza."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Presented its rocket fire as the 'Sword of Jerusalem' in defence of al-Aqsa and Sheikh Jarrah, claimed victory for forcing Israel into a ceasefire and for linking Gaza to Jerusalem, and framed the fighting as resistance to occupation."
+        },
+        {
+          "party": "United Nations",
+          "framing": "OCHA reported mass displacement and damage to homes, hospitals and water systems; the Secretary-General called for an immediate ceasefire, and the Human Rights Council established a standing commission of inquiry."
+        },
+        {
+          "party": "Egypt",
+          "framing": "Brokered the ceasefire, pledged reconstruction funds and presented itself as the essential intermediary between Israel, Hamas and the Palestinian Authority."
+        },
+        {
+          "party": "Human-rights organisations",
+          "framing": "Human Rights Watch and Amnesty International said certain Israeli strikes on residential buildings and Palestinian rocket attacks on Israeli towns appeared to violate the laws of war."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Response to the escalation in the oPt | Situation Report No. 2 (28 May - 3 June 2021)",
+          "url": "https://www.ochaopt.org/content/response-escalation-opt-situation-report-no-2-28-may-3-june-2021",
+          "publisher": "UN OCHA",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Escalation in the Gaza Strip, the West Bank and Israel | Flash Update #12 (21-23 May 2021)",
+          "url": "https://www.ochaopt.org/content/escalation-gaza-strip-west-bank-and-israel-flash-update-12-covering-1200-21-may-1200-23-may",
+          "publisher": "UN OCHA",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Escalation from the Gaza Strip - Operation Guardian of the Walls - Summary",
+          "url": "https://www.terrorism-info.org.il/en/escalation-from-the-gaza-strip-operation-guardian-of-the-walls-summary/",
+          "publisher": "Meir Amit Intelligence and Terrorism Information Center",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "The May 2021 Gaza War",
+          "url": "http://www.palquest.org/en/highlight/33682/may-2021-gaza-war",
+          "publisher": "Institute for Palestine Studies (Palquest)",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "gaza-wars",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Palestinians killed in Gaza",
+          "value": "256",
+          "attribution": "UN OHCHR (cited by UN OCHA)",
+          "note": "Including 66 children and 40 women; 128 believed civilians, 62 members of armed groups, 66 undetermined."
+        },
+        {
+          "label": "Palestinians killed in Gaza",
+          "value": "≈248-253",
+          "attribution": "Gaza Health Ministry (interim counts)",
+          "note": "Interim tallies reported during and immediately after the fighting, including 66 children; later consolidated in the UN figure above."
+        },
+        {
+          "label": "Israelis killed",
+          "value": "13",
+          "attribution": "Israeli government",
+          "note": "12 residents of Israel, including two children and foreign workers, killed by rocket fire, and one soldier killed by an anti-tank missile."
+        },
+        {
+          "label": "Displaced in Gaza at peak",
+          "value": "≈113,000",
+          "attribution": "UN OCHA",
+          "note": "Sheltering in UNRWA schools and with host families; most returned after the ceasefire."
+        }
+      ]
+    },
+    {
+      "id": "2022-05-11-killing-of-shireen-abu-akleh",
+      "date": "2022-05-11",
+      "lat": 32.46,
+      "lng": 35.286,
+      "location": "Jenin refugee camp, West Bank",
+      "title": "Al Jazeera journalist Shireen Abu Akleh killed in Jenin",
+      "category": "attack",
+      "significance": 3,
+      "summary": "On 11 May 2022, Shireen Abu Akleh, a Palestinian-American correspondent for Al Jazeera, was shot dead while covering an Israeli military raid at the entrance to the Jenin refugee camp in the northern West Bank; she was wearing a helmet and a press vest and a colleague was wounded. Israel initially suggested she might have been hit by Palestinian gunfire. In June 2022 the UN human rights office concluded that the fatal shot came from Israeli forces and that no warning had been issued and no shooting was taking place nearby; in July the United States assessed that Israeli fire was likely responsible but found no evidence of intent; and in September 2022 the IDF said there was a 'high possibility' that a soldier firing at gunmen had accidentally hit her, and that no criminal investigation would follow. Israeli police assaulted pallbearers at her Jerusalem funeral, drawing further international criticism.",
+      "perspectives": [
+        {
+          "party": "Al Jazeera and Palestinian Authority",
+          "framing": "Described the killing as a deliberate assassination of a journalist by Israeli forces, rejected joint investigation with Israel, and referred the case to the International Criminal Court."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Said soldiers were under heavy fire from Palestinian gunmen in Jenin, that Abu Akleh was not deliberately targeted, and that the incident was a tragic accident of combat for which no disciplinary action was warranted."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The human-rights office found the shots that killed her came from Israeli security forces and called for a criminal investigation; UN experts later said lethal force had been used without justification."
+        },
+        {
+          "party": "United States",
+          "framing": "The State Department said forensic analysis was inconclusive but that fire from IDF positions was likely responsible, called the death a tragedy and urged accountability, while resisting congressional calls for an FBI inquiry."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Killing of journalist in the occupied Palestinian territory - press briefing note",
+          "url": "https://www.ohchr.org/en/press-briefing-notes/2022/06/killing-journalist-occupied-palestinian-territory",
+          "publisher": "UN OHCHR",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "The killing of Shireen Abu Akleh",
+          "url": "https://www.btselem.org/firearms/20220721_killing_of_shireen_abu_akleh",
+          "publisher": "B'Tselem",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "On the Killing of Shireen Abu Akleh",
+          "url": "https://2021-2025.state.gov/on-the-killing-of-shireen-abu-akleh/",
+          "publisher": "U.S. Department of State (archives)",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Israeli forces killed Abu Akleh 'without justification', UN inquiry says",
+          "url": "https://www.aljazeera.com/news/2023/10/16/israeli-forces-killed-abu-akleh-without-justification-un-inquiry-says",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "gaza-wars",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Journalists killed",
+          "value": "1",
+          "attribution": "Al Jazeera / UN OHCHR",
+          "note": "Shireen Abu Akleh, 51; her colleague Ali al-Samoudi was wounded."
+        }
+      ]
+    },
+    {
+      "id": "2022-08-05-operation-breaking-dawn",
+      "date": "2022-08-05",
+      "endDate": "2022-08-07",
+      "lat": 31.5017,
+      "lng": 34.4668,
+      "location": "Gaza Strip",
+      "title": "Operation Breaking Dawn: Israel-Islamic Jihad fighting in Gaza",
+      "category": "war",
+      "significance": 2,
+      "summary": "On 5 August 2022, after arresting Palestinian Islamic Jihad (PIJ) leader Bassem al-Saadi in Jenin on 1 August and closing Gaza's crossings in anticipation of retaliation, Israel launched Operation Breaking Dawn with air strikes that killed Tayseer al-Jabari, commander of PIJ's forces in northern Gaza; a second commander, Khaled Mansour, was killed the following day. PIJ fired more than 1,000 rockets and mortars at Israel over three days, most intercepted by Iron Dome or falling short, according to the IDF. Hamas stayed out of the fighting. The Gaza Health Ministry reported 49 Palestinians killed, including 17 children; the IDF attributed several of those deaths, including children in Jabalia, to PIJ rockets that misfired inside Gaza. No Israelis were killed. An Egyptian-mediated ceasefire took effect at 23:30 on 7 August 2022, after which Gaza's crossings reopened.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Described a pre-emptive operation against an imminent PIJ anti-tank attack, targeting only Islamic Jihad while avoiding a wider war with Hamas, and emphasised that a large share of Palestinian deaths were caused by PIJ's own rockets."
+        },
+        {
+          "party": "Palestinian Islamic Jihad",
+          "framing": "Called the strikes an assassination campaign and a crime, vowed revenge for its commanders and framed its rocket fire as a unified resistance response; Iran praised the group's steadfastness."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Condemned Israel's aggression and expressed solidarity with PIJ but refrained from joining the fighting, prioritising the calm and economic measures reached after 2021."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The Special Coordinator urged de-escalation, expressed concern at civilian deaths including children, and welcomed Egypt's mediation; OCHA documented the impact of the crossing closures on fuel and electricity."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Escalation in the Gaza Strip - Summary of Operation Breaking Dawn (August 5-7, 2022)",
+          "url": "https://www.terrorism-info.org.il/en/escalation-in-the-gaza-strip-summary-of-operation-breaking-dawn-august-5-7-2022/",
+          "publisher": "Meir Amit Intelligence and Terrorism Information Center",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Operation 'Breaking Dawn' in Gaza Enters its Second Day",
+          "url": "https://www.longwarjournal.org/archives/2022/08/operation-breaking-dawn-in-gaza-enters-its-second-day.php",
+          "publisher": "FDD's Long War Journal",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Operation Breaking Dawn: Following the Successful Entry, an Exit Strategy is Required",
+          "url": "https://www.inss.org.il/publication/breaking-dawn-strategy/",
+          "publisher": "Institute for National Security Studies (INSS)",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "gaza-wars",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Palestinians killed in Gaza",
+          "value": "49",
+          "attribution": "Gaza Health Ministry",
+          "note": "Including 17 children and 4 women; about 360 injured."
+        },
+        {
+          "label": "Palestinians killed by misfired PIJ rockets",
+          "value": "≈12-16",
+          "attribution": "IDF",
+          "note": "The IDF attributed several deaths, including seven in Jabalia on 6 August, to PIJ rockets falling inside Gaza; PIJ disputed this."
+        },
+        {
+          "label": "Israelis killed",
+          "value": "0",
+          "attribution": "Israeli government",
+          "note": "Several dozen people treated for injuries, mostly while running to shelters."
+        }
+      ]
+    },
+    {
+      "id": "2023-02-26-huwara-shooting-and-settler-rampage",
+      "date": "2023-02-26",
+      "lat": 32.1517,
+      "lng": 35.255,
+      "location": "Huwara, near Nablus, West Bank",
+      "title": "Huwara: two Israelis shot dead, settlers set the town ablaze",
+      "category": "attack",
+      "significance": 2,
+      "summary": "On 26 February 2023, a Palestinian gunman shot dead two Israeli brothers from the settlement of Har Bracha, Hallel and Yagel Yaniv, as they drove through Huwara, a Palestinian town on Route 60 south of Nablus in the Israeli-occupied West Bank. That evening hundreds of Israeli settlers entered Huwara and neighbouring villages, setting fire to homes, cars and businesses. Palestinian officials reported one man, Sameh Aqtash, shot dead in nearby Za'tara and around 100 people injured, with dozens of homes and vehicles burned. The IDF's regional commander later described the rampage as a 'pogrom', and video evidence indicated that soldiers present did little to stop it. Finance Minister Bezalel Smotrich said Huwara should be 'wiped out' by the state, remarks he walked back after condemnation from the United States and others. The events came hours after Israeli and Palestinian officials pledged de-escalation at a summit in Aqaba, Jordan.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Condemned the killing of the Yaniv brothers as a terrorist attack, called on citizens not to take the law into their own hands, and said the army would pursue both the gunman and the arsonists; Smotrich and other coalition members blamed Palestinian terror for the settlers' anger."
+        },
+        {
+          "party": "Palestinian Authority",
+          "framing": "Described the settler attack as a state-backed pogrom carried out under army protection and evidence of the government's annexationist agenda, and suspended engagement with the Aqaba process."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Hailed the shooting as a heroic operation and a response to Israeli raids, and later confirmed the gunman, killed by Israeli forces in March, as a member."
+        },
+        {
+          "party": "United States",
+          "framing": "Condemned both the shooting and the settler violence, called Smotrich's remarks repugnant and disgusting, and pressed Israel to prosecute those responsible for the rampage."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Israeli settlers rampage after deadly Palestinian attack in West Bank",
+          "url": "https://www.france24.com/en/middle-east/20230226-israeli-settlers-rampage-after-deadly-palestinian-attack-in-west-bank",
+          "publisher": "France 24",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Israel should 'wipe out' Palestinian town of Huwara, says senior minister Smotrich",
+          "url": "https://www.timesofisrael.com/israel-should-wipe-out-palestinian-town-of-huwara-says-senior-minister-smotrich/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Huwara: The settler attack on this West Bank town was called a 'pogrom' by Israel's military. Videos show soldiers did little to stop it",
+          "url": "https://www.cnn.com/2023/06/15/middleeast/huwara-west-bank-settler-attack-cmd-intl/index.html",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "gaza-wars",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Israelis killed",
+          "value": "2",
+          "attribution": "Israeli government",
+          "note": "Brothers Hallel Yaniv, 21, and Yagel Yaniv, 19, shot in their car."
+        },
+        {
+          "label": "Palestinians killed",
+          "value": "1",
+          "attribution": "Palestinian Ministry of Health",
+          "note": "Sameh Aqtash, 37, shot in Za'tara during the settler attacks; about 100 injured, four critically."
+        }
+      ]
+    },
+    {
+      "id": "2023-07-03-jenin-operation-home-and-garden",
+      "date": "2023-07-03",
+      "endDate": "2023-07-05",
+      "lat": 32.4614,
+      "lng": 35.29,
+      "location": "Jenin refugee camp, West Bank",
+      "title": "Israeli military operation in the Jenin refugee camp",
+      "category": "war",
+      "significance": 3,
+      "summary": "From the early hours of 3 July 2023, Israel conducted its largest military operation in the West Bank in nearly two decades, sending about 1,000 troops with drone strikes and armoured bulldozers into the Jenin refugee camp, which the IDF described as a stronghold of the armed 'Jenin Brigades' responsible for attacks on Israelis. Troops withdrew overnight on 4-5 July. According to the Palestinian Ministry of Health, 12 Palestinians, including four children, were killed and 143 injured; the IDF said all those killed were combatants and reported one soldier killed. UN OCHA reported that thousands of camp residents were temporarily displaced and that roads, water and electricity networks were extensively damaged. Palestinian Authority President Mahmoud Abbas suspended security coordination with Israel, the UN Secretary-General voiced concern at the use of air strikes in the densely populated camp, and Israel said the operation targeted militants and their weapons.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Called it a counter-terrorism operation, not a war, against a Jenin-based network responsible for dozens of shooting attacks and sheltered by Iran-backed groups, said it was carried out with precision and that all the dead were combatants, and said the army would return whenever necessary."
+        },
+        {
+          "party": "Palestinian Authority",
+          "framing": "Described the operation as a war crime and a new Nakba against the camp, suspended security coordination, and called on the UN Security Council to act."
+        },
+        {
+          "party": "Hamas and Palestinian Islamic Jihad",
+          "framing": "Praised the camp's fighters as heroes of resistance, claimed the operation had failed, and framed the events as part of a wider struggle against occupation."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The Secretary-General said air strikes were inconsistent with law-enforcement standards and expressed concern for civilians; OCHA and UNRWA documented displacement, damaged infrastructure and obstructed medical access."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Israeli forces' operation in Jenin | Situation Report #1 as of 17:00, 6 July 2023",
+          "url": "https://www.ochaopt.org/content/israeli-forces-operation-jenin-situation-report-1",
+          "publisher": "UN OCHA",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Israel stages a deadly large-scale raid on Palestinian Jenin Camp in West Bank",
+          "url": "https://www.npr.org/2023/07/03/1185737592/at-least-3-palestinians-are-killed-as-israel-stages-a-large-raid-in-the-west-ban",
+          "publisher": "NPR",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Israeli officials say troops are leaving Jenin after major operation",
+          "url": "https://www.washingtonpost.com/world/2023/07/04/israel-jenin-palestinian-idf/",
+          "publisher": "The Washington Post",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Israeli forces' operation in Jenin | Flash Update #1 as of 16:30, 3 July 2023",
+          "url": "https://reliefweb.int/report/occupied-palestinian-territory/israeli-forces-operation-jenin-flash-update-1-1630-3-july-2023-enarhe",
+          "publisher": "ReliefWeb (UN OCHA)",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "gaza-wars",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Palestinians killed in Jenin",
+          "value": "12",
+          "attribution": "Palestinian Ministry of Health",
+          "note": "Including four children; 143 injured, 20 critically. The IDF said all 12 were combatants."
+        },
+        {
+          "label": "Israeli soldiers killed",
+          "value": "1",
+          "attribution": "IDF",
+          "note": "Killed on 4 July during the withdrawal."
+        },
+        {
+          "label": "Temporarily displaced",
+          "value": "thousands",
+          "attribution": "UN OCHA",
+          "note": "Residents left the camp during the operation; most returned after the withdrawal."
+        }
+      ]
+    }
+  ],
+  "boundaryChanges": [
+    {
+      "date": "2007-07-01",
+      "description": "Starting configuration of the era: since Hamas's takeover in June 2007 the Gaza Strip has been administered by Hamas while Israel controls its land crossings (except Rafah), airspace and coastal waters and Egypt controls the Rafah crossing; the West Bank remains under Israeli military occupation with the Palestinian Authority administering Areas A and B.",
+      "sources": [
+        "https://www.hrw.org/world-report/2009/country-chapters/israel/palestine",
+        "https://www.everycrsreport.com/reports/RS22768.html"
+      ]
+    },
+    {
+      "date": "2007-09-19",
+      "description": "Israel's Security Cabinet declares Gaza 'hostile territory' and tightens the closure of the crossings, restricting goods, fuel and electricity; the land and sea blockade of Gaza, maintained jointly with Egypt's closure of Rafah, becomes the era's defining control regime (no change in the physical line, but a change in the access regime).",
+      "sources": [
+        "https://www.un.org/unispal/document/auto-insert-195603",
+        "https://www.hrw.org/news/2007/09/19/israel-threatened-sanctions-gaza-violate-laws-war"
+      ]
+    },
+    {
+      "date": "2009-01-03",
+      "description": "Israel formally declares a naval blockade of the Gaza Strip during Operation Cast Lead (ground forces enter Gaza the same day and withdraw after the 18 January ceasefire). The UN Palmer panel (2011) treats 3 January 2009 as the blockade's start date; Israeli-enforced fishing limits and a land 'access-restricted area' along the perimeter fence inside Gaza are maintained thereafter (approximate: 300 m to 1.5 km on land, 3 nautical miles at sea).",
+      "sources": [
+        "https://unispal.un.org/pdfs/GazaFlotillaPanelReport.pdf",
+        "https://www.amnesty.org/en/latest/news/2010/06/suffocating-gaza-israeli-blockades-effects-palestinians/"
+      ]
+    },
+    {
+      "date": "2012-11-21",
+      "description": "Egyptian-brokered ceasefire ending Operation Pillar of Defense includes understandings on easing Israeli restrictions along Gaza's perimeter and at sea; Israel subsequently allows farmers closer to the fence (approximately 100 m) and extends the fishing limit from 3 to 6 nautical miles, later reversing and restoring these limits repeatedly.",
+      "sources": [
+        "https://www.un.org/unispal/document/auto-insert-201184/",
+        "https://www.btselem.org/press_releases/20130509_pillar_of_defense_report"
+      ]
+    },
+    {
+      "date": "2014-08-26",
+      "description": "Open-ended ceasefire ending Operation Protective Edge; Israeli ground forces withdraw from Gaza. Israel again eases the perimeter access-restricted area (to about 100 m for farmers) and the fishing zone (6 nautical miles), with later expansions to 9-15 nautical miles used as leverage in subsequent years. No permanent change of territorial control.",
+      "sources": [
+        "https://www.ochaopt.org/content/key-figures-2014-hostilities",
+        "https://www.btselem.org/gaza_strip/gaza_201407_operation"
+      ]
+    },
+    {
+      "date": "2023-07-05",
+      "description": "Israeli forces withdraw from the Jenin refugee camp after a two-day operation; Area A of the West Bank remains nominally under Palestinian Authority administration, but Israeli forces conduct raids there at will (no permanent change of control).",
+      "sources": [
+        "https://www.ochaopt.org/content/israeli-forces-operation-jenin-situation-report-1",
+        "https://www.washingtonpost.com/world/2023/07/04/israel-jenin-palestinian-idf/"
+      ]
+    }
+  ],
+  "excluded": [
+    {
+      "title": "Rafah border wall breach: Gazans cross into Egypt",
+      "date": "2008-01-23",
+      "reason": "Significant but short-lived; the search budget was exhausted before it could be sourced from two publishers."
+    },
+    {
+      "title": "Egyptian-brokered Israel-Hamas truce (tahdiya)",
+      "date": "2008-06-19",
+      "reason": "Folded into the Cast Lead summary as context; not separately sourced."
+    },
+    {
+      "title": "Mercaz HaRav yeshiva shooting in Jerusalem",
+      "date": "2008-03-06",
+      "reason": "Lower significance for the era than the must-include list; not separately sourced."
+    },
+    {
+      "title": "Palestine admitted to UNESCO",
+      "date": "2011-10-31",
+      "reason": "Superseded in significance by the 2012 UNGA 67/19 vote; omitted to stay near the 16-20 target."
+    },
+    {
+      "title": "Fatah-Hamas reconciliation and unity government",
+      "date": "2014-06-02",
+      "reason": "Mentioned only as context; the must-include list already exceeded the target count."
+    },
+    {
+      "title": "Kidnapping and killing of three Israeli teenagers (Operation Brother's Keeper)",
+      "date": "2014-06-12",
+      "reason": "Included as context within the Protective Edge summary rather than as a separate event."
+    },
+    {
+      "title": "Temple Mount / Haram al-Sharif metal-detector crisis",
+      "date": "2017-07-14",
+      "reason": "Regionally important but omitted to stay near the target count; not sourced."
+    },
+    {
+      "title": "US recognition of Israeli sovereignty over the Golan Heights",
+      "date": "2019-03-25",
+      "reason": "Israel-Syria thread; no change in physical control; omitted for count reasons and not sourced within the search budget."
+    },
+    {
+      "title": "Operation Black Belt / killing of PIJ commander Baha Abu al-Ata",
+      "date": "2019-11-12",
+      "reason": "Smaller escalation than the included Gaza operations; omitted for count reasons."
+    },
+    {
+      "title": "Trump 'Peace to Prosperity' plan unveiled",
+      "date": "2020-01-28",
+      "reason": "Referenced in the Abraham Accords summary; omitted as a separate event for count reasons."
+    },
+    {
+      "title": "Sudan and Morocco normalisation agreements",
+      "date": "2020-12-10",
+      "reason": "Covered within the Abraham Accords entry."
+    },
+    {
+      "title": "Operation Shield and Arrow (Israel-PIJ, Gaza)",
+      "date": "2023-05-09",
+      "reason": "Similar scale to Breaking Dawn; omitted for count reasons and not sourced within the search budget."
+    },
+    {
+      "title": "First Jenin raid with air strikes since 2006",
+      "date": "2023-06-19",
+      "reason": "Precursor mentioned in the July 2023 Jenin entry's sources; omitted as a separate event."
+    },
+    {
+      "title": "Syrian civil war spillover on the Golan; Israeli strikes on Iranian targets in Syria",
+      "date": "2011-2023",
+      "reason": "Outside the core Israeli-Palestinian scope except where it intersects directly; not covered in this unit."
+    }
+  ],
+  "uncertainties": [
+    "NETWORK LIMITATION: the session's egress proxy denied every publisher, UN, NGO and archive host (WebFetch 'EGRESS_BLOCKED'; curl CONNECT 403), and the WebSearch budget was exhausted mid-task. No source page could be opened directly or HTTP-status-checked. Every cited URL was taken verbatim from a WebSearch result (never guessed), and dates/figures were corroborated from the page-derived content those results returned, from at least two publishers per event. Run `npm run validate -- --links` from a networked environment to HTTP-verify the URLs before publishing.",
+    "Operation Cast Lead: Palestinian fatality totals differ by source (B'Tselem 1,387; Amnesty ~1,383; PCHR ~1,417; Gaza Health Ministry ~1,440; IDF 1,166). Civilian/combatant classifications differ sharply (B'Tselem 773 uninvolved vs IDF 295 civilians).",
+    "Operation Pillar of Defense: B'Tselem's 167 counts only Palestinians killed by Israeli forces; UN OCHA and Gaza authorities reported totals of about 170-175 including deaths from rockets falling short. The OCHA breakdown could not be re-read within the search budget.",
+    "Operation Protective Edge: the Israeli government report figures (2,125 killed, at least 936 militants, 761 civilians) are from the 2015 MFA report cited but could not be re-read; OCHA's 2,251 and B'Tselem's 2,202 are confirmed by search-result content. Israeli civilian deaths are given as 6 (including one child and one Thai national); some sources say 5 plus one foreign national.",
+    "Wave of attacks (2015): start date is contested. 1 October 2015 (Henkin shooting near Nablus) and 3 October 2015 (Lions' Gate stabbing) are both used; this entry uses 3 October. Cumulative casualty totals (34 Israelis, ~200 Palestinians) are as reported by France 24 in May 2016; other tallies through 2016 are higher.",
+    "US recognition of Jerusalem: the UN General Assembly vote tally (128-9-35, resolution ES-10/19 of 21 December 2017) is included from the researcher's prior knowledge; it was not among the search results returned before the budget ran out.",
+    "Great March of Return: endDate 2019-12-27 reflects the last regular Friday protest before organisers suspended the marches; the UN Commission of Inquiry figures cover only 30 March - 31 December 2018. OCHA's later cumulative figure (about 214 killed through 2019) is not included because it could not be confirmed.",
+    "May 2021 war: Israeli deaths are variously given as 12 (rocket victims in Israel) or 13 (including the soldier); this entry uses 13 with the breakdown noted. The peak displacement figure (~113,000) is from OCHA reporting recalled by the researcher and could not be re-read.",
+    "Operation Breaking Dawn: the Gaza Health Ministry total (49 killed including 17 children) and the IDF's attribution of some deaths to misfired PIJ rockets are drawn from the cited Israeli research-centre summary and the researcher's knowledge; OCHA's own flash update could not be retrieved within the search budget.",
+    "Jenin (July 2023): OCHA's displacement figure was reported as roughly 3,000-4,000 residents; this entry uses 'thousands' because the exact number could not be confirmed.",
+    "Goldstone Report: the report was released in New York on 15 September 2009 and presented to the Human Rights Council in Geneva on 29 September; the entry is geolocated to Geneva as the seat of the commissioning body.",
+    "Mavi Marmara: the location (about 72 nautical miles from the coast) is approximated to 32.65 N, 33.55 E.",
+    "Event count is 22 rather than 16-20 because the must-include list contained 22 distinct dated items (the Jerusalem recognition/embassy move and Huwara/Jenin pairs were split into separate events)."
+  ]
+}
