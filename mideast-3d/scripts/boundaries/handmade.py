@@ -151,3 +151,148 @@ BARRIER_LINE = [
     [35.000, 31.360], [35.060, 31.362], [35.120, 31.365], [35.180, 31.375],
     [35.230, 31.380],
 ]
+
+# ===========================================================================
+# Post-October-2023 control zones (build_recent.py).  All APPROXIMATE, drawn
+# from published maps and descriptions at globe-view precision (0.5-1 km).
+# Web access was unavailable when these were digitised (2026-09-09); the
+# sources named are the reporting the shapes were reconstructed from.
+# ===========================================================================
+
+# Southern edge of the northern-Gaza ground-operations area (27 Oct 2023 -
+# 15 Jan 2024): everything north of the Netzarim corridor / Wadi Gaza.  Used
+# with common.clip_side(gaza, ..., 'north').
+NORTH_GAZA_OP_EDGE = [[34.30, 31.470], [34.60, 31.470]]
+
+# Netzarim corridor: the IDF-held east-west strip south of Gaza City, from
+# the perimeter fence near Nahal Oz / Kibbutz Be'eri west along the line of
+# the former Netzarim settlement to the coast, north of Wadi Gaza and the
+# Nuseirat camp.  About 6-7 km wide by mid-2024 (~30 km2).  Established when
+# the IDF announced the encirclement of Gaza City and the splitting of the
+# strip (5 Nov 2023); evacuated 9 Feb 2025 under the January 2025 ceasefire;
+# re-occupied after 18 March 2025.  Drawn from UN OCHA and press maps of the
+# corridor (Times of Israel, Reuters, ISW/Critical Threats control maps).
+NETZARIM_CORRIDOR_POLY = [
+    [34.470, 31.492], [34.470, 31.455], [34.440, 31.448], [34.410, 31.443],
+    [34.385, 31.447], [34.383, 31.462], [34.395, 31.478], [34.420, 31.488],
+    [34.450, 31.494],
+]
+
+# Khan Younis operational area (IDF 98th Division, 4 Dec 2023 - 7 Apr 2024):
+# Khan Younis city and its eastern hinterland (Bani Suheila, Abasan, Khuza'a)
+# to the fence; al-Mawasi on the coast excluded.  Drawn from ISW/Critical
+# Threats and UN OCHA maps of the Khan Younis operation.
+KHAN_YOUNIS_2024_POLY = [
+    [34.265, 31.395], [34.300, 31.405], [34.340, 31.405], [34.380, 31.400],
+    [34.400, 31.360], [34.370, 31.300], [34.330, 31.300], [34.290, 31.315],
+    [34.262, 31.345],
+]
+
+# Rafah operational zone (from 7 May 2024, when the IDF seized the Rafah
+# crossing; extended over the whole Rafah governorate by August 2024): the
+# governorate south of a line from the coast north of Tal al-Sultan to the
+# fence near Sufa.  Drawn from IDF evacuation-order maps and UN OCHA Rafah
+# maps (May-Aug 2024).
+RAFAH_2024_POLY = [
+    [34.190, 31.318], [34.245, 31.314], [34.285, 31.303], [34.320, 31.291],
+    [34.345, 31.279], [34.360, 31.262], [34.300, 31.200], [34.180, 31.290],
+]
+
+# Morag corridor (announced 2 Apr 2025): east-west strip between Rafah and
+# Khan Younis along the line of the former Morag settlement, from the fence
+# near Sufa to the coast at al-Mawasi south of Khan Younis; ~2-3 km wide.
+# Drawn from IDF/press maps (Times of Israel, Al Jazeera, ISW), April 2025.
+MORAG_CORRIDOR_POLY = [
+    [34.355, 31.297], [34.350, 31.285], [34.300, 31.303], [34.262, 31.318],
+    [34.228, 31.330], [34.216, 31.340], [34.235, 31.347], [34.270, 31.336],
+    [34.310, 31.320], [34.335, 31.312],
+]
+
+# Area NOT under Israeli operational control in mid-2025 (after the 18 March
+# 2025 resumption and Operation Gideon's Chariots): the Gaza City core, the
+# coastal strip through Nuseirat / Zawaida / Deir al-Balah, and al-Mawasi
+# with western Khan Younis.  The Israeli zone is the Gaza Strip minus this
+# pocket (~70-75%, matching IDF statements of ~75% in July 2025).  Drawn from
+# ISW/Critical Threats control-of-terrain maps and UN OCHA evacuation-order
+# maps, June-Sept 2025.
+GAZA_2025_POCKET_POLY = [
+    [34.395, 31.556], [34.430, 31.556], [34.470, 31.548], [34.480, 31.530],
+    [34.478, 31.505], [34.468, 31.485], [34.440, 31.470], [34.410, 31.462],
+    [34.395, 31.455], [34.380, 31.445], [34.365, 31.425], [34.350, 31.410],
+    [34.330, 31.400], [34.320, 31.385], [34.310, 31.370], [34.300, 31.360],
+    [34.285, 31.352], [34.270, 31.345], [34.240, 31.340], [34.215, 31.335],
+    [34.190, 31.345], [34.300, 31.500],
+]
+
+# Gaza City offensive (16 Sept - 9 Oct 2025): the parts of Gaza City the IDF
+# pushed into from the north (Sheikh Radwan), east (Tuffah, Shuja'iyya) and
+# south (Zeitoun, Sabra, Tel al-Hawa) before the 10 Oct 2025 ceasefire.
+# Drawn from IDF evacuation maps and ISW/press reporting, Sept-Oct 2025.
+GAZA_CITY_2025_POLY = [
+    [34.440, 31.548], [34.472, 31.548], [34.482, 31.532], [34.480, 31.505],
+    [34.470, 31.485], [34.445, 31.478], [34.425, 31.484], [34.432, 31.505],
+    [34.442, 31.525],
+]
+
+# The "Yellow Line" of the 10 Oct 2025 ceasefire (first-phase Israeli
+# withdrawal line of the 20-point plan), north to south then west to the
+# coast.  Israeli forces hold everything EAST/SOUTH of it (~53% of the strip
+# per IDF/press maps): Beit Hanoun, eastern Beit Lahia and Jabalia, the
+# eastern fringe of Gaza City (Shuja'iyya, Tuffah), eastern Bureij/Maghazi,
+# eastern Khan Younis (Bani Suheila, Abasan, Khuza'a) and the whole of Rafah
+# south of the Morag corridor.  Drawn from the IDF deployment map published
+# with the ceasefire and UN OCHA / ISW renderings of it (Oct 2025).
+YELLOW_LINE = [
+    [34.460, 31.556], [34.485, 31.548], [34.498, 31.536], [34.502, 31.518],
+    [34.497, 31.500], [34.488, 31.480], [34.470, 31.463], [34.450, 31.455],
+    [34.425, 31.450], [34.400, 31.443], [34.383, 31.430], [34.372, 31.410],
+    [34.358, 31.393], [34.343, 31.376], [34.328, 31.362], [34.316, 31.348],
+    [34.312, 31.335], [34.295, 31.330], [34.270, 31.333], [34.248, 31.338],
+    [34.228, 31.342], [34.205, 31.347],
+]
+
+# Northern edge of the area of Israeli ground operations in south Lebanon
+# from 1 Oct 2024 (Operation Northern Arrows) to the 18 Feb 2025 withdrawal:
+# a strip roughly 5-8 km deep from Naqoura past Bint Jbeil, Maroun al-Ras,
+# Aitaroun, Kfar Kila, Khiam and Deir Mimas (near the Litani bend) to the
+# Hermon foothills.  Reused for the March 2026 ground operations (extent
+# unverified).  Drawn from IDF statements and ISW/Critical Threats maps of
+# the ground incursions (Oct 2024 - Feb 2025).
+LEBANON_2024_OP_EDGE = [
+    [35.110, 33.120], [35.180, 33.130], [35.250, 33.140], [35.330, 33.150],
+    [35.400, 33.165], [35.460, 33.190], [35.510, 33.230], [35.550, 33.280],
+    [35.580, 33.330], [35.620, 33.360], [35.680, 33.350], [35.740, 33.330],
+    [35.800, 33.300], [35.900, 33.300],
+]
+
+# The five hilltop positions retained by the IDF inside Lebanon after the
+# 18 Feb 2025 withdrawal (centre point [lng, lat]; drawn as ~1 km circles):
+# Labbouneh (opposite Shlomi, east of Naqoura), Jabal Blat (between Ramyeh
+# and Marwahin, opposite Shtula), Jal al-Deir (between Aitaroun and Maroun
+# al-Ras, opposite Avivim), Tallet al-Aziziyeh (near Hula / Markaba, opposite
+# Margaliot) and Tallet al-Hamames (south of Khiam, opposite Metula).  Names
+# and locations from Lebanese and Israeli reporting of the five points
+# (Feb 2025); positions approximate to ~1 km.
+LEBANON_HILLTOPS = {
+    'Labbouneh': [35.150, 33.098],
+    'Jabal Blat': [35.288, 33.107],
+    'Jal al-Deir': [35.440, 33.100],
+    'Tallet al-Aziziyeh (Hula / Markaba)': [35.528, 33.207],
+    'Tallet al-Hamames (Khiam)': [35.604, 33.296],
+}
+LEBANON_HILLTOP_RADIUS = 0.0055  # degrees (~0.5 km)
+
+# Israeli-controlled zone in southern Syria after 8 Dec 2024: the UNDOF area
+# of separation (Natural Earth polygon, added by the builder) plus adjacent
+# Syrian territory - the Syrian summit of Mount Hermon (Jabal al-Shaykh) and
+# its eastern slopes towards Beit Jinn, and a strip 3-6 km east of the area
+# of separation past Hader, Jubata al-Khashab, Tal al-Ahmar (Quneitra) and
+# Kudna to the Yarmouk.  Clipped to Syria by the builder.  Drawn from UN
+# (UNDOF) statements and ISW/press maps of IDF positions, Dec 2024 - 2025.
+SYRIA_2024_ZONE_POLY = [
+    [35.740, 32.740], [35.780, 32.720], [35.830, 32.760], [35.880, 32.830],
+    [35.930, 32.890], [35.960, 32.950], [35.945, 33.020], [35.930, 33.120],
+    [35.940, 33.200], [35.960, 33.280], [35.985, 33.350], [35.970, 33.420],
+    [35.920, 33.450], [35.860, 33.450], [35.820, 33.430], [35.800, 33.380],
+    [35.780, 33.300], [35.750, 33.200], [35.740, 33.000],
+]
