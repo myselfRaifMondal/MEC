@@ -176,11 +176,22 @@ export default function BoundaryLayer() {
   const featureCount = layer ? layer.collection.features.length : 0;
   const visibleCount = activeSet.size;
   const loadedChapterId = layer?.chapterId ?? null;
+  // Distinct styles currently visible, as a stable string so the effect only
+  // fires when the visible set actually changes.
+  const visibleStylesKey = useMemo(
+    () => Array.from(new Set(Array.from(activeSet, (f) => f.properties.style))).sort().join(','),
+    [activeSet],
+  );
 
   useEffect(() => {
     if (loadedChapterId === null) return;
-    actions.setBoundaryStatus({ chapterId: loadedChapterId, featureCount, visibleCount });
-  }, [loadedChapterId, featureCount, visibleCount]);
+    actions.setBoundaryStatus({
+      chapterId: loadedChapterId,
+      featureCount,
+      visibleCount,
+      visibleStyles: visibleStylesKey ? visibleStylesKey.split(',') : [],
+    });
+  }, [loadedChapterId, featureCount, visibleCount, visibleStylesKey]);
 
   if (!layer) return null;
 
