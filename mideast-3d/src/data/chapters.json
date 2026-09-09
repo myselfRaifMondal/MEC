@@ -1,0 +1,98 @@
+[
+  {
+    "id": "mandate",
+    "title": "Balfour to Partition: The Mandate Years",
+    "start": "1917-11-02",
+    "end": "1947-11-28",
+    "overview": "PLACEHOLDER - replaced by research output.",
+    "camera": { "lat": 32.0, "lng": 35.5, "distance": 2.2 }
+  },
+  {
+    "id": "partition-war",
+    "title": "Partition, War, and the Nakba",
+    "start": "1947-11-29",
+    "end": "1949-07-20",
+    "overview": "PLACEHOLDER - replaced by research output.",
+    "camera": { "lat": 31.8, "lng": 35.0, "distance": 1.8 }
+  },
+  {
+    "id": "armistice-suez",
+    "title": "Armistice Lines and the Suez Crisis",
+    "start": "1949-07-21",
+    "end": "1967-06-04",
+    "overview": "PLACEHOLDER - replaced by research output.",
+    "camera": { "lat": 31.0, "lng": 34.0, "distance": 2.2 }
+  },
+  {
+    "id": "six-day-to-yom-kippur",
+    "title": "Six-Day War to the October War",
+    "start": "1967-06-05",
+    "end": "1974-05-31",
+    "overview": "PLACEHOLDER - replaced by research output.",
+    "camera": { "lat": 31.0, "lng": 34.5, "distance": 2.3 }
+  },
+  {
+    "id": "camp-david-lebanon",
+    "title": "Camp David and the Lebanon War",
+    "start": "1974-06-01",
+    "end": "1987-12-08",
+    "overview": "PLACEHOLDER - replaced by research output.",
+    "camera": { "lat": 32.5, "lng": 35.5, "distance": 2.2 }
+  },
+  {
+    "id": "first-intifada-oslo",
+    "title": "First Intifada and the Road to Oslo",
+    "start": "1987-12-09",
+    "end": "1993-09-12",
+    "overview": "PLACEHOLDER - replaced by research output.",
+    "camera": { "lat": 31.9, "lng": 35.1, "distance": 1.8 }
+  },
+  {
+    "id": "oslo-process",
+    "title": "The Oslo Process",
+    "start": "1993-09-13",
+    "end": "2000-09-27",
+    "overview": "PLACEHOLDER - replaced by research output.",
+    "camera": { "lat": 31.9, "lng": 35.1, "distance": 1.8 }
+  },
+  {
+    "id": "second-intifada-disengagement",
+    "title": "Second Intifada, Barrier, and Disengagement",
+    "start": "2000-09-28",
+    "end": "2007-06-30",
+    "overview": "PLACEHOLDER - replaced by research output.",
+    "camera": { "lat": 32.0, "lng": 35.0, "distance": 1.9 }
+  },
+  {
+    "id": "gaza-wars",
+    "title": "Blockade, Gaza Wars, and the Abraham Accords",
+    "start": "2007-07-01",
+    "end": "2023-10-06",
+    "overview": "PLACEHOLDER - replaced by research output.",
+    "camera": { "lat": 31.5, "lng": 34.6, "distance": 1.9 }
+  },
+  {
+    "id": "october-7-gaza-war",
+    "title": "October 7 and the Gaza War",
+    "start": "2023-10-07",
+    "end": "2024-08-31",
+    "overview": "PLACEHOLDER - replaced by research output.",
+    "camera": { "lat": 31.4, "lng": 34.4, "distance": 1.6 }
+  },
+  {
+    "id": "regional-escalation",
+    "title": "Lebanon, Iran, and Regional Escalation",
+    "start": "2024-09-01",
+    "end": "2025-06-30",
+    "overview": "PLACEHOLDER - replaced by research output.",
+    "camera": { "lat": 32.5, "lng": 38.0, "distance": 2.6 }
+  },
+  {
+    "id": "ceasefire-and-after",
+    "title": "The October 2025 Ceasefire and After",
+    "start": "2025-07-01",
+    "end": "2026-09-09",
+    "overview": "PLACEHOLDER - replaced by research output.",
+    "camera": { "lat": 31.6, "lng": 34.8, "distance": 1.8 }
+  }
+]

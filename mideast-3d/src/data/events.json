@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1917-balfour-declaration",
+    "date": "1917-11-02",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "location": "London, United Kingdom",
+    "title": "Balfour Declaration",
+    "category": "political",
+    "significance": 5,
+    "summary": "PLACEHOLDER. On 2 November 1917 British Foreign Secretary Arthur Balfour sent a letter to Lord Rothschild stating that the British government viewed with favour the establishment in Palestine of a national home for the Jewish people, provided that nothing should be done to prejudice the civil and religious rights of existing non-Jewish communities. The declaration was issued while British forces were advancing into Ottoman Palestine and was later incorporated into the League of Nations Mandate for Palestine in 1922. It is widely regarded as a foundational document in the modern Arab-Israeli conflict, and its meaning and legitimacy have been contested by the parties ever since it was published.",
+    "perspectives": [
+      { "party": "Zionist movement / Israel", "framing": "Seen as international recognition of Jewish national rights in the Land of Israel and a milestone toward statehood." },
+      { "party": "Palestinian and Arab leadership", "framing": "Seen as a promise by one power to give away the land of another people without consulting its majority Arab population." }
+    ],
+    "sources": [
+      { "title": "Balfour Declaration text", "url": "https://avalon.law.yale.edu/20th_century/balfour.asp", "publisher": "Yale Law School Avalon Project", "accessedDate": "2026-09-09" },
+      { "title": "Balfour Declaration", "url": "https://www.britannica.com/event/Balfour-Declaration", "publisher": "Encyclopaedia Britannica", "accessedDate": "2026-09-09" }
+    ],
+    "era": "mandate",
+    "verified": true
+  }
+]
