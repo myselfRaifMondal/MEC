@@ -1,0 +1,1419 @@
+{
+  "era": "ceasefire-and-after",
+  "unit": "ceasefire-and-after-b",
+  "events": [
+    {
+      "id": "2026-01-14-gaza-plan-phase-two-launched",
+      "date": "2026-01-14",
+      "lat": 31.5017,
+      "lng": 34.4668,
+      "location": "Gaza City, Gaza Strip",
+      "title": "US declares Phase Two of Gaza plan; technocratic committee named",
+      "category": "political",
+      "significance": 4,
+      "summary": "On 14 January 2026 US Special Envoy Steve Witkoff announced, on behalf of President Trump, the launch of Phase Two of the 20-point plan to end the Gaza war, described as a move from ceasefire to demilitarisation, technocratic governance and reconstruction. The same day Qatari, Egyptian and Turkish mediators named former Palestinian minister Ali Shaath as chief commissioner of the National Committee for the Administration of Gaza, a transitional technocratic body excluding Hamas and the Palestinian Authority, to be supervised by the Board of Peace with UN envoy Nickolay Mladenov in a guiding role. Witkoff said Washington expected Hamas to comply fully with its obligations, including returning the last deceased hostage. Al Jazeera reported that most Phase One commitments had not materialised: it counted Israeli attacks on 82 of the first 97 ceasefire days, and 23,019 aid trucks entering Gaza by 9 January, about 43 percent of the number envisaged.",
+      "perspectives": [
+        {
+          "party": "United States",
+          "framing": "Presents Phase Two as the transition from ceasefire to 'demilitarization, technocratic governance, and reconstruction' under the President's 20-Point Plan, and warns that Hamas's failure to meet its commitments will bring 'serious consequences'."
+        },
+        {
+          "party": "Hamas and Palestinian factions",
+          "framing": "Palestinian factions publicly welcomed the transitional committee while Hamas insisted that Israel had not honoured Phase One (aid volumes, crossings, withdrawal lines) and that disarmament demands were premature."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Treats Phase Two as the stage in which Hamas must be fully disarmed and Gaza demilitarised before any further Israeli withdrawal, and stresses the return of the final deceased hostage as a precondition."
+        },
+        {
+          "party": "United Nations",
+          "framing": "Through Security Council Resolution 2803 the UN endorsed the framework; UN officials urged consolidation of the ceasefire, full humanitarian access and restraint by all parties."
+        }
+      ],
+      "sources": [
+        {
+          "title": "US envoy announces launch of 'phase two' of plan to end Gaza war",
+          "url": "https://www.aljazeera.com/news/2026/1/14/trump-envoy-announces-launch-of-second-phase-of-gaza-plan",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "White House announces \"phase two\" of Gaza ceasefire deal",
+          "url": "https://www.axios.com/2026/01/14/gaza-phase-two-hamas-disarm-israel",
+          "publisher": "Axios",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "US announces next phase of Gaza ceasefire plan as committee is formed to run battered enclave",
+          "url": "https://www.cnn.com/2026/01/14/politics/us-announces-gaza-ceasefire-next-phase",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "US declares phase two of Gaza ceasefire, but what did phase one deliver?",
+          "url": "https://www.aljazeera.com/news/2026/1/16/us-declares-phase-two-of-gaza-ceasefire-but-what-did-phase-one-deliver",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Gaza 2026: Board of Peace and National Transitional Committee",
+          "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10492/",
+          "publisher": "House of Commons Library",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true
+    },
+    {
+      "id": "2026-01-22-board-of-peace-charter-signed-davos",
+      "date": "2026-01-22",
+      "lat": 46.8027,
+      "lng": 9.836,
+      "location": "Davos, Switzerland",
+      "title": "Trump signs Board of Peace charter with founding members at Davos",
+      "category": "political",
+      "significance": 4,
+      "summary": "On 22 January 2026 President Trump hosted a signing ceremony for the founding charter of the Board of Peace on the sidelines of the World Economic Forum in Davos, formally establishing the body as an international organisation with himself as chairman. Leaders or senior officials from 17 countries, including Argentina's Javier Milei and Hungary's Viktor Orban, were called to the stage as founding members; the House of Commons Library later reported that up to 35 states had agreed to join, none of them other G7 members. The Board, whose members Trump had announced on 17 January, is intended to oversee post-war stabilisation, governance and reconstruction in Gaza and to supervise the National Committee for the Administration of Gaza. Its executive board included Marco Rubio, Tony Blair, Steve Witkoff, Ajay Banga, Jared Kushner, Marc Rowan and Robert Gabriel. The UAE accepted an invitation to join on 21 January.",
+      "perspectives": [
+        {
+          "party": "United States",
+          "framing": "The White House described the ceremony as 'ratifying' the Board of Peace and 'opening a path to hope and dignity for Gazans', presenting the Board as a new international mechanism for stabilising Gaza and potentially other conflict zones."
+        },
+        {
+          "party": "Palestinian Authority",
+          "framing": "Has argued that Gaza's governance should return to a reformed Palestinian Authority and that an external board without PA representation risks entrenching the separation of Gaza from the West Bank."
+        },
+        {
+          "party": "European and other Western governments",
+          "framing": "Several allies stayed outside the Board; commentators such as Foreign Policy framed the initiative as either a Gaza reconstruction vehicle or an attempt to build a parallel structure to the UN."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Rejects any foreign trusteeship over Gaza and characterises the Board as an instrument for imposing terms on Palestinians, while saying it will cooperate with a Palestinian technocratic committee."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Trump Hosts 'Board of Peace' Charter Signing Ceremony in Davos",
+          "url": "https://foreignpolicy.com/2026/01/22/board-of-peace-charter-signing-ceremony-trump-davos-member-countries-gaza/",
+          "publisher": "Foreign Policy",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "President Trump Ratifies Board of Peace in Historic Ceremony, Opening Path to Hope and Dignity for Gazans",
+          "url": "https://www.whitehouse.gov/releases/2026/01/president-trump-ratifies-board-of-peace-in-historic-ceremony-opening-path-to-hope-and-dignity-for-gazans/",
+          "publisher": "The White House",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Trump launches Board of Peace in Davos, Zelenskyy announces U.S.-Russia-Ukraine talks",
+          "url": "https://www.cbsnews.com/live-updates/trump-board-of-peace-gaza-davos-world-economic-forum/",
+          "publisher": "CBS News",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Board of Peace Gaza Trump",
+          "url": "https://www.npr.org/2026/01/22/g-s1-106799/board-of-peace-gaza-trump",
+          "publisher": "NPR",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Gaza 2026: Board of Peace and National Transitional Committee",
+          "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10492/",
+          "publisher": "House of Commons Library",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true
+    },
+    {
+      "id": "2026-01-26-remains-of-last-hostage-ran-gvili-recovered",
+      "date": "2026-01-26",
+      "lat": 31.515,
+      "lng": 34.48,
+      "location": "Shejaiya–Tuffah, Gaza City",
+      "title": "Israel recovers remains of Ran Gvili, last hostage held in Gaza",
+      "category": "war",
+      "significance": 3,
+      "summary": "On 26 January 2026 the Israeli military announced that it had recovered the remains of Ran Gvili, a police officer killed on 7 October 2023 while defending Kibbutz Alumim, from the al-Batesh cemetery in the Shejaiya–Tuffah area of northern Gaza City. Gvili was the last of the 28 deceased hostages whose return was required under the October 2025 ceasefire; his body had been held for 843 days. Israeli forces said they examined around 250 corpses during the recovery operation, and the Shin Bet said the breakthrough came from the capture about a month earlier of an Islamic Jihad operative who knew where the remains had been moved. The return meant that for the first time since 2014 no Israeli hostages, living or dead, were held in Gaza, removing a central dispute over Hamas's Phase One compliance. Gvili's funeral was held in his hometown of Meitar.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Declared 'all of them are home now', credited a covert IDF–Shin Bet operation rather than Hamas cooperation, and said Hamas had failed its obligation to return the body voluntarily."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Said it had been unable to locate the remains because of the destruction and the deaths of those who buried them, and that Israel's independent recovery did not amount to a Hamas violation of the agreement."
+        },
+        {
+          "party": "United States",
+          "framing": "Welcomed the recovery as closing the hostage file and said attention would now turn to Hamas's disarmament commitments under Phase Two."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Remains of last Israeli captive Ran Gvili recovered from Gaza, says Israel",
+          "url": "https://www.aljazeera.com/news/2026/1/26/remains-of-last-israeli-captive-in-gaza-retrieved-says-israel",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel recovers body of last hostage in Gaza",
+          "url": "https://www.cnn.com/2026/01/26/middleeast/last-hostage-gaza-recovered-israel-intl",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "All of them are home now: Body of last hostage Ran Gvili found in Gaza, returned to Israel",
+          "url": "https://www.timesofisrael.com/all-of-them-home-now-body-of-last-hostage-ran-gvili-found-in-gaza-returned-to-israel/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Remains of Ran Gvili, Last Hostage in Gaza, Returned to Israel",
+          "url": "https://www.fdd.org/analysis/2026/01/26/remains-of-ran-gvili-last-hostage-in-gaza-returned-to-israel/",
+          "publisher": "Foundation for Defense of Democracies",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true
+    },
+    {
+      "id": "2026-01-31-israeli-strikes-kill-dozens-in-gaza",
+      "date": "2026-01-31",
+      "lat": 31.5017,
+      "lng": 34.4668,
+      "location": "Gaza City and southern Gaza Strip",
+      "title": "Israeli strikes across Gaza kill about 30 in deadliest day since ceasefire",
+      "category": "attack",
+      "significance": 3,
+      "summary": "Overnight on 30–31 January 2026 Israeli aircraft carried out a wave of strikes across the Gaza Strip that the Gaza Health Ministry said killed at least 30 people, one of the highest tolls since the October 2025 ceasefire; The Times of Israel reported 32 dead including women, children and Hamas police officers, while NPR's earlier count was 23. A strike on a police station in Gaza City killed at least 14, and a strike on a tent camp started a fire that killed seven members of one family. The Israeli military said it targeted commanders and infrastructure in response to what it called a violation of the ceasefire agreement. Palestinian health officials cited by CNN said at least 420 people had been killed since the truce began. The strikes came as the Rafah crossing was being prepared to reopen and as mediators pushed the parties toward Phase Two.",
+      "perspectives": [
+        {
+          "party": "Israeli government / IDF",
+          "framing": "Described the strikes as a response to a 'violation of the ceasefire agreement' by Hamas, targeting 'terror commanders and infrastructure', and said it remains entitled to act against threats on either side of the yellow line."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Called the strikes a 'massacre' and a flagrant breach of the ceasefire, and urged mediators and the United States to compel Israel to halt attacks on civilians and police."
+        },
+        {
+          "party": "United Nations",
+          "framing": "Repeated calls for all parties to consolidate the ceasefire and protect civilians, noting continuing deaths and injuries despite the truce."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Israeli strikes kill over 30 in Gaza, health ministry says, in deadliest day in months",
+          "url": "https://www.cnn.com/2026/01/31/middleeast/gaza-death-toll-ceasefire-intl",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israeli strikes kill 23 Palestinians as Gaza ceasefire inches forward",
+          "url": "https://www.npr.org/2026/01/31/g-s1-108142/israeli-strikes-kill-23-palestinians-gaza",
+          "publisher": "NPR",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "32 Gazans said killed in wave of strikes as IDF responds to truce violation",
+          "url": "https://www.timesofisrael.com/at-least-28-gazans-said-killed-in-wave-of-strikes-as-idf-responds-to-truce-violation/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Updates: Israel kills 31, including children, in Gaza ceasefire violation",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/31/live-israel-kills-12-palestinians-in-gaza-as-rafah-crossing-set-to-open",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Palestinians killed in strikes of 30–31 January",
+          "value": "at least 30",
+          "attribution": "Gaza Health Ministry (via CNN)",
+          "note": "Count as of 31 January 2026."
+        },
+        {
+          "label": "Palestinians killed in strikes of 30–31 January",
+          "value": "32",
+          "attribution": "Palestinian reports cited by The Times of Israel",
+          "note": "Includes Hamas police officers."
+        },
+        {
+          "label": "Palestinians killed since the October 2025 ceasefire",
+          "value": "at least 420",
+          "attribution": "Palestinian health authorities (via CNN)",
+          "note": "As of 31 January 2026."
+        }
+      ]
+    },
+    {
+      "id": "2026-02-02-rafah-crossing-partially-reopens",
+      "date": "2026-02-02",
+      "lat": 31.247,
+      "lng": 34.263,
+      "location": "Rafah crossing, Gaza–Egypt border",
+      "title": "Rafah crossing with Egypt partially reopens after nearly two years",
+      "category": "political",
+      "significance": 3,
+      "summary": "On 2 February 2026 the Rafah crossing between Gaza and Egypt partially reopened for the first time since Israeli forces seized it in May 2024, in what Israel described as a pilot completing the final step of Phase One of the October 2025 ceasefire. The European Union Border Assistance Mission (EUBAM Rafah) operated the crossing with Egyptian and Palestinian partners after weeks of preparation. An Israeli security official told CNN that 150 Palestinians a day would be allowed to leave and 50 to enter, but only five medical patients were permitted to exit on the first day. UN News reported hope but also 'massive trepidation' among Gazans over how limited the reopening would be. The crossing is Gaza's only land link to a country other than Israel and is the main route for seriously ill and wounded patients seeking treatment abroad.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Framed the reopening as a controlled pilot under Israeli security vetting, limited to people rather than goods, and as fulfilment of its Phase One obligations."
+        },
+        {
+          "party": "European Union",
+          "framing": "Presented EUBAM Rafah's return as an EU contribution to the ceasefire and to Palestinian freedom of movement, operating in coordination with Egypt, the Palestinian Authority and Israel."
+        },
+        {
+          "party": "Hamas and Palestinian civil society",
+          "framing": "Criticised the small numbers allowed through and the Israeli veto over travellers, saying the crossing remained effectively closed for most Gazans."
+        },
+        {
+          "party": "Egypt",
+          "framing": "Stressed its role as guarantor and its refusal to accept displacement of Gazans into Sinai, describing the crossing as a humanitarian lifeline rather than an exit route."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gaza's Rafah crossing partially reopens after nearly 2 years of closure",
+          "url": "https://www.cnn.com/2026/02/01/middleeast/gaza-rafah-crossing-partially-reopens-intl",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Gaza's Rafah border crossing with Egypt reopens for limited traffic",
+          "url": "https://www.npr.org/2026/02/02/g-s1-108287/gaza-rafah-border-crossing-reopens",
+          "publisher": "NPR",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Gaza: Limited Rafah crossing reopening sparks hope – but also 'massive trepidation'",
+          "url": "https://news.un.org/en/story/2026/02/1166872",
+          "publisher": "UN News",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Just five medical patients leave Gaza after Israel reopens Rafah crossing",
+          "url": "https://www.aljazeera.com/news/2026/2/2/gazas-rafah-crossing-reopens-for-limited-traffic",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Rafah crossing reopens with EU Support",
+          "url": "https://www.eeas.europa.eu/eu-border-assistance-mission-rafah-crossing-point/rafah-crossing-reopens-eu-support_en",
+          "publisher": "European External Action Service",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true
+    },
+    {
+      "id": "2026-02-08-israel-approves-west-bank-land-registration",
+      "date": "2026-02-08",
+      "lat": 31.7683,
+      "lng": 35.2137,
+      "location": "Jerusalem (Israeli security cabinet); Area C, West Bank",
+      "title": "Israeli cabinet approves West Bank land measures and Area C land registration",
+      "category": "political",
+      "significance": 4,
+      "summary": "On 8 February 2026 Israel's security cabinet adopted a package of decisions substantially increasing Israeli governmental authority in the Israeli-occupied West Bank, easing direct purchase of land by Israelis and opening West Bank land registries to public review. On 15 February the government resolved to launch land registration (title settlement) in Area C, a process under which land whose Palestinian ownership cannot be proven can be registered as state land available for Israeli lease and construction. CNN reported the moves as a push toward de facto annexation; UN Secretary-General Antonio Guterres deplored the resumption of registration and the UN Special Rapporteur condemned it as further annexation. Arab governments issued condemnations. Analysts at Chatham House and Israel Policy Forum described the measures as the most significant administrative restructuring of the territory since 1967.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Presents the decisions as normalising property rights and administration in 'Judea and Samaria', correcting decades of frozen registration, and as a legitimate exercise of authority in territory it regards as disputed rather than occupied."
+        },
+        {
+          "party": "Palestinian Authority",
+          "framing": "Denounces the measures as legalised land theft and creeping annexation designed to prevent a Palestinian state, and called for international sanctions."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The Secretary-General 'deplored' the move; the Special Rapporteur said it advances annexation in violation of international law and the ICJ's 2024 advisory opinion."
+        },
+        {
+          "party": "Arab states",
+          "framing": "Issued joint condemnations describing the registration plan as a violation of international law that undermines the two-state solution."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Israel advances registration of West Bank territory as state land in move decried as 'de facto annexation'",
+          "url": "https://edition.cnn.com/2026/02/15/middleeast/israel-advances-registration-of-west-bank-territory-as-state-land-intl-latam",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Guterres deplores Israel's move to resume land registration in the West Bank",
+          "url": "https://news.un.org/en/story/2026/02/1166973",
+          "publisher": "UN News",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Special Rapporteur condemns Israeli attempts to further annex West Bank",
+          "url": "https://www.ohchr.org/en/press-releases/2026/02/special-rapporteur-condemns-israeli-attempts-further-annex-west-bank",
+          "publisher": "OHCHR",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel's New Escalation of West Bank Annexation",
+          "url": "https://israelpolicyforum.org/israels-new-escalation-of-west-bank-annexation-2/",
+          "publisher": "Israel Policy Forum",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel's accelerating de facto annexation of the West Bank has dangerous implications",
+          "url": "https://www.chathamhouse.org/2026/04/israels-accelerating-de-facto-annexation-west-bank-has-dangerous-implications",
+          "publisher": "Chatham House",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true
+    },
+    {
+      "id": "2026-02-28-us-israel-strikes-iran-war-begins",
+      "date": "2026-02-28",
+      "endDate": "2026-04-08",
+      "lat": 35.6892,
+      "lng": 51.389,
+      "location": "Tehran, Iran",
+      "title": "US and Israel launch war on Iran; Supreme Leader Khamenei killed",
+      "category": "war",
+      "significance": 5,
+      "summary": "On 28 February 2026 the United States and Israel launched a joint aerial campaign against Iran, named Operation Epic Fury by the US and Operation Roaring Lion by Israel. Britannica records nearly 900 strikes in the first 12 hours on missile sites, air defences, military infrastructure and leadership; Israeli officials told CNN roughly 500 sites were hit. Supreme Leader Ali Khamenei was killed in a strike on his Tehran compound, and Iran declared 40 days of mourning. Iran retaliated with hundreds of ballistic missiles and thousands of drones against Israel and US-linked targets in Gulf states; a 1 March missile strike on Beit Shemesh killed nine Israeli civilians. Iran's Health Ministry, cited by Al Jazeera, reported 3,468 people killed in Iran; The Times of Israel counted 650 Iranian missiles and 24 people killed in Israel and the West Bank. Fighting continued until a ceasefire on 8 April.",
+      "perspectives": [
+        {
+          "party": "United States",
+          "framing": "President Trump presented the campaign as necessary to end Iran's nuclear and missile threat after failed negotiations, and hailed Khamenei's death as removing 'the heart of the regime'."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Described Operation Roaring Lion as a pre-emptive war of necessity to eliminate an existential nuclear and missile threat and to dismantle Iran's regional 'axis'."
+        },
+        {
+          "party": "Iran",
+          "framing": "Called the strikes an unprovoked act of aggression and the killing of the Supreme Leader an assassination and 'cynical murder' (as Russia's president also termed it); framed its missile campaign as legitimate self-defence."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The Secretary-General called for an immediate halt to hostilities, warned of catastrophic regional escalation and highlighted civilian casualties and displacement across Iran, Lebanon, Israel and the Gulf."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Iran's supreme leader killed in U.S.-Israeli attack; Tehran strikes Israel, Arab states",
+          "url": "https://www.washingtonpost.com/world/2026/02/28/israel-strikes-iran-live-updates/",
+          "publisher": "The Washington Post",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "February 28, 2026 — US-Israeli strikes on Iran",
+          "url": "https://www.cnn.com/world/live-news/israel-iran-attack-02-28-26-hnk-intl",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Iran's supreme leader, Ayatollah Ali Khamenei, has been killed",
+          "url": "https://www.npr.org/2026/02/28/nx-s1-5730158/israel-iran-strikes-trump-us",
+          "publisher": "NPR",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "2026 Iran war",
+          "url": "https://www.britannica.com/event/2026-Iran-war",
+          "publisher": "Britannica",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "US-Israel attacks on Iran: Death toll and injuries live tracker",
+          "url": "https://www.aljazeera.com/news/2026/3/1/us-israel-attacks-on-iran-death-toll-and-injuries-live-tracker",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "The war in numbers: 650 Iranian missiles fired; 24 killed in Israel, West Bank; 10,800 Israeli strikes",
+          "url": "https://www.timesofisrael.com/650-iranian-missiles-fired-24-killed-and-10800-israeli-strikes-the-war-in-numbers/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Iranian missile strike on Israel's Beit Shemesh kills nine people",
+          "url": "https://www.aljazeera.com/gallery/2026/3/1/iranian-missile-strike-on-israels-beit-shemesh-kills-nine-people",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "People killed in Iran by US-Israeli strikes",
+          "value": "at least 3,468",
+          "attribution": "Iran Ministry of Health (via Al Jazeera tracker)",
+          "note": "Cumulative since 28 February 2026; more than 26,500 injured per the same source. Date of count not stated in retrieved text."
+        },
+        {
+          "label": "People killed in Israel and the West Bank by Iranian strikes",
+          "value": "24",
+          "attribution": "The Times of Israel tally",
+          "note": "Alongside 650 Iranian missiles fired and 10,800 Israeli strikes, per the same tally."
+        },
+        {
+          "label": "Israelis killed by Iranian missiles (early March count)",
+          "value": "at least 12",
+          "attribution": "Jewish Insider, citing Israeli authorities",
+          "note": "Count in early March 2026; nine of these died in the 1 March Beit Shemesh strike."
+        }
+      ]
+    },
+    {
+      "id": "2026-03-02-hezbollah-enters-war-israel-lebanon-offensive",
+      "date": "2026-03-02",
+      "endDate": "2026-04-16",
+      "lat": 33.3306,
+      "lng": 35.6081,
+      "location": "Southern Lebanon and northern Israel",
+      "title": "Hezbollah joins Iran war; Israel launches air and ground offensive in Lebanon",
+      "category": "war",
+      "significance": 5,
+      "summary": "On 2 March 2026, less than 48 hours after the US-Israeli strikes on Iran and the killing of Ali Khamenei, Hezbollah fired rockets at northern Israel, including a missile-defence site near Haifa, calling the attack a 'defensive act'. Israel responded with large-scale airstrikes across Lebanon and on 16 March began a ground offensive described as limited, which the chief of staff vowed to deepen; Defence Minister Israel Katz said Shiite residents would not return south of the Litani until northern Israel's safety was guaranteed. Israeli evacuation orders and bombing of southern Lebanon, the Bekaa and Beirut's southern suburbs displaced more than one million people, a fifth of Lebanon's population, according to Al Jazeera and Time. The House of Commons Library reported more than 4,000 killed in Lebanon and Israeli control of roughly 20 percent of Lebanese territory. A first cessation of hostilities took effect on 16 April.",
+      "perspectives": [
+        {
+          "party": "Hezbollah",
+          "framing": "Presented its entry as a defensive response to the assassination of Iran's Supreme Leader and to continuing Israeli strikes and occupation in Lebanon, describing its attacks as 'resistance' aimed at forcing an Israeli withdrawal."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Said Hezbollah had violated the November 2024 ceasefire and that Israel was seizing the moment to 'finish the fight' against Iran's proxy, framing evacuation orders and the ground operation as necessary to protect northern residents."
+        },
+        {
+          "party": "Lebanese government",
+          "framing": "Condemned Hezbollah's unilateral decision to drag Lebanon into the war while denouncing Israeli strikes as aggression against the Lebanese state and civilians; appealed for international intervention."
+        },
+        {
+          "party": "Human-rights organisations",
+          "framing": "Human Rights Watch warned that Israeli officials' statements signalled stepped-up atrocities and that mass displacement orders and strikes on civilian areas could amount to war crimes."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Hezbollah joined the Iran war. Israel's response carries risks.",
+          "url": "https://www.csmonitor.com/World/Middle-East/2026/0305/Israel-Hezbollah-Lebanon-Iran",
+          "publisher": "The Christian Science Monitor",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "The war that never ended: Israel seizes moment to finish fight against Hezbollah, Iran's proxy in Lebanon",
+          "url": "https://www.cnn.com/2026/03/13/middleeast/israel-strikes-hezbollah-lebanon-intl-cmd",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel–Hezbollah conflict 2026 and UK response",
+          "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10887/",
+          "publisher": "House of Commons Library",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "One Million People Displaced in Lebanon as Israel Launches Ground Invasion",
+          "url": "https://time.com/article/2026/03/16/lebanon-israel-hezbollah-displaced/",
+          "publisher": "Time",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israeli attacks hit Beirut, southern Lebanon, one million displaced",
+          "url": "https://www.aljazeera.com/news/2026/3/17/israeli-strikes-target-beirut-southern-lebanon-one-million-displaced",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israeli Officials Signal Stepped-Up Atrocities in Lebanon",
+          "url": "https://www.hrw.org/news/2026/03/23/israeli-officials-signal-stepped-up-atrocities-in-lebanon",
+          "publisher": "Human Rights Watch",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "People killed in Lebanon by Israeli strikes (2026 war)",
+          "value": "more than 4,000",
+          "attribution": "House of Commons Library, citing Lebanese Ministry of Public Health figures",
+          "note": "Cumulative for the 2026 Lebanon war; date of count not stated in retrieved text."
+        },
+        {
+          "label": "Displaced in Lebanon",
+          "value": "more than 1,000,000",
+          "attribution": "Al Jazeera / Time, citing Lebanese government and UN figures",
+          "note": "Reached around 16–17 March 2026; about one-fifth of Lebanon's population, with more than 120,000 in collective shelters."
+        }
+      ]
+    },
+    {
+      "id": "2026-03-28-houthis-resume-missile-attacks-on-israel",
+      "date": "2026-03-28",
+      "lat": 15.3694,
+      "lng": 44.191,
+      "location": "Sanaa, Yemen (launch area); southern Israel",
+      "title": "Yemen's Houthis resume missile attacks on Israel, joining the Iran war",
+      "category": "attack",
+      "significance": 2,
+      "summary": "On 28 March 2026 Yemen's Houthi movement resumed attacks on Israel, which it had paused after the October 2025 Gaza ceasefire, by launching ballistic missiles at what it called 'sensitive' military sites; Israeli air defences reported intercepting the projectiles. The group vowed to continue 'until the aggression on all resistance fronts stops', linking its campaign to the US-Israeli war on Iran and the Israeli offensive in Lebanon. On 1 April the Houthi military spokesman claimed a third missile operation against Israel, saying it was coordinated with Iran and Hezbollah. Attacks continued after the April ceasefire: on 8 June the Houthis fired missiles at central Israel as Israel and Iran exchanged fire for the first time since the truce, and the group announced a ban on Israeli vessels in the Red Sea. No fatalities in Israel from the March launches were reported in the retrieved coverage.",
+      "perspectives": [
+        {
+          "party": "Houthi movement (Ansar Allah)",
+          "framing": "Describes the launches as military operations in support of Iran, Lebanon and Gaza against 'the Israeli enemy', to continue until aggression on all 'resistance' fronts ends."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Treats the Houthis as an Iranian proxy attacking Israeli civilians and international shipping, and has said it will strike Houthi leadership and infrastructure in Yemen in response."
+        },
+        {
+          "party": "United States",
+          "framing": "Views the resumed attacks and Red Sea shipping threats as part of Iran's regional escalation and as a challenge to freedom of navigation."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Yemen's Houthis launch missile attack on Israel as war with Iran intensifies",
+          "url": "https://www.aljazeera.com/news/2026/3/28/yemens-houthis-claim-responsibility-for-a-missile-attack-on-israel-2",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Houthis attack Israel and announce ban on Israeli vessels in the Red Sea",
+          "url": "https://www.longwarjournal.org/archives/2026/06/houthis-attack-israel-and-announce-ban-on-israeli-vessels-in-the-red-sea.php",
+          "publisher": "FDD's Long War Journal",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Yemen's Iran-backed Houthi movement claims responsibility for third missile attack on Israel",
+          "url": "https://www.newsonair.gov.in/yemens-iran-backed-houthi-movement-claims-responsibility-for-third-missile-attack-on-israel",
+          "publisher": "All India Radio News",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true
+    },
+    {
+      "id": "2026-04-08-us-iran-ceasefire-announced",
+      "date": "2026-04-08",
+      "lat": 33.6844,
+      "lng": 73.0479,
+      "location": "Islamabad, Pakistan (mediation venue)",
+      "title": "US and Iran agree Pakistan-mediated two-week ceasefire",
+      "category": "ceasefire",
+      "significance": 5,
+      "summary": "On 8 April 2026, after nearly 40 days of war, President Trump announced on Truth Social a two-week ceasefire between the United States and Iran, mediated by Pakistan's prime minister and army chief, with talks to follow in Islamabad. Trump said the truce was conditional on Iran reopening the Strait of Hormuz, through which about a fifth of the world's oil passes; Iran had rejected a US proposal for a 48-hour ceasefire on 4 April. Pakistan's prime minister said the ceasefire covered 'everywhere, including Lebanon', but the parties disagreed on whether Lebanon was included, and within hours Israel carried out its heaviest strikes of the war on Lebanon. UN News noted rising civilian casualties and widespread infrastructure damage across the region during the war. The Congressional Research Service described the ceasefire as the start of negotiations that led to a June memorandum of understanding.",
+      "perspectives": [
+        {
+          "party": "United States",
+          "framing": "Trump called it 'a big day for world peace' and framed the truce as Iran capitulating on the Strait of Hormuz under military pressure."
+        },
+        {
+          "party": "Iran",
+          "framing": "Presented the ceasefire as a halt to aggression achieved through its missile deterrence, insisted that its sovereignty over the strait was intact, and said Lebanon must be covered."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Accepted the US-Iran truce while maintaining that Lebanon was a separate front and that operations against Hezbollah would continue."
+        },
+        {
+          "party": "Pakistan (mediator)",
+          "framing": "Portrayed itself as a bridge between Washington and Tehran and stated the ceasefire applied region-wide, including Lebanon."
+        }
+      ],
+      "sources": [
+        {
+          "title": "MIDDLE EAST LIVE 8 April: US-Iran ceasefire announced; strikes continue in Lebanon",
+          "url": "https://news.un.org/en/story/2026/04/1167264",
+          "publisher": "UN News",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "The US and Iran have agreed to a ceasefire, with talks ahead to bridge the gulf between them. Here's what to know",
+          "url": "https://www.cnn.com/2026/04/08/middleeast/us-iran-ceasefire-explainer-war-intl-hnk",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "U.S.-Iran Ceasefire and Negotiations: Assessment and Issues for Congress",
+          "url": "https://www.congress.gov/crs-product/IN12678",
+          "publisher": "Congressional Research Service",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "2026 Iran war",
+          "url": "https://www.britannica.com/event/2026-Iran-war",
+          "publisher": "Britannica",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Pakistan PM says US-Iran ceasefire now covers everywhere including Lebanon, with talks set for Islamabad",
+          "url": "https://www.malaymail.com/news/world/2026/04/08/pakistan-pm-says-us-iran-ceasefire-now-covers-everywhere-including-lebanon-with-talks-set-for-islamabad/215474",
+          "publisher": "Malay Mail",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true
+    },
+    {
+      "id": "2026-04-08-israeli-strikes-on-lebanon-black-wednesday",
+      "date": "2026-04-08",
+      "lat": 33.8938,
+      "lng": 35.5018,
+      "location": "Beirut, Lebanon",
+      "title": "Israel's heaviest strikes on Lebanon kill hundreds hours after Iran ceasefire",
+      "category": "attack",
+      "significance": 4,
+      "summary": "Hours after the US-Iran ceasefire was announced on 8 April 2026, and after Hezbollah signalled a pause in attacks, Israel launched what it called its most powerful attacks of the war on Lebanon, dubbed Operation Eternal Darkness. According to FDD's Long War Journal, about fifty aircraft dropped some 160 munitions on targets including at least five neighbourhoods in central and coastal Beirut, with artillery shelling elsewhere. Lebanon's Ministry of Public Health initially reported 303 dead and then, on 10 April, 357 killed and 1,223 wounded in non-final counts. Human Rights Watch reported hundreds killed and damage to a vital bridge, and said hospitals were overwhelmed. Lebanese officials called the day 'Black Wednesday' and accused Israel of a massacre. The strikes strained the newly announced US-Iran truce and intensified pressure that produced the 16 April Israel–Lebanon cessation of hostilities.",
+      "perspectives": [
+        {
+          "party": "Israeli government / IDF",
+          "framing": "Said the operation struck Hezbollah command, weapons and financial infrastructure embedded in civilian areas, and that Lebanon was not covered by the US-Iran ceasefire."
+        },
+        {
+          "party": "Lebanese government",
+          "framing": "Called the attacks a massacre and 'Black Wednesday', said they targeted civilian residential and commercial districts, and demanded international action."
+        },
+        {
+          "party": "Hezbollah",
+          "framing": "Described the strikes as proof that Israel does not respect ceasefires and as justification for continued 'resistance' operations."
+        },
+        {
+          "party": "Human-rights organisations",
+          "framing": "Human Rights Watch documented strikes on densely populated areas and infrastructure and called for investigation of possible unlawful attacks."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Lebanon: Israeli Strikes Kill Hundreds, Damage Vital Bridge",
+          "url": "https://www.hrw.org/news/2026/04/10/lebanon-israeli-strikes-kill-hundreds-damage-vital-bridge",
+          "publisher": "Human Rights Watch",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "A breakdown of Israel's heavy bombardment of Beirut on April 8",
+          "url": "https://www.longwarjournal.org/archives/2026/04/a-breakdown-of-israels-heavy-bombardment-of-beirut-on-april-8.php",
+          "publisher": "FDD's Long War Journal",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "MIDDLE EAST LIVE 8 April: US-Iran ceasefire announced; strikes continue in Lebanon",
+          "url": "https://news.un.org/en/story/2026/04/1167264",
+          "publisher": "UN News",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israeli strikes hit several dense commercial and residential areas in central Beirut, Lebanon",
+          "url": "https://www.newsonair.gov.in/israeli-strikes-hit-several-dense-commercial-and-residential-areas-in-central-beirut-lebanon",
+          "publisher": "All India Radio News",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Killed in Lebanon on 8 April 2026",
+          "value": "357 (initial count 303)",
+          "attribution": "Lebanese Ministry of Public Health",
+          "note": "Non-final count as of 10 April 2026; 1,223 wounded."
+        },
+        {
+          "label": "Killed in Lebanon on 8 April 2026",
+          "value": "hundreds",
+          "attribution": "Human Rights Watch",
+          "note": "HRW report of 10 April 2026."
+        }
+      ]
+    },
+    {
+      "id": "2026-04-16-israel-lebanon-ten-day-cessation-of-hostilities",
+      "date": "2026-04-16",
+      "lat": 33.2075,
+      "lng": 35.57,
+      "location": "Israel–Lebanon border",
+      "title": "Israel and Lebanon begin US-brokered ten-day cessation of hostilities",
+      "category": "ceasefire",
+      "significance": 4,
+      "summary": "On 16 April 2026 a US-brokered cessation of hostilities between Israel and Lebanon took effect at 17:00 EST for an initial period of ten days, framed in the State Department text as a goodwill gesture by Israel to enable good-faith negotiations toward a permanent security and peace agreement. Israel committed not to carry out offensive operations against Lebanese targets by land, air or sea while preserving its right to act against planned, imminent or ongoing attacks; Lebanon undertook, with international support, to take meaningful steps to prevent Hezbollah and other non-state armed groups from attacking Israel. The truce could be extended by mutual agreement if negotiations progressed, and on 15 May the parties agreed a 45-day extension. Hezbollah was not a party. The Commons Library recorded that high-intensity fighting nonetheless continued in places until 20 June.",
+      "perspectives": [
+        {
+          "party": "United States",
+          "framing": "Presented the arrangement as the first step toward a historic Israel–Lebanon peace agreement built on Lebanese state sovereignty and the disarmament of non-state groups."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Described the pause as a 'goodwill gesture' that leaves Israeli forces in southern Lebanon and preserves full freedom of action against Hezbollah threats."
+        },
+        {
+          "party": "Lebanese government",
+          "framing": "Welcomed the halt as relief for a displaced population and an opportunity to assert state sovereignty, while demanding full Israeli withdrawal."
+        },
+        {
+          "party": "Hezbollah",
+          "framing": "Said it was not bound by an agreement it did not negotiate, rejected disarmament and demanded Israel's complete withdrawal and an end to strikes."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Ten Day Cessation of Hostilities to Enable Peace Negotiations Between Israel and Lebanon",
+          "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/04/ten-day-cessation-of-hostilities-to-enable-peace-negotiations-between-israel-and-lebanon",
+          "publisher": "US Department of State",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Full text of Israel-Lebanon 10-day ceasefire, sides aim for 'lasting peace'",
+          "url": "https://www.timesofisrael.com/full-text-of-israel-lebanon-10-day-ceasefire-sides-aim-for-lasting-peace/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel and Lebanon agree to extend ceasefire by 45 days, U.S. State Dept says",
+          "url": "https://www.cnbc.com/2026/05/15/israel-lebanon-agree-to-extend-ceasefire-by-45-days-us-state-dept.html",
+          "publisher": "CNBC",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel–Hezbollah conflict 2026 and UK response",
+          "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10887/",
+          "publisher": "House of Commons Library",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true
+    },
+    {
+      "id": "2026-06-17-us-iran-memorandum-of-understanding-signed",
+      "date": "2026-06-17",
+      "lat": 48.8049,
+      "lng": 2.1204,
+      "location": "Versailles, France (US signing); Tehran, Iran",
+      "title": "US and Iran sign 14-point memorandum of understanding to end the war",
+      "category": "treaty",
+      "significance": 4,
+      "summary": "On 17 June 2026 President Trump and Iranian President Masoud Pezeshkian signed, remotely, a 14-point memorandum of understanding intended to end the Iran war. Trump signed during a dinner with President Emmanuel Macron at the Palace of Versailles after the G7 summit, and Pezeshkian signed in Tehran. According to the text published by CNN and the Arab Center, the framework provided for an end to military strikes, removal of the US naval blockade of Iranian ports, and Iranian arrangements for the safe passage of commercial vessels through the Strait of Hormuz with no charge for 60 days, with the strait's future administration to be determined by Iran in consultation with Oman and other Gulf states. Al Jazeera later reported that vague wording, particularly Article 5 on who controlled shipping, caused immediate disputes, and the memorandum expired in August without renewal.",
+      "perspectives": [
+        {
+          "party": "United States",
+          "framing": "Presented the memorandum as ending the war on American terms, with the strait reopened toll-free and Iran's nuclear and missile programmes to be addressed in follow-on talks."
+        },
+        {
+          "party": "Iran",
+          "framing": "Framed the document as recognition of Iranian sovereignty over the Strait of Hormuz and an end to the blockade, reserving the right to regulate shipping after the 60-day period."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Voiced scepticism that the framework constrained Iran's missile and nuclear capabilities and insisted on retaining freedom of action."
+        },
+        {
+          "party": "Gulf states / Oman",
+          "framing": "Welcomed the reopening of shipping lanes while seeking a role in the strait's future administration and guarantees against further attacks on their territory."
+        }
+      ],
+      "sources": [
+        {
+          "title": "US releases official agreement with Iran. Read the 14-point text",
+          "url": "https://www.cnn.com/2026/06/17/middleeast/us-iran-war-mou-text-intl",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "The Full Text of the Memorandum of Understanding between the United States and Iran",
+          "url": "https://arabcenterdc.org/resource/memorandum-of-understanding-between-the-united-states-of-america-and-the-islamic-republic-of-iran/",
+          "publisher": "Arab Center Washington DC",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "US-Iran Memorandum of Understanding expires: How and why it fell apart",
+          "url": "https://www.aljazeera.com/news/2026/8/17/us-iran-memorandum-of-understanding-expires-how-and-why-it-fell-apart",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "2026 Iran war",
+          "url": "https://www.britannica.com/event/2026-Iran-war",
+          "publisher": "Britannica",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true
+    },
+    {
+      "id": "2026-06-26-israel-lebanon-framework-agreement-washington",
+      "date": "2026-06-26",
+      "lat": 38.8977,
+      "lng": -77.0365,
+      "location": "Washington, DC",
+      "title": "Israel–Lebanon framework deal ties withdrawal to Hezbollah disarmament",
+      "category": "treaty",
+      "significance": 4,
+      "summary": "On 26 June 2026, after four days of US-brokered talks in Washington, Israel and Lebanon agreed a framework to end their months-long conflict. The deal ties Israeli withdrawal to the disarmament of Hezbollah and does not mandate Israeli withdrawal from the roughly one-fifth of Lebanese territory its forces hold. A joint US–Lebanon–Israel statement said the sides would swiftly advance pilot zones in which the Lebanese Armed Forces take exclusive control of territory to the exclusion of all non-state actors. Al Jazeera noted the talks were the first direct negotiations between Israel and the Lebanese government since the failed 1983 May 17 Agreement, and followed a conditional ceasefire agreed on 4 June. Hezbollah, which did not take part, called the agreement 'null and void'. The framework's implementation remained uncertain as of September 2026.",
+      "perspectives": [
+        {
+          "party": "United States",
+          "framing": "Hails the framework as a historic step toward a permanent Israel–Lebanon peace and the restoration of Lebanese state monopoly on arms."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Presents the deal as securing the north by conditioning any withdrawal on verified Hezbollah disarmament, with Israel retaining positions until then."
+        },
+        {
+          "party": "Lebanese government",
+          "framing": "Describes the agreement as a path to sovereignty and reconstruction, while under domestic pressure over negotiating directly with Israel and over the absence of a withdrawal timetable."
+        },
+        {
+          "party": "Hezbollah",
+          "framing": "Rejects the agreement as 'null and void', refuses disarmament while Israel occupies Lebanese land, and accuses the government of capitulation."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Israel-Lebanon deal ties ceasefire to Hezbollah disarmament: Will it work?",
+          "url": "https://www.aljazeera.com/features/2026/6/27/israel-lebanon-deal-ties-ceasefire-to-hezbollah-disarmament-will-it-work",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Joint Statement of the United States of America, Republic of Lebanon, and State of Israel on the Latest High-Level Trilateral Meeting",
+          "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/joint-statement-of-the-united-states-of-america-republic-of-lebanon-and-state-of-israel-on-the-latest-high-level-trilateral-meeting",
+          "publisher": "US Department of State",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel, Lebanon agree to conditional ceasefire",
+          "url": "https://www.aljazeera.com/news/2026/6/4/israel-and-lebanon-agree-to-conditional-ceasefire",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Hezbollah chief rejects disarmament, demands Israel comply with ceasefire",
+          "url": "https://www.yahoo.com/news/articles/hezbollah-chief-rejects-disarmament-demands-163539111.html",
+          "publisher": "Yahoo News (agency report)",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true
+    },
+    {
+      "id": "2026-07-08-trump-declares-iran-mou-over-hormuz-strikes",
+      "date": "2026-07-08",
+      "lat": 26.5667,
+      "lng": 56.25,
+      "location": "Strait of Hormuz",
+      "title": "Iran hits ships in Hormuz, US strikes back; Trump declares memorandum 'over'",
+      "category": "attack",
+      "significance": 3,
+      "summary": "On 6–7 July 2026 Iranian forces attacked three commercial vessels in the Strait of Hormuz that had not followed Iran's approved route, in what Tehran presented as an assertion of sovereignty over the waterway. The United States responded from 7 July with retaliatory strikes on dozens of Iranian targets. On 8 July, speaking at the NATO summit in Ankara, President Trump declared the June memorandum of understanding 'over'. Al Jazeera reported the dispute centred on Article 5 of the memorandum, which Washington read as an Iranian obligation not to impede transit and Tehran read as recognising its authority over shipping. On 22 July Trump warned that each further attack on a ship would be answered by destroying a bridge or power plant, including in Tehran. The memorandum formally expired on 17 August without renewal, leaving the April ceasefire in an uneasy state.",
+      "perspectives": [
+        {
+          "party": "United States",
+          "framing": "Casts Iran's ship attacks as violations of the memorandum and of freedom of navigation, and its strikes as holding Iranian forces accountable."
+        },
+        {
+          "party": "Iran",
+          "framing": "Asserts that the memorandum recognised its role in administering the strait and that vessels ignoring Iranian instructions were lawfully intercepted; describes US strikes as renewed aggression."
+        },
+        {
+          "party": "Gulf states",
+          "framing": "Expressed alarm at disruption of oil and gas exports and urged de-escalation and a negotiated shipping regime."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Pointed to the breakdown as vindicating its warnings that Iran would not honour the framework."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Iran signals defiance as Trump fumes over Strait of Hormuz strikes",
+          "url": "https://www.aljazeera.com/news/2026/7/8/iran-signals-defiance-as-trump-fumes-over-strait-of-hormuz-strikes",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "U.S. hits dozens of Iranian targets in retaliatory strikes after ship attacks in Strait of Hormuz",
+          "url": "https://www.cbsnews.com/live-updates/iran-us-war-strait-of-hormuz-trump-nato/",
+          "publisher": "CBS News",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Trump appears to have dropped his tit-for-tat approach to Iran attacks in the Strait of Hormuz",
+          "url": "https://abcnews.com/Politics/trump-appears-dropped-tit-tat-approach-iran-attacks/story?id=135783275",
+          "publisher": "ABC News",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "US-Iran Memorandum of Understanding expires: How and why it fell apart",
+          "url": "https://www.aljazeera.com/news/2026/8/17/us-iran-memorandum-of-understanding-expires-how-and-why-it-fell-apart",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true
+    },
+    {
+      "id": "2026-07-17-knesset-dissolves-election-set-for-october",
+      "date": "2026-07-17",
+      "lat": 31.7767,
+      "lng": 35.205,
+      "location": "Knesset, Jerusalem",
+      "title": "Knesset dissolves itself; Israeli election set for 27 October 2026",
+      "category": "political",
+      "significance": 3,
+      "summary": "On 17 July 2026 the 25th Knesset voted 62–0, with coalition support including Prime Minister Benjamin Netanyahu, to dissolve itself and formally set a general election for 27 October 2026, the last date permitted by law; the coalition had announced the date on 12 July. It was the first Knesset since 1988 to complete a full four-year term, and the vote followed what The Times of Israel called a final legislative blitz by the coalition. The election will be the first since the 7 October 2023 attack and is widely described as a referendum on Netanyahu's handling of the wars in Gaza, Lebanon and Iran. Britannica and Haaretz identified Netanyahu's Likud and a bloc led by former chief of staff Gadi Eisenkot as the leading contenders, with neither assured of a coalition.",
+      "perspectives": [
+        {
+          "party": "Israeli government (Likud coalition)",
+          "framing": "Presents the completed term as proof of stability and campaigns on having removed the Iranian nuclear threat and defeated Hamas and Hezbollah."
+        },
+        {
+          "party": "Israeli opposition",
+          "framing": "Frames the vote as a chance to end Netanyahu's tenure, citing the 7 October failures, hostages, judicial overhaul and the draft-exemption dispute."
+        },
+        {
+          "party": "Palestinian Authority",
+          "framing": "Says the outcome matters little unless any Israeli government halts settlement expansion and annexation and accepts a Palestinian state."
+        },
+        {
+          "party": "United States",
+          "framing": "Publicly neutral, while the Trump administration has signalled continued support for Netanyahu's regional policies."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Knesset officially disperses, after coalition completes its drastic legislative blitz",
+          "url": "https://www.timesofisrael.com/knesset-votes-on-official-dispersal-of-parliament-wrapping-up-final-legislative-blitz/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel headed for October election as parliament dissolved",
+          "url": "https://www.aljazeera.com/news/2026/7/17/israel-headed-for-october-election-as-parliament-dissolved",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Knesset votes to dissolve, sets Oct. 27 election date",
+          "url": "https://www.jns.org/news/israel-news/knesset-votes-to-dissolve-formally-sets-oct-27-election-date",
+          "publisher": "JNS",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Netanyahu Coalition Announces Israel's 2026 Election Will Take Place on October 27",
+          "url": "https://www.haaretz.com/israel-news/elections/2026-07-12/ty-article/.premium/israels-2026-election-will-take-place-on-october-27-netanyahu-coalition-says/0000019f-56aa-d9b4-abdf-dfebadd60000",
+          "publisher": "Haaretz",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "2026 Israeli Elections",
+          "url": "https://www.britannica.com/event/2026-Israeli-Elections",
+          "publisher": "Britannica",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true
+    },
+    {
+      "id": "2026-07-26-israel-approves-entry-of-international-stabilization-force",
+      "date": "2026-07-26",
+      "lat": 31.29,
+      "lng": 34.26,
+      "location": "Rafah area, southern Gaza Strip",
+      "title": "Israeli cabinet approves International Stabilization Force entry into Gaza",
+      "category": "political",
+      "significance": 4,
+      "summary": "On 26 July 2026 Israel's security cabinet approved in principle the entry of the International Stabilization Force (ISF) envisaged by the 20-point plan and UN Security Council Resolution 2803 into areas of Gaza beyond Israeli control. The decision authorised an initial contingent of up to about 200 personnel for a pilot humanitarian zone near Rafah, subject to approval by the prime minister, defence minister and foreign minister. Reports named Kosovo, Albania and Morocco, with Kazakhstan and Uganda possible contributors. ISF personnel would receive immunity under Israeli law and operate in coordination with the Israeli military outside its control zones. National Security Minister Itamar Ben-Gvir opposed the decision, arguing Hamas had not met its commitments. FDD's Long War Journal described it as the first formal Israeli authorisation of the multinational force nine months after the ceasefire.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Presents the approval as a limited, reversible pilot that keeps Israeli security control and immunity arrangements, conditional on Hamas disarmament; far-right ministers call it a reward for Hamas."
+        },
+        {
+          "party": "United States / Board of Peace",
+          "framing": "Welcomes the decision as unlocking Phase Two deployment and reconstruction in the Rafah pilot zone."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Says it accepts an international force only to monitor a ceasefire and Israeli withdrawal, not to disarm Palestinians, and objects to a force coordinated with the Israeli army."
+        },
+        {
+          "party": "Palestinian Authority",
+          "framing": "Insists the force must operate under a UN mandate and in coordination with Palestinian institutions, not as a substitute for Palestinian sovereignty."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Israeli government nods to international stabilisation force in Gaza",
+          "url": "https://www.aljazeera.com/news/2026/7/26/israeli-government-nods-to-international-stabilisation-force-in-gaza",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel approves entry of International Stabilization Force into Gaza",
+          "url": "https://www.longwarjournal.org/archives/2026/07/israel-approves-entry-of-international-stabilization-force-into-gaza.php",
+          "publisher": "FDD's Long War Journal",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israeli cabinet approves entry of int'l stabilization force into Gaza",
+          "url": "https://english.news.cn/20260727/a28b1605aa2d47ee93a93d790f7eff49/c.html",
+          "publisher": "Xinhua",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israeli Cabinet Approves Framework for Gaza Stabilization Force, But What Will Actually Change?",
+          "url": "https://israelpolicyforum.org/2026/07/29/israeli-cabinet-approves-framework-for-gaza-stabilization-force-but-what-will-actually-change",
+          "publisher": "Israel Policy Forum",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true
+    },
+    {
+      "id": "2026-07-29-un-warns-west-bank-settler-violence-at-record-high",
+      "date": "2026-07-29",
+      "lat": 32.2211,
+      "lng": 35.2544,
+      "location": "Nablus governorate and northern West Bank",
+      "title": "UN warns West Bank settler violence at all-time high; OCHA logs 1,000+ attacks",
+      "category": "displacement",
+      "significance": 3,
+      "summary": "On 29 July 2026 UN officials warned that settler violence in the Israeli-occupied West Bank had reached an all-time high. UN OCHA recorded that settler attacks causing casualties or property damage passed 1,000 by 11 June, and more than 1,380 incidents affecting over 250 Palestinian communities by 31 July, an average of about 6.6 per day, the highest pace on record. OCHA counted at least 15 Palestinians, including two children, killed by settlers as of 24 July, approaching its previous annual record of 16 in 2023. Human Rights Watch reported that settler violence, which it described as Israel-backed, displaced more than 6,200 Palestinians, including over 3,000 children, between January 2023 and early July 2026, and warned of a risk of mass atrocities. The trend coincided with the February land-registration decisions and expanded Israeli administrative control.",
+      "perspectives": [
+        {
+          "party": "United Nations",
+          "framing": "Describes the violence as occurring with impunity and in a context of accelerating annexation, and links it to forcible transfer prohibited under international humanitarian law."
+        },
+        {
+          "party": "Human-rights organisations",
+          "framing": "Human Rights Watch characterises settler attacks as state-backed and warns they threaten mass atrocities; B'Tselem and others use the term 'ethnic cleansing' for the displacement of herding communities."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Condemns violence by 'a small minority' of settlers, says police and the army act against it, and rejects characterisations of state backing; some ministers describe settlers as defending communities against Palestinian 'terror'."
+        },
+        {
+          "party": "Palestinian Authority",
+          "framing": "Calls the attacks organised terrorism sponsored by the government to empty Area C and demands international protection and sanctions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "UN warns West Bank settler violence hits 'all-time high' as calls grow to end occupation",
+          "url": "https://news.un.org/en/story/2026/07/1168045",
+          "publisher": "UN News",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "West Bank: Surge in Settler Violence Threatens Mass Atrocities",
+          "url": "https://www.hrw.org/news/2026/07/24/west-bank-surge-in-settler-violence-threatens-mass-atrocities",
+          "publisher": "Human Rights Watch",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "West Bank: Israel-Backed Settler Violence Drives Displacement",
+          "url": "https://www.hrw.org/news/2026/08/20/west-bank-israel-backed-settler-violence-drives-displacement",
+          "publisher": "Human Rights Watch",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "OCHA: UN reports pace of settler violence highest on record",
+          "url": "https://www.un.org/unispal/document/ocha-un-reports-pace-of-settler-violence-highest-on-record/",
+          "publisher": "United Nations (UNISPAL / OCHA)",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Humanitarian Situation Report | 25 May 2026",
+          "url": "https://www.ochaopt.org/content/humanitarian-situation-report-25-may-2026",
+          "publisher": "UN OCHA oPt",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Palestinians killed by settlers in 2026",
+          "value": "at least 15 (including 2 children)",
+          "attribution": "UN OCHA",
+          "note": "As of 24 July 2026; previous annual record 16 in 2023."
+        },
+        {
+          "label": "Settler-related incidents in 2026",
+          "value": "more than 1,380",
+          "attribution": "UN OCHA",
+          "note": "1 January – 31 July 2026; over 250 communities affected."
+        },
+        {
+          "label": "Palestinians displaced by settler violence",
+          "value": "more than 6,200 (including over 3,000 children)",
+          "attribution": "Human Rights Watch",
+          "note": "January 2023 – early July 2026."
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-board-of-peace-announces-hamas-disarmament-agreement",
+      "date": "2026-07-30",
+      "lat": 31.5017,
+      "lng": 34.4668,
+      "location": "Gaza Strip",
+      "title": "Board of Peace announces staged Hamas disarmament agreement",
+      "category": "treaty",
+      "significance": 4,
+      "summary": "On 30 July 2026 President Trump announced that the Board of Peace had reached an agreement on the disarmament of Hamas, and on 31 July the Board and the International Stabilization Force said mediators from Egypt, Qatar, Turkey and the United States had finalised a roadmap for the next phase of the ceasefire. Under the terms reported by Al Jazeera and Euronews, Hamas and other armed factions would hand over weapons in stages to the National Committee for the Administration of Gaza, beginning with police weapons and followed by decommissioning of heavy weapons, with inventories of production sites, depots and the tunnel network, alongside Israeli withdrawal steps. Hamas said it would implement the deal only if Israel met its own ceasefire and withdrawal commitments, and tied full disarmament to a path to statehood. An Israeli minister called the agreement 'unacceptable', and Israel did not publicly endorse it.",
+      "perspectives": [
+        {
+          "party": "United States / Board of Peace",
+          "framing": "Trump called it a 'historic' deal for the complete disarmament of Hamas and Israeli withdrawal, presenting it as the core of Phase Two."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Describes the arrangement as 'storing' or transferring weapons to a Palestinian body, not surrender, conditional on Israeli compliance and linked to ending the occupation; its armed wing had earlier called disarmament demands unacceptable."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Divided: officials demand full, verified demilitarisation before any withdrawal, and a cabinet minister publicly rejected the terms as unacceptable."
+        },
+        {
+          "party": "Egypt, Qatar and Turkey (mediators)",
+          "framing": "Present the roadmap as a balanced sequence of disarmament and withdrawal that preserves the ceasefire and Palestinian governance of Gaza."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Hamas reaches Gaza disarmament agreement with Board of Peace",
+          "url": "https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Gaza Board of Peace announces Hamas disarmament agreement: What we know",
+          "url": "https://www.aljazeera.com/news/2026/7/31/gaza-board-of-peace-announces-hamas-disarmament-agreement-what-we-know",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Hamas agrees to 'historic' disarmament deal, Israel minister deems it 'unacceptable'",
+          "url": "https://www.euronews.com/2026/07/31/trump-announces-historic-deal-for-the-complete-disarmament-of-hamas-and-israeli-withdrawal",
+          "publisher": "Euronews",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Hamas says Trump's Gaza 'disarmament' claim depends on Israel honoring commitments",
+          "url": "https://www.cnbc.com/2026/07/31/trump-hamas-disarmament-conditions.html",
+          "publisher": "CNBC",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "By agreeing to disarm, Hamas is trying to call Israel's bluff in Gaza",
+          "url": "https://www.chathamhouse.org/2026/08/agreeing-disarm-hamas-trying-call-israels-bluff-gaza",
+          "publisher": "Chatham House",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true
+    },
+    {
+      "id": "2026-09-01-israel-captures-hamas-internal-security-chief",
+      "date": "2026-09-01",
+      "lat": 31.5017,
+      "lng": 34.4668,
+      "location": "Gaza City, Gaza Strip",
+      "title": "Israeli forces capture Hamas internal security chief in Gaza City raid",
+      "category": "war",
+      "significance": 3,
+      "summary": "On the morning of 1 September 2026 Shin Bet special forces, backed by the Israeli military, captured Muein al-Arabid, head of Hamas's internal security apparatus, in a raid in Gaza City that turned into a firefight; the air force struck nearby targets to cover the ground force and Israel reported no casualties on its side. Prime Minister Netanyahu said the detainee had been responsible for hiding and moving hostages, concealing senior officials and rebuilding Hamas capabilities. FDD's Long War Journal reported that the Israeli military logged 29 Hamas ceasefire violations between 19 August and 3 September. The raid, nearly eleven months into the ceasefire and a month after the disarmament roadmap, illustrated continued Israeli operations beyond its control line. Gaza's Health Ministry put the cumulative death toll since October 2023 at about 73,658 and those killed since the ceasefire at 1,352 in early September; no Israeli cumulative figure was retrieved.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Hails the operation as changing the rules of the game in Gaza, showing Israel will act against Hamas leaders anywhere and treats such raids as consistent with the ceasefire's self-defence provisions."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Condemns the raid and accompanying strikes as a flagrant violation of the ceasefire and evidence that Israel is not committed to the agreement, and reiterates that its own obligations depend on Israeli compliance."
+        },
+        {
+          "party": "Mediators (Egypt, Qatar, Turkey)",
+          "framing": "Urge restraint and warn that unilateral operations jeopardise the disarmament and withdrawal sequencing agreed in July."
+        },
+        {
+          "party": "United Nations / OCHA",
+          "framing": "Continues to record deaths, injuries and access restrictions under the ceasefire in its impact snapshots, presenting Ministry of Health and Israeli-authority figures side by side."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Israel confirms capturing Hamas internal security chief in Gaza City raid",
+          "url": "https://www.timesofisrael.com/israel-confirms-capturing-hamas-internal-security-chief-in-gaza-city-raid/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "IDF captures Hamas security chief, reports 29 Gaza ceasefire violations Aug. 19–Sept. 3",
+          "url": "https://www.longwarjournal.org/archives/2026/09/idf-captures-hamas-security-chief-reports-gaza-ceasefire-violations-aug-19-sept-3.php",
+          "publisher": "FDD's Long War Journal",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel's Capture of Hamas's Internal Security Chief Shows It Is Changing the Rules of the Game in Gaza",
+          "url": "https://jcfa.org/israels-capture-of-hamass-internal-security-chief-shows-it-is-changing-the-rules-of-the-game-in-gaza/",
+          "publisher": "Jerusalem Center for Foreign Affairs",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Gaza death toll reaches 73,658 as Israeli attacks continue",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-reaches-73658-israeli-attacks-continue",
+          "publisher": "Middle East Eye",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Five Palestinians Killed, 30 Wounded in Israeli Strikes; Ceasefire Toll at 1,352",
+          "url": "https://easternherald.com/2026/09/07/gaza-five-killed-israeli-strikes-ceasefire-toll/",
+          "publisher": "The Eastern Herald",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Reported impact snapshot | Gaza Strip (2 September 2026)",
+          "url": "https://www.ochaopt.org/content/reported-impact-snapshot-gaza-strip-2-september-2026",
+          "publisher": "UN OCHA oPt",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Palestinians killed in Gaza since 7 October 2023",
+          "value": "about 73,658",
+          "attribution": "Gaza Health Ministry (via Middle East Eye)",
+          "note": "Early September 2026 figure; the ministry reported 73,786 on 14 September 2026."
+        },
+        {
+          "label": "Palestinians killed in Gaza since the October 2025 ceasefire",
+          "value": "1,352",
+          "attribution": "Gaza Health Ministry (via The Eastern Herald)",
+          "note": "As of 7 September 2026."
+        },
+        {
+          "label": "Palestinians killed in Gaza (Israeli figure)",
+          "value": "not retrieved",
+          "attribution": "Israeli authorities (as cited in OCHA impact snapshots)",
+          "note": "OCHA's 2 September 2026 snapshot presents Israeli-authority figures alongside Ministry of Health figures, but the numbers were not captured in the retrieved search text."
+        }
+      ]
+    }
+  ],
+  "boundaryChanges": [
+    {
+      "date": "2026-02-02",
+      "description": "Rafah crossing between Gaza and Egypt partially reopened under EUBAM operation with Israeli vetting; Israeli forces retain control of the Philadelphi corridor and the crossing's Gaza side remains outside Palestinian control.",
+      "sources": [
+        "https://www.cnn.com/2026/02/02/middleeast/israel-authorizes-reopening-of-rafah-intl",
+        "https://news.un.org/en/story/2026/02/1166872"
+      ]
+    },
+    {
+      "date": "2026-02-15",
+      "description": "Israeli government resolution launches land registration (title settlement) in Area C of the West Bank, enabling registration of unproven Palestinian land as Israeli state land; a change of administrative rather than military control.",
+      "sources": [
+        "https://edition.cnn.com/2026/02/15/middleeast/israel-advances-registration-of-west-bank-territory-as-state-land-intl-latam",
+        "https://news.un.org/en/story/2026/02/1166973"
+      ]
+    },
+    {
+      "date": "2026-03-16",
+      "description": "Israeli ground offensive into southern Lebanon; by the April truce Israel controlled roughly 20 percent of Lebanese territory, an expansion well beyond the five positions held after the 2024 ceasefire.",
+      "sources": [
+        "https://commonslibrary.parliament.uk/research-briefings/cbp-10887/",
+        "https://time.com/article/2026/03/16/lebanon-israel-hezbollah-displaced/"
+      ]
+    },
+    {
+      "date": "2026-06-26",
+      "description": "Israel–Lebanon framework agreement provides for pilot zones under exclusive Lebanese Armed Forces control, with Israeli withdrawal from occupied areas conditioned on Hezbollah disarmament; no withdrawal recorded by 9 September 2026.",
+      "sources": [
+        "https://www.aljazeera.com/features/2026/6/27/israel-lebanon-deal-ties-ceasefire-to-hezbollah-disarmament-will-it-work",
+        "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/joint-statement-of-the-united-states-of-america-republic-of-lebanon-and-state-of-israel-on-the-latest-high-level-trilateral-meeting"
+      ]
+    },
+    {
+      "date": "2026-07-26",
+      "description": "Israeli security cabinet authorises an International Stabilization Force pilot zone near Rafah in Gaza areas beyond Israeli control; actual deployment date not confirmed in retrieved sources.",
+      "sources": [
+        "https://www.aljazeera.com/news/2026/7/26/israeli-government-nods-to-international-stabilisation-force-in-gaza",
+        "https://www.longwarjournal.org/archives/2026/07/israel-approves-entry-of-international-stabilization-force-into-gaza.php"
+      ]
+    }
+  ],
+  "excluded": [
+    {
+      "title": "Iranian missile strike on Beit Shemesh kills nine (1 March 2026)",
+      "date": "2026-03-01",
+      "reason": "Folded into the 28 February Iran war event rather than listed separately, to stay within the unit's target count."
+    },
+    {
+      "title": "Israel–Lebanon conditional ceasefire of 4 June 2026",
+      "date": "2026-06-04",
+      "reason": "Only one publisher (Al Jazeera) retrieved; mentioned inside the 26 June framework-agreement event."
+    },
+    {
+      "title": "Israel–Iran exchange of fire on 8 June 2026 (first since April ceasefire)",
+      "date": "2026-06-08",
+      "reason": "Only one retrieved source (FDD's Long War Journal, in a Houthi article); insufficient corroboration."
+    },
+    {
+      "title": "Battle of Khiam (2026)",
+      "date": "2026-03",
+      "reason": "Only Wikipedia results retrieved; no acceptable publisher corroboration within the search budget."
+    },
+    {
+      "title": "17 August 2026 Jerusalem meeting setting a 90-day Hamas weapons handover deadline (15 November 2026)",
+      "date": "2026-08-17",
+      "reason": "Appeared in one search summary without a clearly attributable publisher; not corroborated."
+    },
+    {
+      "title": "ICJ South Africa v. Israel: Israeli counter-memorial with jurisdictional objections (March 2026) and order of 21 May 2026 on time limits",
+      "date": "2026-05-21",
+      "reason": "Procedural steps corroborated by South African Presidency and UNISPAL, but judged below the significance threshold for this unit; search budget exhausted before drafting."
+    },
+    {
+      "title": "Hungary's withdrawal from the ICC takes effect (2 June 2026)",
+      "date": "2026-06-02",
+      "reason": "Corroborated by HRW and Al Jazeera but tangential to the Middle East timeline scope."
+    }
+  ],
+  "uncertainties": [
+    "Search budget was exhausted after 27 of the planned queries; several planned corroboration searches (Lebanese and Israeli casualty totals for the 2026 Lebanon war, an Israeli cumulative Gaza death figure, UN Security Council action in 2026, Gaza reconstruction milestones, events in Gaza in August 2026, and 4–9 September 2026 developments) could not be run.",
+    "Gaza cumulative casualty figures: only Gaza Health Ministry figures (73,658 early September; 1,352 killed since the ceasefire as of 7 September) were retrieved. OCHA's 2 September 2026 snapshot is cited as presenting Israeli-authority figures alongside them, but those numbers were not captured; the Israeli figure is recorded as 'not retrieved'.",
+    "Iran war casualty totals: the Iranian Health Ministry figure of 3,468 killed came from an Al Jazeera live tracker whose date of count is unknown; the Times of Israel tally of 24 killed in Israel and the West Bank is from an undated 'war in numbers' summary. A figure of 26 killed and 7,835 wounded in Israel appeared only in a Wikipedia summary and was not used.",
+    "Houthi resumption on 28 March 2026: the Al Jazeera report confirms the date; the specific claim of a missile at Beersheba and later Eilat launches appeared only in a Wikipedia-derived summary and is omitted from the summary text.",
+    "The 2 March 2026 Hezbollah attack description (six rockets, missile-defence site near Haifa) is corroborated by CSM and CNN summaries; the figure of 'more than 180 attacks' claimed by Hezbollah in following weeks comes from the Israeli Meir Amit (ITIC) centre and is not independently corroborated.",
+    "Lebanon: the House of Commons Library figure of more than 4,000 killed and Israeli control of about 20 percent of Lebanese territory is corroborated by CNN/Al Jazeera summaries for the 20 percent figure but the death toll's date of count is unknown; high-intensity fighting reportedly continued until 20 June 2026 despite the 16 April truce.",
+    "The 8 April 2026 US-Iran ceasefire is variously dated 7 April (US time) and 8 April in sources; 8 April is used per UN News and CNN.",
+    "The US signing of the June memorandum is placed at Versailles per CNN; the event's primary location is therefore diplomatic rather than in the region.",
+    "The International Stabilization Force cabinet approval on 26 July 2026 is well corroborated, but whether ISF troops actually deployed to the Rafah pilot zone before 9 September 2026 was not established.",
+    "The 30 July Hamas disarmament agreement was announced by the Board of Peace and Hamas conditionally accepted; Israel did not publicly endorse it, and implementation status as of 9 September 2026 is unclear."
+  ]
+}
