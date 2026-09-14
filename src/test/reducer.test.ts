@@ -134,4 +134,12 @@ describe('queries', () => {
     expect(migrated.messages[0].id).toBe(BCREC_MESSAGE_ID)
     expect(migrate(migrated)).toBe(migrated)
   })
+
+  it('backfills rich HTML bodies onto saved seed messages', () => {
+    const s = base()
+    const stripped = { ...s, messages: s.messages.map((m) => ({ ...m, html: undefined })) }
+    const migrated = migrate(stripped)
+    expect(migrated.messages.find((m) => m.id === BCREC_MESSAGE_ID)?.html).toContain('NOTICE')
+    expect(migrated.messages.filter((m) => m.html).length).toBe(s.messages.filter((m) => m.html).length)
+  })
 })

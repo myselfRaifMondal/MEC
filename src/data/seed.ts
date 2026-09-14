@@ -1,4 +1,5 @@
 import type { AppState, Attachment, Contact, Message, Settings, SetupStep } from '../types'
+import { BCREC_HTML, POSTMASTER_HTML, newsletter } from './html'
 
 export const ME = { name: 'Raif Mondal', email: 'raif@mec.example' }
 
@@ -32,6 +33,7 @@ export function bcrecNotice(): Message {
     starred: false,
     hasCalendarInvite: true,
     attachments: [attach('IndiQuant-BCREC.pdf', 388778, 'application/pdf', '/attachments/IndiQuant-BCREC.pdf')],
+    html: BCREC_HTML,
     body: `Ref. No.: BCREC/PR/2026-27/1
 Date: 13.09.2026
 
@@ -69,8 +71,134 @@ function msg(partial: Partial<Message> & Pick<Message, 'from' | 'subject' | 'bod
   }
 }
 
+/** Rich bodies for the featured newsletters, keyed by their position in featured(). */
+const FEATURED_HTML: Record<number, string> = {
+  0: newsletter({
+    brand: 'NVIDIA Training',
+    color: '#76b900',
+    logo: '/logos/nvidia.svg',
+    preheader: 'One more step to unlock the NVIDIA Deep Learning Institute catalog',
+    title: 'Welcome to NVIDIA Academy. Please verify your email address.',
+    paragraphs: [
+      'Hi Raif,',
+      'Thanks for creating an NVIDIA Academy account. Before you can enrol in Deep Learning Institute courses we need to confirm that this address belongs to you.',
+      'The verification link is valid for <b>48 hours</b>. Once verified you will get access to self-paced courses, instructor-led workshops and certification tracks across AI, accelerated computing and data science.',
+      'If you did not create this account, you can safely ignore this email.',
+    ],
+    cta: { label: 'Verify my email address' },
+    footer: 'You are receiving this email because an NVIDIA Academy account was created with this address.',
+    address: 'NVIDIA Corporation, 2788 San Tomas Expressway, Santa Clara, CA 95051',
+  }),
+  1: newsletter({
+    brand: 'NVIDIA Inception',
+    color: '#1a1a1a',
+    logo: '/logos/nvidia.svg',
+    title: 'We received your NVIDIA Inception application',
+    paragraphs: [
+      'Hello Raif,',
+      'Thank you for applying to the NVIDIA Inception program on behalf of <b>MEC</b>. Our team has received your application and will review it over the coming weeks.',
+      'Inception members receive technical training, preferred pricing on NVIDIA hardware, go-to-market support and introductions through our venture capital alliance.',
+    ],
+    details: [
+      ['Company', 'MEC'],
+      ['Application ID', 'INC-2026-118472'],
+      ['Submitted', '14 September 2026'],
+      ['Status', 'Under review'],
+    ],
+    cta: { label: 'View application status' },
+    footer: 'Questions? Reply to this email and a member of the Inception team will get back to you.',
+    address: 'NVIDIA Corporation, 2788 San Tomas Expressway, Santa Clara, CA 95051',
+  }),
+  3: newsletter({
+    brand: 'GetProspect',
+    color: '#2f6bff',
+    logo: '/logos/getprospect.svg',
+    title: 'Start using Single Enrich by company, lead or domain',
+    paragraphs: [
+      'Single Enrich lets you find verified emails and company data one record at a time, straight from the dashboard.',
+      'Paste a domain, a LinkedIn URL or a company name and we return the decision makers, their roles and a confidence score for each email address.',
+      'Your current plan includes <b>50 free enrichments</b> this month.',
+    ],
+    cta: { label: 'Try Single Enrich' },
+    footer: 'GetProspect helps 250,000+ sales teams find B2B contacts.',
+    address: 'GetProspect, 1 Sussex Street, Sydney NSW 2000',
+  }),
+  4: newsletter({
+    brand: 'Anthropic',
+    color: '#d97757',
+    logo: '/logos/anthropic.svg',
+    preheader: 'Live session with Q&A, recording included',
+    title: 'Webinar: Scaling Claude with cost controls',
+    paragraphs: [
+      'Join us for a live session on scaling Claude deployments while keeping spend predictable.',
+      'We will cover prompt caching, the Batch API, routing between Haiku and Opus by task, and how to set budgets per team. Bring your questions for the live Q&A.',
+    ],
+    details: [
+      ['When', 'Thursday, 10:00 AM PT'],
+      ['Duration', '45 minutes'],
+      ['Format', 'Live, with recording'],
+    ],
+    cta: { label: 'Save your seat' },
+    footer: 'A recording will be sent to everyone who registers.',
+    address: 'Anthropic PBC, 548 Market St, San Francisco, CA 94104',
+  }),
+  5: newsletter({
+    brand: 'Eureka! 2026 · E-Cell IIT Bombay',
+    color: '#0b3d91',
+    logo: '/logos/iitb.svg',
+    title: "Congratulations! You're through to the Quarter Finals",
+    paragraphs: [
+      'Dear Participant,',
+      "Your startup has been shortlisted for the <b>Quarter Finals of Eureka! 2026</b>, Asia's largest business model competition.",
+      'Next steps:<br />1. Submit your updated pitch deck on the portal before the deadline.<br />2. Attend the mentoring session assigned to your track.<br />3. Prepare a 10 minute pitch followed by 5 minutes of questions.',
+      'We look forward to seeing you in the next round.',
+    ],
+    details: [
+      ['Track', 'Deep Tech'],
+      ['Deck deadline', '22 September 2026, 11:59 PM IST'],
+      ['Mentoring', '19 September 2026, 5:00 PM IST'],
+    ],
+    cta: { label: 'Open the participant portal' },
+    footer: 'Team E-Cell, IIT Bombay',
+    address: 'Entrepreneurship Cell, IIT Bombay, Powai, Mumbai 400076',
+  }),
+  6: newsletter({
+    brand: 'FIRSTWINGS Connect',
+    color: '#1d4ed8',
+    logo: '/logos/firstwings.svg',
+    title: 'Join FIRSTWINGS Connect: how our founders raised their pre-seed rounds',
+    paragraphs: [
+      'Hi Raif,',
+      'You are invited to the FIRSTWINGS Connect webinar where three founders from our latest cohort share how they raised their pre-seed rounds.',
+      'Agenda:<br />• Building a narrative that investors remember<br />• Finding the right angels for your sector<br />• Live Q&A',
+      'The calendar invite and the deck from our last session are attached.',
+    ],
+    cta: { label: 'Add to calendar' },
+    footer: 'Warm regards, Sana Yaqoob · FIRSTWINGS',
+  }),
+  7: newsletter({
+    brand: 'GrowthX · Build with AI',
+    color: '#ff6a3d',
+    logo: '/logos/growthx.svg',
+    title: 'I almost lost $100 on email. AI caught it.',
+    paragraphs: [
+      'Last week I nearly paid an invoice that looked identical to one from a vendor we use every month. Same logo, same signature, same tone.',
+      'The only difference was the bank account number.',
+      'Our inbox assistant flagged the mismatch before I hit send. That is the kind of workflow we teach in the <b>Build with AI</b> cohort: small automations that pay for themselves the first time they fire.',
+      'Enrollment closes Friday.',
+    ],
+    cta: { label: 'See the curriculum' },
+    footer: 'You signed up for GrowthX updates at buildwithai.example.',
+  }),
+  9: POSTMASTER_HTML,
+}
+
 /** The first page of the inbox mirrors the reference screenshot. */
 function featured(): Message[] {
+  return featuredPlain().map((m, i) => (FEATURED_HTML[i] ? { ...m, html: FEATURED_HTML[i] } : m))
+}
+
+function featuredPlain(): Message[] {
   return [
   msg({
     from: { name: 'NVIDIA Training', email: 'training@nvidia.example' },

@@ -25,6 +25,28 @@ interface UIValue {
   setAiOpen: (open: boolean) => void
   sidebarOpen: boolean
   setSidebarOpen: (open: boolean) => void
+  loggedIn: boolean
+  logIn: () => void
+  logOut: () => void
+}
+
+const SESSION_KEY = 'hostinger-mail-clone:session'
+
+function readSession(): boolean {
+  try {
+    return localStorage.getItem(SESSION_KEY) !== 'signed-out'
+  } catch {
+    return true
+  }
+}
+
+function writeSession(loggedIn: boolean) {
+  try {
+    if (loggedIn) localStorage.removeItem(SESSION_KEY)
+    else localStorage.setItem(SESSION_KEY, 'signed-out')
+  } catch {
+    // ignore
+  }
 }
 
 const UIContext = createContext<UIValue | null>(null)
@@ -38,6 +60,19 @@ export function UIProvider({ children }: { children: ReactNode }) {
   const [modal, setModal] = useState<ModalName>(null)
   const [aiOpen, setAiOpen] = useState(false)
   const [sidebarOpen, setSidebarOpen] = useState(false)
+  const [loggedIn, setLoggedIn] = useState(readSession)
+
+  const logIn = useCallback(() => {
+    writeSession(true)
+    setLoggedIn(true)
+  }, [])
+  const logOut = useCallback(() => {
+    writeSession(false)
+    setCompose(null)
+    setModal(null)
+    setAiOpen(false)
+    setLoggedIn(false)
+  }, [])
 
   const openCompose = useCallback((draft?: Partial<ComposeDraft>) => setCompose({ ...EMPTY_DRAFT, ...draft }), [])
   const closeCompose = useCallback(() => setCompose(null), [])
@@ -59,8 +94,11 @@ export function UIProvider({ children }: { children: ReactNode }) {
       setAiOpen,
       sidebarOpen,
       setSidebarOpen,
+      loggedIn,
+      logIn,
+      logOut,
     }),
-    [search, searchOptions, setSearchOptions, compose, openCompose, closeCompose, modal, aiOpen, sidebarOpen],
+    [search, searchOptions, setSearchOptions, compose, openCompose, closeCompose, modal, aiOpen, sidebarOpen, loggedIn, logIn, logOut],
   )
 
   return <UIContext.Provider value={value}>{children}</UIContext.Provider>

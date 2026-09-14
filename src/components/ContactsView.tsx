@@ -1,5 +1,5 @@
 import { ArrowLeft, Mail, Pencil, Plus, Search, Star, Trash2, UserPlus, Users } from 'lucide-react'
-import { useMemo, useState, type FormEvent } from 'react'
+import { useEffect, useMemo, useState, type FormEvent } from 'react'
 import { useNavigate, useParams } from 'react-router-dom'
 import { useStore } from '../store/StoreContext'
 import { useToast } from '../store/ToastContext'
@@ -20,6 +20,10 @@ export function ContactsView() {
   const { contactId } = useParams<{ contactId?: string }>()
   const [query, setQuery] = useState('')
   const [editing, setEditing] = useState<Contact | 'new' | null>(null)
+
+  useEffect(() => {
+    document.title = 'Contacts - Hostinger Mail'
+  }, [])
 
   const contacts = useMemo(() => {
     const q = query.trim().toLowerCase()

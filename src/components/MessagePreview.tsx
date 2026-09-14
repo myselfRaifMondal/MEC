@@ -347,11 +347,15 @@ export function MessagePreview({ message: m, onBack, onTrash, onMove, onRestore,
           </div>
         )}
 
-        <div className="message-text">
-          {paragraphs.map((p, i) => (
-            <p key={i}>{p}</p>
-          ))}
-        </div>
+        {m.html ? (
+          <div className="email-html" dangerouslySetInnerHTML={{ __html: m.html }} />
+        ) : (
+          <div className="message-text">
+            {paragraphs.map((p, i) => (
+              <p key={i}>{p}</p>
+            ))}
+          </div>
+        )}
 
         {!isScheduled && !inTrash && (
           <div className="reply-bar">
