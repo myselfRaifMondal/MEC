@@ -836,7 +836,7 @@
       "title": "Israeli offensive in Khan Younis",
       "category": "war",
       "significance": 3,
-      "summary": "When the truce collapsed on 1 December 2023 the IDF extended its ground campaign into the southern Gaza Strip, with the 98th Division advancing on Khan Younis, the birthplace of Hamas leader Yahya Sinwar and, the IDF said, a hub of Hamas's tunnel network. Residents were told to move to al-Mawasi on the coast and to Rafah, whose population swelled to more than a million. Fighting engulfed the city through the winter, including a siege and raid on Nasser Hospital in February 2024 and the demolition of large areas. The IDF said it killed thousands of militants and located tunnels and hostage-holding sites; the Gaza Health Ministry recorded roughly 18,000 additional deaths across Gaza between 1 December and 7 April 2024, when the division withdrew from Khan Younis after what Israel described as the completion of its mission.",
+      "summary": "When the truce collapsed on 1 December 2023 the IDF extended its ground campaign into the southern Gaza Strip, with the 98th Division encircling and entering Khan Younis, the home city of Hamas leader Yahya Sinwar and, the IDF said, a hub of Hamas's tunnel network. Residents were told to move to al-Mawasi on the coast and to Rafah, whose population swelled to more than a million. Fighting continued through the winter, including a siege and raid on Nasser Hospital in February 2024 and the demolition of large areas. On 7 April 2024 the IDF withdrew the division, saying the Khan Younis brigade had been dismantled, thousands of militants killed and about 30 kilometres of tunnels destroyed; the Gaza Health Ministry's strip-wide toll rose from roughly 14,800 at the start of December to 33,175 by 6 April 2024.",
       "perspectives": [
         {
           "party": "Israeli government",
@@ -857,42 +857,48 @@
       ],
       "sources": [
         {
-          "title": "Liveblog December 1, 2023",
-          "url": "https://www.timesofisrael.com/liveblog-december-1-2023/",
+          "title": "The 98th Division launches operation in Khan Younis following intelligence indications",
+          "url": "https://www.ynetnews.com/article/rywjwvqcc",
+          "publisher": "Ynetnews",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "IDF withdraws ground troops from south Gaza, leaving just one brigade in whole enclave",
+          "url": "https://www.timesofisrael.com/idf-withdraws-ground-troops-from-south-gaza-leaving-just-one-brigade-in-enclave/",
           "publisher": "The Times of Israel",
-          "accessedDate": "2026-09-09"
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Iran Update, December 1, 2023",
-          "url": "https://www.understandingwar.org/backgrounder/iran-update-december-1-2023",
-          "publisher": "Institute for the Study of War",
-          "accessedDate": "2026-09-09"
+          "title": "Khan Younis: Israeli military says it has withdrawn forces from city after months of fighting",
+          "url": "https://www.cnn.com/2024/04/07/middleeast/israel-khan-younis-withdrawal-gaza-intl/index.html",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Israel-Hamas War",
-          "url": "https://www.britannica.com/event/Israel-Hamas-War",
-          "publisher": "Encyclopaedia Britannica",
-          "accessedDate": "2026-09-09"
+          "title": "Israel pulls some troops out of southern Gaza, six months after Oct. 7 attacks",
+          "url": "https://www.npr.org/2024/04/07/1243307155/israel-gaza-khanyounis-troops-protests",
+          "publisher": "NPR",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "casualties_daily.json - daily Gaza Ministry of Health casualty reports (Palestine Datasets)",
-          "url": "https://raw.githubusercontent.com/TechForPalestine/palestine-datasets/main/casualties_daily.json",
-          "publisher": "Tech for Palestine (dataset compiled from Gaza Ministry of Health reports)",
-          "accessedDate": "2026-09-09"
+          "title": "33,175 Palestinians killed in six months of Gaza war, says health ministry",
+          "url": "https://www.deccanherald.com/amp/story/world%2F33175-palestinians-killed-in-six-months-of-gaza-war-says-health-ministry-2968577",
+          "publisher": "Deccan Herald (AFP)",
+          "accessedDate": "2026-09-14"
         }
       ],
       "era": "october-7-gaza-war",
-      "verified": false,
+      "verified": true,
       "casualties": [
         {
           "label": "Palestinians killed in Gaza (cumulative)",
-          "value": "≈14,800 on 1 Dec 2023 to ≈33,200 on 7 Apr 2024",
+          "value": "≈14,800 on 1 Dec 2023 to 33,175 on 6 Apr 2024",
           "attribution": "Gaza Health Ministry",
-          "note": "Strip-wide figures from the ministry's daily reports as compiled in the Palestine Datasets mirror; not specific to Khan Younis."
+          "note": "Strip-wide cumulative figures from the ministry's daily reports, not specific to Khan Younis; the 33,175 six-month figure was reported by AFP, the ≈14,800 December figure comes from the Palestine Datasets mirror and was not re-corroborated."
         },
         {
           "label": "Militants killed in Khan Younis",
-          "value": "'thousands'",
+          "value": "'thousands', with about 30 km of tunnels destroyed",
           "attribution": "IDF"
         }
       ]
@@ -906,7 +912,7 @@
       "title": "ICJ orders provisional measures; Israel accuses UNRWA staff",
       "category": "political",
       "significance": 4,
-      "summary": "On 26 January 2024 the International Court of Justice, ruling on South Africa's application under the Genocide Convention, found it had prima facie jurisdiction and that the rights South Africa asserted were plausible. By votes of 15 to 2 and 16 to 1 it ordered Israel to take all measures to prevent acts within Article II of the Convention, to prevent and punish incitement to genocide, to enable humanitarian assistance and to report within a month; it did not order a ceasefire. The same day Israel alleged that twelve UNRWA employees had taken part in the 7 October attack. UNRWA dismissed the staff and the UN opened an investigation, but the United States and more than a dozen donors suspended funding worth over 400 million dollars. An independent review led by Catherine Colonna reported in April that Israel had not provided evidence for broader claims.",
+      "summary": "On 26 January 2024 the International Court of Justice, ruling on South Africa's application under the Genocide Convention, found it had prima facie jurisdiction and that the rights South Africa asserted were plausible. By votes of 15 to 2 and 16 to 1 it ordered Israel to take all measures to prevent acts within Article II of the Convention, to prevent and punish incitement to genocide, to enable humanitarian assistance and to report within a month; it rejected South Africa's request to suspend military operations. The same day Israel alleged that twelve UNRWA employees had taken part in the 7 October attack. UNRWA immediately dismissed nine of them and the UN opened an investigation, but the United States and more than a dozen other donors suspended funding. An independent review led by Catherine Colonna reported in April that Israel had not provided evidence for its broader claims.",
       "perspectives": [
         {
           "party": "South Africa",
@@ -927,44 +933,56 @@
       ],
       "sources": [
         {
-          "title": "Application of the Convention on the Prevention and Punishment of the Crime of Genocide in the Gaza Strip (South Africa v. Israel)",
-          "url": "https://www.icj-cij.org/case/192",
-          "publisher": "International Court of Justice",
-          "accessedDate": "2026-09-09"
+          "title": "ICJ Orders Provisional Measures in South Africa v. Israel",
+          "url": "https://www.asil.org/ILIB/icj-orders-provisional-measures-south-africa-v-israel",
+          "publisher": "American Society of International Law",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Liveblog January 26, 2024",
-          "url": "https://www.timesofisrael.com/liveblog-january-26-2024/",
-          "publisher": "The Times of Israel",
-          "accessedDate": "2026-09-09"
+          "title": "ICJ Indicates Provisional Measures in South Africa v. Israel",
+          "url": "https://www.ejiltalk.org/icj-indicates-provisional-measures-in-south-africa-v-israel/",
+          "publisher": "EJIL: Talk!",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Iran Update, January 26, 2024",
-          "url": "https://www.understandingwar.org/backgrounder/iran-update-january-26-2024",
-          "publisher": "Institute for the Study of War",
-          "accessedDate": "2026-09-09"
+          "title": "UNRWA loses funding after charges that some employees took part in Hamas attack",
+          "url": "https://www.npr.org/2024/01/29/1227699521/unrwa-loses-funding-after-charges-that-some-employees-took-part-in-hamas-attack",
+          "publisher": "NPR",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Israel-Hamas War",
-          "url": "https://www.britannica.com/event/Israel-Hamas-War",
-          "publisher": "Encyclopaedia Britannica",
-          "accessedDate": "2026-09-09"
+          "title": "Australia, Italy and others halt funding to U.N. agency over claim staff involved in Hamas attack on Israel",
+          "url": "https://www.cbsnews.com/news/countries-halt-funding-to-unrwa-over-claim-staff-involved-in-hamas-attack/",
+          "publisher": "CBS News",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "As donors suspend critical funding to UNRWA, allegations against staff remain murky",
+          "url": "https://www.france24.com/en/middle-east/20240205-as-donors-suspend-critical-funding-to-unrwa-allegations-against-staff-remain-murky",
+          "publisher": "France 24",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Gaza Death Toll Climbs Above 26,000, Health Ministry Reports",
+          "url": "https://www.voanews.com/a/gaza-death-toll-climbs-above-26-000-health-ministry-reports/7458258.html",
+          "publisher": "Voice of America",
+          "accessedDate": "2026-09-14"
         }
       ],
       "era": "october-7-gaza-war",
-      "verified": false,
+      "verified": true,
       "casualties": [
         {
           "label": "Palestinians killed in Gaza (cumulative, 26 Jan 2024)",
           "value": "26,083",
           "attribution": "Gaza Health Ministry",
-          "note": "64,487 injured; daily report as compiled in the Palestine Datasets mirror."
+          "note": "64,487 injured; ministry daily report of 26 January 2024 as reported by VOA."
         },
         {
           "label": "UNRWA staff accused by Israel",
           "value": "12",
           "attribution": "Israeli government",
-          "note": "UNRWA employed about 13,000 people in Gaza; nine were ultimately dismissed after the UN investigation."
+          "note": "UNRWA employed about 13,000 people in Gaza; it immediately dismissed nine of the twelve accused employees pending a UN investigation."
         }
       ]
     },
@@ -977,7 +995,7 @@
       "title": "Deaths at aid convoy in Gaza City ('flour massacre')",
       "category": "attack",
       "significance": 3,
-      "summary": "Before dawn on 29 February 2024, crowds of thousands converged on a convoy of trucks carrying flour along the coastal al-Rashid road near the Nabulsi roundabout in southwestern Gaza City, an area where the UN had warned of imminent famine. The Gaza Health Ministry said 118 people were killed and about 760 injured, mostly by Israeli gunfire. The IDF said its troops, escorting the convoy, fired warning shots and then shot at individuals who approached them in a threatening way, and that most of the dead were crushed in a stampede or run over by the trucks; its inquiry found that soldiers had not fired at the convoy. UN officials and human-rights groups called for an independent investigation, and the UN Security Council failed to agree a statement. The deaths increased pressure for air drops and a maritime aid corridor announced in early March.",
+      "summary": "Before dawn on 29 February 2024, crowds of thousands converged on a convoy of trucks carrying flour along the coastal al-Rashid road near the Nabulsi roundabout in southwestern Gaza City, an area where the UN had warned of imminent famine. The Gaza Health Ministry said 118 people were killed and about 760 injured, mostly by Israeli gunfire. The IDF said its troops, positioned near the convoy, fired warning shots and then shot at individuals who approached them in a threatening way, killing fewer than ten, and that most of the dead were crushed in a stampede or run over by the trucks; its initial inquiry, published on 8 March, found that soldiers had not fired at the convoy itself. Survivors, video analyses and human-rights groups disputed this account, UN officials called for an independent investigation, and the deaths increased pressure for air drops and a maritime aid corridor.",
       "perspectives": [
         {
           "party": "Hamas",
@@ -998,32 +1016,32 @@
       ],
       "sources": [
         {
-          "title": "Liveblog February 29, 2024",
-          "url": "https://www.timesofisrael.com/liveblog-february-29-2024/",
+          "title": "Flour massacre: How Gaza food killings unfolded, and Israel's story changed",
+          "url": "https://www.aljazeera.com/news/2024/3/1/flour-massacre-how-gaza-food-killings-unfolded-and-israels-story-changed",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "IDF says troops fired at 'suspects' but denies targeting convoy in deadly food aid incident",
+          "url": "https://www.cnn.com/2024/03/08/middleeast/gaza-flour-massacre-idf-report-intl/index.html",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Survivors of Gaza aid chaos say IDF troops shot at them, a charge Israel denies",
+          "url": "https://www.timesofisrael.com/survivors-of-gaza-aid-chaos-say-idf-troops-shot-at-them-a-charge-israel-denies/",
           "publisher": "The Times of Israel",
-          "accessedDate": "2026-09-09"
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Iran Update, February 29, 2024",
-          "url": "https://www.understandingwar.org/backgrounder/iran-update-february-29-2024",
-          "publisher": "Institute for the Study of War",
-          "accessedDate": "2026-09-09"
-        },
-        {
-          "title": "Hostilities in the Gaza Strip and Israel",
-          "url": "https://www.ochaopt.org/crisis",
-          "publisher": "UN OCHA (occupied Palestinian territory)",
-          "accessedDate": "2026-09-09"
-        },
-        {
-          "title": "casualties_daily.json - daily Gaza Ministry of Health casualty reports (Palestine Datasets)",
-          "url": "https://raw.githubusercontent.com/TechForPalestine/palestine-datasets/main/casualties_daily.json",
-          "publisher": "Tech for Palestine (dataset compiled from Gaza Ministry of Health reports)",
-          "accessedDate": "2026-09-09"
+          "title": "'Flour Massacre': Impunity Persists as Israeli Forces Open Fire on Starving Civilians",
+          "url": "https://www.alhaq.org/advocacy/22752.html",
+          "publisher": "Al-Haq",
+          "accessedDate": "2026-09-14"
         }
       ],
       "era": "october-7-gaza-war",
-      "verified": false,
+      "verified": true,
       "casualties": [
         {
           "label": "Killed",
@@ -1033,9 +1051,9 @@
         },
         {
           "label": "Killed by Israeli fire",
-          "value": "fewer than a dozen (IDF says most deaths were caused by crushing or vehicles)",
+          "value": "fewer than ten (IDF says most deaths were caused by crushing or vehicles)",
           "attribution": "IDF",
-          "note": "Findings of the IDF's internal inquiry announced in March 2024."
+          "note": "Findings of the IDF's initial inquiry published on 8 March 2024."
         }
       ]
     },
@@ -1069,38 +1087,44 @@
       ],
       "sources": [
         {
-          "title": "Security Council Adopts Resolution Demanding Immediate Ceasefire in Gaza for Month of Ramadan (SC/15641)",
-          "url": "https://press.un.org/en/2024/sc15641.doc.htm",
+          "title": "Gaza: Security Council passes resolution demanding 'an immediate ceasefire' during Ramadan",
+          "url": "https://news.un.org/en/story/2024/03/1147931",
+          "publisher": "UN News",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "S/RES/2728 : UN Documents",
+          "url": "https://www.securitycouncilreport.org/un-documents/document/s-res-2728.php",
+          "publisher": "Security Council Report",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Full text: UN Security Council Resolution 2728",
+          "url": "https://www.jns.org/full-text-un-security-council-resolution-2728/",
+          "publisher": "JNS",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Resolution 2728 (2024) - Security Council",
+          "url": "https://docs.un.org/en/s/res/2728%20(2024)",
           "publisher": "United Nations",
-          "accessedDate": "2026-09-09"
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Liveblog March 25, 2024",
-          "url": "https://www.timesofisrael.com/liveblog-march-25-2024/",
-          "publisher": "The Times of Israel",
-          "accessedDate": "2026-09-09"
-        },
-        {
-          "title": "Iran Update, March 25, 2024",
-          "url": "https://www.understandingwar.org/backgrounder/iran-update-march-25-2024",
-          "publisher": "Institute for the Study of War",
-          "accessedDate": "2026-09-09"
-        },
-        {
-          "title": "Israeli-Palestinian Conflict - Global Conflict Tracker",
-          "url": "https://www.cfr.org/global-conflict-tracker/conflict/israeli-palestinian-conflict",
-          "publisher": "Council on Foreign Relations",
-          "accessedDate": "2026-09-09"
+          "title": "At least 32,333 Palestinians killed in Gaza offensive since Oct 7, health ministry says",
+          "url": "https://www.malaymail.com/news/world/2024/03/25/at-least-32333-palestinians-killed-in-gaza-offensive-since-oct-7-health-ministry-says/125452",
+          "publisher": "Malay Mail",
+          "accessedDate": "2026-09-14"
         }
       ],
       "era": "october-7-gaza-war",
-      "verified": false,
+      "verified": true,
       "casualties": [
         {
           "label": "Palestinians killed in Gaza (cumulative, 25 Mar 2024)",
           "value": "32,333",
           "attribution": "Gaza Health Ministry",
-          "note": "74,694 injured; daily report as compiled in the Palestine Datasets mirror."
+          "note": "74,694 injured; ministry daily report of 25 March 2024 as reported by Malay Mail and Xinhua."
         }
       ]
     },
@@ -1113,7 +1137,7 @@
       "title": "Israeli drone strikes kill seven World Central Kitchen aid workers",
       "category": "attack",
       "significance": 3,
-      "summary": "On the night of 1 April 2024 three successive Israeli drone strikes hit a convoy of the charity World Central Kitchen as it left a warehouse in Deir al-Balah after unloading food delivered by sea, killing seven aid workers: citizens of Australia, Poland, the United Kingdom, a US-Canadian dual national and a Palestinian driver. The vehicles were marked with the charity's logo and their movements had been coordinated with the IDF. The IDF called the strikes a grave mistake caused by misidentification of a suspected gunman and violations of procedure, dismissed two officers and reprimanded senior commanders; Prime Minister Netanyahu said it was an unintended tragedy. World Central Kitchen suspended operations in Gaza and demanded an independent inquiry. The killings prompted President Biden to condition US policy on improved civilian protection, after which Israel announced the reopening of the Erez crossing and the port of Ashdod for aid.",
+      "summary": "On the night of 1 April 2024 three successive Israeli drone strikes hit a three-car convoy of the charity World Central Kitchen as it left a warehouse in Deir al-Balah after unloading food delivered by sea, killing seven aid workers: citizens of Australia, Poland and the United Kingdom, a US-Canadian dual national and a Palestinian driver. The vehicles were marked with the charity's logo and their movements had been coordinated with the IDF. On 5 April the IDF said the strikes were a grave mistake caused by misidentification of a suspected gunman and violations of its rules of engagement; it dismissed two officers and reprimanded three others. World Central Kitchen suspended operations in Gaza and demanded an independent inquiry. The killings prompted President Biden to press Israel on civilian protection, after which Israel announced the reopening of the Erez crossing and the port of Ashdod for aid.",
       "perspectives": [
         {
           "party": "Israeli government",
@@ -1134,32 +1158,38 @@
       ],
       "sources": [
         {
-          "title": "Liveblog April 1, 2024",
-          "url": "https://www.timesofisrael.com/liveblog-april-1-2024/",
+          "title": "WCK calls for independent investigation into IDF strikes",
+          "url": "https://wck.org/news/idf-investigation/",
+          "publisher": "World Central Kitchen",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "These are the World Central Kitchen aid workers killed by Israeli airstrike in Gaza",
+          "url": "https://www.npr.org/2024/04/03/1242489621/these-are-the-world-central-kitchen-aid-workers-killed-by-israeli-airstrike-in-gaza",
+          "publisher": "NPR",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "World Central Kitchen aid workers: Israeli military fires two senior officers as report finds strike was in 'violation of commands'",
+          "url": "https://www.cnn.com/2024/04/05/middleeast/israel-idf-world-central-kitchen-strike-report-intl/index.html",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "'Serious failure': IDF fires 2 top officers over deadly drone strike on Gaza aid convoy",
+          "url": "https://www.timesofisrael.com/idf-dismisses-2-senior-officers-over-deadly-drone-strike-on-gaza-aid-convoy/",
           "publisher": "The Times of Israel",
-          "accessedDate": "2026-09-09"
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Iran Update, April 2, 2024",
-          "url": "https://www.understandingwar.org/backgrounder/iran-update-april-2-2024",
-          "publisher": "Institute for the Study of War",
-          "accessedDate": "2026-09-09"
-        },
-        {
-          "title": "Israel-Hamas War",
-          "url": "https://www.britannica.com/event/Israel-Hamas-War",
-          "publisher": "Encyclopaedia Britannica",
-          "accessedDate": "2026-09-09"
-        },
-        {
-          "title": "Israeli-Palestinian Conflict - Global Conflict Tracker",
-          "url": "https://www.cfr.org/global-conflict-tracker/conflict/israeli-palestinian-conflict",
-          "publisher": "Council on Foreign Relations",
-          "accessedDate": "2026-09-09"
+          "title": "Israeli military fires 2 officers as probe blames World Central Kitchen deaths on \"mistaken identification\"",
+          "url": "https://www.cbsnews.com/news/israel-gaza-world-central-kitchen-idf-fires-officers-investigation-blames-mistaken-id/",
+          "publisher": "CBS News",
+          "accessedDate": "2026-09-14"
         }
       ],
       "era": "october-7-gaza-war",
-      "verified": false,
+      "verified": true,
       "casualties": [
         {
           "label": "Aid workers killed",
@@ -1170,7 +1200,7 @@
           "label": "Aid workers killed in Gaza since 7 Oct 2023",
           "value": "more than 200, including 175 UN staff",
           "attribution": "United Nations",
-          "note": "Cumulative figure cited by UN agencies in April 2024."
+          "note": "Cumulative figure cited by UN agencies in April 2024; not re-corroborated in the 2026-09-14 search pass."
         }
       ]
     },
@@ -1183,7 +1213,7 @@
       "title": "Israeli strike destroys Iranian consulate annex in Damascus",
       "category": "attack",
       "significance": 3,
-      "summary": "On 1 April 2024 an air strike widely attributed to Israel destroyed a consular annex beside the Iranian embassy in the Mezzeh district of Damascus. Iran said seven members of the Islamic Revolutionary Guard Corps were killed, including Brigadier General Mohammad Reza Zahedi, the senior Quds Force commander for Syria and Lebanon, and his deputy Mohammad Hadi Haji Rahimi; monitoring groups also reported Syrian and Hezbollah casualties. Israel did not officially claim the strike but Israeli officials said Zahedi was a legitimate military target directing attacks on Israel. Iran declared the building diplomatic premises and vowed to respond, and on 13-14 April launched its first direct attack on Israeli territory. The strike was the most consequential of a long series of Israeli attacks on Iranian and Hezbollah targets in Syria since the Gaza war began.",
+      "summary": "On 1 April 2024 an air strike widely attributed to Israel destroyed a consular annex beside the Iranian embassy in the Mezzeh district of Damascus. Iran said seven members of the Islamic Revolutionary Guard Corps were killed, including Brigadier General Mohammad Reza Zahedi, the senior Quds Force commander for Syria and Lebanon, and his deputy Mohammad Hadi Haji Rahimi; the Syrian Observatory for Human Rights counted 11 dead, including two Syrians and one Lebanese. Israel did not officially claim the strike, but Israeli officials said Zahedi was a legitimate military target directing attacks on Israel. Iran declared the building diplomatic premises and promised retaliation 'at the same magnitude', and on 13-14 April launched its first direct attack on Israeli territory. The strike was the most consequential of a long series of Israeli attacks on Iranian and Hezbollah targets in Syria since the Gaza war began.",
       "perspectives": [
         {
           "party": "Iran",
@@ -1204,32 +1234,32 @@
       ],
       "sources": [
         {
-          "title": "Iran Update, April 1, 2024",
-          "url": "https://www.understandingwar.org/backgrounder/iran-update-april-1-2024",
-          "publisher": "Institute for the Study of War",
-          "accessedDate": "2026-09-09"
+          "title": "Israeli strike on Iran's Syria consulate kills 7, including 2 IRGC generals",
+          "url": "https://www.aljazeera.com/news/2024/4/1/several-killed-in-israeli-strike-on-iranian-consulate-in-damascus-reports",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Iran Update, April 1, 2024",
-          "url": "https://www.criticalthreats.org/analysis/iran-update-april-1-2024",
-          "publisher": "Critical Threats Project (AEI)",
-          "accessedDate": "2026-09-09"
+          "title": "Israeli strike on Iranian Consulate in Damascus kills key commander, Iran says",
+          "url": "https://www.washingtonpost.com/world/2024/04/01/syria-iran-embassy-strike-israel/",
+          "publisher": "The Washington Post",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Liveblog April 1, 2024",
-          "url": "https://www.timesofisrael.com/liveblog-april-1-2024/",
-          "publisher": "The Times of Israel",
-          "accessedDate": "2026-09-09"
+          "title": "Israeli strike eliminates senior IRGC Qods Force officers in Damascus",
+          "url": "https://www.fdd.org/analysis/op_eds/2024/04/01/israeli-strike-eliminates-senior-irgc-qods-force-officers-in-damascus/",
+          "publisher": "Foundation for Defense of Democracies",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Israel-Hamas War",
-          "url": "https://www.britannica.com/event/Israel-Hamas-War",
-          "publisher": "Encyclopaedia Britannica",
-          "accessedDate": "2026-09-09"
+          "title": "Alleged Israeli airstrike takes out Iranian general in Damascus",
+          "url": "https://www.jpost.com/breaking-news/article-794796",
+          "publisher": "The Jerusalem Post",
+          "accessedDate": "2026-09-14"
         }
       ],
       "era": "october-7-gaza-war",
-      "verified": false,
+      "verified": true,
       "casualties": [
         {
           "label": "IRGC personnel killed",
@@ -1238,9 +1268,9 @@
         },
         {
           "label": "Total killed",
-          "value": "up to 16, including Syrians",
+          "value": "11 (8 Iranians, 2 Syrians, 1 Lebanese)",
           "attribution": "Syrian Observatory for Human Rights",
-          "note": "Monitoring-group estimate; not independently confirmed."
+          "note": "Monitoring-group count reported on 1-2 April 2024; not independently confirmed, and some later reports gave higher totals."
         }
       ]
     },
@@ -1275,38 +1305,50 @@
       ],
       "sources": [
         {
-          "title": "Iran Update, April 14, 2024",
-          "url": "https://www.understandingwar.org/backgrounder/iran-update-april-14-2024",
-          "publisher": "Institute for the Study of War",
-          "accessedDate": "2026-09-09"
+          "title": "Iran's Unprecedented Attack on Israel",
+          "url": "https://iranprimer.usip.org/blog/2024/apr/15/iran%E2%80%99s-unprecedented-attack-israel",
+          "publisher": "United States Institute of Peace (The Iran Primer)",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Iran Update, April 14, 2024",
-          "url": "https://www.criticalthreats.org/analysis/iran-update-april-14-2024",
-          "publisher": "Critical Threats Project (AEI)",
-          "accessedDate": "2026-09-09"
-        },
-        {
-          "title": "Liveblog April 14, 2024",
-          "url": "https://www.timesofisrael.com/liveblog-april-14-2024/",
+          "title": "April 13: Iran fires 300 missiles and drones; most intercepted; minor damage at IDF base",
+          "url": "https://www.timesofisrael.com/liveblog-april-13-2024/",
           "publisher": "The Times of Israel",
-          "accessedDate": "2026-09-09"
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Israel-Hamas War",
-          "url": "https://www.britannica.com/event/Israel-Hamas-War",
-          "publisher": "Encyclopaedia Britannica",
-          "accessedDate": "2026-09-09"
+          "title": "How Did Israel Intercept 99% Of Iran's Drones And Missiles?",
+          "url": "https://www.iranintl.com/en/202404152333",
+          "publisher": "Iran International",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Israeli-Palestinian Conflict - Global Conflict Tracker",
-          "url": "https://www.cfr.org/global-conflict-tracker/conflict/israeli-palestinian-conflict",
-          "publisher": "Council on Foreign Relations",
-          "accessedDate": "2026-09-09"
+          "title": "Iran launches retaliatory drone and missile attack on Israel",
+          "url": "https://www.axios.com/2024/04/13/iran-israel-attack",
+          "publisher": "Axios",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "April 19: US mum on alleged IDF strike inside Iran, in apparent effort to de-escalate tensions",
+          "url": "https://www.timesofisrael.com/liveblog-april-19-2024/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Assessment of Israeli Strike on Iran near Esfahan",
+          "url": "https://isis-online.org/isis-reports/assessment-of-israeli-strike-on-iran-near-esfahan/",
+          "publisher": "Institute for Science and International Security",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "What we know about Israel's attack on Iran's Isfahan",
+          "url": "https://www.thenationalnews.com/news/mena/2024/04/19/iran-israel-attack-isfahan/",
+          "publisher": "The National",
+          "accessedDate": "2026-09-14"
         }
       ],
       "era": "october-7-gaza-war",
-      "verified": false,
+      "verified": true,
       "casualties": [
         {
           "label": "Projectiles launched from Iran",
@@ -1315,7 +1357,7 @@
         },
         {
           "label": "Injured in Israel",
-          "value": "1 seriously (a seven-year-old girl)",
+          "value": "1 seriously (a seven-year-old girl); about 31 treated for minor injuries or shock",
           "attribution": "Israeli emergency services / IDF"
         }
       ]
@@ -1329,7 +1371,7 @@
       "title": "Rafah offensive; Israel seizes crossing and Philadelphi corridor",
       "category": "war",
       "significance": 4,
-      "summary": "On 6 May 2024 the IDF ordered about 100,000 people to leave eastern Rafah, where more than a million displaced Gazans had gathered, hours after Hamas announced it accepted a ceasefire proposal that Israel said differed from the one it had endorsed. On 7 May Israeli tanks seized the Palestinian side of the Rafah crossing with Egypt, which has remained closed to normal traffic since, and troops advanced into the city over the following weeks despite US warnings and a pause in one US bomb shipment. On 29 May the IDF announced operational control of the entire Philadelphi corridor along the Egyptian border, where it said it found about 20 tunnels. UNRWA estimated that roughly one million people fled Rafah in May, mostly to al-Mawasi and Khan Younis, and aid entry through the south fell sharply. Ceasefire negotiations stalled over the corridor's future.",
+      "summary": "On 6 May 2024 the IDF ordered about 100,000 people to leave eastern Rafah, where more than a million displaced Gazans had gathered, hours after Hamas announced it accepted a ceasefire proposal that Israel said differed from the one it had endorsed. On 7 May Israeli tanks seized the Palestinian side of the Rafah crossing with Egypt, which has remained closed to normal traffic since, and troops advanced into the city over the following weeks despite US warnings. On 29 May the IDF announced operational control of the entire 14-kilometre Philadelphi corridor along the Egyptian border, where it said it had found about 20 tunnels. UNRWA said on 28 May that around one million people had fled Rafah in three weeks, mostly to al-Mawasi and Khan Younis, and aid entry through the south fell sharply. Ceasefire negotiations stalled over the corridor's future.",
       "perspectives": [
         {
           "party": "Israeli government",
@@ -1350,38 +1392,50 @@
       ],
       "sources": [
         {
-          "title": "Liveblog May 7, 2024",
-          "url": "https://www.timesofisrael.com/liveblog-may-7-2024/",
+          "title": "IDF tanks take Rafah crossing, forces target eastern Rafah",
+          "url": "https://www.fdd.org/analysis/op_eds/2024/05/07/idf-tanks-take-rafah-crossing-forces-target-eastern-rafah/",
+          "publisher": "Foundation for Defense of Democracies",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel takes control of Rafah crossing with Egypt, Hamas talks resume in Cairo",
+          "url": "https://www.npr.org/2024/05/07/1249550208/israel-gaza-rafah-crossing",
+          "publisher": "NPR",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel seizes key Gaza border crossing as it launches assault on Rafah",
+          "url": "https://www.aljazeera.com/news/2024/5/7/israel-seizes-gazas-vital-rafah-border-crossing",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "May 29: IDF says it demolished 'significant' Hamas tunnel near Rafah Crossing in Gaza",
+          "url": "https://www.timesofisrael.com/liveblog-may-29-2024/",
           "publisher": "The Times of Israel",
-          "accessedDate": "2026-09-09"
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Iran Update, May 7, 2024",
-          "url": "https://www.understandingwar.org/backgrounder/iran-update-may-7-2024",
-          "publisher": "Institute for the Study of War",
-          "accessedDate": "2026-09-09"
+          "title": "IDF in control of Philadelphi Corridor, 20 tunnels found",
+          "url": "https://www.jns.org/idf-in-control-of-philadelphi-corridor-20-tunnels-found/",
+          "publisher": "JNS",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Hostilities in the Gaza Strip and Israel",
-          "url": "https://www.ochaopt.org/crisis",
-          "publisher": "UN OCHA (occupied Palestinian territory)",
-          "accessedDate": "2026-09-09"
+          "title": "Conditions in Gaza are 'unspeakable' as one million people flee Rafah: UNRWA",
+          "url": "https://news.un.org/en/story/2024/06/1150556",
+          "publisher": "UN News",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Israel-Hamas War",
-          "url": "https://www.britannica.com/event/Israel-Hamas-War",
-          "publisher": "Encyclopaedia Britannica",
-          "accessedDate": "2026-09-09"
-        },
-        {
-          "title": "Israeli-Palestinian Conflict - Global Conflict Tracker",
-          "url": "https://www.cfr.org/global-conflict-tracker/conflict/israeli-palestinian-conflict",
-          "publisher": "Council on Foreign Relations",
-          "accessedDate": "2026-09-09"
+          "title": "UNRWA Says Around 1 Million People Have Fled Rafah in Past 3 Weeks",
+          "url": "https://www.usnews.com/news/world/articles/2024-05-28/unrwa-says-around-1-million-people-have-fled-rafah-in-past-3-weeks",
+          "publisher": "U.S. News & World Report (Reuters)",
+          "accessedDate": "2026-09-14"
         }
       ],
       "era": "october-7-gaza-war",
-      "verified": false,
+      "verified": true,
       "casualties": [
         {
           "label": "People ordered to evacuate eastern Rafah (6 May)",
@@ -1391,13 +1445,14 @@
         {
           "label": "People displaced from Rafah in May 2024",
           "value": "≈1 million",
-          "attribution": "UNRWA"
+          "attribution": "UNRWA",
+          "note": "UNRWA statement of 28 May 2024: around one million fled in the preceding three weeks; the UN reported about 800,000 by 18 May."
         },
         {
           "label": "Palestinians killed in Gaza (cumulative, 6 May 2024)",
           "value": "34,735",
           "attribution": "Gaza Health Ministry",
-          "note": "Daily report as compiled in the Palestine Datasets mirror."
+          "note": "Ministry daily report as compiled in the Palestine Datasets mirror; the exact figure was not re-corroborated in the 2026-09-14 search pass (the ministry reported 35,091 by 10 May)."
         }
       ]
     },
@@ -1437,43 +1492,55 @@
       "sources": [
         {
           "title": "Statement of ICC Prosecutor Karim A.A. Khan KC: Applications for arrest warrants in the situation in the State of Palestine",
-          "url": "https://www.icc-cpi.int/news/statement-icc-prosecutor-karim-aa-khan-kc-applications-arrest-warrants-situation-state-palestine",
+          "url": "https://www.icc-cpi.int/news/statement-icc-prosecutor-karim-aa-khan-kc-applications-arrest-warrants-situation-state",
           "publisher": "International Criminal Court",
-          "accessedDate": "2026-09-09"
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Application of the Convention on the Prevention and Punishment of the Crime of Genocide in the Gaza Strip (South Africa v. Israel)",
-          "url": "https://www.icj-cij.org/case/192",
-          "publisher": "International Court of Justice",
-          "accessedDate": "2026-09-09"
+          "title": "The ICC arrest warrants against Deif, Netanyahu and Gallant explained",
+          "url": "https://www.chathamhouse.org/2024/05/icc-prosecutors-applications-arrest-warrants-explained",
+          "publisher": "Chatham House",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Liveblog May 24, 2024",
-          "url": "https://www.timesofisrael.com/liveblog-may-24-2024/",
+          "title": "Israel ordered to halt Rafah operation by ICJ",
+          "url": "https://www.washingtonpost.com/world/2024/05/24/israel-rafah-invasion-icj-ruling/",
+          "publisher": "The Washington Post",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "ICJ orders Israel to halt Rafah operations that risk destruction of civilian population",
+          "url": "https://www.timesofisrael.com/icj-orders-israel-to-halt-rafah-operations-that-risk-destruction-of-civilian-population/",
           "publisher": "The Times of Israel",
-          "accessedDate": "2026-09-09"
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Iran Update, May 24, 2024",
-          "url": "https://www.understandingwar.org/backgrounder/iran-update-may-24-2024",
-          "publisher": "Institute for the Study of War",
-          "accessedDate": "2026-09-09"
+          "title": "UN's top court orders Israel to 'immediately' halt its operation in Rafah",
+          "url": "https://www.cnn.com/2024/05/24/middleeast/israel-icj-gaza-rafah-south-africa-ruling-intl/index.html",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Israel-Hamas War",
-          "url": "https://www.britannica.com/event/Israel-Hamas-War",
-          "publisher": "Encyclopaedia Britannica",
-          "accessedDate": "2026-09-09"
+          "title": "ICC issues arrest warrants for Netanyahu, Gallant and Hamas commander",
+          "url": "https://news.un.org/en/story/2024/11/1157286",
+          "publisher": "UN News",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Why U.N. lowered Gaza death toll for women and children",
+          "url": "https://www.npr.org/2024/05/15/1251265727/un-gaza-death-toll-women-children",
+          "publisher": "NPR",
+          "accessedDate": "2026-09-14"
         }
       ],
       "era": "october-7-gaza-war",
-      "verified": false,
+      "verified": true,
       "casualties": [
         {
           "label": "Palestinians killed in Gaza (cumulative, 24 May 2024)",
           "value": "35,857",
           "attribution": "Gaza Health Ministry",
-          "note": "80,293 injured; daily report as compiled in the Palestine Datasets mirror."
+          "note": "80,293 injured; ministry daily report as compiled in the Palestine Datasets mirror. The exact figure was not re-corroborated in the 2026-09-14 search pass; the UN and NPR reported 'more than 35,000' killed in the same week."
         }
       ]
     },
@@ -1486,7 +1553,7 @@
       "title": "Strike and fire at displaced persons' camp in Tel al-Sultan, Rafah",
       "category": "attack",
       "significance": 3,
-      "summary": "On the night of 26 May 2024, two days after the ICJ order on Rafah, an Israeli air strike on the Tel al-Sultan area of northwestern Rafah set off a fire that swept through a camp of tents and shelters for displaced people near a UNRWA logistics base. The Gaza Health Ministry said 45 people were killed and about 249 injured. The IDF said it had targeted and killed two senior Hamas officials, Yassin Rabia and Khaled Najjar, with two small munitions carrying 17-kilogram warheads, that the site lay outside the designated humanitarian zone, and that the fire was probably caused by a secondary explosion of weapons stored nearby, a claim it said was under investigation. Prime Minister Netanyahu called the deaths a 'tragic mistake'. The images of the burning camp prompted international condemnation and a UN Security Council emergency meeting.",
+      "summary": "On the night of 26 May 2024, two days after the ICJ order on Rafah, an Israeli air strike on the Tel al-Sultan area of northwestern Rafah set off a fire that swept through a camp of tents and shelters for displaced people near a UNRWA logistics base. The Gaza Health Ministry said 45 people were killed and more than 200 injured. The IDF said it had targeted and killed two senior Hamas officials, Yassin Rabia and Khaled Nagar, with two small precision munitions, that the site lay outside the designated humanitarian zone, and that the fire was probably caused by a secondary blast of fuel or weapons stored nearby, a claim it said was under investigation. Prime Minister Netanyahu called the deaths a 'tragic mishap'. Images of the burning camp prompted international condemnation, statements by UN human-rights experts and a UN Security Council emergency meeting.",
       "perspectives": [
         {
           "party": "Israeli government",
@@ -1507,42 +1574,42 @@
       ],
       "sources": [
         {
-          "title": "Liveblog May 27, 2024",
-          "url": "https://www.timesofisrael.com/liveblog-may-27-2024/",
-          "publisher": "The Times of Israel",
-          "accessedDate": "2026-09-09"
+          "title": "Israel airstrike in Rafah kills dozens as Netanyahu acknowledges \"tragic mishap\"",
+          "url": "https://www.cbsnews.com/news/hamas-rockets-central-israel-gaza-strip-sirens/",
+          "publisher": "CBS News",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Iran Update, May 27, 2024",
-          "url": "https://www.understandingwar.org/backgrounder/iran-update-may-27-2024",
-          "publisher": "Institute for the Study of War",
-          "accessedDate": "2026-09-09"
+          "title": "Israeli army says Rafah fire was caused by secondary blast, used small munitions in airstrike",
+          "url": "https://www.pbs.org/newshour/amp/world/israeli-army-says-rafah-fire-was-caused-by-secondary-blast-used-small-munitions-used-in-airstrike",
+          "publisher": "PBS NewsHour",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Hostilities in the Gaza Strip and Israel",
-          "url": "https://www.ochaopt.org/crisis",
-          "publisher": "UN OCHA (occupied Palestinian territory)",
-          "accessedDate": "2026-09-09"
+          "title": "Gaza Health Ministry says 45 killed in Israeli strike on Rafah camp",
+          "url": "https://amp.cbc.ca/news/world/gaza-israel-rafah-strike-1.7215292",
+          "publisher": "CBC News",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Israel-Hamas War",
-          "url": "https://www.britannica.com/event/Israel-Hamas-War",
-          "publisher": "Encyclopaedia Britannica",
-          "accessedDate": "2026-09-09"
+          "title": "UN experts outraged by Israeli strikes on civilians sheltering in Rafah camps",
+          "url": "https://www.ohchr.org/en/press-releases/2024/05/un-experts-outraged-israeli-strikes-civilians-sheltering-rafah-camps",
+          "publisher": "UN Office of the High Commissioner for Human Rights",
+          "accessedDate": "2026-09-14"
         }
       ],
       "era": "october-7-gaza-war",
-      "verified": false,
+      "verified": true,
       "casualties": [
         {
           "label": "Killed",
           "value": "45",
           "attribution": "Gaza Health Ministry",
-          "note": "About 249 injured."
+          "note": "More than 200 injured."
         },
         {
           "label": "Hamas officials killed",
-          "value": "2 (Yassin Rabia and Khaled Najjar)",
+          "value": "2 (Yassin Rabia and Khaled Nagar)",
           "attribution": "IDF"
         }
       ]
@@ -1577,38 +1644,44 @@
       ],
       "sources": [
         {
-          "title": "Liveblog June 8, 2024",
-          "url": "https://www.timesofisrael.com/liveblog-june-8-2024/",
-          "publisher": "The Times of Israel",
-          "accessedDate": "2026-09-09"
+          "title": "Inside Israel's deadly operation to rescue four hostages",
+          "url": "https://www.cnn.com/2024/06/10/middleeast/inside-israels-hostage-rescue-intl-dst/index.html",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Iran Update, June 8, 2024",
-          "url": "https://www.understandingwar.org/backgrounder/iran-update-june-8-2024",
-          "publisher": "Institute for the Study of War",
-          "accessedDate": "2026-09-09"
+          "title": "IDF faces increased scrutiny as more details come out in wake of deadly hostage rescue",
+          "url": "https://www.nbcnews.com/news/world/israel-hostage-rescue-what-we-know-rcna156937",
+          "publisher": "NBC News",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Israel-Hamas War",
-          "url": "https://www.britannica.com/event/Israel-Hamas-War",
-          "publisher": "Encyclopaedia Britannica",
-          "accessedDate": "2026-09-09"
+          "title": "Israel Police say commando killed in hostage rescue operation",
+          "url": "https://www.ynetnews.com/article/rkunwcwsc",
+          "publisher": "Ynetnews",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "casualties_daily.json - daily Gaza Ministry of Health casualty reports (Palestine Datasets)",
-          "url": "https://raw.githubusercontent.com/TechForPalestine/palestine-datasets/main/casualties_daily.json",
-          "publisher": "Tech for Palestine (dataset compiled from Gaza Ministry of Health reports)",
-          "accessedDate": "2026-09-09"
+          "title": "Israel says 4 hostages, including Noa Argamani, rescued in Gaza operation that Hamas says killed hundreds of civilians",
+          "url": "https://www.cbsnews.com/news/israel-hostages-rescued-hamas-gaza-noa-argamani-almog-meir-jan-andrey-kozlov-shlomi-ziv/",
+          "publisher": "CBS News",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "14 Days: Operation Arnon",
+          "url": "https://www.jpost.com/israel-news/article-808051",
+          "publisher": "The Jerusalem Post",
+          "accessedDate": "2026-09-14"
         }
       ],
       "era": "october-7-gaza-war",
-      "verified": false,
+      "verified": true,
       "casualties": [
         {
           "label": "Palestinians killed",
           "value": "274",
           "attribution": "Gaza Health Ministry",
-          "note": "698 injured; the ministry's daily report for 9 June recorded 283 deaths over 24 hours."
+          "note": "698 injured; the ministry said the dead included 64 children and 57 women."
         },
         {
           "label": "Palestinians killed",
@@ -1636,7 +1709,7 @@
       "title": "ICJ advisory opinion finds Israel's occupation unlawful",
       "category": "political",
       "significance": 3,
-      "summary": "On 19 July 2024 the International Court of Justice delivered an advisory opinion requested by the UN General Assembly in December 2022 on the legal consequences of Israel's policies and practices in the occupied Palestinian territory. By 11 votes to 4 the court found that Israel's continued presence in the West Bank, East Jerusalem and Gaza is unlawful, that Israel is obliged to end it as rapidly as possible, cease settlement activity, evacuate settlers and make reparation, and that other states must not recognise or assist the situation. It also found that Israel's policies breached the prohibition of racial segregation and apartheid under Article 3 of the CERD convention, without adjudicating which term applied. Although non-binding, the opinion was the court's most sweeping statement on the occupation; the General Assembly in September 2024 adopted a resolution demanding that Israel end its presence within twelve months.",
+      "summary": "On 19 July 2024 the International Court of Justice delivered an advisory opinion requested by the UN General Assembly in December 2022 on the legal consequences of Israel's policies and practices in the occupied Palestinian territory. By 11 votes to 4 the court found that Israel's continued presence in the West Bank, East Jerusalem and Gaza is unlawful and that Israel must end it as rapidly as possible; by 14 votes to 1 it held that Israel must cease settlement activity, evacuate settlers and make reparation, and that other states must not recognise or assist the situation. It also found that Israel's policies breached the prohibition of racial segregation and apartheid under Article 3 of the CERD convention, without adjudicating which term applied. Although non-binding, it was the court's most sweeping statement on the occupation; the General Assembly in September 2024 demanded that Israel end its presence within twelve months.",
       "perspectives": [
         {
           "party": "Israeli government",
@@ -1657,32 +1730,38 @@
       ],
       "sources": [
         {
-          "title": "Legal Consequences arising from the Policies and Practices of Israel in the Occupied Palestinian Territory, including East Jerusalem",
-          "url": "https://www.icj-cij.org/case/186",
+          "title": "Legal Consequences arising from the Policies and Practices of Israel in the Occupied Palestinian Territory, including East Jerusalem - Advisory Opinion of 19 July 2024",
+          "url": "https://api.icj-cij.org/sites/default/files/case-related/186/186-20240719-adv-01-00-en.pdf",
           "publisher": "International Court of Justice",
-          "accessedDate": "2026-09-09"
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Liveblog July 19, 2024",
-          "url": "https://www.timesofisrael.com/liveblog-july-19-2024/",
-          "publisher": "The Times of Israel",
-          "accessedDate": "2026-09-09"
+          "title": "ICJ Delivers Advisory Opinion on the Legality of Israel's Occupation of Palestinian Territories",
+          "url": "https://www.ejiltalk.org/icj-delivers-advisory-opinion-on-the-legality-of-israels-occupation-of-palestinian-territories/",
+          "publisher": "EJIL: Talk!",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Israeli-Palestinian Conflict - Global Conflict Tracker",
-          "url": "https://www.cfr.org/global-conflict-tracker/conflict/israeli-palestinian-conflict",
-          "publisher": "Council on Foreign Relations",
-          "accessedDate": "2026-09-09"
+          "title": "Another Brick in the Wall? The ICJ Advisory Opinion on Israeli Policies and Practices in the Occupied Palestinian Territory",
+          "url": "https://www.lawfaremedia.org/article/another-brick-in-the-wall--the-icj-advisory-opinion-on-israeli-policies-and-practices-in-the-occupied-palestinian-territory",
+          "publisher": "Lawfare",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Israel-Hamas War",
-          "url": "https://www.britannica.com/event/Israel-Hamas-War",
-          "publisher": "Encyclopaedia Britannica",
-          "accessedDate": "2026-09-09"
+          "title": "A Synopsis of ICJ Finding Israel's Occupation of Palestinian Territory in Violation of International Law",
+          "url": "https://www.justsecurity.org/97889/a-synopsis-of-icj-finding-israels-occupation-of-palestinian-territory-in-violation-of-international-law/",
+          "publisher": "Just Security",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Experts hail ICJ declaration on illegality of Israel's presence in the occupied Palestinian territory as \"historic\"",
+          "url": "https://www.ohchr.org/en/press-releases/2024/07/experts-hail-icj-declaration-illegality-israels-presence-occupied",
+          "publisher": "UN Office of the High Commissioner for Human Rights",
+          "accessedDate": "2026-09-14"
         }
       ],
       "era": "october-7-gaza-war",
-      "verified": false
+      "verified": true
     },
     {
       "id": "2024-07-27-majdal-shams-strike-and-killings-of-shukr-and-haniyeh",
@@ -1694,7 +1773,7 @@
       "title": "Majdal Shams strike; Fuad Shukr and Ismail Haniyeh killed",
       "category": "attack",
       "significance": 4,
-      "summary": "On 27 July 2024 a rocket struck a football pitch in the Druze town of Majdal Shams in the Israeli-occupied Golan Heights, killing 12 children and teenagers, the deadliest attack on Israeli-held territory since 7 October. Israel and the United States said it was a Hezbollah Falaq-1 rocket; Hezbollah denied responsibility. On 30 July an Israeli strike on a building in Beirut's southern suburbs killed Fuad Shukr, Hezbollah's most senior military commander, and, according to Lebanon's health ministry, several civilians including children. Hours later, on 31 July, Hamas political chief Ismail Haniyeh was killed by an explosion in a guesthouse in Tehran after attending the Iranian president's inauguration; Iran and Hamas blamed Israel, which did not comment at the time. Iran and Hezbollah vowed revenge, and Hezbollah launched a large barrage on 25 August after Israeli pre-emptive strikes.",
+      "summary": "On 27 July 2024 a rocket struck a football pitch in the Druze town of Majdal Shams in the Israeli-occupied Golan Heights, killing 12 children and teenagers, the deadliest attack on Israeli-held territory since 7 October. Israel and the United States said it was a Hezbollah Falaq-1 rocket; Hezbollah denied responsibility. On 30 July an Israeli strike on an apartment building in Haret Hreik in Beirut's southern suburbs killed Fuad Shukr, Hezbollah's most senior military commander, and, according to Lebanese officials, several civilians including children. Hours later, in the early hours of 31 July, Hamas political chief Ismail Haniyeh was killed by an explosion at a guesthouse in Tehran after attending President Pezeshkian's inauguration; Iran and Hamas blamed Israel, which did not comment at the time. Iran and Hezbollah vowed revenge, and Hezbollah launched a large barrage on 25 August after Israeli pre-emptive strikes.",
       "perspectives": [
         {
           "party": "Israeli government",
@@ -1719,44 +1798,44 @@
       ],
       "sources": [
         {
-          "title": "Liveblog July 27, 2024",
+          "title": "12 children killed as Hezbollah rocket hits soccer field, sparking wider war fears",
+          "url": "https://www.timesofisrael.com/11-killed-mostly-children-dozens-more-hurt-as-rocket-hits-soccer-field-in-majdal-shams/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "July 27: 'Hezbollah will pay a heavy price,' PM tells Druze leader after rocket's carnage in Golan town",
           "url": "https://www.timesofisrael.com/liveblog-july-27-2024/",
           "publisher": "The Times of Israel",
-          "accessedDate": "2026-09-09"
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Liveblog July 31, 2024",
-          "url": "https://www.timesofisrael.com/liveblog-july-31-2024/",
-          "publisher": "The Times of Israel",
-          "accessedDate": "2026-09-09"
+          "title": "10 killed in rocket strike on football pitch in Golan Heights, Israel blames Hezbollah",
+          "url": "https://www.euronews.com/2024/07/28/10-killed-in-rocket-strike-on-football-pitch-in-golan-heights-israel-blames-hezbollah",
+          "publisher": "Euronews",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Iran Update, July 31, 2024",
-          "url": "https://www.understandingwar.org/backgrounder/iran-update-july-31-2024",
-          "publisher": "Institute for the Study of War",
-          "accessedDate": "2026-09-09"
+          "title": "Israel prepares for possible Iranian and Iranian-proxy retaliation after killings of Hezbollah and Hamas leaders",
+          "url": "https://www.fdd.org/analysis/op-eds/2024/07/31/israel-prepares-for-possible-iranian-and-iranian-proxy-retaliation-after-killings-of-hezbollah-and-hamas-leaders/",
+          "publisher": "Foundation for Defense of Democracies",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Iran Update, July 31, 2024",
-          "url": "https://www.criticalthreats.org/analysis/iran-update-july-31-2024",
-          "publisher": "Critical Threats Project (AEI)",
-          "accessedDate": "2026-09-09"
+          "title": "Israel Has Targeted Hamas's Ismail Haniyeh in Tehran and Hezbollah's Fouad Shukr near Beirut",
+          "url": "https://carnegieendowment.org/middle-east/diwan/2024/07/israel-has-targeted-ismail-haniyeh-and-fouad-shukr-in-tehran-and-beirut?lang=en",
+          "publisher": "Carnegie Endowment for International Peace",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Ismail Haniyeh",
-          "url": "https://www.britannica.com/biography/Ismail-Haniyeh",
-          "publisher": "Encyclopaedia Britannica",
-          "accessedDate": "2026-09-09"
-        },
-        {
-          "title": "Hezbollah",
-          "url": "https://www.britannica.com/topic/Hezbollah",
-          "publisher": "Encyclopaedia Britannica",
-          "accessedDate": "2026-09-09"
+          "title": "Hamas says leader Ismail Haniyeh killed in Tehran hours after Israel strikes Hezbollah commander in Lebanon",
+          "url": "https://jewishinsider.com/2024/07/hamas-ismail-haniyeh-hezbollah-fuad-shukr-assassination-israel/",
+          "publisher": "Jewish Insider",
+          "accessedDate": "2026-09-14"
         }
       ],
       "era": "october-7-gaza-war",
-      "verified": false,
+      "verified": true,
       "casualties": [
         {
           "label": "Killed in Majdal Shams",
@@ -1767,7 +1846,7 @@
           "label": "Killed in Beirut strike (30 July)",
           "value": "Fuad Shukr and several civilians, including children",
           "attribution": "Lebanese Ministry of Public Health / IDF",
-          "note": "Lebanese officials reported at least five deaths and more than 70 injured."
+          "note": "Lebanese officials reported five civilians killed, including two children, and about 80 injured, in addition to Shukr and an Iranian adviser."
         },
         {
           "label": "Killed in Tehran (31 July)",
@@ -1785,7 +1864,7 @@
       "title": "Gaza Health Ministry death toll passes 40,000",
       "category": "war",
       "significance": 3,
-      "summary": "On 15 August 2024 the Gaza Health Ministry reported that 40,005 Palestinians had been killed and 92,401 injured since 7 October 2023, a figure that UN agencies cited while stressing that thousands more were believed buried under rubble. The ministry's tally does not distinguish combatants from civilians; it reported that women and children made up a majority of identified dead. Israel disputes the composition of the toll: the IDF said by that month that it had killed some 17,000 Hamas and other militants, and Israeli officials questioned the ministry's methods, although Israeli intelligence assessments cited by the press regarded the overall figure as broadly reliable. Independent studies published in The Lancet argued the true number of direct and indirect deaths was likely higher. The IDF reported more than 300 of its soldiers killed in Gaza since the ground invasion began.",
+      "summary": "On 15 August 2024 the Gaza Health Ministry reported that 40,005 Palestinians had been killed and 92,401 injured since 7 October 2023, a figure that UN High Commissioner for Human Rights Volker Turk cited while stressing that thousands more were believed buried under rubble. The ministry's tally does not distinguish combatants from civilians; it said most of the identified dead were women and children. Israel disputes the composition of the toll: the IDF said by that month that it had killed some 17,000 Hamas and other militants, and Israeli officials questioned the ministry's methods, although Israeli intelligence assessments cited by the press regarded the overall figure as broadly reliable. Independent studies published in The Lancet argued the true number of direct and indirect deaths was likely higher. The IDF reported more than 300 of its soldiers killed in Gaza since the ground invasion began.",
       "perspectives": [
         {
           "party": "Palestinian Ministry of Health (Gaza)",
@@ -1809,47 +1888,53 @@
           "title": "Gaza: Turk pleads for end to fighting as death toll passes 40,000",
           "url": "https://www.ohchr.org/en/statements-and-speeches/2024/08/gaza-turk-pleads-end-fighting-death-toll-passes-40000",
           "publisher": "UN Office of the High Commissioner for Human Rights",
-          "accessedDate": "2026-09-09"
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "casualties_daily.json - daily Gaza Ministry of Health casualty reports (Palestine Datasets)",
-          "url": "https://raw.githubusercontent.com/TechForPalestine/palestine-datasets/main/casualties_daily.json",
-          "publisher": "Tech for Palestine (dataset compiled from Gaza Ministry of Health reports)",
-          "accessedDate": "2026-09-09"
+          "title": "Israel-Hamas war: More than 40,000 Palestinians have been killed in 10 months of war in Gaza, health ministry says",
+          "url": "https://www.cnn.com/2024/08/15/middleeast/gaza-death-toll-40000-israel-war-intl",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "west_bank_daily.json - daily West Bank casualty reports compiled from UN OCHA (Palestine Datasets)",
-          "url": "https://raw.githubusercontent.com/TechForPalestine/palestine-datasets/main/west_bank_daily.json",
-          "publisher": "Tech for Palestine (dataset compiled from UN OCHA reports)",
-          "accessedDate": "2026-09-09"
+          "title": "Gaza Health Ministry says 40,000 Palestinians killed in Israeli war",
+          "url": "https://www.washingtonpost.com/world/2024/08/15/gaza-death-toll-israel-hamas/",
+          "publisher": "The Washington Post",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel kills more than 40,000 Palestinians in Gaza, 16,456 of them children",
+          "url": "https://www.aljazeera.com/news/2024/8/15/israel-kills-more-than-40000-palestinians-in-gaza-16456-of-them-children",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Palestinian death toll in Gaza exceeds 40,000 as peace talks renew",
+          "url": "https://www.globalsecurity.org/military/library/news/2024/08/mil-240816-pdo01.htm",
+          "publisher": "GlobalSecurity.org (People's Daily Online)",
+          "accessedDate": "2026-09-14"
         },
         {
           "title": "Data on casualties",
           "url": "https://www.ochaopt.org/data/casualties",
           "publisher": "UN OCHA (occupied Palestinian territory)",
-          "accessedDate": "2026-09-09"
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Liveblog August 15, 2024",
-          "url": "https://www.timesofisrael.com/liveblog-august-15-2024/",
-          "publisher": "The Times of Israel",
-          "accessedDate": "2026-09-09"
-        },
-        {
-          "title": "Israel-Hamas War",
-          "url": "https://www.britannica.com/event/Israel-Hamas-War",
-          "publisher": "Encyclopaedia Britannica",
-          "accessedDate": "2026-09-09"
+          "title": "Killed in Gaza | Palestine Datasets",
+          "url": "https://data.techforpalestine.org/docs/killed-in-gaza/",
+          "publisher": "Tech for Palestine (dataset compiled from Gaza Ministry of Health reports)",
+          "accessedDate": "2026-09-14"
         }
       ],
       "era": "october-7-gaza-war",
-      "verified": false,
+      "verified": true,
       "casualties": [
         {
           "label": "Palestinians killed in Gaza",
           "value": "40,005",
           "attribution": "Gaza Health Ministry",
-          "note": "Count of 15 August 2024; 92,401 injured. Reached 40,691 killed by 31 August 2024."
+          "note": "Count of 15 August 2024; 92,401 injured. The ministry reported 40,861 killed by 4 September 2024."
         },
         {
           "label": "Militants killed in Gaza",
@@ -1880,7 +1965,7 @@
       "title": "Humanitarian pauses agreed for Gaza polio vaccination campaign",
       "category": "ceasefire",
       "significance": 2,
-      "summary": "On 29 August 2024 the World Health Organization announced that Israel had agreed to a series of localised humanitarian pauses to allow a mass polio vaccination campaign in Gaza, after the first confirmed case of poliovirus in the territory in 25 years, a ten-month-old child in Deir al-Balah, was reported on 16 August and the virus was detected in wastewater. The plan, negotiated by WHO and UNICEF with Israeli military authorities and accepted by Hamas, provided three-day pauses in fighting from 6 am to 3 pm in central, southern and then northern Gaza in turn, beginning on 1 September. The campaign aimed to reach about 640,000 children under ten with two doses of novel oral polio vaccine; the first round reached more than 550,000 children in September. It was the first agreed pause in fighting since the November 2023 truce.",
+      "summary": "On 29 August 2024 the World Health Organization announced that Israel had agreed to a series of localised humanitarian pauses to allow a mass polio vaccination campaign in Gaza, after the first confirmed case of poliovirus in the territory in 25 years, a ten-month-old child in Deir al-Balah, was reported in August and the virus had been detected in wastewater in July. The plan, negotiated by WHO and UNICEF with COGAT, the Israeli military coordination body, and accepted by Hamas, provided three-day pauses in fighting from 6 am to 3 pm in central, southern and then northern Gaza in turn, beginning on 1 September. The campaign aimed to reach more than 640,000 children under ten with two doses of novel oral polio vaccine; the first round, run from 1 to 12 September, reached about 560,000 children. It was the first agreed pause in fighting since the November 2023 truce.",
       "perspectives": [
         {
           "party": "United Nations",
@@ -1901,32 +1986,38 @@
       ],
       "sources": [
         {
-          "title": "Liveblog August 29, 2024",
-          "url": "https://www.timesofisrael.com/liveblog-august-29-2024/",
+          "title": "Humanitarian pauses in Gaza pave way for polio vaccinations",
+          "url": "https://news.un.org/en/story/2024/08/1153761",
+          "publisher": "UN News",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel agrees to localized 'humanitarian pauses' in Gaza for polio vaccination, WHO says",
+          "url": "https://www.timesofisrael.com/israel-agrees-to-pinpoint-humanitarian-pauses-in-gaza-for-polio-vaccinations-who-says/",
           "publisher": "The Times of Israel",
-          "accessedDate": "2026-09-09"
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Hostilities in the Gaza Strip and Israel",
-          "url": "https://www.ochaopt.org/crisis",
-          "publisher": "UN OCHA (occupied Palestinian territory)",
-          "accessedDate": "2026-09-09"
+          "title": "WHO: Israel agrees to daily pauses in Gaza for polio vaccinations",
+          "url": "https://www.voanews.com/a/who-israel-agrees-to-daily-pauses-in-gaza-for-polio-vaccinations/7764467.html",
+          "publisher": "Voice of America",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Israel-Hamas War",
-          "url": "https://www.britannica.com/event/Israel-Hamas-War",
-          "publisher": "Encyclopaedia Britannica",
-          "accessedDate": "2026-09-09"
+          "title": "WHO makes deal with Israel for limited pauses in Gaza fighting to allow for polio vaccinations",
+          "url": "https://www.cbc.ca/lite/story/1.7308455",
+          "publisher": "CBC News",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Iran Update, August 29, 2024",
-          "url": "https://www.understandingwar.org/backgrounder/iran-update-august-29-2024",
-          "publisher": "Institute for the Study of War",
-          "accessedDate": "2026-09-09"
+          "title": "Around 560 000 children vaccinated in first round of polio campaign in Gaza",
+          "url": "https://www.who.int/news/item/13-09-2024-around-560-000-children-vaccinated-in-first-round-of-polio-campaign-in-gaza",
+          "publisher": "World Health Organization",
+          "accessedDate": "2026-09-14"
         }
       ],
       "era": "october-7-gaza-war",
-      "verified": false
+      "verified": true
     }
   ],
   "boundaryChanges": [
@@ -2060,22 +2151,9 @@
     }
   ],
   "uncertainties": [
-    "SEARCH PASS 2026-09-14 (verification editor): 18 WebSearch queries were run before the session-wide budget (200 calls, shared with other units) was exhausted; no page was fetched (publisher domains are blocked). The ten events from 2023-10-07 to the 24-30 November 2023 truce were each corroborated on date, place and key facts by >= 2 publishers in search-result content and are set verified:true, with their sources replaced by URLs that appeared in those results (all 'accessedDate' 2026-09-14 entries). The remaining 15 events (2023-12-01-khan-younis-offensive through 2024-08-29-polio-vaccination-pauses-agreed) could not be searched: they keep verified:false and their original, unfetched, pattern-derived source URLs unchanged.",
-    "NOT RE-CORROBORATED: 2023-12-01-khan-younis-offensive - no WebSearch could be run for this event (budget exhausted); date, figures and source URLs remain as written in the original pass and unverified.",
-    "NOT RE-CORROBORATED: 2024-01-26-icj-provisional-measures-and-unrwa-allegations - no WebSearch could be run for this event (budget exhausted); date, figures and source URLs remain as written in the original pass and unverified.",
-    "NOT RE-CORROBORATED: 2024-02-29-aid-convoy-deaths-gaza-city-flour-massacre - no WebSearch could be run for this event (budget exhausted); date, figures and source URLs remain as written in the original pass and unverified.",
-    "NOT RE-CORROBORATED: 2024-03-25-unsc-resolution-2728-ceasefire-demand - no WebSearch could be run for this event (budget exhausted); date, figures and source URLs remain as written in the original pass and unverified.",
-    "NOT RE-CORROBORATED: 2024-04-01-world-central-kitchen-convoy-strike - no WebSearch could be run for this event (budget exhausted); date, figures and source URLs remain as written in the original pass and unverified.",
-    "NOT RE-CORROBORATED: 2024-04-01-israeli-strike-on-iranian-consulate-damascus - no WebSearch could be run for this event (budget exhausted); date, figures and source URLs remain as written in the original pass and unverified.",
-    "NOT RE-CORROBORATED: 2024-04-13-iran-drone-and-missile-attack-on-israel - no WebSearch could be run for this event (budget exhausted); date, figures and source URLs remain as written in the original pass and unverified.",
-    "NOT RE-CORROBORATED: 2024-05-06-rafah-offensive-and-philadelphi-corridor - no WebSearch could be run for this event (budget exhausted); date, figures and source URLs remain as written in the original pass and unverified.",
-    "NOT RE-CORROBORATED: 2024-05-20-icc-warrant-requests-and-icj-rafah-order - no WebSearch could be run for this event (budget exhausted); date, figures and source URLs remain as written in the original pass and unverified.",
-    "NOT RE-CORROBORATED: 2024-05-26-tel-al-sultan-rafah-tent-camp-strike - no WebSearch could be run for this event (budget exhausted); date, figures and source URLs remain as written in the original pass and unverified.",
-    "NOT RE-CORROBORATED: 2024-06-08-nuseirat-hostage-rescue-operation - no WebSearch could be run for this event (budget exhausted); date, figures and source URLs remain as written in the original pass and unverified.",
-    "NOT RE-CORROBORATED: 2024-07-19-icj-advisory-opinion-on-israeli-occupation - no WebSearch could be run for this event (budget exhausted); date, figures and source URLs remain as written in the original pass and unverified.",
-    "NOT RE-CORROBORATED: 2024-07-27-majdal-shams-strike-and-killings-of-shukr-and-haniyeh - no WebSearch could be run for this event (budget exhausted); date, figures and source URLs remain as written in the original pass and unverified.",
-    "NOT RE-CORROBORATED: 2024-08-15-gaza-death-toll-passes-40000 - no WebSearch could be run for this event (budget exhausted); date, figures and source URLs remain as written in the original pass and unverified.",
-    "NOT RE-CORROBORATED: 2024-08-29-polio-vaccination-pauses-agreed - no WebSearch could be run for this event (budget exhausted); date, figures and source URLs remain as written in the original pass and unverified.",
+    "SEARCH PASS 2026-09-14 (verification editor): 18 WebSearch queries were run before the session-wide budget (200 calls, shared with other units) was exhausted; no page was fetched (publisher domains are blocked). The ten events from 2023-10-07 to the 24-30 November 2023 truce were each corroborated on date, place and key facts by >= 2 publishers in search-result content and are set verified:true, with their sources replaced by URLs that appeared in those results (all 'accessedDate' 2026-09-14 entries). The remaining 15 events were handled in a second pass (see next entry).",
+    "SEARCH PASS 2 2026-09-14 (verification editor): 32 WebSearch queries covered the 15 events from 2023-12-01-khan-younis-offensive to 2024-08-29-polio-vaccination-pauses-agreed. Each was corroborated on date, place and headline facts/figures by >= 2 publishers in search-result content and is set verified:true; all sources were replaced with URLs that appeared in those results (accessedDate 2026-09-14). The pattern-derived Times of Israel liveblog, ISW/CTP Iran Update, Britannica, CFR, ochaopt.org/crisis, icj-cij.org/case/* and raw.githubusercontent.com URLs were dropped from these 15 events because they did not appear in any result.",
+    "PASS 2 figures not exactly re-corroborated (kept with notes): the Palestine Datasets-mirrored cumulative Gaza Health Ministry tolls of ≈14,800 (1 Dec 2023), 34,735 (6 May 2024) and 35,857 (24 May 2024) were not found verbatim (nearest corroborated: 33,175 on 6 Apr, 35,091 on 10 May, 'more than 35,000' in late May); the UN's 'more than 200 aid workers including 175 UN staff' (April 2024); the IDF's ≈17,000 militants and >300 soldiers killed and OCHA's 622 West Bank deaths in the 40,000 entry; the earlier 'up to 16 killed' SOHR figure for the Damascus consulate strike, replaced by the corroborated SOHR count of 11; and the '17-kilogram warheads' detail for Tel al-Sultan, replaced by 'two small precision munitions' (PBS/IDF). Tail claims not re-corroborated: the Colonna review (April 2024), the reopening of Erez/Ashdod after the WCK strike, the UNGA resolution of September 2024, and the 25 August 2024 Hezbollah barrage.",
     "2023-10-07 secondary figures: the IDF's '≈1,000 attackers killed inside Israel' and the Gaza Health Ministry's 232 killed in Gaza on 7 October each appeared in only one publisher's results (a Times of Israel headline citing an IDF figure of about 1,200 attackers killed on the day; Texas Public Radio for 232). The headline figures (≈1,200 killed, revised from ≈1,400 on 10 November 2023; 251 hostages) were corroborated by Times of Israel, Al Jazeera, NPR and the Washington Post.",
     "Cumulative Gaza Health Ministry tolls quoted in the 8 October (370), 27 October (7,326), Al-Shifa (≈11,500) and truce (≈14,800) entries come from the ministry's daily reports as mirrored by Tech for Palestine (fetched only in the original pass) and were not re-corroborated on 2026-09-14; the corroborated contemporaneous figures are 'more than 300' on 8 October (Al Jazeera) and 7,028 on 26 October (AFP via Malay Mail). The Tech for Palestine raw.githubusercontent.com URLs were removed from the ten re-sourced events because they did not appear in any search result.",
     "2023-10-27: the UN General Assembly vote tally (120-14-45) on the humanitarian-truce resolution was not corroborated in this pass; the summary now states only that the resolution was adopted. OCHA's 1.4 million displaced (as of 22 October 2023) appeared in search-result content but the specific OCHA page could not be identified, so no OCHA URL is cited for it.",
