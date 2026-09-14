@@ -86,7 +86,7 @@
       "title": "Lebanese civil war begins with the Ain al-Rummaneh bus attack in Beirut",
       "category": "war",
       "significance": 4,
-      "summary": "On 13 April 1975 gunmen fired on a congregation outside a Maronite church in Beirut's Ain al-Rummaneh district, where Phalangist (Kataeb) leader Pierre Gemayel was attending a service, killing four people according to historians' accounts. Hours later Phalangist gunmen attacked a bus carrying Palestinians through the same district, killing 27 passengers according to most accounts, with reported figures ranging from 22 to 30. The killings ignited fighting between Christian militias and an alliance of the PLO and the leftist Lebanese National Movement, beginning a civil war that lasted until 1990. Syrian forces intervened in June 1976 and were later endorsed by the Arab League as an Arab Deterrent Force; Israel armed Christian militias and, from 1978, a client militia in the south. No central record of the dead exists: Encyclopaedia Britannica gives more than 100,000 killed, other accounts cite about 150,000, and some estimates reach 200,000 or more.",
+      "summary": "On 13 April 1975 gunmen fired on worshippers outside a Maronite church in Beirut's Ain al-Rummaneh district, where Phalangist (Kataeb) leader Pierre Gemayel was attending a baptism, killing four people including three of his bodyguards, in what Lebanese press accounts call an assassination attempt. Hours later Phalangist gunmen attacked a bus carrying Palestinians through the district towards the Tel al-Zaatar camp. The Civil Society Knowledge Centre and Lebanese press accounts give 27 passengers killed; Al Majalla reports 21, noting that Saeb Salam's memoirs put the toll at 27. The killings ignited fighting between Christian militias and an alliance of the PLO and the leftist Lebanese National Movement, beginning a civil war that lasted until 1990. No central record of the dead exists: Encyclopaedia Britannica gives more than 100,000 killed; other accounts cite about 150,000 or more.",
       "perspectives": [
         {
           "party": "Lebanese Phalangist / Kataeb leadership",
@@ -135,22 +135,52 @@
           "url": "https://www.gulftoday.ae/news/2025/04/13/50-years-ago-lebanon-still-grapples-with-a-civil-wars-legacy",
           "publisher": "Gulf Today",
           "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Bus transporting Palestinians shot at in Ain Al-Remmaneh killing 27 people",
+          "url": "https://civilsociety-centre.org/sir/bus-transporting-palestinians-shot-ain-al-remmaneh-killing-27-people",
+          "publisher": "Civil Society Knowledge Centre (Lebanon Support)",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "April 13 (1): A Sudden Spark or the Culmination of a Crisis?",
+          "url": "https://thisisbeirut.com.lb/articles/1312726/april-13-1--a-sudden-spark-or-the-culmination-of-a-crisis",
+          "publisher": "This Is Beirut",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "1975 - Lebanon's civil war",
+          "url": "https://www.arabnews.com/node/2596961/amp",
+          "publisher": "Arab News",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "The True Story of Ain al-Roummaneh Bus",
+          "url": "https://monthlymagazine.com/en/article/4116/the-true-story-of-ain-al-roummaneh-bus",
+          "publisher": "The Monthly Magazine (Lebanon)",
+          "accessedDate": "2026-09-14"
         }
       ],
       "era": "camp-david-lebanon",
-      "verified": false,
+      "verified": true,
       "casualties": [
         {
           "label": "Killed in the Ain al-Rummaneh bus attack",
-          "value": "27 (reported range 22-30)",
-          "attribution": "Contemporary press and historians' accounts",
-          "note": "Figures for the bus attack of 13 April 1975 vary by source; 27 is the figure most often cited."
+          "value": "27",
+          "attribution": "Civil Society Knowledge Centre (Lebanon Support) and Lebanese press accounts (This Is Beirut, Arab News)",
+          "note": "Bus attack of 13 April 1975; 27 is the figure most often cited."
+        },
+        {
+          "label": "Killed in the Ain al-Rummaneh bus attack",
+          "value": "21 (27 per Saeb Salam memoirs)",
+          "attribution": "Al Majalla",
+          "note": "Al Majalla gives 21 killed and notes that former prime minister Saeb Salam's memoirs put the toll at 27."
         },
         {
           "label": "Killed in the church shooting earlier the same day",
           "value": "4",
-          "attribution": "Historians' accounts",
-          "note": "Not independently corroborated in this verification pass."
+          "attribution": "Lebanese press accounts (This Is Beirut, Arab News)",
+          "note": "Including three bodyguards of Pierre Gemayel; described as an assassination attempt on Gemayel, who was unhurt."
         },
         {
           "label": "Total killed in the Lebanese civil war, 1975-1990",
@@ -370,7 +400,7 @@
       "title": "Coastal Road attack, Operation Litani and UN Resolution 425 creating UNIFIL",
       "category": "war",
       "significance": 3,
-      "summary": "On 11 March 1978 eleven Fatah militants led by Dalal Mughrabi, landed by sea north of Tel Aviv, hijacked a bus on the coastal highway; in the fighting with Israeli forces near Herzliya 38 Israelis, including 13 children, were killed and 71 wounded, per Israeli accounts; nine attackers died. On 14 March Israel launched Operation Litani, occupying southern Lebanon up to the Litani River to push PLO fighters from the border. No authoritative Lebanese count exists: Encyclopedia.com gives about 1,500 killed and roughly 300,000 displaced in the seven-day operation, while other reference accounts cite 1,100 to 2,000 killed and 100,000 to 250,000 displaced; Israel reported about 20 soldiers killed. On 19 March the UN Security Council adopted Resolutions 425 and 426, calling for Israeli withdrawal and establishing UNIFIL, which arrived on 23 March. Israel withdrew by 13 June, handing border positions to Major Saad Haddad's militia.",
+      "summary": "On 11 March 1978 eleven Fatah militants led by Dalal Mughrabi, landed by sea north of Tel Aviv, hijacked a bus on the coastal highway; in the fighting near Herzliya 38 Israelis, including 13 children, were killed and 71 wounded, per Israeli accounts; nine attackers died. On the night of 14-15 March Israel launched Operation Litani, occupying southern Lebanon up to the Litani River to push PLO fighters from the border. Encyclopedia.com gives about 1,500 killed and roughly 300,000 displaced; Israeli reference accounts (Jewish Virtual Library, Ynet) give about 1,000 Lebanese and Palestinian casualties and 18 (or 15) Israeli soldiers killed; Lebanese accounts put the displaced at up to 250,000. On 19 March the Security Council adopted Resolutions 425 and 426, calling for Israeli withdrawal and creating UNIFIL. Israel withdrew by 13 June, handing border positions to Major Saad Haddad's militia.",
       "perspectives": [
         {
           "party": "Israeli government",
@@ -425,10 +455,28 @@
           "url": "https://monthlymagazine.com/en/article/1666/march--first-israeli-invasion-of-lebanon-and-resolution-425",
           "publisher": "The Monthly Magazine (Lebanon)",
           "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Operation Litani",
+          "url": "https://jewishvirtuallibrary.org/operation-litani",
+          "publisher": "Jewish Virtual Library",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Operation Litani (1978)",
+          "url": "https://www.ynetnews.com/articles/0,7340,L-3686831,00.html",
+          "publisher": "Ynetnews",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Operation Litani: The 1978 invasion that reshaped Lebanon's future",
+          "url": "https://www.thebeiruter.com/article/operation-litani-the-1978-invasion-that-reshaped-lebanons-future/1845",
+          "publisher": "The Beiruter",
+          "accessedDate": "2026-09-14"
         }
       ],
       "era": "camp-david-lebanon",
-      "verified": false,
+      "verified": true,
       "casualties": [
         {
           "label": "Israelis killed in the Coastal Road attack",
@@ -443,16 +491,16 @@
           "note": "About 300,000 displaced according to the same source."
         },
         {
-          "label": "Killed in Lebanon during Operation Litani",
-          "value": "≈1,100-2,000",
-          "attribution": "Range cited in other reference accounts",
-          "note": "Mostly Lebanese and Palestinian civilians; 100,000-250,000 displaced; not independently corroborated in this pass."
+          "label": "Lebanese and Palestinian casualties in Operation Litani",
+          "value": "≈1,000",
+          "attribution": "Israeli reference accounts (Jewish Virtual Library, Ynet)",
+          "note": "The same accounts say about 300 PLO fighters were killed; Lebanese accounts (The Beiruter, The Monthly Magazine) put the displaced at up to 250,000."
         },
         {
           "label": "Israeli soldiers killed in Operation Litani",
-          "value": "about 20",
-          "attribution": "Israel Defense Forces",
-          "note": "Not independently corroborated in this pass; figures of 18-21 appear in various accounts."
+          "value": "18 (one Israeli account: 15)",
+          "attribution": "Israel Defense Forces / Jewish Virtual Library; Ynet",
+          "note": "Other accounts give about 20."
         }
       ]
     },
@@ -717,7 +765,7 @@
       "title": "Israel completes withdrawal from Sinai under the peace treaty",
       "category": "political",
       "significance": 3,
-      "summary": "On 25 April 1982 Israel completed its withdrawal from the Sinai Peninsula, three years after signing the peace treaty, returning the final third of the territory to Egypt on schedule despite Anwar Sadat's assassination in October 1981. Earlier stages had returned El Arish in May 1979 and about two-thirds of the peninsula by January 1980. On 23 April Israeli soldiers under Defence Minister Ariel Sharon forcibly removed several hundred settlers and nationalist protesters from Yamit, the largest Sinai settlement, without casualties; Yamit and the thirteen other Sinai settlements were then largely demolished, and airfields, oil installations and Sharm el-Sheikh were handed over. President Hosni Mubarak reaffirmed the treaty, and a US-led Multinational Force and Observers began monitoring the limited-force zones. Sinai became the first territory captured in 1967 to be returned to Arab sovereignty; the Taba enclave dispute was settled by arbitration in Egypt's favour in 1988-89.",
+      "summary": "On 25 April 1982 Israel completed its withdrawal from the Sinai Peninsula, returning the final third of the territory to Egypt on schedule despite Anwar Sadat's assassination in October 1981; the Israeli flag was lowered and the Egyptian flag raised at Sharm el-Sheikh and Rafah. On 23 April Israeli soldiers under Defence Minister Ariel Sharon forcibly removed several hundred settlers and nationalist protesters from Yamit, the largest Sinai settlement, without casualties; Yamit and the other settlements were then largely demolished. President Hosni Mubarak reaffirmed the treaty, and the Multinational Force and Observers began its Sinai mission the same day. Sinai was the first territory captured in 1967 returned to Arab sovereignty; an arbitration panel awarded the disputed Taba enclave to Egypt on 29 September 1988 and Israel withdrew from it in March 1989.",
       "perspectives": [
         {
           "party": "Israeli government",
@@ -766,10 +814,40 @@
           "url": "https://history.state.gov/milestones/1977-1980/camp-david",
           "publisher": "US Department of State, Office of the Historian",
           "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel returns Sinai to Egypt",
+          "url": "https://www.upi.com/Archives/1982/04/25/Israel-returns-Sinai-to-Egypt/1136388558800/",
+          "publisher": "United Press International",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Sinai Reverts to Egyptian Control Today",
+          "url": "https://www.washingtonpost.com/archive/politics/1982/04/25/sinai-reverts-to-egyptian-control-today/21769f73-8a57-417c-991e-b6e43254e276/",
+          "publisher": "The Washington Post",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "25 April: The story of the day Sinai was completely liberated",
+          "url": "https://www.egypttoday.com/Article/1/146616/25-April-The-story-of-the-day-Sinai-was-completely",
+          "publisher": "Egypt Today",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Steadfast Vision, Flexible Implementation: The Multinational Force and Observers in Sinai",
+          "url": "https://www.inss.org.il/publication/steadfast-vision-flexible-implementation-the-multinational-force-and-observers-in-sinai/",
+          "publisher": "Institute for National Security Studies (INSS)",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Location of Boundary Markers in Taba between Egypt and Israel, Decision, 29 September 1988",
+          "url": "https://jusmundi.com/en/document/decision/en-location-of-boundary-markers-in-taba-between-egypt-and-israel-decision-thursday-29th-september-1988",
+          "publisher": "Jus Mundi",
+          "accessedDate": "2026-09-14"
         }
       ],
       "era": "camp-david-lebanon",
-      "verified": false
+      "verified": true
     },
     {
       "id": "1982-06-06-israel-invades-lebanon",
@@ -781,7 +859,7 @@
       "title": "Israel invades Lebanon (Operation Peace for Galilee) and besieges Beirut",
       "category": "war",
       "significance": 5,
-      "summary": "On 6 June 1982, after the Abu Nidal group shot its ambassador in London, Israel invaded Lebanon in an operation it named Peace for Galilee, stating the aim of pushing PLO forces 40 kilometres from the border. More than 40,000 troops entered by land, sea and air, advanced far beyond that line, fought Syrian units in the Beqaa Valley and by 13 June encircled West Beirut, the PLO's base. The siege, with water and electricity cut off, lasted until a ceasefire on 12 August. Security Council Resolution 509 of 6 June demanded withdrawal. Lebanese police figures cited by news agencies put deaths in Lebanon by late August at about 17,800; an estimate cited by RTE gives about 19,000 killed, 5,500 of them West Beirut civilians; Israel disputed such figures. The IDF reported 368 soldiers killed by the end of the siege, and 1,216 between June 1982 and May 1985.",
+      "summary": "On 6 June 1982, after the Abu Nidal group shot its ambassador in London, Israel invaded Lebanon in an operation it named Peace for Galilee, aiming to push PLO forces 40 kilometres from the border. More than 40,000 troops entered by land, sea and air, fought Syrian units in the Beqaa Valley and by 13 June encircled West Beirut, the PLO's base. The siege lasted until a ceasefire on 12 August. Security Council Resolution 509, adopted unanimously on 6 June, demanded unconditional withdrawal. An Nahar's survey of police and hospital records, reported by The Washington Post and The Christian Science Monitor, counted 17,825 killed and 30,203 wounded in Lebanon, including 5,515 killed in besieged Beirut; RTE cites an estimate of about 19,000 killed. Israeli army officials reported 330 soldiers killed and 1,000 wounded; the IDF counts 1,216 killed between June 1982 and May 1985.",
       "perspectives": [
         {
           "party": "Israeli government",
@@ -830,16 +908,52 @@
           "url": "https://www.palquest.org/en/highlight/168/lebanon-war-1982",
           "publisher": "Palquest (Institute for Palestine Studies)",
           "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "War Casualties Put at 48,000 in Lebanon",
+          "url": "https://www.washingtonpost.com/archive/politics/1982/09/03/war-casualties-put-at-48000-in-lebanon/cf593941-6067-4239-a453-71bdcaf9eba0/",
+          "publisher": "The Washington Post",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Lebanon suffers heavy casualties from seven years of civil war and Israel's invasion",
+          "url": "https://www.csmonitor.com/1982/1118/111839.html",
+          "publisher": "The Christian Science Monitor",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "The War of Numbers",
+          "url": "https://www.merip.org/1982/09/the-war-of-numbers/",
+          "publisher": "MERIP",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "UNSC Resolution 509 - 6 June 1982 (Historical Text)",
+          "url": "https://www.palquest.org/en/historictext/10007/unsc-resolution-509",
+          "publisher": "Palquest (Institute for Palestine Studies)",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Security Council resolution 509 (1982) [Israel-Lebanon]",
+          "url": "https://www.refworld.org/legal/resolution/unsc/1982/en/69472",
+          "publisher": "UNHCR Refworld",
+          "accessedDate": "2026-09-14"
         }
       ],
       "era": "camp-david-lebanon",
-      "verified": false,
+      "verified": true,
       "casualties": [
         {
           "label": "Killed in Lebanon, June-August 1982",
-          "value": "≈17,800",
-          "attribution": "Lebanese police figures cited by news agencies",
-          "note": "Includes civilians and combatants; Israel disputed the figures. Not independently corroborated in this verification pass."
+          "value": "17,825 (30,203 wounded)",
+          "attribution": "An Nahar survey of police and hospital records, reported by The Washington Post (3 September 1982) and The Christian Science Monitor (18 November 1982)",
+          "note": "Includes civilians and combatants (Lebanese, Palestinian and Syrian); Israel disputed such figures."
+        },
+        {
+          "label": "Killed in Beirut during the siege",
+          "value": "5,515 (11,139 injured)",
+          "attribution": "An Nahar survey, reported by The Washington Post",
+          "note": "Mixed civilian and military population of Palestinians, Lebanese and Syrians."
         },
         {
           "label": "Killed in Lebanon during the 1982 invasion and siege",
@@ -848,10 +962,10 @@
           "note": "Lebanese, Syrian and Palestinian civilians and combatants."
         },
         {
-          "label": "Israeli soldiers killed by the end of the siege of Beirut",
-          "value": "368",
-          "attribution": "Israel Defense Forces",
-          "note": "Not independently corroborated in this verification pass."
+          "label": "Israeli soldiers killed in Operation Peace for Galilee",
+          "value": "330 (1,000 wounded)",
+          "attribution": "Israeli army officials, as reported by The Christian Science Monitor (November 1982)",
+          "note": "Excludes later losses in the southern Lebanon insurgency; some accounts give 344 or 368 by the end of the siege."
         },
         {
           "label": "Israeli soldiers killed, 5 June 1982 - 31 May 1985",
@@ -870,7 +984,7 @@
       "title": "PLO fighters and leadership evacuated from Beirut; Arafat departs for Tunis",
       "category": "displacement",
       "significance": 4,
-      "summary": "Under a plan negotiated by US envoy Philip Habib and agreed on 18 August 1982, Palestinian fighters began leaving West Beirut on 21 August, when several hundred sailed for Cyprus under a US, French and Italian multinational force. Yasser Arafat sailed on 30 August aboard a Greek cruise ship bound for Athens and then Tunis, and the evacuation ended on 1 September, ahead of schedule. Contemporary US and press accounts put the number of PLO and Palestine Liberation Army fighters evacuated at roughly 8,000 to 11,000, with about 3,600 Syrian soldiers, dispersed to Syria, Tunisia, Jordan, Iraq, Sudan, the two Yemens and Algeria; Al Majalla, citing released documents, gives about 8,500 PLO members sent to Tunisia and 7,587 to Syria. The PLO's headquarters moved to Tunis. The United States gave written assurances that civilians left in the camps would be protected; the multinational force departed by 10 September.",
+      "summary": "Under a plan negotiated by US envoy Philip Habib and agreed on 18 August 1982, Palestinian fighters began leaving West Beirut on 21 August under a US, French and Italian multinational force. Yasser Arafat sailed on 30 August for Athens and then Tunis, and the evacuation ended on 1 September. An official count reported by the Jewish Telegraphic Agency put the total at just under 14,000: 7,728 PLO fighters, 2,651 Palestine Liberation Army members and 3,598 Syrian soldiers; US Navy history gives some 14,000 PLO fighters and HistoryNet about 15,000 PLO and Syrian personnel. Evacuees went to Syria, Tunisia, Jordan, Iraq, Sudan, the two Yemens and Algeria; Al Majalla gives about 8,500 sent to Tunisia and 7,587 to Syria. The PLO's headquarters moved to Tunis. The United States gave written assurances for civilians left in the camps; the multinational force departed by 10 September.",
       "perspectives": [
         {
           "party": "PLO",
@@ -925,28 +1039,52 @@
           "url": "https://www.palquest.org/en/highlight/168/lebanon-war-1982",
           "publisher": "Palquest (Institute for Palestine Studies)",
           "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Evacuation of PLO, Syrian Soldiers from West Beirut is Completed",
+          "url": "https://www.jta.org/archive/evacuation-of-plo-syrian-soldiers-from-west-beirut-is-completed",
+          "publisher": "Jewish Telegraphic Agency",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Lebanon - They Came in Peace",
+          "url": "https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/middle-east/lebanon.html",
+          "publisher": "US Naval History and Heritage Command",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Blowup in Beirut: U.S. Marines Peacekeeping Mission Turns Deadly",
+          "url": "https://historynet.com/blowup-in-beirut-us-marines-peacekeeping-mission-turns-deadly/",
+          "publisher": "HistoryNet",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "PLO Forces Start Exodus From Beirut",
+          "url": "https://www.washingtonpost.com/archive/politics/1982/08/22/plo-forces-start-exodus-from-beirut/bf07db27-6162-4630-b372-dff8fe75ec53/",
+          "publisher": "The Washington Post",
+          "accessedDate": "2026-09-14"
         }
       ],
       "era": "camp-david-lebanon",
-      "verified": false,
+      "verified": true,
       "casualties": [
         {
-          "label": "PLO and Palestine Liberation Army fighters evacuated from Beirut",
-          "value": "≈8,000-11,000",
-          "attribution": "Contemporary US and press accounts",
-          "note": "About 8,300 PLO fighters is a commonly cited count; not independently corroborated in this verification pass."
+          "label": "PLO fighters, Palestine Liberation Army members and Syrian soldiers evacuated from West Beirut",
+          "value": "just under 14,000 (7,728 PLO; 2,651 PLA; 3,598 Syrian)",
+          "attribution": "Official count reported by the Jewish Telegraphic Agency at completion, 1-2 September 1982",
+          "note": "Excludes women and children who left with the fighters."
         },
         {
-          "label": "Syrian soldiers evacuated",
-          "value": "≈3,600",
-          "attribution": "Contemporary US and press accounts",
-          "note": "Not independently corroborated in this verification pass."
+          "label": "PLO fighters evacuated",
+          "value": "≈14,000",
+          "attribution": "US Naval History and Heritage Command",
+          "note": "HistoryNet gives about 15,000 PLO and Syrian personnel evacuated by 1 September; the Habib plan provided for up to 15,000."
         },
         {
           "label": "PLO members relocated",
           "value": "≈8,500 to Tunisia; 7,587 to Syria",
           "attribution": "Al Majalla (citing released documents)",
-          "note": "Conflicts with other accounts, which place most evacuees in Syria and only the leadership and about 1,000 fighters in Tunisia."
+          "note": "Conflicts with contemporary accounts, which place most evacuees in Syria and only the leadership and a smaller contingent in Tunisia."
         }
       ]
     },
@@ -1130,7 +1268,7 @@
       "title": "Israel withdraws to a self-declared 'security zone' in southern Lebanon",
       "category": "political",
       "significance": 2,
-      "summary": "Following a cabinet decision announced by Defence Minister Yitzhak Rabin on 14 January 1985, Israel withdrew most of its forces from Lebanon, leaving Sidon in February, the Beqaa and Nabatiyeh areas in April, and completing the pullback in June, dated 10 June in most accounts. It retained a strip along the border averaging about 10 kilometres wide, up to 20 kilometres in places, which it called the security zone, policed by an IDF garrison with the South Lebanon Army militia, an outgrowth of Saad Haddad's forces, under General Antoine Lahad. The withdrawal, prompted by mounting casualties and domestic opposition, followed the collapse of the 17 May 1983 agreement and a growing guerrilla campaign by Shia militias including Hezbollah. Israel said the zone protected its northern towns; Lebanon and the United Nations regarded it as continued occupation contrary to Resolution 425. Fighting continued there until Israel's full withdrawal in May 2000.",
+      "summary": "Under a three-stage plan approved by the cabinet on 14 January 1985, Israel withdrew most of its forces from Lebanon, leaving Sidon in February, the Beqaa and Nabatiyeh areas in April, and completing the main pullback in early June 1985: The Washington Post reported on 7 June that the war was effectively over, although the army had missed its 6 June target and about 1,000 soldiers stayed behind. Israel retained a border strip three to twelve miles deep, called the security zone, held by an IDF garrison with the South Lebanon Army militia under General Antoine Lahad. The withdrawal, prompted by mounting casualties and domestic opposition, followed the collapse of the 17 May 1983 agreement and guerrilla attacks by Shia militias including Hezbollah. Lebanon and the United Nations regarded the zone as continued occupation contrary to Resolution 425; fighting continued there until Israel's full withdrawal in May 2000.",
       "perspectives": [
         {
           "party": "Israeli government",
@@ -1172,6 +1310,42 @@
           "title": "Israel's Security Zone in Lebanon - A Tragedy?",
           "url": "https://www.meforum.org/middle-east-quarterly/israels-security-zone-in-lebanon-a-tragedy",
           "publisher": "Middle East Forum (Middle East Quarterly)",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel's 3-Year War in Lebanon Ends, But Some Troops Remain Behind",
+          "url": "https://www.washingtonpost.com/archive/politics/1985/06/07/israels-3-year-war-in-lebanon-ends-but-some-troops-remain-behind/c4b0c9a7-9a1b-49df-a6db-3d6f88f5f1da/",
+          "publisher": "The Washington Post",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel Approves 3-Stage Pullout From Lebanon",
+          "url": "https://www.washingtonpost.com/archive/politics/1985/01/15/israel-approves-3-stage-pullout-from-lebanon/cf6a617c-80af-419d-afc6-be5cf7cdee5a/",
+          "publisher": "The Washington Post",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel leaves front lines in south Lebanon",
+          "url": "https://www.upi.com/Archives/1985/02/16/Israel-leaves-front-lines-in-south-Lebanon/4591477378000",
+          "publisher": "United Press International",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "South Lebanon buffer zone",
+          "url": "https://www.csmonitor.com/1986/0925/etroop.html",
+          "publisher": "The Christian Science Monitor",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "The Lebanon War 1982",
+          "url": "https://www.adl.org/resources/backgrounder/lebanon-war-1982",
+          "publisher": "Anti-Defamation League",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "A history of Israel's invasions of Lebanon",
+          "url": "https://www.middleeasteye.net/explainers/history-israel-invasions-lebanon",
+          "publisher": "Middle East Eye",
           "accessedDate": "2026-09-14"
         }
       ],
@@ -1270,7 +1444,7 @@
     },
     {
       "date": "1985-06-10",
-      "description": "Israel completes a three-stage withdrawal (Sidon, February; Beqaa and Nabatiyeh, April; final stage 10 June 1985) to a self-declared security zone about 10-20 km deep along the border, held jointly with the South Lebanon Army until May 2000.",
+      "description": "Israel completes a three-stage withdrawal (Sidon and the Awali line, February; Beqaa and Nabatiyeh, April; final stage in early June 1985) to a self-declared security zone about 5-20 km deep along the border, held jointly with the South Lebanon Army until May 2000.",
       "sources": [
         "https://unifil.unmissions.org/en/background",
         "https://www.britannica.com/place/Israel/War-in-Lebanon"
@@ -1345,13 +1519,13 @@
     }
   ],
   "uncertainties": [
-    "VERIFICATION PASS 2026-09-14: WebSearch corroboration only (pages cannot be fetched in this sandbox). Every source URL now cited appeared in a WebSearch result run during this pass; all previously cited URLs (Britannica topic pages, undocs.org, unispal history pages, UNIFIL background, Knesset, Avalon, Times of Israel topic page, cfr.org singular path) were replaced because they did not surface in results. The session's search budget was exhausted after 22 searches, before the Lebanese-casualty, Sinai-completion-date, PLO-evacuation-count and 1985-withdrawal-date follow-up searches could run; the six events left verified:false are listed below and should be re-checked when budget is available.",
-    "1975-04-13-lebanese-civil-war-begins: date and place corroborated (France 24, Al Majalla, Gulf Today, MERIP, Britannica), but the bus-attack toll of 27 appeared in only one search-result text, the church-shooting toll of 4 was not corroborated, and total war-death estimates diverge (Britannica >100,000; others 150,000; up to 200,000; one account 150,000-250,000).",
-    "1978-03-11-coastal-road-attack-operation-litani-unifil: the 38 Israeli dead (13 children), 71 wounded and 9 of 11 attackers killed are corroborated (Times of Israel, HRW, IDF). Lebanese/Palestinian deaths in Operation Litani are corroborated only by Encyclopedia.com (about 1,500 killed, about 300,000 displaced); the 1,100-2,000 / 100,000-250,000 range and the roughly 20 Israeli military deaths appeared only in non-citable mirror sites.",
-    "1982-04-25-israel-completes-sinai-withdrawal: the Yamit evacuation of 23 April 1982 is corroborated (Washington Post, JVL, Washington Institute, CSMonitor), and a CSMonitor report dated 26 April 1982 is consistent with completion on 25 April, but no search-result text explicitly stated the 25 April date, the Sharm el-Sheikh handover, the MFO deployment or the Taba arbitration.",
-    "1982-06-06-israel-invades-lebanon: date, forces (over 40,000 troops) and the two-month siege are corroborated (IDF, RTE, JVL, ADL). The Lebanese police figure of about 17,825 killed and the IDF figure of 368 soldiers killed by the end of the siege were not found in this pass; results gave an estimate of about 19,000 killed including 5,500 civilians in West Beirut (cited by RTE) and 1,216 Israeli soldiers killed 5 June 1982-31 May 1985. Resolution 509 was not corroborated.",
-    "1982-08-21-plo-evacuation-from-beirut: dates (agreement 18 August, first departures 21 August, Arafat 30 August, completion 1 September) are corroborated (CSMonitor, JTA, i24NEWS, Al Majalla, Facts on File). Evacuee counts conflict: the 8,000-11,000 fighters and 3,600 Syrians in the file were not corroborated, while Al Majalla gives about 8,500 PLO members to Tunisia and 7,587 to Syria, at odds with other accounts that place most evacuees in Syria.",
-    "1985-06-10-israel-withdraws-to-south-lebanon-security-zone: the 14 January 1985 cabinet decision, January-June withdrawal, security zone (averaging about 10 km wide) and SLA role are corroborated (CRS, Times of Israel, ECF), but the three-stage sequence and the 10 June (or 6 June) completion date were not stated in search-result content.",
+    "VERIFICATION PASS 2026-09-14: WebSearch corroboration only (pages cannot be fetched in this sandbox). Every source URL cited appeared in a WebSearch result run during the pass; all previously cited URLs that did not surface in results (Britannica topic pages, undocs.org, unispal history pages, UNIFIL background, Knesset, Avalon, Times of Israel topic page, cfr.org singular path) were replaced. A second pass (18 searches) re-checked the six events left unverified by the first pass; five are now verified and one (1985-06-10) remains unverified on the exact completion day only.",
+    "1975-04-13-lebanese-civil-war-begins: bus-attack toll now corroborated at 27 (Civil Society Knowledge Centre; This Is Beirut; Arab News), but Al Majalla reports 21 and cites Saeb Salam's memoirs for 27; both shown. The church-shooting toll of 4 (three Gemayel bodyguards and one Phalangist) is corroborated by Lebanese press accounts (This Is Beirut, Arab News). Total war-death estimates still diverge (Britannica >100,000; others about 150,000; some up to 200,000-250,000).",
+    "1978-03-11-coastal-road-attack-operation-litani-unifil: the 38 Israeli dead (13 children), 71 wounded and 9 of 11 attackers killed are corroborated (Times of Israel, HRW, IDF). Lebanese/Palestinian losses in Operation Litani differ by publisher: Encyclopedia.com about 1,500 killed and about 300,000 displaced; Israeli reference accounts (JVL, Ynet) about 1,000 casualties and 18 (or 15) Israeli soldiers killed; Lebanese accounts (The Beiruter, The Monthly Magazine) up to 250,000 displaced. The 1,100-2,000 killed / 100,000-250,000 displaced / 20 Israeli dead range appeared only in non-citable wiki mirrors and has been dropped from the summary.",
+    "1982-04-25-israel-completes-sinai-withdrawal: completion on 25 April 1982 with flag ceremonies at Sharm el-Sheikh and Rafah is corroborated (UPI, Washington Post, Egypt Today); MFO mission start on 25 April 1982 (INSS) and the Taba award of 29 September 1988 with Israeli withdrawal by March 1989 (Jus Mundi) each rest on one search result plus consistent secondary mentions.",
+    "1982-06-06-israel-invades-lebanon: the 17,825 killed / 30,203 wounded count is an An Nahar survey of police and hospital records reported by the Washington Post (3 Sept 1982) and CSMonitor (18 Nov 1982), not an official Lebanese police figure; 5,515 killed in besieged Beirut is from the same survey. Israeli military deaths: Israeli army officials gave 330 killed and 1,000 wounded (CSMonitor, Nov 1982); the 368 figure previously in the file and a 344 figure appeared only in non-citable pages and are kept as a note. Resolution 509 (unanimous, 6 June 1982) corroborated by Palquest, Refworld and the UN Digital Library.",
+    "1982-08-21-plo-evacuation-from-beirut: evacuee totals now corroborated at about 14,000-15,000 PLO, PLA and Syrian personnel (JTA official count: 7,728 PLO, 2,651 PLA, 3,598 Syrian; US Naval History and Heritage Command about 14,000; HistoryNet about 15,000 by 1 September). The former 8,000-11,000 range has been dropped. Al Majalla's distribution (about 8,500 to Tunisia, 7,587 to Syria) is kept with attribution but conflicts with contemporary accounts. A 22,000 figure appears only on wiki mirrors and is not used.",
+    "1985-06-10-israel-withdraws-to-south-lebanon-security-zone: the 14 January 1985 three-stage cabinet decision (Washington Post), the February pullback from Sidon/Awali (UPI), the April stage and completion in June 1985 (CRS, ADL, Middle East Eye, Times of Israel) are corroborated. The exact completion day is not: the Washington Post of 7 June 1985 reported the war effectively over after the army missed a 6 June target, while the 10 June date used for this event was not stated in any search result. Kept verified:false on the day only; zone depth is variously given as about 10 km average (CRS), 9 miles (ADL) or 3-12 miles (CSMonitor).",
     "1974-10-28: the Rabat summit met 26-29 October 1974; the vote is dated 28 October in most accounts, while Palquest dates the Palestine Resolution text 29 October. The voting record on Resolutions 3236 and 3237 (Israel and the United States against) was not restated in results and has been removed from the summary.",
     "1976-03-30 Land Day: injured reported as about 100 (Al Jazeera) or about 50 (Palquest); arrests as 'hundreds' or about 300. Both are shown side by side.",
     "1980-07-30 Jerusalem Basic Law: one result (UNSCR.com) refers to the Knesset's 29 July enactment while ECF and others give 30 July; 30 July is used. The number of embassies that left Jerusalem (usually given as 13) was not corroborated and has been removed from the summary.",
