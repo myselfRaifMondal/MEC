@@ -1,0 +1,764 @@
+{
+  "era": "regional-escalation",
+  "unit": "regional-escalation",
+  "events": [
+    {
+      "id": "2024-09-01-six-hostages-found-killed-in-rafah-tunnel",
+      "date": "2024-09-01",
+      "lat": 31.29,
+      "lng": 34.245,
+      "location": "Rafah, Gaza Strip",
+      "title": "Six hostages found killed in a Rafah tunnel; mass protests and strike in Israel",
+      "category": "attack",
+      "significance": 3,
+      "summary": "On 31 August and 1 September 2024 the Israel Defense Forces (IDF) announced that soldiers had recovered the bodies of six hostages, Carmel Gat, Eden Yerushalmi, Hersh Goldberg-Polin, Alexander Lobanov, Almog Sarusi and Ori Danino, from a tunnel in the Rafah area of southern Gaza. The IDF said its initial assessment was that they had been shot and killed by Hamas shortly before troops reached them; Hamas official Izzat al-Rishq blamed Israel for their deaths for not agreeing a ceasefire. Tens of thousands of Israelis rallied on 1 September and the Histadrut trade union federation called a general strike on 2 September, cut short by a court order, demanding a hostage deal; the Hostages Families Forum accused the government of abandoning the captives. According to the BBC, 97 hostages remained in Gaza, 33 of them presumed dead, while Gaza's health ministry counted more than 40,780 Palestinians killed since October 2023. The UN Secretary-General condemned the killings and called for the release of all hostages and an immediate ceasefire.",
+      "perspectives": [
+        { "party": "Israeli government", "framing": "Described the six as 'brutally murdered by Hamas terrorists' shortly before rescue, said whoever murders hostages does not want a deal, and vowed to bring those responsible to justice while insisting the government remained committed to an agreement that protects Israel's security." },
+        { "party": "Hamas", "framing": "Blamed Israel for the deaths, saying its refusal to sign a ceasefire and its military pressure in Rafah caused the hostages to be killed, and framed the captives as 'prisoners' held in the 'resistance's' custody." },
+        { "party": "Hostage families and Israeli protest movement", "framing": "Accused Prime Minister Netanyahu of abandoning the hostages and prioritising political survival over a deal, and called a nationwide strike to 'bring the nation to a halt'." },
+        { "party": "United Nations", "framing": "The Secretary-General 'utterly condemned' the killing of the six hostages and reiterated his call for the immediate release of all hostages and an immediate ceasefire." }
+      ],
+      "sources": [
+        { "title": "Bodies of six hostages including Hersh Goldberg Polin found in Gaza", "url": "https://www.bbc.co.uk/news/articles/ce31ddege9vo", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "Tens of thousands rally in Israel calling for hostage release deal", "url": "https://www.bbc.co.uk/news/articles/cze5x793569o", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "Israel disruption as strike and protests push for Gaza deal", "url": "https://www.bbc.co.uk/news/articles/cvgez7ez10lo", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General, 3 September 2024", "url": "https://press.un.org/en/2024/db240903.doc.htm", "publisher": "United Nations", "accessedDate": "2026-09-09" }
+      ],
+      "era": "regional-escalation",
+      "verified": true,
+      "casualties": [
+        { "label": "Israeli hostages found killed", "value": "6", "attribution": "IDF", "note": "IDF said they were shot shortly before troops reached the tunnel" },
+        { "label": "Hostages still held in Gaza", "value": "97 (33 presumed dead)", "attribution": "Israeli government figures cited by BBC", "note": "as of 2 September 2024" },
+        { "label": "Palestinians killed in Gaza since 7 October 2023", "value": "more than 40,780", "attribution": "Gaza Health Ministry", "note": "cumulative as of 1-2 September 2024; no independent total available" }
+      ]
+    },
+    {
+      "id": "2024-09-17-pager-and-radio-explosions-in-lebanon",
+      "date": "2024-09-17",
+      "endDate": "2024-09-18",
+      "lat": 33.85,
+      "lng": 35.5,
+      "location": "Beirut and southern Lebanon",
+      "title": "Pager and radio explosions strike Hezbollah members across Lebanon",
+      "category": "attack",
+      "significance": 4,
+      "summary": "On the afternoon of 17 September 2024 thousands of pagers used by Hezbollah members exploded almost simultaneously across Lebanon and in parts of Syria, followed on 18 September by a second wave of exploding hand-held radios, some of them at funerals. Lebanon's health ministry, cited by the BBC, said the first wave killed 12 people, including two children, and wounded about 2,800, among them Iran's ambassador; the second wave killed several more and injured at least 300, bringing the two-day toll to more than 20 dead and thousands injured. Hezbollah and the Lebanese government blamed Israel, which did not comment at the time; former Israeli intelligence officers later described to the BBC how the booby-trapped devices had been supplied. The attacks preceded a sharp escalation: Israel struck Hezbollah commanders in Beirut on 20 September and began an intensified air campaign across Lebanon on 23 September. The UN Special Coordinator warned of a growing risk of region-wide escalation.",
+      "perspectives": [
+        { "party": "Hezbollah", "framing": "Called the explosions an Israeli 'aggression' and 'massacre' against its members and Lebanese civilians, vowed punishment, and said it would continue what it calls its support front for Gaza." },
+        { "party": "Lebanese government", "framing": "Condemned the blasts as a criminal attack on Lebanese sovereignty, emphasised civilian and health-worker casualties reported by its health ministry, and later lodged a complaint with the International Labour Organization." },
+        { "party": "Israel", "framing": "Made no official comment at the time; Israeli officials and former intelligence officers later portrayed the operation as a precise blow against Hezbollah's communications network and combatants." },
+        { "party": "United Nations", "framing": "The Special Coordinator for the Middle East expressed grave concern at the risk of wide-scale regional escalation and urged all sides to de-escalate; UN human rights officials questioned the legality of detonating devices without knowing who held them." }
+      ],
+      "sources": [
+        { "title": "How the Hezbollah exploding device attacks unfolded", "url": "https://www.bbc.co.uk/news/videos/cy80nwggdz8o", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "Hezbollah pager explosions highlight shadow war", "url": "https://www.bbc.co.uk/news/articles/cvg3lm436jlo", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "Ex-Israeli agents reveal how Hezbollah pager attacks were carried out", "url": "https://www.bbc.co.uk/news/articles/cwy3l02wxqdo", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "In Hezbollah leader's speech are signs of a group driven deeper underground", "url": "https://www.cnn.com/2024/09/19/middleeast/lebanon-hezbollah-hassan-nasrallah-speech-analysis-intl-latam/index.html", "publisher": "CNN", "accessedDate": "2026-09-09" },
+        { "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General, 19 September 2024", "url": "https://press.un.org/en/2024/db240919.doc.htm", "publisher": "United Nations", "accessedDate": "2026-09-09" }
+      ],
+      "era": "regional-escalation",
+      "verified": true,
+      "casualties": [
+        { "label": "Killed, 17 September (pagers)", "value": "12, including two children", "attribution": "Lebanese Health Ministry (via BBC)" },
+        { "label": "Wounded, 17 September", "value": "≈2,800", "attribution": "Lebanese Health Ministry (via BBC)" },
+        { "label": "Killed and injured, 18 September (radios)", "value": "several killed; at least 300 injured", "attribution": "Lebanese Health Ministry (via BBC)" },
+        { "label": "Killed over both days", "value": "more than 20", "attribution": "Lebanese government (via BBC)", "note": "later Lebanese tallies were higher; see uncertainties" }
+      ]
+    },
+    {
+      "id": "2024-09-27-killing-of-hassan-nasrallah",
+      "date": "2024-09-27",
+      "lat": 33.846,
+      "lng": 35.51,
+      "location": "Haret Hreik, Dahiyeh, Beirut",
+      "title": "Israeli airstrike kills Hezbollah leader Hassan Nasrallah in Beirut",
+      "category": "attack",
+      "significance": 5,
+      "summary": "On the evening of 27 September 2024 Israeli aircraft dropped heavy bombs on Hezbollah's underground headquarters beneath residential buildings in Haret Hreik, in Beirut's southern suburbs (Dahiyeh), killing Hassan Nasrallah, who had led Hezbollah for more than 30 years. Israel announced his death the next day and Hezbollah confirmed it; several Hezbollah commanders and a senior Iranian Revolutionary Guard officer were also killed, along with civilian bystanders, according to CNN, and an Israeli military official said the number of civilians killed was not yet known. The UN humanitarian office (OCHA), cited by CNN, said Israeli strikes since 23 September had killed at least 700 people in Lebanon. Iran's supreme leader declared five days of mourning and said the killing 'will not go unavenged', Israel presented it as a decisive blow against Hezbollah, and the UN Secretary-General called for de-escalation and full implementation of Security Council resolution 1701. Naim Qassem later succeeded Nasrallah.",
+      "perspectives": [
+        { "party": "Israeli government", "framing": "Called the strike a targeted 'elimination' of the man responsible for decades of attacks on Israelis, a historic turning point that dismantled Hezbollah's command, and said it acted in self-defence to return displaced residents to northern Israel." },
+        { "party": "Hezbollah", "framing": "Mourned Nasrallah as a 'martyr' killed in a 'treacherous Zionist' strike on civilian buildings, pledged to continue fighting, and framed his death as part of its 'resistance' in support of Gaza." },
+        { "party": "Iran", "framing": "Supreme Leader Ali Khamenei called Nasrallah 'a path and a school of thought', declared national mourning, and said his blood would not go unavenged, later citing the killing among the reasons for its 1 October missile attack." },
+        { "party": "United Nations", "framing": "The Secretary-General voiced deep concern at the humanitarian consequences in Lebanon, repeated his call for a cessation of hostilities and full implementation of resolution 1701, and noted UNIFIL peacekeepers remained in position." }
+      ],
+      "sources": [
+        { "title": "Israel killed Hezbollah leader Hassan Nasrallah in Beirut strike, group confirms", "url": "https://www.cnn.com/2024/09/28/middleeast/hezbollah-nasrallah-killed-israel-strikes-intl/index.html", "publisher": "CNN", "accessedDate": "2026-09-09" },
+        { "title": "Hassan Nasrallah's blood 'will not go unavenged', Iran warns", "url": "https://www.bbc.co.uk/news/articles/cj31rgz511no", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "Thousands visit memorial to former Hezbollah leader Hassan Nasrallah", "url": "https://www.bbc.co.uk/news/articles/cz9x94zj5d1o", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General, 30 September 2024", "url": "https://press.un.org/en/2024/db240930.doc.htm", "publisher": "United Nations", "accessedDate": "2026-09-09" }
+      ],
+      "era": "regional-escalation",
+      "verified": true,
+      "casualties": [
+        { "label": "Killed in the headquarters strike", "value": "Nasrallah, several Hezbollah commanders, a senior IRGC officer and civilian bystanders; full toll not established", "attribution": "CNN, citing Israeli and Hezbollah statements", "note": "an Israeli military official said the civilian toll was not yet known" },
+        { "label": "Killed in Lebanon by Israeli strikes since 23 September 2024", "value": "at least 700", "attribution": "UN OCHA (via CNN)", "note": "as of 27 September 2024" }
+      ]
+    },
+    {
+      "id": "2024-10-01-israeli-ground-incursion-into-southern-lebanon",
+      "date": "2024-10-01",
+      "endDate": "2024-11-27",
+      "lat": 33.25,
+      "lng": 35.35,
+      "location": "Southern Lebanon",
+      "title": "Israel launches ground incursion into southern Lebanon",
+      "category": "war",
+      "significance": 4,
+      "summary": "On 1 October 2024, after a week of intensified air strikes across Lebanon and the killing of Hassan Nasrallah, Israeli ground forces crossed into southern Lebanon in what the Israel Defense Forces described as 'limited, localised, targeted raids' to destroy Hezbollah weapons and infrastructure near the border. Within two weeks troops had established control over border villages a few kilometres inside Lebanon, where the BBC found extensive destruction, and satellite-radar analysis showed more than 3,600 buildings damaged or destroyed between 2 and 14 October. Hezbollah continued rocket and drone fire into northern Israel. The UN Secretary-General appealed for an immediate ceasefire, saying more than 1,700 people had been killed in Lebanon since October 2023; by 26 November Lebanese authorities counted more than 3,750 killed and 15,600 injured, with more than one million displaced, while about 60,000 residents of northern Israel remained displaced, according to the BBC. The fighting continued until the 27 November ceasefire.",
+      "perspectives": [
+        { "party": "Israeli government", "framing": "Described the operation as limited, targeted raids against Hezbollah positions and tunnels threatening the border, part of a war of self-defence whose stated goal was the safe return of about 60,000 displaced residents of northern Israel." },
+        { "party": "Hezbollah", "framing": "Called the incursion an invasion, claimed to have repelled Israeli units in 'face-to-face' combat, and presented its continued rocket fire as resistance in support of Gaza and defence of Lebanon." },
+        { "party": "Lebanese government", "framing": "Condemned the invasion as a violation of Lebanese sovereignty, highlighted the mass displacement and death toll recorded by its health ministry, and appealed for a ceasefire and implementation of resolution 1701." },
+        { "party": "United Nations", "framing": "The Secretary-General said an all-out war in Lebanon must be avoided at all costs, that Lebanon's territorial integrity must be respected, and that civilians were paying a terrible price; UNIFIL refused Israeli requests to relocate its positions." }
+      ],
+      "sources": [
+        { "title": "The week that pushed the Middle East closer to all-out war", "url": "https://www.bbc.co.uk/news/articles/c0r89qwwx2lo", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "Inside Israel's combat zone in southern Lebanon", "url": "https://www.bbc.co.uk/news/articles/c80r9zyk89yo", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "Lebanon: Satellite imagery reveals intensity of Israeli bombing", "url": "https://www.bbc.co.uk/news/articles/cvgx3zjvjg3o", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "Israel and Hezbollah 'close to Lebanon ceasefire deal'", "url": "https://www.bbc.co.uk/news/articles/c0rge45kw4jo", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General, 1 October 2024", "url": "https://press.un.org/en/2024/db241001.doc.htm", "publisher": "United Nations", "accessedDate": "2026-09-09" },
+        { "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General, 2 October 2024", "url": "https://press.un.org/en/2024/db241002.doc.htm", "publisher": "United Nations", "accessedDate": "2026-09-09" }
+      ],
+      "era": "regional-escalation",
+      "verified": true,
+      "casualties": [
+        { "label": "Killed in Lebanon since October 2023", "value": "more than 1,700 (including over 100 children and 194 women)", "attribution": "UN Secretary-General", "note": "as of 1 October 2024" },
+        { "label": "Killed / injured in Lebanon since October 2023", "value": "more than 3,750 killed; at least 15,600 injured", "attribution": "Lebanese authorities (via BBC)", "note": "as of 26 November 2024" },
+        { "label": "Displaced within Lebanon", "value": "nearly 900,000 (IOM, 24 November 2024); more than one million (Lebanese authorities via BBC)", "attribution": "IOM / Lebanese authorities" },
+        { "label": "Displaced in northern Israel", "value": "about 60,000", "attribution": "Israeli government figure cited by BBC" }
+      ]
+    },
+    {
+      "id": "2024-10-01-iranian-ballistic-missile-attack-on-israel",
+      "date": "2024-10-01",
+      "lat": 31.208,
+      "lng": 35.012,
+      "location": "Nevatim air base and central Israel",
+      "title": "Iran fires ballistic missile barrage at Israel",
+      "category": "attack",
+      "significance": 4,
+      "summary": "On the evening of 1 October 2024 Iran launched a large barrage of ballistic missiles at Israel, which Tehran described as a response to the killings of Hassan Nasrallah, Hamas leader Ismail Haniyeh and an Iranian Revolutionary Guard commander. The BBC and the UN Secretary-General put the number at nearly 200 missiles; Israel and the United States intercepted many, but some struck the ground, including at Nevatim air base in southern Israel, according to video geolocated by CNN. An Israeli military spokesman told CNN that one Palestinian was killed in Jericho, in the occupied West Bank, by falling debris. Israel vowed that Iran would 'pay', the UN Secretary-General condemned the attack, and the Security Council met in emergency session. It was the second direct Iranian attack on Israel in 2024, after the April drone-and-missile strike, and Israel retaliated with air strikes on Iranian military sites on 26 October.",
+      "perspectives": [
+        { "party": "Iran", "framing": "Its UN mission called the barrage a lawful response to 'the terrorist acts of the Zionist regime', including the killings of Haniyeh in Tehran and Nasrallah in Beirut, and said it would cease unless Israel escalated further." },
+        { "party": "Israeli government", "framing": "Described the attack as a grave act of aggression that failed thanks to air defences and US support, said Iran had made a 'big mistake' and would pay, and cast the episode as part of a war against Iran's 'axis'." },
+        { "party": "United States", "framing": "Condemned the attack, said US destroyers helped intercept missiles, and reaffirmed an 'ironclad' commitment to Israel's security while urging restraint to avoid a wider war." },
+        { "party": "United Nations", "framing": "The Secretary-General strongly condemned the 'massive missile attack by Iran on Israel', as he had in April, and called on all parties to step back from a widening regional conflict." }
+      ],
+      "sources": [
+        { "title": "Israel says Iran 'will pay' for launching a major missile attack against it", "url": "https://www.cnn.com/2024/10/01/politics/iran-missile-attack-israel?Date=20241001&Profile=cnnbrk", "publisher": "CNN", "accessedDate": "2026-09-09" },
+        { "title": "The week that pushed the Middle East closer to all-out war", "url": "https://www.bbc.co.uk/news/articles/c0r89qwwx2lo", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "Israel strikes on Iran kill two soldiers, Iran says", "url": "https://www.bbc.co.uk/news/articles/c5yr5ek4r8ro", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General, 2 October 2024", "url": "https://press.un.org/en/2024/db241002.doc.htm", "publisher": "United Nations", "accessedDate": "2026-09-09" }
+      ],
+      "era": "regional-escalation",
+      "verified": true,
+      "casualties": [
+        { "label": "Killed", "value": "1 Palestinian man in Jericho, West Bank", "attribution": "IDF spokesman (via CNN)" },
+        { "label": "Missiles launched", "value": "nearly 200 (BBC); approximately 200 (UN Secretary-General); 180 (figure cited by journalists at the UN briefing)", "attribution": "BBC / UN" }
+      ]
+    },
+    {
+      "id": "2024-10-16-killing-of-yahya-sinwar",
+      "date": "2024-10-16",
+      "lat": 31.3,
+      "lng": 34.24,
+      "location": "Tel al-Sultan, Rafah, Gaza Strip",
+      "title": "Israeli troops kill Hamas leader Yahya Sinwar in Rafah",
+      "category": "attack",
+      "significance": 4,
+      "summary": "On 16 October 2024 Israeli soldiers on patrol in the Tel al-Sultan area of Rafah, southern Gaza, killed Yahya Sinwar, the leader of Hamas and the figure Israel, the United States and Britain described as the mastermind of the 7 October 2023 attack. According to the Israel Defense Forces, troops fired on three militants seen moving between houses; Sinwar entered a building alone, was located by a drone and was killed after a tank fired on the building. Israel confirmed his identity the next day through dental records, fingerprints and DNA. Prime Minister Benjamin Netanyahu called the killing 'the beginning of the end' of the war; Hamas mourned Sinwar and said its demands were unchanged. The UN Secretary-General said the development should lead to an immediate ceasefire, the release of hostages and unrestricted aid. Gaza's health ministry counted 42,409 Palestinians killed since October 2023 as of that day; no independent total was available.",
+      "perspectives": [
+        { "party": "Israeli government", "framing": "Presented the killing as the 'elimination' of the architect of the 7 October massacre and a major step toward victory, urging Hamas fighters to lay down arms and release hostages, while saying the war would continue until Hamas was destroyed." },
+        { "party": "Hamas", "framing": "Mourned Sinwar as a 'martyr' who died fighting on the front line rather than hiding, said his death would strengthen the 'resistance', and insisted hostages would not be freed without an end to the war and Israeli withdrawal." },
+        { "party": "United States", "framing": "President Biden called it a good day for Israel, the United States and the world, said justice had been served, and argued the moment should be used to secure a hostage deal and end the war." },
+        { "party": "United Nations", "framing": "The Secretary-General did not comment on the killing itself but said it should lead to an immediate ceasefire, the unconditional release of all hostages and unrestricted humanitarian access; the Special Coordinator called it a critical juncture to 'silence the guns'." }
+      ],
+      "sources": [
+        { "title": "Yahya Sinwar, leader of Hamas, killed by Israeli forces in Gaza", "url": "https://www.bbc.co.uk/news/articles/czj9zzgvjrno", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "Gaza man says Hamas leader Yahya Sinwar was killed in his evacuated house", "url": "https://www.bbc.co.uk/news/articles/cx2yvw97egdo", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "Killing Sinwar: A chance encounter after a yearlong manhunt for the head of Hamas", "url": "https://www.cnn.com/2024/10/19/politics/sinwar-hamas-manhunt-death/index.html", "publisher": "CNN", "accessedDate": "2026-09-09" },
+        { "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General, 18 October 2024", "url": "https://press.un.org/en/2024/db241018.doc.htm", "publisher": "United Nations", "accessedDate": "2026-09-09" },
+        { "title": "Palestine Datasets: casualties_daily.json (Gaza Ministry of Health daily reports)", "url": "https://raw.githubusercontent.com/TechForPalestine/palestine-datasets/main/casualties_daily.json", "publisher": "Tech For Palestine (compiling Gaza Ministry of Health reports)", "accessedDate": "2026-09-09" }
+      ],
+      "era": "regional-escalation",
+      "verified": true,
+      "casualties": [
+        { "label": "Killed in the encounter", "value": "Yahya Sinwar and two other militants", "attribution": "IDF" },
+        { "label": "Palestinians killed in Gaza since 7 October 2023", "value": "42,409", "attribution": "Gaza Health Ministry", "note": "cumulative as of 16 October 2024; the ministry does not distinguish combatants and Israel disputes its breakdown" }
+      ]
+    },
+    {
+      "id": "2024-10-26-israeli-strikes-on-iran",
+      "date": "2024-10-26",
+      "lat": 35.69,
+      "lng": 51.39,
+      "location": "Tehran and western Iran",
+      "title": "Israeli air strikes on military sites in Iran",
+      "category": "attack",
+      "significance": 3,
+      "summary": "In the early hours of 26 October 2024 Israeli aircraft struck military sites in Iran in retaliation for Iran's 1 October missile barrage, in what the Israel Defense Forces described as 'precise and targeted' strikes on missile-production facilities and air-defence systems near Tehran and in western Iran; Iranian authorities said sites in Tehran, Khuzestan and Ilam provinces were hit. Iran's army said four soldiers were killed and reported 'limited damage', claiming the attacks had been largely countered. Supreme Leader Ali Khamenei said the attack should be neither 'exaggerated nor downplayed', and President Masoud Pezeshkian said Iran did not seek war but would respond appropriately. The UN Secretary-General expressed deep alarm at the continued escalation and called on all parties to cease military action, and the Security Council met at Iran's request. The exchange marked the first openly acknowledged Israeli air strikes on Iranian territory.",
+      "perspectives": [
+        { "party": "Israeli government", "framing": "Said the strikes were a proportionate, precise response to Iran's aggression that degraded missile production and air defences, demonstrated Israel's readiness to defend itself, and warned Iran that further escalation would bring a further response." },
+        { "party": "Iran", "framing": "Played down the damage, said its air defences had countered most of the attack, asserted a right and duty to defend itself while noting its 'responsibilities towards regional peace', and lodged a complaint with the Security Council." },
+        { "party": "United States", "framing": "Described the Israeli action as an exercise of self-defence that avoided nuclear and oil facilities, and urged Iran not to respond so that the exchange could end." },
+        { "party": "United Nations", "framing": "The Secretary-General said all acts of escalation were condemnable and must stop, appealing to all parties to cease military action and return to diplomacy." }
+      ],
+      "sources": [
+        { "title": "Israel strikes on Iran kill two soldiers, Iran says", "url": "https://www.bbc.co.uk/news/articles/c5yr5ek4r8ro", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "Iran leader says Israeli attack should not be 'exaggerated or downplayed'", "url": "https://www.bbc.co.uk/news/articles/ced99eznje9o", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "Strikes on Tehran another big escalation - Jeremy Bowen", "url": "https://www.bbc.co.uk/news/videos/cd7nx1yvd79o", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General, 28 October 2024", "url": "https://press.un.org/en/2024/db241028.doc.htm", "publisher": "United Nations", "accessedDate": "2026-09-09" }
+      ],
+      "era": "regional-escalation",
+      "verified": true,
+      "casualties": [
+        { "label": "Iranian soldiers killed", "value": "4", "attribution": "Iranian army (via BBC)", "note": "initial reports said two; Iran later reported a fifth death" }
+      ]
+    },
+    {
+      "id": "2024-10-28-knesset-laws-banning-unrwa",
+      "date": "2024-10-28",
+      "lat": 31.7767,
+      "lng": 35.205,
+      "location": "Knesset, Jerusalem",
+      "title": "Knesset passes laws banning UNRWA activity in Israel",
+      "category": "political",
+      "significance": 3,
+      "summary": "On 28 October 2024 Israel's parliament, the Knesset, passed two laws targeting the UN Relief and Works Agency for Palestine Refugees (UNRWA): one barring the agency from operating within Israel's territory, approved by 92 votes to 10, and another prohibiting Israeli state bodies from any contact with UNRWA and revoking the 1967 arrangement under which it operates in areas under Israeli control, approved by 87 votes to 9, according to CNN. Israel accused UNRWA of infiltration by Hamas and of employing staff who took part in the 7 October attack, allegations the agency investigated. The UN Secretary-General expressed deep concern that the laws, if implemented, would likely prevent UNRWA from continuing its essential work in the occupied Palestinian territory, including East Jerusalem, and said there was 'no alternative to UNRWA'. The laws were scheduled to take effect after 90 days, in late January 2025.",
+      "perspectives": [
+        { "party": "Israeli government", "framing": "Argued that UNRWA is compromised by Hamas, that some of its employees took part in the 7 October attack, and that the agency perpetuates the refugee issue; said other UN and aid bodies could deliver assistance instead." },
+        { "party": "UNRWA and United Nations", "framing": "The Secretary-General said there is no alternative to UNRWA, which is mandated by the General Assembly and is the principal channel for assistance to Palestine refugees; UNRWA called the laws collective punishment of refugees and noted that over 230 of its staff had been killed in Gaza." },
+        { "party": "Palestinian Authority", "framing": "Condemned the legislation as an attack on the rights of refugees and on the UN, and called on states to defend UNRWA's mandate and funding." },
+        { "party": "United States and European Union", "framing": "Expressed deep concern, urged Israel not to implement the laws, and stressed UNRWA's irreplaceable role in Gaza's humanitarian response." }
+      ],
+      "sources": [
+        { "title": "Israel has banned the UN agency for Palestinian refugees. That could be devastating for millions", "url": "https://www.cnn.com/2024/10/28/middleeast/unrwa-israel-knesset-vote-ban-palestinians-intl?Date=20241028&Profile=cnnbrk", "publisher": "CNN", "accessedDate": "2026-09-09" },
+        { "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General, 29 October 2024", "url": "https://press.un.org/en/2024/db241029.doc.htm", "publisher": "United Nations", "accessedDate": "2026-09-09" },
+        { "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General, 28 October 2024", "url": "https://press.un.org/en/2024/db241028.doc.htm", "publisher": "United Nations", "accessedDate": "2026-09-09" }
+      ],
+      "era": "regional-escalation",
+      "verified": true
+    },
+    {
+      "id": "2024-11-21-icc-arrest-warrants-netanyahu-gallant-deif",
+      "date": "2024-11-21",
+      "lat": 52.09,
+      "lng": 4.31,
+      "location": "The Hague, Netherlands",
+      "title": "ICC issues arrest warrants for Netanyahu, Gallant and Deif",
+      "category": "political",
+      "significance": 4,
+      "summary": "On 21 November 2024 a pre-trial chamber of the International Criminal Court (ICC) in The Hague issued arrest warrants for Israeli Prime Minister Benjamin Netanyahu, former defence minister Yoav Gallant and Hamas military commander Mohammed Deif, finding reasonable grounds to believe each bore criminal responsibility for war crimes and crimes against humanity in the Gaza war; Israel said it had killed Deif in July. Israel rejected the court's jurisdiction and the legitimacy of the warrants and announced an appeal on 27 November; US President Joe Biden called the warrants 'outrageous'. The UN Secretary-General's spokesperson said the UN respects the work and independence of the court. ICC member states, which include most European countries but not Israel or the United States, are obliged to detain a wanted person on their territory; Britain indicated it would fulfil its legal obligations, while other states gave differing responses.",
+      "perspectives": [
+        { "party": "Israeli government", "framing": "Denounced the warrants as antisemitic and politically motivated, rejected the court's jurisdiction over Israel, drew a sharp distinction between a democracy defending itself and a 'terrorist organisation', and vowed to appeal." },
+        { "party": "Hamas", "framing": "Welcomed the warrants against Israeli leaders as an important step toward justice for Palestinians while rejecting the equation of its commanders with them." },
+        { "party": "United States", "framing": "President Biden called the warrants outrageous and said there was 'no equivalence' between Israel and Hamas; members of Congress threatened sanctions on the court, which the Trump administration imposed in February 2025." },
+        { "party": "ICC and supporting states", "framing": "The court said the judges found reasonable grounds for the charges; many European and other member states said they would respect the court's decision and their legal obligations, while some declined to say whether they would arrest Netanyahu." }
+      ],
+      "sources": [
+        { "title": "Israel to appeal against ICC warrants for Netanyahu and Gallant", "url": "https://www.bbc.co.uk/news/articles/cm273g1jm51o", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "No 10 indicates Benjamin Netanyahu faces arrest if he enters UK", "url": "https://www.bbc.co.uk/news/articles/cjr4gvydxeno", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General, 21 November 2024", "url": "https://press.un.org/en/2024/db241121.doc.htm", "publisher": "United Nations", "accessedDate": "2026-09-09" },
+        { "title": "ICC: Dozens of member states back top criminal court after Trump sanctions", "url": "https://www.bbc.co.uk/news/articles/cx2p19l24g2o", "publisher": "BBC News", "accessedDate": "2026-09-09" }
+      ],
+      "era": "regional-escalation",
+      "verified": true
+    },
+    {
+      "id": "2024-11-27-israel-lebanon-ceasefire",
+      "date": "2024-11-27",
+      "lat": 33.11,
+      "lng": 35.14,
+      "location": "Naqoura and southern Lebanon",
+      "title": "Israel–Hezbollah ceasefire takes effect in Lebanon",
+      "category": "ceasefire",
+      "significance": 4,
+      "summary": "A US- and French-brokered cessation of hostilities between Israel and Hezbollah took effect at 04:00 on 27 November 2024, ending more than 13 months of cross-border conflict that had escalated into full-scale war in September. The agreement provided a 60-day period for Israeli forces to withdraw from southern Lebanon, for Hezbollah to move its fighters and weapons north of the Litani River, and for the Lebanese army to deploy in the south with UNIFIL support, on the basis of Security Council resolution 1701 (2006); Israel insisted on freedom to act against emerging threats. Thousands of displaced Lebanese began returning south within hours, despite warnings from both armies. According to Lebanese authorities cited by the BBC, more than 3,750 people had been killed and 15,600 injured in Lebanon since October 2023, with more than one million displaced; about 60,000 residents of northern Israel had also been displaced. Both sides soon traded accusations of violations.",
+      "perspectives": [
+        { "party": "Israeli government", "framing": "Presented the deal as a victory that pushed Hezbollah from the border and freed Israel to focus on Iran and Gaza, stressing that it retained full freedom of military action against any violation and that the ceasefire's length depended on Hezbollah's conduct." },
+        { "party": "Hezbollah", "framing": "Claimed a 'divine victory' for having withstood Israel, said it would remain vigilant against violations, and framed its acceptance as protecting Lebanon rather than abandoning Gaza." },
+        { "party": "Lebanese government", "framing": "Welcomed the ceasefire as a step toward restoring state authority in the south through the army's deployment, demanded full Israeli withdrawal, and documented Israeli strikes after the truce as violations." },
+        { "party": "United Nations", "framing": "The Secretary-General welcomed the announcement and urged full and swift implementation, while the Special Coordinator warned that selective implementation of resolution 1701 'under the guise of ostensible calm' would not suffice." }
+      ],
+      "sources": [
+        { "title": "Israel and Lebanon trade accusations of ceasefire violations. Here's what we know about the uneasy truce", "url": "https://www.cnn.com/2024/11/26/middleeast/israel-lebanon-hezbollah-ceasefire-explainer-intl-latam/index.html", "publisher": "CNN", "accessedDate": "2026-09-09" },
+        { "title": "Displaced Lebanese head for homes as fragile truce appears to hold", "url": "https://www.bbc.co.uk/news/articles/c99rzd99mdxo", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "Israel and Hezbollah 'close to Lebanon ceasefire deal'", "url": "https://www.bbc.co.uk/news/articles/c0rge45kw4jo", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "Israel strikes and Hezbollah mortar fire strain Lebanon ceasefire", "url": "https://www.bbc.co.uk/news/articles/c6273139ed4o", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General, 27 November 2024", "url": "https://press.un.org/en/2024/db241127.doc.htm", "publisher": "United Nations", "accessedDate": "2026-09-09" }
+      ],
+      "era": "regional-escalation",
+      "verified": true,
+      "casualties": [
+        { "label": "Killed in Lebanon since October 2023", "value": "more than 3,750", "attribution": "Lebanese authorities (via BBC)", "note": "as of 26 November 2024" },
+        { "label": "Injured in Lebanon since October 2023", "value": "at least 15,600", "attribution": "Lebanese authorities (via BBC)" },
+        { "label": "Displaced in Lebanon", "value": "more than one million", "attribution": "Lebanese authorities (via BBC); IOM recorded nearly 900,000 as of 24 November 2024" },
+        { "label": "Displaced in northern Israel", "value": "about 60,000", "attribution": "Israeli government figure cited by BBC" }
+      ]
+    },
+    {
+      "id": "2024-12-08-fall-of-assad-israel-enters-syrian-buffer-zone",
+      "date": "2024-12-08",
+      "lat": 33.416,
+      "lng": 35.857,
+      "location": "Mount Hermon and the Golan buffer zone, Syria",
+      "title": "Assad government falls; Israel advances into Syrian buffer zone and Mount Hermon",
+      "category": "war",
+      "significance": 5,
+      "summary": "On 8 December 2024 opposition forces led by Hayat Tahrir al-Sham entered Damascus and President Bashar al-Assad fled to Russia, ending more than five decades of Assad family rule. The same day Israeli ground forces moved from the Israeli-occupied Golan Heights into the UN-patrolled area of separation established under the 1974 disengagement agreement and, the IDF acknowledged, slightly beyond it, taking positions including the Syrian summit of Mount Hermon. Over the following days the Israeli air force and navy carried out more than 350 strikes on Syrian military assets from Damascus to Latakia, which the IDF said destroyed an estimated 70 to 80 per cent of Syria's strategic military capabilities. Defence Minister Israel Katz said he had ordered a 'sterile defence zone' in southern Syria without a permanent Israeli presence. The UN Secretary-General welcomed a historic opportunity for Syrians, while his spokesperson said Israel's occupation of the buffer zone violated the disengagement agreement.",
+      "perspectives": [
+        { "party": "Israeli government", "framing": "Said the 1974 agreement had collapsed with the Syrian army's abandonment of its positions, that the deployment was a temporary, defensive measure to prevent hostile forces reaching the border, and that the Golan Heights would remain part of Israel 'for eternity'." },
+        { "party": "Syrian transitional authorities", "framing": "Condemned Israel's incursion and strikes as a violation of Syrian sovereignty and the 1974 agreement, said Syria did not seek conflict with Israel, and appealed for international pressure for an Israeli withdrawal." },
+        { "party": "United Nations", "framing": "The Secretary-General called on Syrians to seize a historic opportunity for an inclusive transition; his spokesperson said the UN continued to regard the Golan Heights as occupied territory and that the IDF's occupation of the buffer zone violated the disengagement agreement." },
+        { "party": "France and Germany", "framing": "Criticised the Israeli deployment, with France demanding withdrawal from the buffer area and Germany warning Israel and Turkey not to jeopardise the chances of a peaceful transition in Syria." }
+      ],
+      "sources": [
+        { "title": "Israel seizing on Syria chaos to strike military assets", "url": "https://www.bbc.co.uk/news/articles/cdx921zreweo", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "First Druze crossing in 50 years as Israel courts allies in Syria", "url": "https://www.bbc.co.uk/news/articles/c62z05wpdj4o", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General, 9 December 2024", "url": "https://press.un.org/en/2024/db241209.doc.htm", "publisher": "United Nations", "accessedDate": "2026-09-09" },
+        { "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General, 10 December 2024", "url": "https://press.un.org/en/2024/db241210.doc.htm", "publisher": "United Nations", "accessedDate": "2026-09-09" }
+      ],
+      "era": "regional-escalation",
+      "verified": true
+    },
+    {
+      "id": "2025-01-15-gaza-ceasefire-and-hostage-deal-announced",
+      "date": "2025-01-15",
+      "endDate": "2025-01-19",
+      "lat": 31.5,
+      "lng": 34.47,
+      "location": "Gaza Strip (announced in Doha)",
+      "title": "Gaza ceasefire and hostage deal announced; takes effect on 19 January",
+      "category": "ceasefire",
+      "significance": 5,
+      "summary": "On 15 January 2025 Qatar, Egypt and the United States announced that Israel and Hamas had agreed a phased ceasefire and hostage-release deal after 15 months of war. Its first phase, lasting 42 days, provided for the release of 33 Israeli hostages in exchange for hundreds of Palestinian prisoners, a halt to fighting, Israeli withdrawal from populated areas and a surge in humanitarian aid, with negotiations on a second phase intended to end the war. After an initial delay, the ceasefire took effect at 11:15 on 19 January, when Hamas released three women hostages, Romi Gonen, Emily Damari and Doron Steinbrecher, and Israel freed 90 Palestinian prisoners. Gaza's health ministry counted 46,913 Palestinians killed since October 2023 as of that day; Israel disputed the ministry's civilian breakdown, and no independent total was available. The UN said it was mobilising supplies to scale up aid deliveries across the Strip.",
+      "perspectives": [
+        { "party": "Israeli government", "framing": "Presented the deal as securing the hostages' return from a position of strength while reserving the right to resume fighting if Hamas violated it, and stressed that Hamas's destruction remained a war aim; far-right ministers opposed the agreement." },
+        { "party": "Hamas", "framing": "Described the agreement as the fruit of Palestinian 'steadfastness' and 'resistance', an Israeli failure to achieve its goals by force, and demanded full withdrawal and a permanent end to the war in later phases." },
+        { "party": "Mediators (Qatar, Egypt, United States)", "framing": "Qatar and Egypt framed the deal as a humanitarian breakthrough requiring good-faith implementation; both the outgoing Biden administration and incoming Trump administration claimed credit for the pressure that produced it." },
+        { "party": "United Nations", "framing": "Welcomed the agreement, urged the parties to honour it, and emphasised the need for unimpeded humanitarian access and the release of all hostages, noting that a stray bullet had hit a Red Crescent ambulance days earlier." }
+      ],
+      "sources": [
+        { "title": "Gaza ceasefire deal agreed by Israel and Hamas, source tells BBC", "url": "https://www.bbc.com/news/articles/cly9vx3d0j3o", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "Israel and Hamas reach a Gaza ceasefire agreement", "url": "https://www.npr.org/2025/01/15/g-s1-42883/ceasefire-israel-hamas-gaza-hostage-release", "publisher": "NPR", "accessedDate": "2026-09-09" },
+        { "title": "What Does the Gaza Cease-Fire Deal Between Israel and Hamas Say?", "url": "https://www.nytimes.com/2025/01/15/world/middleeast/gaza-ceasefire-israel-hamas.html", "publisher": "The New York Times", "accessedDate": "2026-09-09" },
+        { "title": "Gaza ceasefire begins with dramatic release of 3 Israeli hostages", "url": "https://www.washingtonpost.com/world/2025/01/19/gaza-ceasefire-israel-hostages-hamas", "publisher": "The Washington Post", "accessedDate": "2026-09-09" },
+        { "title": "Hamas releases first three Israeli captives as Gaza ceasefire takes hold", "url": "https://www.aljazeera.com/news/2025/1/19/hamas-releases-israeli-captives-gaza-ceasefire-palestinian-prisoners", "publisher": "Al Jazeera", "accessedDate": "2026-09-09" },
+        { "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General, 16 January 2025", "url": "https://press.un.org/en/2025/db250116.doc.htm", "publisher": "United Nations", "accessedDate": "2026-09-09" },
+        { "title": "Palestine Datasets: casualties_daily.json (Gaza Ministry of Health daily reports)", "url": "https://raw.githubusercontent.com/TechForPalestine/palestine-datasets/main/casualties_daily.json", "publisher": "Tech For Palestine (compiling Gaza Ministry of Health reports)", "accessedDate": "2026-09-09" }
+      ],
+      "era": "regional-escalation",
+      "verified": true,
+      "casualties": [
+        { "label": "Palestinians killed in Gaza since 7 October 2023", "value": "46,913", "attribution": "Gaza Health Ministry", "note": "cumulative as of 19 January 2025; Israel disputes the ministry's civilian/combatant breakdown; no independent total available" },
+        { "label": "Hostages slated for release in phase one", "value": "33", "attribution": "Agreement terms reported by NYT and BBC" },
+        { "label": "Released on 19 January", "value": "3 Israeli hostages; 90 Palestinian prisoners", "attribution": "Washington Post / Al Jazeera" }
+      ]
+    },
+    {
+      "id": "2025-01-19-phase-one-hostage-prisoner-exchanges",
+      "date": "2025-01-19",
+      "endDate": "2025-03-01",
+      "lat": 31.34,
+      "lng": 34.3,
+      "location": "Khan Younis, Gaza Strip; Ramallah, West Bank",
+      "title": "Phase-one hostage and prisoner exchanges under the January deal",
+      "category": "treaty",
+      "significance": 3,
+      "summary": "Between 19 January and 1 March 2025 Hamas and Israel carried out weekly exchanges under the first phase of the Gaza ceasefire. On 25 January four Israeli women soldiers were released in return for 200 Palestinian prisoners, and by 11 February CNN counted 16 of the 33 listed hostages freed and 656 prisoners released from a list of nearly 2,000. Hamas staged public handover ceremonies that Israel condemned as degrading, disputes over aid and alleged violations repeatedly threatened the deal, and on 22 February Israel indefinitely delayed the release of more than 600 prisoners after that day's hostage handover. By the end of phase one on 1 March, according to the running tallies reported by the BBC and CNN, the 25 living hostages on the list and the bodies of eight others had been handed over in exchange for the Palestinian prisoners and detainees on the agreed list. Hamas then rejected an Israeli proposal to extend phase one instead of negotiating the second phase.",
+      "perspectives": [
+        { "party": "Israeli government", "framing": "Emphasised the return of hostages, condemned Hamas's 'humiliating' ceremonies and the condition of some captives as violations, and used the delay of prisoner releases as leverage, while calling many of those freed convicted 'terrorists'." },
+        { "party": "Hamas", "framing": "Staged the handovers as displays of continued strength, accused Israel of breaching the deal on aid and withdrawals, and described the freed Palestinians as heroes of the 'resistance' returning from occupation prisons." },
+        { "party": "Palestinian Authority and prisoners' families", "framing": "Welcomed the releases as a national achievement, while noting Israeli restrictions on celebrations and raids on families' homes reported during the exchanges." },
+        { "party": "Mediators and the ICRC", "framing": "Qatar and Egypt said they were intensifying efforts to salvage the ceasefire when disputes arose; the ICRC, which transferred the hostages and prisoners, called for dignified, private handovers." }
+      ],
+      "sources": [
+        { "title": "200 Palestinian prisoners released to jubilant scenes in West Bank", "url": "https://www.bbc.com/news/articles/c78wz6dy2y2o", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "Hamas frees four Israeli female soldiers as fragile ceasefire holds in Gaza", "url": "https://www.washingtonpost.com/world/2025/01/25/israel-gaza-war-hostages-released", "publisher": "The Washington Post", "accessedDate": "2026-09-09" },
+        { "title": "How the fragile Israel-Hamas ceasefire deal could unravel", "url": "https://www.cnn.com/2025/02/11/middleeast/israel-hamas-ceasefire-deal-intl", "publisher": "CNN", "accessedDate": "2026-09-09" },
+        { "title": "Three Israeli hostages and hundreds of Palestinian detainees freed after dispute threatened Gaza ceasefire", "url": "https://www.cnn.com/2025/02/15/middleeast/israel-hamas-hostage-release-feb15-intl-hnk", "publisher": "CNN", "accessedDate": "2026-09-09" },
+        { "title": "Israel delays Palestinian prisoner release as hostages freed", "url": "https://www.bbc.co.uk/news/articles/cjry4nqw4z0o", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "Gaza: Confusion and mistrust hang over efforts to save ceasefire", "url": "https://www.bbc.co.uk/news/articles/cd7d9p0j5qeo", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "Hamas rejects Israel's request to extend phase one of Gaza ceasefire", "url": "https://www.npr.org/2025/03/01/nx-s1-5314296/hamas-rejects-extend-ceasefire", "publisher": "NPR", "accessedDate": "2026-09-09" }
+      ],
+      "era": "regional-escalation",
+      "verified": true
+    },
+    {
+      "id": "2025-01-21-operation-iron-wall-jenin-west-bank",
+      "date": "2025-01-21",
+      "lat": 32.4614,
+      "lng": 35.29,
+      "location": "Jenin refugee camp, West Bank",
+      "title": "Operation Iron Wall in Jenin and northern West Bank camps",
+      "category": "displacement",
+      "significance": 4,
+      "summary": "On 21 January 2025, two days after the Gaza ceasefire began, Israeli forces launched a large-scale operation, named 'Iron Wall', in Jenin and its refugee camp, later extending it to the Tulkarm and Nur Shams camps and the Far'a camp. Troops used drones, bulldozers and, in February, tanks; the Palestinian health ministry reported six people killed on the first day and UN OCHA ten within two days, while the Jenin government hospital lost water and electricity. Israel said the operation targeted Iran-backed armed networks. By late February the UN counted 51 Palestinians, including seven children, killed in the northern West Bank since the operation began, and three Israeli soldiers killed, and UN agencies estimated that about 40,000 residents had been displaced from four camps, the largest forced displacement in the West Bank in decades, according to the BBC. Israeli forces remained in the emptied camps, demolishing homes, into mid-2025.",
+      "perspectives": [
+        { "party": "Israeli government", "framing": "Described a counter-terrorism operation in 'Judea and Samaria' against Iranian-backed armed groups entrenched in the camps, said troops would stay for as long as needed and that camp residents were evacuated for their safety, and denied a policy of forced displacement." },
+        { "party": "Palestinian Authority", "framing": "Condemned the operation and demolitions as collective punishment and a step toward annexation, while noting that its own security forces had fought armed groups in Jenin camp in the preceding weeks." },
+        { "party": "Armed Palestinian groups", "framing": "Hamas, Islamic Jihad and the Jenin Brigades framed the fighting as resistance to occupation and accused the Palestinian Authority of coordinating with Israel." },
+        { "party": "United Nations", "framing": "OCHA and UNRWA warned of the danger to civilians, damage to roads, water and power, and the largest displacement in the West Bank since 1967, and called on Israel to end unlawful use of force and allow residents to return." }
+      ],
+      "sources": [
+        { "title": "Israeli security forces launch operation in West Bank city of Jenin", "url": "https://www.theguardian.com/world/2025/jan/21/israeli-security-forces-launch-operation-in-west-bank-city-of-jenin", "publisher": "The Guardian", "accessedDate": "2026-09-09" },
+        { "title": "Israeli Military Begins West Bank Raids", "url": "https://www.nytimes.com/2025/01/21/world/middleeast/israel-trump-settlers-west-bank-gaza.html", "publisher": "The New York Times", "accessedDate": "2026-09-09" },
+        { "title": "Thousands of exiled West Bank residents face uncertain months ahead", "url": "https://www.bbc.co.uk/news/articles/c4g039ergplo", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "Israel expands demolitions of West Bank refugee homes", "url": "https://www.bbc.co.uk/news/articles/c5ype8w6ynwo", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General, 21 January 2025", "url": "https://press.un.org/en/2025/db250121.doc.htm", "publisher": "United Nations", "accessedDate": "2026-09-09" },
+        { "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General, 22 January 2025", "url": "https://press.un.org/en/2025/db250122.doc.htm", "publisher": "United Nations", "accessedDate": "2026-09-09" }
+      ],
+      "era": "regional-escalation",
+      "verified": true,
+      "casualties": [
+        { "label": "Killed on the first day", "value": "6", "attribution": "Palestinian Ministry of Health (via The Guardian)" },
+        { "label": "Killed in the first two days", "value": "10", "attribution": "UN OCHA" },
+        { "label": "Palestinians killed in the northern West Bank since 21 January", "value": "at least 51, including 7 children", "attribution": "United Nations (via BBC)", "note": "as of late February 2025" },
+        { "label": "Israeli soldiers killed", "value": "3", "attribution": "BBC, citing UN reporting" },
+        { "label": "Displaced from four refugee camps", "value": "about 40,000", "attribution": "UN agencies (via BBC)", "note": "as of late February 2025" }
+      ]
+    },
+    {
+      "id": "2025-02-04-trump-proposal-for-us-control-of-gaza",
+      "date": "2025-02-04",
+      "lat": 38.8977,
+      "lng": -77.0365,
+      "location": "White House, Washington, D.C.",
+      "title": "Trump proposes US 'ownership' of Gaza and relocation of its population",
+      "category": "political",
+      "significance": 3,
+      "summary": "On 4 February 2025, at a White House press conference with Israeli Prime Minister Benjamin Netanyahu, US President Donald Trump proposed that the United States 'take over' and own the Gaza Strip, clear its rubble and redevelop it as a 'Riviera of the Middle East', and that Gaza's roughly two million Palestinians be relocated to Egypt, Jordan or other countries. Netanyahu praised the idea; Egypt, Jordan, Saudi Arabia and other Arab states rejected any transfer of Palestinians, and Hamas denounced it. The UN Secretary-General warned that 'it is essential to avoid any form of ethnic cleansing' and reaffirmed the two-state solution. The BBC's international editor judged the plan unlikely to happen but destabilising, and the proposal prompted Arab states to convene an emergency summit in Cairo on 4 March that adopted an alternative reconstruction plan under which Palestinians would remain in Gaza.",
+      "perspectives": [
+        { "party": "United States (Trump administration)", "framing": "Cast Gaza as an uninhabitable 'demolition site' whose residents would be better off elsewhere, and the proposal as a bold, generous real-estate and security solution; aides later said relocation would be temporary and voluntary." },
+        { "party": "Israeli government", "framing": "Netanyahu called it a remarkable idea worth pursuing; far-right ministers hailed it as endorsing 'voluntary emigration' from Gaza." },
+        { "party": "Palestinians and Arab states", "framing": "Hamas, the Palestinian Authority, Egypt, Jordan and Saudi Arabia rejected the plan as forced displacement and ethnic cleansing, insisted Palestinians would not leave their land, and advanced an Arab reconstruction plan instead." },
+        { "party": "United Nations", "framing": "The Secretary-General said solutions must not make problems worse, that it was vital to stay true to international law and essential to avoid any form of ethnic cleansing, and reaffirmed the two-State solution." }
+      ],
+      "sources": [
+        { "title": "Bowen: Trump's Gaza plan won't happen, but it will have consequences", "url": "https://www.bbc.com/news/articles/cx2pwjgp59do", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "Trump's Plan for Gaza: American intervention and mass relocation", "url": "https://www.npr.org/2025/02/05/1229167000/trumps-plan-for-gaza-american-intervention-and-mass-relocation", "publisher": "NPR", "accessedDate": "2026-09-09" },
+        { "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General, 5 February 2025", "url": "https://press.un.org/en/2025/db250205.doc.htm", "publisher": "United Nations", "accessedDate": "2026-09-09" },
+        { "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General, 3 March 2025", "url": "https://press.un.org/en/2025/db250303.doc.htm", "publisher": "United Nations", "accessedDate": "2026-09-09" }
+      ],
+      "era": "regional-escalation",
+      "verified": true
+    },
+    {
+      "id": "2025-02-18-israeli-withdrawal-deadline-lebanon-five-positions",
+      "date": "2025-02-18",
+      "lat": 33.18,
+      "lng": 35.45,
+      "location": "Israel–Lebanon border, southern Lebanon",
+      "title": "Israeli withdrawal deadline in Lebanon passes; troops hold five positions",
+      "category": "ceasefire",
+      "significance": 2,
+      "summary": "On 18 February 2025 the extended deadline for Israeli forces to withdraw from southern Lebanon under the November 2024 ceasefire expired. Israel pulled back from most of the border villages it had occupied, allowing thousands of displaced residents to return, and the Lebanese army deployed with UNIFIL support, but the Israeli military announced that it would keep troops at five hilltop positions inside Lebanon overlooking the border, saying they were needed to protect northern Israeli communities until the Lebanese army fully enforced the deal. Lebanon's new government under President Joseph Aoun condemned the continued presence as an occupation, and Hezbollah said the state must ensure a full withdrawal. The UN Special Coordinator and UNIFIL called on both parties to meet their obligations, and UNIFIL reported that the Lebanese army continued to deploy across the south and to dispose of unauthorised weapons found in its area of operations.",
+      "perspectives": [
+        { "party": "Israeli government", "framing": "Said the five positions were a temporary security buffer required because the Lebanese army had not yet fully disarmed Hezbollah, and that it would continue to strike any Hezbollah threat anywhere in Lebanon under the ceasefire's terms." },
+        { "party": "Lebanese government", "framing": "President Aoun and Prime Minister Salam called the remaining positions an occupation and violation of the agreement, and pressed the United States and France, as guarantors, to secure a complete withdrawal." },
+        { "party": "Hezbollah", "framing": "Said any Israeli presence was an occupation that the Lebanese state must end by all means, while stopping short of resuming attacks." },
+        { "party": "United Nations", "framing": "The Special Coordinator and UNIFIL commander jointly urged both parties to meet their obligations so that safety could be restored to communities on both sides of the Blue Line, and reported continuing Lebanese army deployment." }
+      ],
+      "sources": [
+        { "title": "Israeli troops stay inside south Lebanon after withdrawal deadline", "url": "https://www.bbc.com/news/articles/cn04lllp2zwo", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "As Deadline for Withdrawal Lapses, Israel Says It Will Stay in Southern Lebanon", "url": "https://www.nytimes.com/2025/02/18/world/middleeast/lebanon-israel-forces-hezbollah.html", "publisher": "The New York Times", "accessedDate": "2026-09-09" },
+        { "title": "Video: Israel partially withdraws troops from Lebanon as deadline expires", "url": "https://www.aljazeera.com/program/newsfeed/2025/2/18/video-israel-partially-withdraws-troops-in-lebanon-as-deadline-expires", "publisher": "Al Jazeera", "accessedDate": "2026-09-09" },
+        { "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General, 18 February 2025", "url": "https://press.un.org/en/2025/db250218.doc.htm", "publisher": "United Nations", "accessedDate": "2026-09-09" }
+      ],
+      "era": "regional-escalation",
+      "verified": true
+    },
+    {
+      "id": "2025-03-02-israel-halts-entry-of-aid-into-gaza",
+      "date": "2025-03-02",
+      "lat": 31.226,
+      "lng": 34.279,
+      "location": "Kerem Shalom crossing, Gaza Strip",
+      "title": "Israel halts entry of all goods and aid into Gaza",
+      "category": "political",
+      "significance": 3,
+      "summary": "On 2 March 2025, the day after the first phase of the Gaza ceasefire expired, Israel announced that it was halting the entry of all goods and humanitarian supplies into the Gaza Strip until Hamas accepted a US proposal to extend the first phase and release more hostages, rather than proceeding to the second phase. The Kerem Shalom, Erez and Zikim crossings were closed to cargo, leaving thousands of tents and other supplies undelivered, according to the UN, which said aid had reached nearly every person in Gaza during the preceding six weeks. The UN emergency relief coordinator called the decision alarming and said international humanitarian law required access for life-saving aid; Egypt, Qatar and other Arab states condemned the move, while Israel said it was lawful pressure on Hamas and denied using food as a weapon. The blockade lasted about eleven weeks, until limited deliveries resumed in late May, and preceded the collapse of the ceasefire on 18 March.",
+      "perspectives": [
+        { "party": "Israeli government", "framing": "Said Hamas had refused the US 'Witkoff' extension framework, that enough aid had entered during phase one to last for months, that Hamas was diverting supplies, and that halting entry was legitimate leverage rather than a weapon against civilians." },
+        { "party": "Hamas", "framing": "Called the halt a war crime and 'cheap blackmail', accused Israel of violating the ceasefire, and demanded implementation of the second phase as agreed." },
+        { "party": "Egypt, Qatar and Arab states", "framing": "Condemned the use of humanitarian aid as a bargaining tool and said there was no alternative to the original agreement." },
+        { "party": "United Nations", "framing": "The Secretary-General urged all parties to prevent a return to hostilities and called for aid to flow immediately; the emergency relief coordinator called Israel's decision alarming and said international humanitarian law is clear that access must be allowed." }
+      ],
+      "sources": [
+        { "title": "Israel halts all aid to Gaza, delays negotiations for phase two of the ceasefire", "url": "https://www.npr.org/2025/03/02/nx-s1-5309381/israel-halts-all-aid-to-gaza-delays-negotiations-for-phase-two-of-the-ceasefire", "publisher": "NPR", "accessedDate": "2026-09-09" },
+        { "title": "What to Know About Israel's Decision to Halt Aid to Gaza", "url": "https://www.nytimes.com/2025/03/02/world/middleeast/israel-aid-halt-gaza.html", "publisher": "The New York Times", "accessedDate": "2026-09-09" },
+        { "title": "Halting aid to Gaza is aimed at giving Israel upper hand in talks with Hamas", "url": "https://www.theguardian.com/world/2025/mar/02/halting-aid-to-gaza-is-aimed-at-giving-israel-upper-hand-in-talks-with-hamas", "publisher": "The Guardian", "accessedDate": "2026-09-09" },
+        { "title": "Arab states, UN condemn Israel's halt of aid into Gaza until hostage outline accepted", "url": "https://www.timesofisrael.com/arab-states-un-condemn-israels-halt-of-aid-into-gaza-until-hostage-outline-accepted", "publisher": "The Times of Israel", "accessedDate": "2026-09-09" },
+        { "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General, 3 March 2025", "url": "https://press.un.org/en/2025/db250303.doc.htm", "publisher": "United Nations", "accessedDate": "2026-09-09" }
+      ],
+      "era": "regional-escalation",
+      "verified": true
+    },
+    {
+      "id": "2025-03-15-us-air-campaign-against-the-houthis",
+      "date": "2025-03-15",
+      "endDate": "2025-05-06",
+      "lat": 15.37,
+      "lng": 44.19,
+      "location": "Sanaa, Yemen",
+      "title": "US air campaign against the Houthis in Yemen",
+      "category": "war",
+      "significance": 3,
+      "summary": "On 15 March 2025 the United States began large-scale air and naval strikes on Houthi targets across Yemen, which President Donald Trump said would use 'overwhelming lethal force' until the Iran-aligned movement stopped attacking Red Sea shipping; the Houthis had announced a resumption of attacks on Israeli-linked ships in response to Israel's halt of aid to Gaza. The Houthi-run health ministry reported at least 31 people killed and more than 100 injured in the first day of strikes, according to Al Jazeera, and the Houthis vowed to respond, continuing missile and drone launches at Israel and at US warships. The campaign, which included strikes on ports and on Sanaa, ended on 6 May when Trump announced that the Houthis had agreed to stop attacking US vessels in an Oman-brokered understanding that did not cover Israel; Israel separately struck Sanaa airport and the port of Hodeidah after a Houthi missile hit near Ben Gurion Airport.",
+      "perspectives": [
+        { "party": "United States", "framing": "Framed the campaign as restoring freedom of navigation and deterring Iran's proxy, warned Tehran that it would be held responsible for Houthi attacks, and later presented the Oman-brokered halt as the Houthis 'capitulating'." },
+        { "party": "Houthi movement (Ansar Allah)", "framing": "Described the strikes as US-Israeli aggression and war crimes against Yemeni civilians, said its blockade was in solidarity with Gaza and would continue against Israel, and claimed to have forced the United States to stop." },
+        { "party": "Iran", "framing": "Denied directing the Houthis, condemned the US strikes as a violation of Yemen's sovereignty and the UN Charter, and warned it would respond decisively to any attack on Iran." },
+        { "party": "Israeli government", "framing": "Welcomed US action against a 'terrorist' proxy but stressed that Israel would act alone against Houthi attacks on its territory, striking Yemeni ports and airport infrastructure." }
+      ],
+      "sources": [
+        { "title": "Trump orders large-scale military strikes against Yemen's Houthis", "url": "https://www.washingtonpost.com/national-security/2025/03/15/trump-yemen-houthis-iran", "publisher": "The Washington Post", "accessedDate": "2026-09-09" },
+        { "title": "Houthis vow response as US says 'unrelenting' strikes to continue in Yemen", "url": "https://www.aljazeera.com/news/2025/3/16/houthis-vow-response-as-us-says-unrelenting-strikes-to-continue-in-yemen", "publisher": "Al Jazeera", "accessedDate": "2026-09-09" },
+        { "title": "Trump ordered airstrikes on Yemen in warning to Houthis over shipping route", "url": "https://www.theguardian.com/us-news/2025/mar/15/trump-yemen-airstrikes-houthis", "publisher": "The Guardian", "accessedDate": "2026-09-09" },
+        { "title": "Trump says bombing of Yemen to stop as Oman confirms US-Houthi ceasefire", "url": "https://www.aljazeera.com/news/2025/5/6/trump-says-bombing-of-yemen-to-stop-as-oman-confirms-us-houthi-ceasefire", "publisher": "Al Jazeera", "accessedDate": "2026-09-09" },
+        { "title": "Trump Says the U.S. Will Stop Bombing Houthi Militants", "url": "https://www.nytimes.com/2025/05/06/us/politics/trump-houthis-bombing.html", "publisher": "The New York Times", "accessedDate": "2026-09-09" }
+      ],
+      "era": "regional-escalation",
+      "verified": true,
+      "casualties": [
+        { "label": "Killed in the first day of US strikes", "value": "at least 31", "attribution": "Houthi-run Health Ministry (via Al Jazeera)", "note": "initial reports said nine; more than 100 injured" }
+      ]
+    },
+    {
+      "id": "2025-03-18-gaza-ceasefire-collapses-israeli-strikes",
+      "date": "2025-03-18",
+      "lat": 31.5,
+      "lng": 34.47,
+      "location": "Gaza Strip",
+      "title": "Israeli strikes across Gaza end the two-month ceasefire",
+      "category": "war",
+      "significance": 4,
+      "summary": "In the early hours of 18 March 2025 Israel launched waves of air strikes across the Gaza Strip, ending the ceasefire that had held since 19 January. Prime Minister Benjamin Netanyahu's office said he had ordered the strikes after Hamas refused proposals to extend the first phase and release more hostages, and Israel said it targeted Hamas commanders and infrastructure. Gaza's health ministry recorded 436 people killed on 18 March, and Western newspapers reported more than 400 dead, among the highest single-day tolls of the war; the ministry's cumulative count passed 50,000 on 23 March, while no independent or Israeli total was available. A UN staff member was killed and five injured when UN guesthouses in Deir al-Balah were hit on 19 March. Israel resumed ground operations on 20 March, re-entering the Netzarim area and northern Gaza. The UN Secretary-General said he was shocked and appealed for the ceasefire to be restored, aid to resume and hostages to be released.",
+      "perspectives": [
+        { "party": "Israeli government", "framing": "Said the strikes were a response to Hamas's refusal to release hostages and its rearming during the truce, that they targeted Hamas commanders and terrorist infrastructure, and that fighting would continue with increasing force until all hostages were returned." },
+        { "party": "Hamas", "framing": "Accused Israel of unilaterally overturning the agreement, called the strikes 'massacres' against sleeping civilians during Ramadan, and blamed the United States for enabling the return to war." },
+        { "party": "United States", "framing": "The Trump administration said it had been consulted, blamed Hamas for rejecting extension proposals, and backed Israel's decision." },
+        { "party": "United Nations", "framing": "The Secretary-General expressed shock at the strikes and hundreds of reported deaths, appealed for the ceasefire to be respected, and condemned the strike on UN premises that killed a UNOPS staff member." }
+      ],
+      "sources": [
+        { "title": "Israel breaks Gaza ceasefire, killing more than 400 in wave of strikes", "url": "https://www.washingtonpost.com/world/2025/03/18/gaza-strikes-israel-hamas-ceasefire-broken", "publisher": "The Washington Post", "accessedDate": "2026-09-09" },
+        { "title": "Israeli Strikes on Gaza Kills Over 400, in Breakdown of Cease-Fire", "url": "https://www.nytimes.com/2025/03/18/world/middleeast/israel-strikes-gaza-cease-fire-hamas.html", "publisher": "The New York Times", "accessedDate": "2026-09-09" },
+        { "title": "Is the war starting again in Gaza?", "url": "https://www.bbc.com/news/articles/cy5klgv5zv0o", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "Israeli troops enter northern Gaza; Hamas retaliates with rocket fire", "url": "https://www.washingtonpost.com/world/2025/03/20/israel-gaza-north-hamas-rocket-fire", "publisher": "The Washington Post", "accessedDate": "2026-09-09" },
+        { "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General, 18 March 2025", "url": "https://press.un.org/en/2025/db250318.doc.htm", "publisher": "United Nations", "accessedDate": "2026-09-09" },
+        { "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General, 19 March 2025", "url": "https://press.un.org/en/2025/db250319.doc.htm", "publisher": "United Nations", "accessedDate": "2026-09-09" },
+        { "title": "Palestine Datasets: casualties_daily.json (Gaza Ministry of Health daily reports)", "url": "https://raw.githubusercontent.com/TechForPalestine/palestine-datasets/main/casualties_daily.json", "publisher": "Tech For Palestine (compiling Gaza Ministry of Health reports)", "accessedDate": "2026-09-09" }
+      ],
+      "era": "regional-escalation",
+      "verified": true,
+      "casualties": [
+        { "label": "Killed on 18 March 2025", "value": "436", "attribution": "Gaza Health Ministry daily report" },
+        { "label": "Killed on 18 March 2025", "value": "more than 400", "attribution": "The Washington Post / The New York Times, citing Gaza health officials" },
+        { "label": "Palestinians killed in Gaza since 7 October 2023", "value": "49,013 (18 March); 50,021 (23 March)", "attribution": "Gaza Health Ministry", "note": "no independent or Israeli total available; Israel disputes the ministry's breakdown" },
+        { "label": "UN personnel", "value": "1 killed, 5 seriously injured (19 March, Deir al-Balah)", "attribution": "United Nations" }
+      ]
+    },
+    {
+      "id": "2025-05-04-houthi-missile-hits-near-ben-gurion-airport",
+      "date": "2025-05-04",
+      "lat": 32.0055,
+      "lng": 34.8854,
+      "location": "Ben Gurion Airport, Israel",
+      "title": "Houthi ballistic missile strikes near Ben Gurion Airport",
+      "category": "attack",
+      "significance": 2,
+      "summary": "On the morning of 4 May 2025 a ballistic missile launched from Yemen by the Houthi movement evaded Israeli and US interceptors and struck an access road beside Terminal 3 of Ben Gurion Airport, Israel's main international gateway, leaving a large crater. Israeli emergency services reported four people lightly injured, and flights were suspended for about an hour, after which many foreign airlines cancelled services to Israel for days or weeks. The Houthis said the strike was in support of Gaza and announced an 'aerial blockade' of Israel; Israel promised retaliation and on 5 and 6 May struck the Red Sea port of Hodeidah and Sanaa international airport, which the Israeli military said it had disabled. The attack came as Israel's security cabinet approved plans to expand the Gaza offensive and call up tens of thousands of reservists. Two days later the United States announced a separate ceasefire with the Houthis that did not include Israel.",
+      "perspectives": [
+        { "party": "Houthi movement (Ansar Allah)", "framing": "Claimed a successful hypersonic strike on the 'Zionist entity's' main airport in support of Gaza, declared an air blockade on Israel and urged airlines to stay away." },
+        { "party": "Israeli government", "framing": "Called the strike an Iranian-backed terrorist attack that air defences had failed to stop, vowed a sevenfold response, and struck Houthi-controlled ports and Sanaa airport, warning that Iran was responsible for its proxy." },
+        { "party": "United States", "framing": "Continued its own campaign against the Houthis but days later announced an Oman-brokered halt covering US ships, saying the Houthis had agreed not to attack American vessels." }
+      ],
+      "sources": [
+        { "title": "Houthi missile hits near Israel's main airport", "url": "https://www.bbc.com/news/articles/cyvqr00278no", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "Houthi missile strike at Israel airport halts flights ahead of key vote on Gaza war", "url": "https://www.npr.org/2025/05/04/g-s1-64233/houthi-missile-halts-israel-flights", "publisher": "NPR", "accessedDate": "2026-09-09" },
+        { "title": "Houthi Missile Hits Near Tel Aviv Airport", "url": "https://www.nytimes.com/2025/05/04/world/middleeast/houthi-missile-tel-aviv-israel.html", "publisher": "The New York Times", "accessedDate": "2026-09-09" },
+        { "title": "Israel hits Yemen's Houthi-controlled Sanaa airport in tit-for-tat attack", "url": "https://www.aljazeera.com/news/2025/5/6/israeli-strikes-rock-yemens-sanaa-including-international-airport", "publisher": "Al Jazeera", "accessedDate": "2026-09-09" }
+      ],
+      "era": "regional-escalation",
+      "verified": true,
+      "casualties": [
+        { "label": "Injured at Ben Gurion Airport", "value": "4 (lightly)", "attribution": "Israeli emergency services (via NPR)", "note": "The New York Times reported at least two injured" }
+      ]
+    },
+    {
+      "id": "2025-05-17-operation-gideons-chariots-gaza-offensive",
+      "date": "2025-05-17",
+      "lat": 31.42,
+      "lng": 34.38,
+      "location": "Gaza Strip",
+      "title": "Operation Gideon's Chariots: Israel launches expanded Gaza offensive",
+      "category": "war",
+      "significance": 4,
+      "summary": "On 16 and 17 May 2025 the Israel Defense Forces launched 'Gideon's Chariots', an expanded ground and air offensive intended, in the government's words, to seize and hold 'strategic areas' of the Gaza Strip, defeat Hamas and pressure it to release the remaining 58 hostages, following a security cabinet decision earlier in the month to conquer territory and move the population southward. Heavy strikes preceded the ground advance: the Guardian reported more than 140 Palestinians killed in 24 hours and Gaza rescuers told the BBC at least 300 had been killed since 15 May. Gaza's health ministry counted 53,272 people killed since October 2023 as of 17 May; the BBC noted the ministry does not distinguish combatants and that Israel disputes its breakdown. Talks resumed in Doha the same day, and on 26 May Israel issued a displacement order covering about 40 per cent of the Strip, according to UN OCHA. The offensive continued beyond June 2025.",
+      "perspectives": [
+        { "party": "Israeli government", "framing": "Described a decisive operation to achieve all war aims, defeat Hamas, seize and hold territory, separate civilians from Hamas by moving them to 'humanitarian zones' in the south, and bring the hostages home, while announcing limited aid entry to avert famine." },
+        { "party": "Hamas", "framing": "Called the offensive a campaign of extermination and forced displacement, said no hostages would be released without an end to the war and full withdrawal, and offered partial releases for a 60-day truce." },
+        { "party": "United Nations", "framing": "OCHA reported that air and ground operations were dismantling the means of survival for 2.1 million people, that displacement orders now covered over 40 per cent of the Strip, and that the entire population faced the risk of famine." },
+        { "party": "European and Arab governments", "framing": "Britain, France, Canada and others condemned the expansion and aid restrictions as 'egregious', Arab League states meeting in Baghdad called for an immediate ceasefire, and some governments used the term 'ethnic cleansing'." }
+      ],
+      "sources": [
+        { "title": "IDF launches sweeping new Gaza offensive; Palestinians say dozens killed in strikes", "url": "https://www.timesofisrael.com/idf-launches-sweeping-new-gaza-offensive-palestinians-say-dozens-killed-in-strikes", "publisher": "The Times of Israel", "accessedDate": "2026-09-09" },
+        { "title": "Israel accused of 'ethnic cleansing' after more than 140 killed in Gaza in last 24 hours", "url": "https://www.theguardian.com/world/2025/may/17/israel-gaza-ethnic-cleansing-palestinian-death-toll", "publisher": "The Guardian", "accessedDate": "2026-09-09" },
+        { "title": "Hamas proposes releasing some hostages in fresh talks after new Israel offensive", "url": "https://www.bbc.co.uk/news/articles/cd7geg3lvz1o", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "Israel says 'extensive' ground operations underway in Gaza Strip", "url": "https://www.washingtonpost.com/world/2025/05/18/israel-ground-operation-gaza", "publisher": "The Washington Post", "accessedDate": "2026-09-09" },
+        { "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General, 28 May 2025", "url": "https://press.un.org/en/2025/db250528.doc.htm", "publisher": "United Nations", "accessedDate": "2026-09-09" },
+        { "title": "Palestine Datasets: casualties_daily.json (Gaza Ministry of Health daily reports)", "url": "https://raw.githubusercontent.com/TechForPalestine/palestine-datasets/main/casualties_daily.json", "publisher": "Tech For Palestine (compiling Gaza Ministry of Health reports)", "accessedDate": "2026-09-09" }
+      ],
+      "era": "regional-escalation",
+      "verified": true,
+      "casualties": [
+        { "label": "Killed in Gaza in 24 hours (16-17 May)", "value": "more than 140", "attribution": "Gaza health authorities (via The Guardian)" },
+        { "label": "Killed since 15 May", "value": "at least 300", "attribution": "Gaza rescue services (via BBC)", "note": "as of 17 May 2025" },
+        { "label": "Palestinians killed in Gaza since 7 October 2023", "value": "53,272", "attribution": "Gaza Health Ministry", "note": "cumulative as of 17 May 2025; no independent or Israeli total available" },
+        { "label": "Israeli hostages still held", "value": "58 (about 20 believed alive)", "attribution": "Israeli government figures cited by The Times of Israel and BBC" }
+      ]
+    },
+    {
+      "id": "2025-05-27-gaza-humanitarian-foundation-begins-operations",
+      "date": "2025-05-27",
+      "lat": 31.3,
+      "lng": 34.23,
+      "location": "Tal al-Sultan, Rafah, Gaza Strip",
+      "title": "Gaza Humanitarian Foundation begins aid distribution; deaths near aid sites",
+      "category": "political",
+      "significance": 3,
+      "summary": "On 27 May 2025 the Gaza Humanitarian Foundation (GHF), a US- and Israeli-backed private mechanism guarded by American security contractors and the Israeli military, began distributing food from a site near Rafah, replacing UN-led distribution that Israel said Hamas had diverted. Crowds overran the site on the first day, and the UN reported dozens shot and injured trying to reach supplies; the UN and major aid agencies refused to take part, calling the model 'engineered scarcity' that forced civilians through militarised zones. Reports of Palestinians killed by gunfire while approaching the sites followed: on 1 June medics reported at least 15 dead and Gaza health officials more than 30 near the Rafah site, while the Israeli military said troops fired warning shots and GHF disputed accounts of shootings at its sites. Gaza's health ministry counted 516 aid seekers killed by 24 June, and the UN human rights office later said hundreds had been killed around the sites.",
+      "perspectives": [
+        { "party": "Israeli government and GHF", "framing": "Presented the foundation as a way to feed Gazans while preventing Hamas from looting and profiting from aid, said millions of meals were distributed, denied that its sites were scenes of shootings, and said troops fired warning shots at individuals who approached them in a threatening manner." },
+        { "party": "United States", "framing": "Backed and later funded GHF as an innovative solution, blamed Hamas for violence near the sites and criticised the UN for refusing to cooperate." },
+        { "party": "United Nations and aid agencies", "framing": "Called the scheme a militarised distraction from the UN's principled plan, said it forced starving people to walk through combat zones and could not meet needs, and the Secretary-General condemned the reported killings of people seeking aid as unacceptable." },
+        { "party": "Hamas and Gaza authorities", "framing": "Called the sites 'death traps' and 'humiliation', accused Israel of using hunger as a weapon, and published daily tallies of aid seekers killed." }
+      ],
+      "sources": [
+        { "title": "Controversial US-backed group says it has begun aid distribution in Gaza", "url": "https://www.bbc.com/news/articles/cev41em3r9lo", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "Chaos Erupts at Israeli-Backed Aid Distribution Site in Gaza", "url": "https://www.nytimes.com/2025/05/27/world/middleeast/gaza-aid-site-israel.html", "publisher": "The New York Times", "accessedDate": "2026-09-09" },
+        { "title": "At least 15 killed in Israeli fire near Gaza aid centre, say medics", "url": "https://www.bbc.com/news/articles/c991j01lym3o", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "Israeli troops kill over 30 near U.S. aid site in Gaza, health officials say", "url": "https://www.washingtonpost.com/world/2025/06/01/israel-gaza-aid-rafah-shooting", "publisher": "The Washington Post", "accessedDate": "2026-09-09" },
+        { "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General, 28 May 2025", "url": "https://press.un.org/en/2025/db250528.doc.htm", "publisher": "United Nations", "accessedDate": "2026-09-09" },
+        { "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General, 2 June 2025", "url": "https://press.un.org/en/2025/db250602.doc.htm", "publisher": "United Nations", "accessedDate": "2026-09-09" },
+        { "title": "USAID review raised 'critical concerns' over Gaza aid group days before $30 million US grant", "url": "https://www.cnn.com/2025/07/08/us/usaid-gaza-humanitarian-foundation-israel-grant", "publisher": "CNN", "accessedDate": "2026-09-09" },
+        { "title": "Palestine Datasets: casualties_daily.json (Gaza Ministry of Health daily reports)", "url": "https://raw.githubusercontent.com/TechForPalestine/palestine-datasets/main/casualties_daily.json", "publisher": "Tech For Palestine (compiling Gaza Ministry of Health reports)", "accessedDate": "2026-09-09" }
+      ],
+      "era": "regional-escalation",
+      "verified": true,
+      "casualties": [
+        { "label": "Killed near the Rafah aid site, 1 June 2025", "value": "at least 15", "attribution": "Gaza medics (via BBC)" },
+        { "label": "Killed near the Rafah aid site, 1 June 2025", "value": "more than 30", "attribution": "Gaza health officials (via The Washington Post)" },
+        { "label": "Killed near the Rafah aid site, 1 June 2025", "value": "none at its site, per GHF; IDF said troops fired warning shots at individuals approaching them", "attribution": "GHF / IDF statements" },
+        { "label": "Aid seekers killed in Gaza", "value": "516", "attribution": "Gaza Health Ministry", "note": "cumulative as of 24 June 2025" },
+        { "label": "Killed around private aid sites including GHF's", "value": "hundreds", "attribution": "UN Human Rights Office (via CNN)", "note": "as of early July 2025" }
+      ]
+    },
+    {
+      "id": "2025-06-13-israel-iran-war",
+      "date": "2025-06-13",
+      "endDate": "2025-06-24",
+      "lat": 35.69,
+      "lng": 51.39,
+      "location": "Tehran, Iran",
+      "title": "Israel–Iran war: twelve days of strikes end in a US-announced ceasefire",
+      "category": "war",
+      "significance": 5,
+      "summary": "Before dawn on 13 June 2025 Israel launched 'Operation Rising Lion', strikes across Iran that hit the Natanz enrichment site, missile bases and residential compounds, killing Revolutionary Guard commander Hossein Salami, armed forces chief Mohammad Bagheri and at least nine nuclear scientists, according to Israeli and Iranian statements. Iran responded with waves of ballistic missiles and drones at Israeli cities. The United States joined on 22 June with strikes on three nuclear sites, and Iran fired missiles at the US Al Udeid base in Qatar on 23 June. A ceasefire announced by President Donald Trump took effect on 24 June after a final Iranian strike killed four people in Beersheba. Iran's health ministry recorded 627 people killed and nearly 5,000 injured, per the BBC; Israeli authorities reported 28 killed and more than 3,000 wounded from about 550 missiles and 1,000 drones, per The Times of Israel. The UN Secretary-General condemned the escalation and urged both sides to respect the ceasefire.",
+      "perspectives": [
+        { "party": "Israeli government", "framing": "Called the campaign a pre-emptive operation against an existential nuclear and missile threat, said it had set Iran's nuclear programme back years and degraded its missile forces, and declared its goals achieved." },
+        { "party": "Iran", "framing": "Denounced the strikes as an unprovoked act of war and 'aggression' by the 'Zionist regime' and the United States during nuclear talks, framed its missile barrages as legitimate self-defence, and claimed victory in an 'imposed war'." },
+        { "party": "United States", "framing": "President Trump backed Israel, struck Iran's nuclear sites, then brokered and announced the ceasefire, calling it the end of the '12 Day War' and pressing both sides not to violate it." },
+        { "party": "United Nations", "framing": "The Secretary-General condemned military escalation, was particularly concerned by attacks on nuclear installations while US-Iran talks were under way, called for maximum restraint, and welcomed the ceasefire." }
+      ],
+      "sources": [
+        { "title": "Iran Retaliates and Israel Vows More Strikes After Devastating Attack", "url": "https://www.nytimes.com/2025/06/13/world/middleeast/israel-strikes-iran-retaliates.html", "publisher": "The New York Times", "accessedDate": "2026-09-09" },
+        { "title": "What we know about Iranian commander, scientists killed in Israeli attack", "url": "https://www.washingtonpost.com/world/2025/06/13/iran-commanders-scientists-killed-israel-attack-strikes", "publisher": "The Washington Post", "accessedDate": "2026-09-09" },
+        { "title": "Israel says it killed 9 Iranian nuclear scientists, and braces for attacks from Iran", "url": "https://www.npr.org/2025/06/14/nx-s1-5433317/israel-iran-strikes", "publisher": "NPR", "accessedDate": "2026-09-09" },
+        { "title": "Israel-Iran Cease-Fire Takes Hold After Trump Rebuke", "url": "https://www.nytimes.com/2025/06/24/world/middleeast/israel-iran-ceasefire-trump.html", "publisher": "The New York Times", "accessedDate": "2026-09-09" },
+        { "title": "The Israel-Iran war by the numbers, after 12 days of fighting", "url": "https://www.timesofisrael.com/the-israel-iran-war-by-the-numbers-after-12-days-of-fighting", "publisher": "The Times of Israel", "accessedDate": "2026-09-09" },
+        { "title": "Tehran is coming back to life, but its residents are deeply shaken", "url": "https://www.bbc.co.uk/news/articles/c939k3n41g4o", "publisher": "BBC News", "accessedDate": "2026-09-09" },
+        { "title": "Iranian retaliation, a sudden ceasefire and lingering nuclear questions: Wild swings in the Middle East", "url": "https://www.cnn.com/2025/06/24/middleeast/middle-east-situation-tuesday-intl-hnk?cid=external-feeds_iluminar_yahoo", "publisher": "CNN", "accessedDate": "2026-09-09" },
+        { "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General, 13 June 2025", "url": "https://press.un.org/en/2025/db250613.doc.htm", "publisher": "United Nations", "accessedDate": "2026-09-09" },
+        { "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General, 24 June 2025", "url": "https://press.un.org/en/2025/db250624.doc.htm", "publisher": "United Nations", "accessedDate": "2026-09-09" }
+      ],
+      "era": "regional-escalation",
+      "verified": true,
+      "casualties": [
+        { "label": "Killed in Iran", "value": "627", "attribution": "Iranian Health Ministry (via BBC)", "note": "as of 27 June 2025; nearly 5,000 injured" },
+        { "label": "Killed in Israel", "value": "28", "attribution": "Israeli authorities (via The Times of Israel)", "note": "more than 3,000 wounded; 31 impacts in populated areas, per Israeli figures" },
+        { "label": "Iranian missiles and drones fired at Israel", "value": "about 550 missiles and 1,000 drones", "attribution": "IDF (via The Times of Israel)" }
+      ]
+    },
+    {
+      "id": "2025-06-22-us-strikes-on-fordow-natanz-and-isfahan",
+      "date": "2025-06-22",
+      "lat": 34.885,
+      "lng": 50.996,
+      "location": "Fordow enrichment plant, near Qom, Iran",
+      "title": "United States strikes Iranian nuclear sites at Fordow, Natanz and Isfahan",
+      "category": "attack",
+      "significance": 4,
+      "summary": "In the early hours of 22 June 2025 (Iran time) the United States entered the Israel–Iran war directly: B-2 stealth bombers dropped bunker-busting bombs on the deeply buried Fordow enrichment plant and on Natanz, while submarine-launched cruise missiles struck facilities at Isfahan, in an operation the Pentagon called 'Midnight Hammer'. President Donald Trump declared the sites 'obliterated' and warned Iran against retaliation; Iranian officials condemned the attack, asserted a right to self-defence, and Iran's parliament later voted to suspend cooperation with the IAEA. The IAEA reported major destruction at Natanz and Isfahan but said the extent of damage at Fordow and the whereabouts of Iran's enriched uranium were unclear, and US officials and outside experts disputed how far the programme had been set back. The UN Secretary-General told the Security Council the bombing marked 'a perilous turn'. Iran retaliated the next day with missiles at Al Udeid air base in Qatar, before a ceasefire took effect on 24 June.",
+      "perspectives": [
+        { "party": "United States (Trump administration)", "framing": "Described a spectacular, one-off success that obliterated Iran's key enrichment sites, removed a nuclear threat and created the conditions for peace, while insisting it did not seek regime change or a wider war." },
+        { "party": "Iran", "framing": "Called the strikes a flagrant violation of the UN Charter, the NPT and IAEA safeguards, reserved 'all options' for self-defence, and struck the US base in Qatar in a telegraphed response; parliament moved to suspend IAEA cooperation." },
+        { "party": "Israeli government", "framing": "Praised the strikes as a historic decision that completed its own campaign against Iran's nuclear programme." },
+        { "party": "United Nations and IAEA", "framing": "The Secretary-General warned of a 'rathole of retaliation' and said Iran must respect the NPT while all states must act within the Charter; the IAEA reported severe damage but could not verify the fate of enriched uranium and called for inspectors' access." }
+      ],
+      "sources": [
+        { "title": "Pentagon Details Multipronged Attack on Iranian Nuclear Sites", "url": "https://www.nytimes.com/2025/06/22/world/middleeast/pentagon-iran-nuclear-sites-attack-details.html", "publisher": "The New York Times", "accessedDate": "2026-09-09" },
+        { "title": "Trump says US has attacked three nuclear sites in Iran", "url": "https://www.theguardian.com/world/2025/jun/21/trump-us-nuclear-strikes-iran", "publisher": "The Guardian", "accessedDate": "2026-09-09" },
+        { "title": "US joins Israel in attacks against Iran, strikes key nuclear sites", "url": "https://www.aljazeera.com/news/2025/6/22/us-joins-israel-in-attacks-against-iran-strikes-key-nuclear-sites", "publisher": "Al Jazeera", "accessedDate": "2026-09-09" },
+        { "title": "Iran's top officials condemn U.S. strikes and assert their right to self-defense", "url": "https://www.npr.org/2025/06/22/nx-s1-5441695/irans-top-diplomat-says-it-reserves-all-options-for-self-defense-following-u-s-strikes", "publisher": "NPR", "accessedDate": "2026-09-09" },
+        { "title": "Extent of damage to Fordo, whereabouts of uranium unclear after nuke sites hit", "url": "https://www.timesofisrael.com/extent-of-damage-to-fordo-whereabouts-of-uranium-unclear-after-nuke-sites-hit", "publisher": "The Times of Israel", "accessedDate": "2026-09-09" },
+        { "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General, 23 June 2025", "url": "https://press.un.org/en/2025/db250623.doc.htm", "publisher": "United Nations", "accessedDate": "2026-09-09" }
+      ],
+      "era": "regional-escalation",
+      "verified": true
+    }
+  ],
+  "boundaryChanges": [
+    { "date": "2024-10-01", "description": "Israeli ground forces enter southern Lebanon; within two weeks the IDF holds border villages a few kilometres inside Lebanese territory, a zone it expands through November 2024.", "sources": ["https://www.bbc.co.uk/news/articles/c80r9zyk89yo", "https://www.bbc.co.uk/news/articles/c0r89qwwx2lo"] },
+    { "date": "2024-11-27", "description": "Israel–Hezbollah cessation of hostilities: 60-day phased Israeli withdrawal from southern Lebanon, Hezbollah to move north of the Litani River, Lebanese army and UNIFIL deploy in the south.", "sources": ["https://www.cnn.com/2024/11/26/middleeast/israel-lebanon-hezbollah-ceasefire-explainer-intl-latam/index.html", "https://www.bbc.co.uk/news/articles/c99rzd99mdxo"] },
+    { "date": "2024-12-08", "description": "Israeli forces move from the occupied Golan Heights into the UN-patrolled area of separation in Syria (1974 disengagement line) and slightly beyond, including the Syrian summit of Mount Hermon; the UN says this violates the disengagement agreement.", "sources": ["https://www.bbc.co.uk/news/articles/cdx921zreweo", "https://press.un.org/en/2024/db241210.doc.htm"] },
+    { "date": "2025-01-21", "description": "Israeli forces take control of Jenin refugee camp and, over following weeks, the Tulkarm, Nur Shams and Far'a camps in the West Bank; about 40,000 residents displaced and troops remain in the emptied camps through mid-2025.", "sources": ["https://www.bbc.co.uk/news/articles/c4g039ergplo", "https://www.bbc.co.uk/news/articles/c5ype8w6ynwo"] },
+    { "date": "2025-02-09", "description": "Israeli troops withdraw from the Netzarim Corridor bisecting Gaza under phase one of the ceasefire, allowing displaced Palestinians to return north; Israel retains the Philadelphi Corridor along the Egypt border.", "sources": ["https://www.nytimes.com/2025/02/09/world/europe/israel-gaza-netzarim.html", "https://www.theguardian.com/world/2025/feb/09/israeli-military-withdraws-netzarim-corridor-gaza"] },
+    { "date": "2025-02-18", "description": "Israel withdraws from most of southern Lebanon but keeps troops at five hilltop positions inside Lebanese territory overlooking the border.", "sources": ["https://www.bbc.com/news/articles/cn04lllp2zwo", "https://www.nytimes.com/2025/02/18/world/middleeast/lebanon-israel-forces-hezbollah.html"] },
+    { "date": "2025-03-20", "description": "Israel resumes ground operations in Gaza, re-entering the Netzarim area and northern Gaza (Beit Lahia) after the ceasefire collapse.", "sources": ["https://www.washingtonpost.com/world/2025/03/20/israel-gaza-north-hamas-rocket-fire", "https://www.timesofisrael.com/daily-briefing-mar-20-day-531-idf-renews-ground-operations-in-gaza-strip"] },
+    { "date": "2025-04-12", "description": "IDF completes the Morag Corridor between Rafah and Khan Younis, encircling Rafah, and expands 'security zones' along Gaza's perimeter; on 16 April Defence Minister Katz says troops will remain in these zones indefinitely.", "sources": ["https://www.timesofisrael.com/idf-fully-captures-gazas-morag-corridor-cutting-off-rafah-from-khan-younis", "https://www.washingtonpost.com/world/2025/04/12/middle-east-israel-hamas-war-gaza", "https://www.bbc.com/news/articles/c4g2775v853o"] },
+    { "date": "2025-05-17", "description": "Operation Gideon's Chariots: Israel seizes and holds 'strategic areas' across Gaza; by 26 May Israeli displacement orders cover about 40 per cent of the Strip according to UN OCHA, with Israeli-controlled zones expanding through June.", "sources": ["https://www.washingtonpost.com/world/2025/05/18/israel-ground-operation-gaza", "https://press.un.org/en/2025/db250528.doc.htm"] }
+  ],
+  "excluded": [
+    { "title": "Israeli air campaign in Lebanon begins (Operation Northern Arrows); deadliest day since 1990", "date": "2024-09-23", "reason": "Folded into the 1 October ground-incursion and Nasrallah entries to stay within the 24-event target; the 558-killed figure for 23 September was only available via a Wikipedia mirror, not a citable source read in this session." },
+    { "title": "Killing of Hashem Safieddine in Beirut", "date": "2024-10-03", "reason": "Lower significance than the Nasrallah entry; confirmed only in one read source (BBC, 23 October 2024)." },
+    { "title": "Hezbollah rocket attacks kill seven in northern Israel", "date": "2024-10-31", "reason": "Single-day incident within the wider Lebanon war entry." },
+    { "title": "UN General Assembly resolution ES-10/24 demanding an end to Israel's presence in the occupied Palestinian territory", "date": "2024-09-18", "reason": "No citable source could be opened in this session's network environment." },
+    { "title": "Election of Joseph Aoun as President of Lebanon", "date": "2025-01-09", "reason": "Domestic Lebanese politics; only indirectly tied to the conflict; mentioned in the 18 February entry." },
+    { "title": "US sanctions on the International Criminal Court", "date": "2025-02-06", "reason": "Consequence of the ICC warrants; mentioned in that entry's perspectives." },
+    { "title": "Funeral of Hassan Nasrallah in Beirut", "date": "2025-02-23", "reason": "Commemorative event; no change in the conflict." },
+    { "title": "Arab League emergency summit adopts Egyptian reconstruction plan for Gaza", "date": "2025-03-04", "reason": "Folded into the Trump-proposal entry; only UN briefing coverage was read." },
+    { "title": "Israeli strikes on Sanaa airport and Hodeidah port", "date": "2025-05-06", "reason": "Folded into the Ben Gurion missile and Houthi campaign entries." },
+    { "title": "IPC alert on famine risk in Gaza", "date": "2025-05-12", "reason": "The IPC site could not be opened; famine-risk warnings are covered through UN briefings in the Gideon's Chariots and GHF entries." },
+    { "title": "Israeli cabinet approval of 22 new West Bank settlements", "date": "2025-05-29", "reason": "No citable source could be opened in this session." },
+    { "title": "Iranian missile strike on Al Udeid air base, Qatar", "date": "2025-06-23", "reason": "Folded into the Israel–Iran war and US-strikes entries." }
+  ],
+  "uncertainties": [
+    "NETWORK LIMITATION: the session's WebSearch budget was already exhausted before this unit began, and the egress proxy blocked every publisher, UN, NGO and archive host (WebFetch 'EGRESS_BLOCKED'; curl CONNECT 403). No source page could be opened at its own URL or HTTP-status-checked. Evidence was instead read from GitHub-hosted mirrors reachable via raw.githubusercontent.com and located with GitHub code search: (a) full-text BBC and CNN article archives (heresanurag/resonantBERT-mycopy-) containing each article's URL, date and body; (b) a daily RSS archive for 2025 (rumca-js/RSS-Link-Database-2025) containing each article's title, link, publication time and description for Al Jazeera, BBC, Guardian, NYT, Washington Post, NPR, Times of Israel and others; (c) near-verbatim mirrors of the UN Secretary-General's daily press briefings (FrederickPi1969/xinwenlianbo-transcripts) whose headers give the official press.un.org URL; (d) the Tech For Palestine casualties_daily.json compilation of Gaza Ministry of Health reports (fetched directly). Every cited URL was copied verbatim from those files (Al Jazeera links had only the '?traffic_source=rss' tracking suffix removed); none was guessed. 'verified: true' therefore means date and core facts were read in at least two independent publishers' mirrored texts, not that the live pages were opened. Run `npm run validate -- --links` from a networked environment before publishing.",
+    "Wikipedia-derived texts (the FreshWiki-2024 mirror in USTC-StarTeam/RaPID) were used only to discover dates and reference lists, never cited.",
+    "Pager/radio attacks: the BBC's contemporaneous Lebanese Health Ministry figures (12 killed, about 2,800 wounded on 17 September; 'more than 20' killed across both days) are used. Later Lebanese tallies cited in the Wikipedia mirror were higher (42 killed, 3,500 or more injured; Hezbollah's labour minister later claimed 4,000 casualties) but could not be confirmed in a citable source.",
+    "Nasrallah strike: no reliable total for people killed in the 27 September strike on Haret Hreik was available in the sources read; CNN reported that an Israeli official did not know the civilian toll.",
+    "Iranian missile attack, 1 October 2024: sources give 'nearly 200', 'approximately 200' and 180 missiles; the Israeli figure of about 180 was cited by journalists at the UN briefing rather than read from an IDF page.",
+    "Israeli strikes on Iran, 26 October 2024: Iran's army initially reported two soldiers killed, then four; a fifth death (a civilian) was reported later but not confirmed in the sources read.",
+    "Lebanon war totals: the Lebanese-authority figures (more than 3,750 killed, 15,600 injured as of 26 November 2024) do not distinguish combatants from civilians; Israeli military and civilian fatalities in the Lebanon front could not be totalled from the sources read (BBC reported seven killed on 31 October alone).",
+    "Gaza cumulative death tolls are Gaza Health Ministry figures as compiled by Tech For Palestine from the ministry's daily reports; no Israeli or independent cumulative total was retrievable in this session. The BBC (23 April 2025) reported that Israel disputes the ministry's civilian breakdown and that about 3,000 names were removed from the ministry's list after review.",
+    "18 March 2025: the ministry's daily report counted 436 killed on that day (Western outlets reported 'more than 400'); Israel did not publish a figure for militants killed that could be found in the sources read.",
+    "Phase-one exchange totals (25 living hostages and eight bodies handed over by 1 March; a prisoner list of nearly 2,000) are assembled from running tallies in BBC (12 and 22 February) and CNN (11 and 15 February) reports rather than from a single end-of-phase summary; the aggregate is consistent with those reports but should be re-checked against a live source.",
+    "Operation Iron Wall: the 40,000-displaced figure is the UN agencies' estimate reported by the BBC in late February 2025; Israel has not published a displacement figure. The operation had no end date within the era, so endDate is omitted; the same applies to Operation Gideon's Chariots.",
+    "Gaza Humanitarian Foundation: casualty figures near aid sites conflict sharply (medics 'at least 15' vs Gaza health officials 'more than 30' for 1 June; GHF denied deaths at its sites; the Gaza Health Ministry's cumulative aid-seeker toll of 516 by 24 June; the UN Human Rights Office's 'hundreds' by early July). The OHCHR figure of about 410 killed near GHF sites as of 24 June, which circulated in reporting, could not be confirmed in a read source and is not included.",
+    "Israel–Iran war: the Iranian Health Ministry figure (627 killed) is as reported by the BBC on 27 June 2025; higher tallies from independent monitors (for example HRANA) could not be retrieved in this session. Israeli casualty figures are from Israeli authorities as compiled by The Times of Israel on 24 June.",
+    "US strikes on Iran: the mix of weapons (B-2 bombers at Fordow and Natanz; submarine-launched cruise missiles at Isfahan) follows the Pentagon briefing as summarised by the New York Times description read; damage assessments remain disputed.",
+    "Category choices: the retention of five positions in Lebanon (18 February 2025) is filed under 'ceasefire' as an implementation milestone; the GHF launch is filed under 'political' although it carries casualty figures; the fall of Assad and Israeli advance is filed under 'war' because the timeline's interest is the change of territorial control.",
+    "Coordinates: the six hostages' tunnel is placed in the Rafah area (exact site not published); the Iranian missile attack is placed at Nevatim air base, one of the confirmed impact sites; the five Israeli positions in Lebanon are represented by a single point near the central sector of the border."
+  ]
+}
