@@ -31,8 +31,8 @@ function Logo() {
   return (
     <div className="brand">
       <span className="brand-mark" aria-hidden="true">
-        <svg viewBox="0 0 32 32" width="30" height="30">
-          <path d="M6 4h6v9h8V4h6v24h-6v-9h-8v9H6z" fill="#fff" />
+        <svg viewBox="0 0 32 32" width="30" height="30" aria-hidden="true">
+          <path d="M5 3h7v10.5h8V3h7v14H5zM5 19h22v10h-7V23h-8v6H5z" fill="#fff" />
         </svg>
       </span>
       <span>HOSTINGER</span>

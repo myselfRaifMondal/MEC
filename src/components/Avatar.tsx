@@ -25,7 +25,7 @@ export function Avatar({ name, email, size = 'md', me = false }: Props) {
   const style = me ? undefined : { background: colorFor(email ?? label) }
   return (
     <div className={`avatar ${sizeClass} ${me ? 'me' : ''}`} style={style} aria-hidden="true" title={label}>
-      {initials(label)}
+      {me ? label.trim().slice(0, 1).toUpperCase() : initials(label)}
     </div>
   )
 }

@@ -7,7 +7,7 @@ import { Menu, MenuItem } from './Menu'
 
 export function TopBar() {
   const { state, dispatch } = useStore()
-  const { search, setSearch, searchOptions, setSearchOptions, openModal, aiOpen, setAiOpen, setSidebarOpen } = useUI()
+  const { search, setSearch, searchOptions, setSearchOptions, openModal, aiOpen, setAiOpen, setSidebarOpen, logOut } = useUI()
   const inputRef = useRef<HTMLInputElement>(null)
   const paneOn = state.settings.readingPane === 'right'
 
@@ -138,7 +138,7 @@ export function TopBar() {
                 label="Log out"
                 onClick={() => {
                   close()
-                  window.alert('This is a demo client. There is no session to log out of.')
+                  logOut()
                 }}
               />
             </>

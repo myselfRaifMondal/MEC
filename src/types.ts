@@ -23,8 +23,10 @@ export interface Message {
   cc: Address[]
   bcc: Address[]
   subject: string
-  /** Plain-text body; paragraphs are separated by blank lines. */
+  /** Plain-text body; paragraphs are separated by blank lines. Used for quoting, search and AI summaries. */
   body: string
+  /** Optional rich HTML version of the body, rendered in place of the plain text when present. Seed data only. */
+  html?: string
   date: string
   read: boolean
   starred: boolean

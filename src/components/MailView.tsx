@@ -5,7 +5,7 @@ import { useStore } from '../store/StoreContext'
 import { useToast } from '../store/ToastContext'
 import { useUI } from '../store/UIContext'
 import { addressesToString } from '../store/reducer'
-import { folderLabel, listMessages, paginate } from '../store/queries'
+import { folderLabel, listMessages, paginate, unreadCount } from '../store/queries'
 import type { FolderId, Message, MessageFilter, SortOrder } from '../types'
 import { folderToPath, messagePath, segmentToFolder } from '../utils/routes'
 import { Checkbox } from './Checkbox'
@@ -205,6 +205,11 @@ function FolderView({ folder, messageId }: { folder: FolderId; messageId?: strin
     .join(' ')
 
   const title = scopeAll ? 'Search results' : folderLabel(folder, state.customFolders)
+  const inboxUnread = unreadCount(state.messages, 'inbox')
+  useEffect(() => {
+    const prefix = inboxUnread > 0 ? `(${inboxUnread}) ` : ''
+    document.title = `${prefix}${selected ? selected.subject || '(no subject)' : title} - Hostinger Mail`
+  }, [inboxUnread, selected, title])
   const inTrash = folder === 'trash'
   const inSpam = folder === 'spam'
 

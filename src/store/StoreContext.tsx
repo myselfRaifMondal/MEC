@@ -1,5 +1,5 @@
 import { createContext, useContext, useEffect, useMemo, useReducer, type ReactNode } from 'react'
-import { BCREC_MESSAGE_ID, bcrecNotice, createSeedState } from '../data/seed'
+import { BCREC_MESSAGE_ID, BCREC_REPLY_ID, bcrecNotice, bcrecReply, createSeedState } from '../data/seed'
 import type { AppState } from '../types'
 import { reducer, type Action } from './reducer'
 
@@ -27,8 +27,17 @@ function loadState(): AppState {
 
 /** Adds seed messages introduced after a mailbox was first saved, without touching the user's own changes. */
 export function migrate(state: AppState): AppState {
-  if (state.messages.some((m) => m.id === BCREC_MESSAGE_ID)) return state
-  return { ...state, messages: [bcrecNotice(), ...state.messages] }
+  let messages = state.messages
+  if (!messages.some((m) => m.id === BCREC_MESSAGE_ID)) messages = [bcrecNotice(), ...messages]
+  if (!messages.some((m) => m.id === BCREC_REPLY_ID)) messages = [bcrecReply(), ...messages]
+  // Rich bodies were added after the first release; copy them onto saved seed messages by id.
+  if (messages.some((m) => m.id.startsWith('seed_') && !m.html)) {
+    const fresh = new Map(createSeedState().messages.map((m) => [m.id, m.html] as const))
+    if (messages.some((m) => !m.html && fresh.get(m.id))) {
+      messages = messages.map((m) => (!m.html && fresh.get(m.id) ? { ...m, html: fresh.get(m.id) } : m))
+    }
+  }
+  return messages === state.messages ? state : { ...state, messages }
 }
 
 export function StoreProvider({ children }: { children: ReactNode }) {
