@@ -11,7 +11,7 @@
       "title": "Hamas-led attack on southern Israel",
       "category": "attack",
       "significance": 5,
-      "summary": "At dawn on 7 October 2023, during the Simchat Torah holiday, Hamas-led militants fired thousands of rockets and breached the Gaza perimeter fence at dozens of points, attacking army bases, kibbutzim, the town of Sderot and the Nova music festival near Re'im. According to the Israeli government, about 1,200 people were killed, most of them civilians, and 251 people were taken hostage into Gaza; the IDF said it killed roughly 1,000 attackers inside Israel over the following days. It was the deadliest single day for Israel since its founding. Israeli air strikes on Gaza began the same day; the Gaza Health Ministry reported 232 Palestinians killed in Gaza on 7 October. Israel's government declared a state of war the next morning and mobilised reservists, opening the Gaza war that dominates this era.",
+      "summary": "At dawn on 7 October 2023, during the Simchat Torah holiday, Hamas-led militants fired thousands of rockets and breached the Gaza perimeter fence at dozens of points, attacking army bases, kibbutzim, Sderot and the Nova music festival near Re'im. Israel initially put the dead at about 1,400; on 10 November 2023 its Foreign Ministry revised the toll to about 1,200 after unidentified remains were determined to be attackers (Times of Israel, Al Jazeera, NPR). Israeli officials counted more than 240 hostages in late 2023, standardised as 251 in 2024 (Washington Post). The IDF said it killed roughly 1,000 attackers inside Israel in the following days. The Gaza Health Ministry reported 232 Palestinians killed in Gaza by Israeli strikes on 7 October (Texas Public Radio). It was the deadliest single day for Israel since its founding; the cabinet declared a state of war the next morning.",
       "perspectives": [
         {
           "party": "Israeli government",
@@ -32,56 +32,68 @@
       ],
       "sources": [
         {
-          "title": "Swords of Iron: Civilian Casualties",
-          "url": "https://www.gov.il/en/pages/swords-of-iron-civilian-casualties",
-          "publisher": "Israel Ministry of Foreign Affairs",
-          "accessedDate": "2026-09-09"
-        },
-        {
-          "title": "October 7 attack",
-          "url": "https://www.britannica.com/event/October-7-attack",
-          "publisher": "Encyclopaedia Britannica",
-          "accessedDate": "2026-09-09"
-        },
-        {
-          "title": "Liveblog October 7, 2023",
-          "url": "https://www.timesofisrael.com/liveblog-october-7-2023/",
+          "title": "Israel revises death toll from Oct. 7 Hamas assault, dropping it from 1,400 to 1,200",
+          "url": "https://www.timesofisrael.com/israel-revises-death-toll-from-oct-7-hamas-assault-dropping-it-from-1400-to-1200/",
           "publisher": "The Times of Israel",
-          "accessedDate": "2026-09-09"
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "casualties_daily.json - daily Gaza Ministry of Health casualty reports (Palestine Datasets)",
-          "url": "https://raw.githubusercontent.com/TechForPalestine/palestine-datasets/main/casualties_daily.json",
-          "publisher": "Tech for Palestine (dataset compiled from Gaza Ministry of Health reports)",
-          "accessedDate": "2026-09-09"
+          "title": "Israel revises down toll from October 7 attack to 'around 1,200'",
+          "url": "https://www.aljazeera.com/news/2023/11/10/israel-revises-death-toll-from-october-7-hamas-attack-to-1200-people",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel revises down its death toll from the Oct. 7 Hamas attacks to about 1,200",
+          "url": "https://www.npr.org/2023/11/11/1212458974/israel-revises-death-toll-hamas-attacks-oct-7",
+          "publisher": "NPR",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Hamas took 251 hostages from Israel into Gaza. What happened to them?",
+          "url": "https://www.washingtonpost.com/world/interactive/hamas-hostages-israel-war-gaza/",
+          "publisher": "The Washington Post",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Hundreds of Israelis and Palestinians are dead after a surprise attack from Gaza",
+          "url": "https://www.tpr.org/news/2023-10-07/israel-ramps-up-military-response-to-attack-by-gaza-militants",
+          "publisher": "Texas Public Radio (NPR/AP)",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel steps up campaign to kill all 5,000 Oct. 7 terrorists; 1,200 were killed on the day, 1,500 so far since",
+          "url": "https://www.timesofisrael.com/israel-stepping-up-campaign-to-hunt-and-kill-every-oct-7-terrorist-despite-gaza-truce/amp/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-14"
         }
       ],
       "era": "october-7-gaza-war",
-      "verified": false,
+      "verified": true,
       "casualties": [
         {
           "label": "Israelis and foreign nationals killed",
           "value": "≈1,200",
-          "attribution": "Israeli government",
-          "note": "Includes civilians, soldiers and police; figure revised down from an initial 1,400 in November 2023 after unidentified bodies were found to be attackers."
+          "attribution": "Israeli government (Ministry of Foreign Affairs)",
+          "note": "Initial figure about 1,400; revised to about 1,200 on 10 November 2023 after unidentified remains were determined to be attackers (Times of Israel, Al Jazeera, NPR). The civilian/soldier split varies by compiler."
         },
         {
           "label": "Hostages taken to Gaza",
           "value": "251",
           "attribution": "Israeli government",
-          "note": "Earlier Israeli counts cited about 240; the 251 figure became the standard official tally in 2024."
+          "note": "Israeli officials cited \"more than 240\" in late 2023 (Al Jazeera); 251 became the standard tally in 2024 (Washington Post)."
         },
         {
           "label": "Attackers killed inside Israel",
           "value": "≈1,000",
           "attribution": "IDF",
-          "note": "IDF estimate of militants killed in Israel in the days after 7 October."
+          "note": "Early IDF estimate for the days after 7 October; found in only one publisher in the 2026-09-14 search pass. The Times of Israel later reported an IDF figure of about 1,200 attackers killed on the day itself."
         },
         {
           "label": "Palestinians killed in Gaza on 7 October",
           "value": "232",
           "attribution": "Gaza Health Ministry",
-          "note": "Daily report for 7 October 2023 as compiled in the Palestine Datasets mirror."
+          "note": "Ministry figure for 7 October 2023 (nearly 1,700 injured) as reported by Texas Public Radio; Al Jazeera reported more than 300 killed by 8 October."
         }
       ]
     },
@@ -94,7 +106,7 @@
       "title": "Israel declares war and launches air campaign on Gaza",
       "category": "war",
       "significance": 4,
-      "summary": "On 8 October 2023 Israel's security cabinet formally declared a state of war under Article 40 of Basic Law: The Government, the first such declaration since 1973, and the IDF said it was mobilising some 300,000 reservists. Air strikes on the Gaza Strip, which had begun on 7 October, expanded into a sustained bombing campaign against what the IDF described as Hamas command centres, tunnels, rocket sites and the homes of operatives across Gaza City and the north. On 9 October Defence Minister Yoav Gallant ordered a 'complete siege', cutting electricity, fuel, food and water supplies from Israel. By the evening of 8 October the Gaza Health Ministry reported 370 Palestinians killed and 1,788 injured since the war began, figures that rose by hundreds daily during the following weeks.",
+      "summary": "On 8 October 2023 Israel's security cabinet formally declared a state of war under Article 40 of Basic Law: The Government, effective from 6 am on 7 October and the first such declaration since 1973 (Lieber Institute, Library of Congress). The IDF mobilised about 360,000 reservists, Al Jazeera reported. Air strikes on Gaza expanded into a sustained campaign against what the IDF described as Hamas command centres, tunnels, rocket sites and operatives' homes across Gaza City and the north. On 9 October Defence Minister Yoav Gallant ordered a 'complete siege', saying there would be 'no electricity, no food, no fuel' (Times of Israel, Al Jazeera, Globes). Al Jazeera reported the Gaza Health Ministry counting more than 300 Palestinians killed by 8 October; the ministry's own evening report gave 370 killed and 1,788 injured, figures that rose by hundreds daily.",
       "perspectives": [
         {
           "party": "Israeli government",
@@ -115,43 +127,56 @@
       ],
       "sources": [
         {
-          "title": "Israel-Hamas War",
-          "url": "https://www.britannica.com/event/Israel-Hamas-War",
-          "publisher": "Encyclopaedia Britannica",
-          "accessedDate": "2026-09-09"
+          "title": "Israel's Declaration of War on Hamas: A Modern Invocation of Recognized Belligerency?",
+          "url": "https://lieber.westpoint.edu/israels-declaration-war-hamas-modern-invocation-recognized-belligerency/",
+          "publisher": "Lieber Institute, West Point",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Liveblog October 8, 2023",
-          "url": "https://www.timesofisrael.com/liveblog-october-8-2023/",
+          "title": "Israel: Government Declares War and Special Situation on Home Front Following October 7 Hamas Attacks",
+          "url": "https://www.loc.gov/item/global-legal-monitor/2023-12-11/israel-government-declares-war-and-special-situation-on-home-front-following-october-7-hamas-attacks/",
+          "publisher": "Library of Congress",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "What does Israel's declaration of war mean for Palestinians in Gaza?",
+          "url": "https://www.aljazeera.com/news/2023/10/9/what-does-israels-declaration-of-war-mean-for-palestinians-in-gaza",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Defense minister announces 'complete siege' of Gaza: No power, food or fuel",
+          "url": "https://www.timesofisrael.com/liveblog_entry/defense-minister-announces-complete-siege-of-gaza-no-power-food-or-fuel/",
           "publisher": "The Times of Israel",
-          "accessedDate": "2026-09-09"
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Iran Update, October 8, 2023",
-          "url": "https://www.understandingwar.org/backgrounder/iran-update-october-8-2023",
-          "publisher": "Institute for the Study of War",
-          "accessedDate": "2026-09-09"
+          "title": "Israel's Defense Minister announces total siege of Gaza",
+          "url": "https://en.globes.co.il/en/article-israels-defense-minister-announces-total-siege-of-gaza-1001459694",
+          "publisher": "Globes",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "casualties_daily.json - daily Gaza Ministry of Health casualty reports (Palestine Datasets)",
-          "url": "https://raw.githubusercontent.com/TechForPalestine/palestine-datasets/main/casualties_daily.json",
-          "publisher": "Tech for Palestine (dataset compiled from Gaza Ministry of Health reports)",
-          "accessedDate": "2026-09-09"
+          "title": "Analysis: What will Israel do with all its mobilised soldiers?",
+          "url": "https://www.aljazeera.com/news/2023/10/12/what-will-israel-do-with-all-its-mobilised-soldiers",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
         }
       ],
       "era": "october-7-gaza-war",
-      "verified": false,
+      "verified": true,
       "casualties": [
         {
           "label": "Palestinians killed in Gaza (cumulative, 8 Oct 2023)",
-          "value": "370",
+          "value": "more than 300 (370 in the ministry's evening report)",
           "attribution": "Gaza Health Ministry",
-          "note": "1,788 injured; from the ministry's daily report as compiled in the Palestine Datasets mirror."
+          "note": "\"More than 300\" reported by Al Jazeera on 8 October; 370 killed and 1,788 injured is the ministry daily-report figure compiled by the Tech for Palestine mirror in the original pass and not re-corroborated on 2026-09-14."
         },
         {
           "label": "Reservists mobilised",
-          "value": "≈300,000",
-          "attribution": "IDF"
+          "value": "≈360,000",
+          "attribution": "IDF",
+          "note": "Figure reported by Al Jazeera and GlobalSecurity on 12 October 2023; an initial call-up of about 300,000 was announced on 9 October."
         }
       ]
     },
@@ -164,7 +189,7 @@
       "title": "Hezbollah opens a northern front against Israel",
       "category": "attack",
       "significance": 3,
-      "summary": "On 8 October 2023 Hezbollah fired rockets and guided missiles at Israeli positions in the Shebaa Farms area, which Lebanon claims and Israel occupies, declaring it was acting 'in solidarity' with the Palestinian people. Israel responded with artillery and air strikes in southern Lebanon. The exchanges settled into a daily pattern of cross-border fire that Hezbollah described as a 'support front' calibrated to avoid full-scale war, while the IDF struck launch teams and commanders, killing hundreds of Hezbollah fighters over the following months according to IDF and Hezbollah announcements. Israel evacuated more than 60,000 residents from communities near the border, per the Israeli government, and the UN's migration agency estimated that roughly 90,000 people were displaced from southern Lebanon by early 2024. The front remained limited until the escalation of September 2024.",
+      "summary": "On 8 October 2023 Hezbollah fired guided rockets and artillery at three Israeli positions in the Shebaa Farms, which Lebanon claims and Israel has occupied since 1967, declaring that it acted 'in solidarity' with the Palestinian people; Israel answered with artillery barrages into southern Lebanon and no casualties were immediately reported (Al Jazeera, PBS, The Arab Weekly). The exchanges settled into a daily pattern of cross-border fire that Hezbollah described as a 'support front' calibrated to avoid full-scale war, while the IDF struck launch teams and commanders. From mid-October Israel evacuated communities along the border, a government-organised move covering more than 60,000 residents (Malay Mail/AFP, Deccan Herald/Reuters), and by February 2024 the fighting had displaced more than 90,000 people from southern Lebanon according to the Council on Foreign Relations' conflict tracker, citing UN migration-agency data. The front remained limited until the escalation of September 2024.",
       "perspectives": [
         {
           "party": "Hezbollah",
@@ -185,44 +210,56 @@
       ],
       "sources": [
         {
-          "title": "Hezbollah",
-          "url": "https://www.britannica.com/topic/Hezbollah",
-          "publisher": "Encyclopaedia Britannica",
-          "accessedDate": "2026-09-09"
+          "title": "Israel, Hezbollah exchange fire, raising regional tensions",
+          "url": "https://www.aljazeera.com/news/2023/10/8/israel-hezbollah-exchange-fire-raising-regional-tensions",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Liveblog October 8, 2023",
-          "url": "https://www.timesofisrael.com/liveblog-october-8-2023/",
-          "publisher": "The Times of Israel",
-          "accessedDate": "2026-09-09"
+          "title": "Hezbollah fires into disputed border zone, Israeli military says",
+          "url": "https://www.pbs.org/newshour/amp/world/hezbollah-fires-into-disputed-border-zone-israeli-military-says",
+          "publisher": "PBS NewsHour",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Iran Update, October 8, 2023",
-          "url": "https://www.understandingwar.org/backgrounder/iran-update-october-8-2023",
-          "publisher": "Institute for the Study of War",
-          "accessedDate": "2026-09-09"
+          "title": "Israel strikes Lebanon after Hezbollah attack on Shebaa Farms",
+          "url": "https://thearabweekly.com/israel-strikes-lebanon-after-hezbollah-attack-shebaa-farms",
+          "publisher": "The Arab Weekly",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "What Is Hezbollah?",
-          "url": "https://www.cfr.org/backgrounder/what-hezbollah",
+          "title": "Conflict With Hezbollah in Lebanon | Global Conflict Tracker",
+          "url": "https://www.cfr.org/global-conflict-tracker/conflict/political-instability-lebanon",
           "publisher": "Council on Foreign Relations",
-          "accessedDate": "2026-09-09"
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Army: Israel evacuates communities along Lebanon border",
+          "url": "https://www.malaymail.com/news/world/2023/10/16/army-israel-evacuates-communities-along-lebanon-border/96590",
+          "publisher": "Malay Mail (AFP)",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel announces evacuation plan for Kiryat Shmona city near Lebanese border",
+          "url": "https://www.deccanherald.com/world/israel-announces-evacuation-plan-for-kiryat-shmona-city-near-lebanese-border-defense-ministry-2-2735017",
+          "publisher": "Deccan Herald (Reuters)",
+          "accessedDate": "2026-09-14"
         }
       ],
       "era": "october-7-gaza-war",
-      "verified": false,
+      "verified": true,
       "casualties": [
         {
           "label": "Israelis evacuated from northern border communities",
           "value": "more than 60,000",
           "attribution": "Israeli government",
-          "note": "Government-organised evacuation from late October 2023."
+          "note": "Government-organised evacuation from 16 October 2023 (28 communities, then Kiryat Shmona); later Israeli figures cite about 63,000."
         },
         {
           "label": "People displaced in southern Lebanon",
-          "value": "≈90,000",
-          "attribution": "UN IOM",
-          "note": "Estimate as of early 2024."
+          "value": "more than 90,000",
+          "attribution": "UN IOM (cited by CFR Global Conflict Tracker)",
+          "note": "As of February 2024."
         }
       ]
     },
@@ -236,7 +273,7 @@
       "title": "Mass internal displacement across the Gaza Strip",
       "category": "displacement",
       "significance": 4,
-      "summary": "On 13 October 2023 the IDF ordered the roughly 1.1 million residents of Gaza north of Wadi Gaza to move south within 24 hours ahead of its ground offensive, an order the UN said could not be carried out without devastating humanitarian consequences. Hundreds of thousands crowded into UNRWA schools, hospitals and tent camps in the centre and south, and were displaced again by the Khan Younis offensive in December and the Rafah offensive in May 2024. UN OCHA estimated that about 1.9 million people, roughly nine in ten Gazans, had been internally displaced by mid-2024, many of them several times, and that by August 2024 IDF evacuation orders covered more than 80 per cent of the Strip. On the Israeli side, the government evacuated tens of thousands of residents from communities near Gaza and the Lebanese border.",
+      "summary": "Late on 12 October 2023 the IDF informed the UN that the roughly 1.1 million residents of Gaza north of Wadi Gaza should move south within 24 hours ahead of its ground offensive (Reuters via US News, CNN, Al Jazeera). The UN said the order could not be carried out without devastating humanitarian consequences. Hundreds of thousands crowded into UNRWA schools, hospitals and tent camps further south and were displaced again by the Khan Younis offensive in December and the Rafah offensive in May 2024. In 2024 the UN and its partners estimated that at least 1.9 million people, nine in ten Gazans, had been internally displaced, many several times (UN OCHA, UNRWA, Human Rights Watch); by November 2024 OCHA put about 79 per cent of the Strip under active evacuation orders. Israel meanwhile evacuated tens of thousands from communities near Gaza and Lebanon.",
       "perspectives": [
         {
           "party": "Israeli government",
@@ -257,44 +294,56 @@
       ],
       "sources": [
         {
-          "title": "Hostilities in the Gaza Strip and Israel",
-          "url": "https://www.ochaopt.org/crisis",
+          "title": "Israel Warns Half of Gaza's Population to Move South, UN Says",
+          "url": "https://www.usnews.com/news/world/articles/2023-10-12/un-says-israeli-military-warns-1-1-million-gazans-to-relocate-south",
+          "publisher": "U.S. News (Reuters)",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "October 13, 2023 - Israel-Hamas war news",
+          "url": "https://edition.cnn.com/middleeast/live-news/israel-news-hamas-war-10-13-23/index.html",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel orders 1.1 million people in Gaza to move south: What to know",
+          "url": "https://www.aljazeera.com/news/2023/10/13/israel-orders-1-1-million-people-in-gaza-to-move-south-what-to-know",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Humanitarian Situation Update #187 | Gaza Strip",
+          "url": "https://www.ochaopt.org/content/humanitarian-situation-update-187-gaza-strip",
           "publisher": "UN OCHA (occupied Palestinian territory)",
-          "accessedDate": "2026-09-09"
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Hostilities in the Gaza Strip and Israel - Flash Update #7 (October 13, 2023)",
-          "url": "https://www.ochaopt.org/content/hostilities-gaza-strip-and-israel-flash-update-7",
-          "publisher": "UN OCHA (occupied Palestinian territory)",
-          "accessedDate": "2026-09-09"
+          "title": "UNRWA Situation Report #148 on the Humanitarian Crisis in the Gaza Strip and the West Bank, including East Jerusalem",
+          "url": "https://www.unrwa.org/resources/reports/unrwa-situation-report-148-situation-gaza-strip-and-west-bank-including-east-jerusalem",
+          "publisher": "UNRWA",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Israel-Hamas War",
-          "url": "https://www.britannica.com/event/Israel-Hamas-War",
-          "publisher": "Encyclopaedia Britannica",
-          "accessedDate": "2026-09-09"
-        },
-        {
-          "title": "Liveblog October 13, 2023",
-          "url": "https://www.timesofisrael.com/liveblog-october-13-2023/",
-          "publisher": "The Times of Israel",
-          "accessedDate": "2026-09-09"
+          "title": "\"Hopeless, Starving, and Besieged\": Israel's Forced Displacement of Palestinians in Gaza",
+          "url": "https://www.hrw.org/report/2024/11/14/hopeless-starving-and-besieged/israels-forced-displacement-palestinians-gaza",
+          "publisher": "Human Rights Watch",
+          "accessedDate": "2026-09-14"
         }
       ],
       "era": "october-7-gaza-war",
-      "verified": false,
+      "verified": true,
       "casualties": [
         {
           "label": "Residents ordered to leave northern Gaza",
           "value": "≈1.1 million",
           "attribution": "United Nations",
-          "note": "IDF order relayed to the UN on 12-13 October 2023."
+          "note": "IDF order relayed to UN liaison officers late on 12 October 2023, reported 13 October (Reuters, CNN, Al Jazeera)."
         },
         {
           "label": "Internally displaced in Gaza",
-          "value": "≈1.9 million",
+          "value": "at least 1.9 million",
           "attribution": "UN OCHA / UNRWA",
-          "note": "Estimate repeated through mid-2024, out of a pre-war population of about 2.2 million."
+          "note": "UN estimate repeated through 2024, about nine in ten of a pre-war population of roughly 2.2 million; does not capture repeated displacement."
         },
         {
           "label": "Israelis evacuated from border communities",
@@ -312,7 +361,7 @@
       "title": "Explosion at Al-Ahli Arab Hospital",
       "category": "attack",
       "significance": 4,
-      "summary": "On the evening of 17 October 2023 an explosion in the courtyard of the Anglican-run Al-Ahli Arab Hospital in Gaza City, where displaced families were sheltering, killed and injured large numbers of people. The Gaza Health Ministry said 471 people were killed; Hamas attributed the blast to an Israeli air strike. The IDF said its analysis showed a rocket fired by Palestinian Islamic Jihad had misfired and fallen on the hospital, which Islamic Jihad denied. US intelligence assessed that Israel was not responsible and estimated 100 to 300 deaths; Human Rights Watch later found the evidence consistent with a rocket-propelled munition rather than an Israeli aerial bomb, while noting that the death toll could not be independently verified. The event triggered protests across the Arab world and the cancellation of a planned summit with President Biden in Amman.",
+      "summary": "On the evening of 17 October 2023 an explosion in the courtyard of the Anglican-run Al-Ahli Arab Hospital in Gaza City, where displaced families sheltered, killed and injured large numbers of people. The Gaza Health Ministry said 471 people were killed, and Hamas attributed the blast to an Israeli air strike. The IDF said a rocket fired by Palestinian Islamic Jihad had misfired and fallen on the hospital, which Islamic Jihad denied. US intelligence assessed that Israel was not responsible and estimated 100 to 300 deaths; Canada's defence ministry reached the same conclusion. Human Rights Watch found on 26 November 2023 that the damage was consistent with a rocket-propelled munition of the kind used by Palestinian armed groups and 'highly unlikely' to have come from a large air-dropped bomb, while saying the toll could not be verified (HRW, Haaretz, L'Orient Today); Palestinian civil-society groups disputed its findings.",
       "perspectives": [
         {
           "party": "Hamas",
@@ -336,34 +385,41 @@
           "title": "Gaza: Findings on October 17 al-Ahli Hospital Explosion",
           "url": "https://www.hrw.org/news/2023/11/26/gaza-findings-october-17-al-ahli-hospital-explosion",
           "publisher": "Human Rights Watch",
-          "accessedDate": "2026-09-09"
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Liveblog October 17, 2023",
-          "url": "https://www.timesofisrael.com/liveblog-october-17-2023/",
-          "publisher": "The Times of Israel",
-          "accessedDate": "2026-09-09"
+          "title": "Al-Ahli Hospital Explosion Likely Caused by Palestinian Rocket, Human Rights Watch Says",
+          "url": "https://www.haaretz.com/israel-news/2023-11-26/ty-article/.premium/al-ahli-hospital-explosion-likely-caused-by-palestinian-rocket-human-rights-watch-says/0000018c-0c96-d65f-a7dd-fcd7c1cc0000",
+          "publisher": "Haaretz",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Iran Update, October 17, 2023",
-          "url": "https://www.understandingwar.org/backgrounder/iran-update-october-17-2023",
-          "publisher": "Institute for the Study of War",
-          "accessedDate": "2026-09-09"
+          "title": "Human Rights Watch: Al-Ahli Hospital explosion caused by rocket 'commonly used by Palestinian armed groups'",
+          "url": "https://today.lorientlejour.com/article/1358753/human-rights-watch-al-ahli-hospital-explosion-caused-by-rocket-commonly-used-by-palestinian-armed-groups.html",
+          "publisher": "L'Orient Today",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Israel-Hamas War",
-          "url": "https://www.britannica.com/event/Israel-Hamas-War",
-          "publisher": "Encyclopaedia Britannica",
-          "accessedDate": "2026-09-09"
+          "title": "Statement from the Minister of National Defence regarding the explosion at Al Ahli Arab Hospital on October 17, 2023",
+          "url": "https://www.canada.ca/en/department-national-defence/news/2023/10/statement-from-the-minister-of-national-defence-regarding-the-explosion-at-al-ahli-arab-hospital-on-october-17-2023.html",
+          "publisher": "Government of Canada (Department of National Defence)",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Human Rights Watch calls for impartial investigation into al-Ahli hospital blast",
+          "url": "https://www.middleeasteye.net/news/israel-palestine-war-human-rights-watch-calls-impartial-investigation-al-ahli-hospital-gaza",
+          "publisher": "Middle East Eye",
+          "accessedDate": "2026-09-14"
         }
       ],
       "era": "october-7-gaza-war",
-      "verified": false,
+      "verified": true,
       "casualties": [
         {
           "label": "Killed",
           "value": "471",
-          "attribution": "Gaza Health Ministry"
+          "attribution": "Gaza Health Ministry",
+          "note": "Ministry figure of 17-18 October 2023; not independently verified."
         },
         {
           "label": "Killed",
@@ -373,9 +429,9 @@
         },
         {
           "label": "Killed",
-          "value": "not independently verified; likely far below 471",
+          "value": "not independently verified",
           "attribution": "Human Rights Watch",
-          "note": "HRW report of 26 November 2023."
+          "note": "HRW findings of 26 November 2023; HRW said the number of dead could not be confirmed."
         }
       ]
     },
@@ -388,7 +444,7 @@
       "title": "Israel launches ground invasion of northern Gaza",
       "category": "war",
       "significance": 5,
-      "summary": "On the night of 27 October 2023, after three weeks of air strikes and limited raids, the IDF moved armoured and infantry divisions into the northern Gaza Strip under an intensified bombardment that cut Gaza's telephone and internet services for more than a day. Israeli forces advanced along the coast and through Beit Hanoun and Jabalia, and by early November had encircled Gaza City and reached the sea, splitting the territory along what became the Netzarim corridor. By 27 October the Gaza Health Ministry reported 7,326 Palestinians killed since 7 October, and OCHA counted more than 1.4 million people displaced. Prime Minister Netanyahu described the invasion as the 'second stage' of the war; the UN General Assembly that day adopted a resolution calling for a humanitarian truce by 120 votes to 14.",
+      "summary": "On the night of 27 October 2023 the IDF announced it was 'expanding' ground operations and moved armoured and infantry units into the northern Gaza Strip under an intensified bombardment that severed Gaza's telephone and internet links for more than a day (NPR, CBC, CNN). Israeli forces advanced along the coast and through Beit Hanoun and Jabalia and by early November had encircled Gaza City and reached the sea, splitting the territory along what became the Netzarim corridor. Prime Minister Netanyahu said on 28 October that the war had entered its 'second stage' (Globe and Mail, Gulf News). The Gaza Health Ministry reported 7,028 Palestinians killed as of 26 October (AFP via Malay Mail) and 7,326 on 27 October; UN OCHA estimated about 1.4 million displaced. The UN General Assembly that day called for a humanitarian truce.",
       "perspectives": [
         {
           "party": "Israeli government",
@@ -409,50 +465,56 @@
       ],
       "sources": [
         {
-          "title": "Israel-Hamas War",
-          "url": "https://www.britannica.com/event/Israel-Hamas-War",
-          "publisher": "Encyclopaedia Britannica",
-          "accessedDate": "2026-09-09"
+          "title": "Israel says it's 'expanding' ground activities in Gaza as internet blackout takes hold",
+          "url": "https://www.npr.org/2023/10/27/1209084199/israel-military-expanding-operations-gaza-hamas-communications-internet",
+          "publisher": "NPR",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Liveblog October 27, 2023",
-          "url": "https://www.timesofisrael.com/liveblog-october-27-2023/",
-          "publisher": "The Times of Israel",
-          "accessedDate": "2026-09-09"
+          "title": "Netanyahu says the Israel-Hamas war has entered 'long and difficult' new stage with expanded ground operation in Gaza",
+          "url": "https://www.theglobeandmail.com/world/article-israel-expands-ground-operation-in-gaza-and-bombs-hamas-tunnels-after/",
+          "publisher": "The Globe and Mail",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Iran Update, October 27, 2023",
-          "url": "https://www.understandingwar.org/backgrounder/iran-update-october-27-2023",
-          "publisher": "Institute for the Study of War",
-          "accessedDate": "2026-09-09"
+          "title": "October 28, 2023 Israel-Hamas war",
+          "url": "https://edition.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-10-28-23",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Hostilities in the Gaza Strip and Israel - Flash Update #21 (October 27, 2023)",
-          "url": "https://www.ochaopt.org/content/hostilities-gaza-strip-and-israel-flash-update-21",
-          "publisher": "UN OCHA (occupied Palestinian territory)",
-          "accessedDate": "2026-09-09"
+          "title": "Israeli PM vows to 'dismantle' Hamas, 2nd phase of war underway as Gaza cut off from outside world",
+          "url": "https://www.cbc.ca/lite/story/1.7011584",
+          "publisher": "CBC News",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "casualties_daily.json - daily Gaza Ministry of Health casualty reports (Palestine Datasets)",
-          "url": "https://raw.githubusercontent.com/TechForPalestine/palestine-datasets/main/casualties_daily.json",
-          "publisher": "Tech for Palestine (dataset compiled from Gaza Ministry of Health reports)",
-          "accessedDate": "2026-09-09"
+          "title": "Gaza health ministry: 7,028 Palestinians killed in Israeli strikes since Oct 7",
+          "url": "https://www.malaymail.com/amp/news/world/2023/10/26/gaza-health-ministry-7028-palestinians-killed-in-israeli-strikes-since-oct7/98565",
+          "publisher": "Malay Mail (AFP)",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel-Hamas war enters second phase with ground operation: Benjamin Netanyahu",
+          "url": "https://gulfnews.com/world/mena/israel-hamas-war-enters-second-phase-with-ground-operation-benjamin-netanyahu-1.1698520751438",
+          "publisher": "Gulf News",
+          "accessedDate": "2026-09-14"
         }
       ],
       "era": "october-7-gaza-war",
-      "verified": false,
+      "verified": true,
       "casualties": [
         {
-          "label": "Palestinians killed in Gaza (cumulative, 27 Oct 2023)",
-          "value": "7,326",
+          "label": "Palestinians killed in Gaza (cumulative, 26-27 Oct 2023)",
+          "value": "7,028 (26 Oct); 7,326 (27 Oct)",
           "attribution": "Gaza Health Ministry",
-          "note": "18,967 injured; daily report as compiled in the Palestine Datasets mirror."
+          "note": "7,028 including 2,913 children reported by AFP on 26 October; 7,326 is the ministry daily-report figure for 27 October from the Tech for Palestine mirror, not re-corroborated on 2026-09-14."
         },
         {
           "label": "Internally displaced in Gaza",
-          "value": "more than 1.4 million",
+          "value": "≈1.4 million",
           "attribution": "UN OCHA",
-          "note": "As of late October 2023."
+          "note": "As of 22 October 2023, with nearly 580,000 in 150 UNRWA emergency shelters."
         }
       ]
     },
@@ -465,7 +527,7 @@
       "title": "Israeli strikes on Jabalia refugee camp",
       "category": "attack",
       "significance": 3,
-      "summary": "On 31 October 2023 Israeli aircraft struck a residential block in Jabalia, the largest refugee camp in the Gaza Strip, leaving several large craters and collapsing apartment buildings; a further strike hit the camp the following day. The IDF said it had targeted and killed Ibrahim Biari, the Hamas commander of the Central Jabalia Battalion whom it linked to the 7 October attack, together with dozens of fighters in an underground complex, and blamed the collapse of buildings on tunnels beneath them. Hamas denied that a commander was present. The director of the nearby Indonesian Hospital said more than 50 people were killed and hundreds injured, and the Hamas-run interior ministry gave higher figures. The UN human rights office said the strikes could amount to disproportionate attacks under international law.",
+      "summary": "On 31 October 2023 Israeli aircraft struck a residential block in Jabalia, the largest refugee camp in the Gaza Strip, leaving large craters and collapsed apartment buildings; a further strike hit the camp the next day. The IDF said it had targeted and killed Ibrahim Biari, commander of Hamas's Central Jabalia Battalion whom it linked to the 7 October attack, together with dozens of fighters in an underground complex, and blamed the collapse of buildings on tunnels beneath them (CNBC, CNN). Hamas denied that a commander was present. The director of the nearby Indonesian Hospital said at least 80 people were killed and hundreds injured (CNN); the monitoring group Airwars later assessed at least 126 civilians killed, including 68 children, and cited munitions experts who identified 2,000-pound bombs. The UN human rights office said the strikes could amount to disproportionate attacks, and Arab governments condemned them (Al Jazeera).",
       "perspectives": [
         {
           "party": "Israeli government",
@@ -486,38 +548,44 @@
       ],
       "sources": [
         {
-          "title": "Liveblog October 31, 2023",
-          "url": "https://www.timesofisrael.com/liveblog-october-31-2023/",
-          "publisher": "The Times of Israel",
-          "accessedDate": "2026-09-09"
+          "title": "Gaza's Jabalya refugee camp: Witness describes aftermath of Israeli strike",
+          "url": "https://www.cnn.com/2023/10/31/middleeast/jabalya-blast-gaza-intl",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Iran Update, October 31, 2023",
-          "url": "https://www.understandingwar.org/backgrounder/iran-update-october-31-2023",
-          "publisher": "Institute for the Study of War",
-          "accessedDate": "2026-09-09"
+          "title": "Dozens of deaths reported in Gaza refugee camp airstrike; Israel says it killed top Hamas commander",
+          "url": "https://www.cnbc.com/2023/10/31/israel-hamas-war-live-updates-latest-news-on-gaza-conflict.html",
+          "publisher": "CNBC",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Hostilities in the Gaza Strip and Israel - Flash Update #25 (October 31, 2023)",
-          "url": "https://www.ochaopt.org/content/hostilities-gaza-strip-and-israel-flash-update-25",
-          "publisher": "UN OCHA (occupied Palestinian territory)",
-          "accessedDate": "2026-09-09"
+          "title": "ISPT0783 - October 31, 2023 (Jabalia)",
+          "url": "https://airwars.org/civilian-casualties/ispt0783-october-31-2023/",
+          "publisher": "Airwars",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Israel-Hamas War",
-          "url": "https://www.britannica.com/event/Israel-Hamas-War",
-          "publisher": "Encyclopaedia Britannica",
-          "accessedDate": "2026-09-09"
+          "title": "'Inhumane': World reacts to Israeli attacks on Jabalia refugee camp",
+          "url": "https://www.aljazeera.com/news/2023/11/1/a-wake-up-call-world-reacts-to-jabalia-camp-attack",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
         }
       ],
       "era": "october-7-gaza-war",
-      "verified": false,
+      "verified": true,
       "casualties": [
         {
           "label": "Killed (31 Oct strike)",
-          "value": "more than 50",
-          "attribution": "Indonesian Hospital director / Gaza health officials",
-          "note": "Hamas-run interior ministry cited hundreds of casualties including injured."
+          "value": "at least 80",
+          "attribution": "Indonesian Hospital director (Dr Atef al-Kahlout)",
+          "note": "Hundreds injured; earlier same-day statements gave \"more than 50\". The Hamas-run interior ministry cited higher figures."
+        },
+        {
+          "label": "Civilians killed (31 Oct strike)",
+          "value": "at least 126, including 68 children",
+          "attribution": "Airwars",
+          "note": "Post-event assessment; about 280 injured."
         },
         {
           "label": "Hamas fighters killed",
@@ -535,7 +603,7 @@
       "title": "IDF raids Al-Shifa Hospital",
       "category": "war",
       "significance": 3,
-      "summary": "In the early hours of 15 November 2023 Israeli forces entered Al-Shifa, the largest hospital in the Gaza Strip, after days of encirclement in which patients, staff and thousands of displaced people were trapped without electricity; the World Health Organization had described the hospital as a 'death zone'. The IDF said the complex concealed a Hamas command centre and later displayed weapons, a laptop and a tunnel shaft beneath the grounds, evidence that Hamas and hospital officials denied and that many observers considered short of the 'command centre' claim. Premature babies were evacuated to Egypt on 20 November. The raid, along with strikes on other hospitals, became a central controversy of the war over the protection of medical facilities and the loss of that protection when used for military purposes; the Gaza Health Ministry reported about 11,500 Palestinians killed by mid-November.",
+      "summary": "In the early hours of 15 November 2023 Israeli forces entered Al-Shifa, the largest hospital in the Gaza Strip in what the IDF called a 'targeted operation', after days of encirclement in which patients, staff and thousands of displaced people were trapped without electricity (Al Jazeera, CNN, Washington Post, NBC). The IDF said the complex concealed a Hamas command centre and displayed weapons, a laptop and an 'operational tunnel shaft', followed on 22 November by a 55-metre fortified tunnel beneath the grounds (CBS News); Hamas and hospital staff denied the claims. A WHO-led mission on 18 November described the hospital as a 'death zone' and organised evacuations (France 24); premature babies were moved to Egypt on 20 November. The raid became a central controversy over the protection of medical facilities; the Gaza Health Ministry's cumulative toll was about 11,500 by mid-November.",
       "perspectives": [
         {
           "party": "Israeli government",
@@ -556,57 +624,63 @@
       ],
       "sources": [
         {
-          "title": "Liveblog November 15, 2023",
-          "url": "https://www.timesofisrael.com/liveblog-november-15-2023/",
-          "publisher": "The Times of Israel",
-          "accessedDate": "2026-09-09"
+          "title": "Israel's raid on al-Shifa Hospital: Here's what you need to know",
+          "url": "https://www.aljazeera.com/amp/news/2023/11/15/israels-raid-on-al-shifa-hospital-heres-what-you-should-know",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Iran Update, November 15, 2023",
-          "url": "https://www.understandingwar.org/backgrounder/iran-update-november-15-2023",
-          "publisher": "Institute for the Study of War",
-          "accessedDate": "2026-09-09"
+          "title": "Al-Shifa: Israeli troops and tanks raid Gaza's largest hospital",
+          "url": "https://www.cnn.com/2023/11/15/middleeast/shifa-hospital-gaza-idf-intl/index.html",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Hostilities in the Gaza Strip and Israel - Flash Update #40 (November 15, 2023)",
-          "url": "https://www.ochaopt.org/content/hostilities-gaza-strip-and-israel-flash-update-40",
-          "publisher": "UN OCHA (occupied Palestinian territory)",
-          "accessedDate": "2026-09-09"
+          "title": "Israeli forces sweep into Gaza's al-Shifa Hospital, packed with wounded",
+          "url": "https://www.washingtonpost.com/world/2023/11/15/israel-shifa-hospital-gaza-hamas/",
+          "publisher": "The Washington Post",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Israel-Hamas War",
-          "url": "https://www.britannica.com/event/Israel-Hamas-War",
-          "publisher": "Encyclopaedia Britannica",
-          "accessedDate": "2026-09-09"
+          "title": "Israel shows photos of weapons and a tunnel shaft at Gaza's Al-Shifa hospital as search for Hamas command center continues",
+          "url": "https://www.cbsnews.com/news/israel-gaza-al-shifa-small-cache-weapons-hamas/",
+          "publisher": "CBS News",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "casualties_daily.json - daily Gaza Ministry of Health casualty reports (Palestine Datasets)",
-          "url": "https://raw.githubusercontent.com/TechForPalestine/palestine-datasets/main/casualties_daily.json",
-          "publisher": "Tech for Palestine (dataset compiled from Gaza Ministry of Health reports)",
-          "accessedDate": "2026-09-09"
+          "title": "Gaza's Al-Shifa hospital a 'death zone', WHO says urging evacuation",
+          "url": "https://www.france24.com/en/live-news/20231118-hundreds-flee-as-israel-orders-gaza-s-main-hospital-evacuated",
+          "publisher": "France 24",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel launches military operation inside Gaza's Al-Shifa hospital",
+          "url": "https://www.nbcnews.com/news/world/israel-targeted-military-operation-gaza-al-shifa-hospital-rcna125262",
+          "publisher": "NBC News",
+          "accessedDate": "2026-09-14"
         }
       ],
       "era": "october-7-gaza-war",
-      "verified": false,
+      "verified": true,
       "casualties": [
         {
           "label": "Palestinians killed in Gaza (cumulative, 15 Nov 2023)",
           "value": "≈11,500",
           "attribution": "Gaza Health Ministry",
-          "note": "Ministry figure as compiled in the Palestine Datasets mirror; ministry reporting was disrupted by hospital shutdowns in mid-November."
+          "note": "From the ministry daily reports compiled by the Tech for Palestine mirror in the original pass; reporting was disrupted by hospital shutdowns in mid-November and the figure was not re-corroborated on 2026-09-14."
         }
       ]
     },
     {
       "id": "2023-11-19-houthis-seize-galaxy-leader-red-sea-attacks-begin",
       "date": "2023-11-19",
-      "lat": 15.0,
+      "lat": 15,
       "lng": 42.3,
       "location": "Red Sea, off Hodeidah, Yemen",
       "title": "Houthis seize Galaxy Leader; Red Sea shipping attacks begin",
       "category": "attack",
       "significance": 3,
-      "summary": "On 19 November 2023 Houthi fighters landed by helicopter on the Bahamas-flagged car carrier Galaxy Leader in the southern Red Sea, seized the vessel and its 25 crew, and sailed it to the Yemeni coast near Hodeidah. The ship was Japanese-operated and linked through its registered owner to an Israeli businessman. The Houthis, who had already fired missiles and drones toward Israel in October, declared that ships connected to Israel were targets until the war in Gaza ended, and over the following months attacked dozens of commercial vessels with missiles, drones and small boats. Major shipping lines diverted around Africa, the United States formed the Operation Prosperity Guardian naval coalition in December, and US and British forces began strikes on Houthi sites in Yemen on 12 January 2024. The crew were held until January 2025.",
+      "summary": "On 19 November 2023 about ten armed Houthi fighters landed by military helicopter on the Bahamas-flagged car carrier Galaxy Leader in the southern Red Sea, seized the vessel and its 25 crew from the Philippines, Ukraine, Mexico, Romania and Bulgaria, and sailed it to the Yemeni coast near Hodeidah (PBS, UPI, French foreign ministry). The Japanese-operated, British-owned ship was linked through its registered owner to an Israeli businessman. The Houthis, who had already fired missiles and drones toward Israel in October, declared ships connected to Israel targets until the war in Gaza ended, and over the following months attacked dozens of commercial vessels with missiles, drones and small boats. Major shipping lines diverted around Africa, the United States formed the Operation Prosperity Guardian coalition in December, and US and British forces began strikes on Houthi sites in Yemen on 12 January 2024. The crew were released in January 2025.",
       "perspectives": [
         {
           "party": "Houthi movement (Ansar Allah)",
@@ -627,38 +701,44 @@
       ],
       "sources": [
         {
-          "title": "Liveblog November 19, 2023",
-          "url": "https://www.timesofisrael.com/liveblog-november-19-2023/",
-          "publisher": "The Times of Israel",
-          "accessedDate": "2026-09-09"
+          "title": "Houthi rebels release crew of Galaxy Leader ship seized in Red Sea in November 2023",
+          "url": "https://www.pbs.org/newshour/world/houthi-rebels-release-crew-of-galaxy-leader-ship-seized-in-red-sea-in-november-2023",
+          "publisher": "PBS NewsHour (AP)",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Iran Update, November 19, 2023",
-          "url": "https://www.understandingwar.org/backgrounder/iran-update-november-19-2023",
-          "publisher": "Institute for the Study of War",
-          "accessedDate": "2026-09-09"
+          "title": "Houthi rebels release Galaxy Leader crew 14 months after seizing ship",
+          "url": "https://www.upi.com/Top_News/World-News/2025/01/23/yemen-Houthi-release-Galaxy-crew/7261737609676/",
+          "publisher": "UPI",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Iran Update, November 20, 2023",
-          "url": "https://www.criticalthreats.org/analysis/iran-update-november-20-2023",
-          "publisher": "Critical Threats Project (AEI)",
-          "accessedDate": "2026-09-09"
+          "title": "Seizure of the Galaxy Leader (21 November 2023)",
+          "url": "https://www.diplomatie.gouv.fr/en/country-files/yemen/events/article/seizure-of-the-galaxy-leader-21-nov-2023",
+          "publisher": "Ministère de l'Europe et des Affaires étrangères (France)",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Israel-Hamas War",
-          "url": "https://www.britannica.com/event/Israel-Hamas-War",
-          "publisher": "Encyclopaedia Britannica",
-          "accessedDate": "2026-09-09"
+          "title": "Houthis release Galaxy Leader crew after 14 months",
+          "url": "https://safety4sea.com/houthis-release-galaxy-leader-crew-after-14-months/",
+          "publisher": "Safety4Sea",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Seizure of MV Galaxy Leader by the Houthis: UK statement",
+          "url": "https://www.globalsecurity.org/military/library/news/2023/11/mil-231121-ukfcdo01.htm",
+          "publisher": "GlobalSecurity.org (UK FCDO statement)",
+          "accessedDate": "2026-09-14"
         }
       ],
       "era": "october-7-gaza-war",
-      "verified": false,
+      "verified": true,
       "casualties": [
         {
           "label": "Crew detained aboard Galaxy Leader",
           "value": "25",
           "attribution": "Ship operator / Houthi statements",
-          "note": "Released in January 2025."
+          "note": "Released on 22 January 2025 after about 14 months (PBS, UPI)."
         }
       ]
     },
@@ -672,7 +752,7 @@
       "title": "Week-long truce and hostage-prisoner exchanges",
       "category": "ceasefire",
       "significance": 4,
-      "summary": "A truce brokered by Qatar, Egypt and the United States took effect on 24 November 2023, the first pause in fighting since 7 October. Initially set for four days, it was extended twice and lasted seven days. During the pause Hamas released 105 hostages, among them 81 Israelis and dual nationals, mostly women and children, and 24 foreign nationals, chiefly Thai agricultural workers, in daily transfers via the Red Cross through Rafah and Kerem Shalom. Israel freed 240 Palestinian prisoners, women and minors, from its jails, and the flow of fuel and aid trucks into Gaza rose. Talks to extend the truce collapsed on 1 December amid mutual accusations of violations, and Israel resumed its offensive with a push into southern Gaza. The Gaza Health Ministry's toll stood at about 14,800 killed when the truce began.",
+      "summary": "A truce brokered by Qatar, Egypt and the United States took effect on 24 November 2023, the first pause in fighting since 7 October (CNN, AJC). Initially set for four days it was extended on 27 and 30 November and lasted seven days. Hamas released 105 hostages, among them 81 Israelis and dual nationals, mostly women and children, and 24 foreign nationals, chiefly Thai workers, in daily transfers via the Red Cross through Rafah and Kerem Shalom; Israel freed 240 Palestinian prisoners, mostly women and teenagers (Time, Gulf News, AJC), and fuel and aid deliveries rose. Talks to extend the truce collapsed on 1 December amid mutual accusations of violations, Hamas fired rockets at Sderot and Israel resumed its offensive with a push into southern Gaza. The Gaza Health Ministry's cumulative toll stood at about 14,800 killed when the truce began.",
       "perspectives": [
         {
           "party": "Israeli government",
@@ -693,54 +773,56 @@
       ],
       "sources": [
         {
-          "title": "Israel-Hamas War",
-          "url": "https://www.britannica.com/event/Israel-Hamas-War",
-          "publisher": "Encyclopaedia Britannica",
-          "accessedDate": "2026-09-09"
+          "title": "November 24, 2023 Israel-Hamas war",
+          "url": "https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-11-24-23/index.html",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Liveblog November 24, 2023",
-          "url": "https://www.timesofisrael.com/liveblog-november-24-2023/",
-          "publisher": "The Times of Israel",
-          "accessedDate": "2026-09-09"
+          "title": "Hamas and Israel Continue to Release Hostages and Prisoners",
+          "url": "https://time.com/6339462/hamas-hostages-israel-palestinian-prisoners/",
+          "publisher": "Time",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Iran Update, November 24, 2023",
-          "url": "https://www.understandingwar.org/backgrounder/iran-update-november-24-2023",
-          "publisher": "Institute for the Study of War",
-          "accessedDate": "2026-09-09"
+          "title": "Israel-Hamas Hostage Deal: What You Need to Know",
+          "url": "https://www.ajc.org/news/israel-hamas-hostage-deal-what-you-need-to-know",
+          "publisher": "American Jewish Committee",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Hostilities in the Gaza Strip and Israel - Flash Update #49 (November 24, 2023)",
-          "url": "https://www.ochaopt.org/content/hostilities-gaza-strip-and-israel-flash-update-49",
-          "publisher": "UN OCHA (occupied Palestinian territory)",
-          "accessedDate": "2026-09-09"
+          "title": "Israel-Hamas truce begins: 24 hostages released in exchange for 39 Palestinian prisoners as part of ceasefire swap",
+          "url": "https://gulfnews.com/amp/world/mena/israel-hamas-truce-begins-24-hostages-released-in-exchange-for-39-palestinian-prisoners-as-part-of-ceasefire-swap-1.1700839439104",
+          "publisher": "Gulf News",
+          "accessedDate": "2026-09-14"
         },
         {
-          "title": "Israeli-Palestinian Conflict - Global Conflict Tracker",
-          "url": "https://www.cfr.org/global-conflict-tracker/conflict/israeli-palestinian-conflict",
-          "publisher": "Council on Foreign Relations",
-          "accessedDate": "2026-09-09"
+          "title": "More Israeli hostages freed and more Palestinian prisoners released under tenuous Gaza truce",
+          "url": "https://www.kcbd.com/2023/11/30/truce-gaza-extended-last-minute-talks-over-remaining-hamas-captives-get-tougher/",
+          "publisher": "KCBD (AP)",
+          "accessedDate": "2026-09-14"
         }
       ],
       "era": "october-7-gaza-war",
-      "verified": false,
+      "verified": true,
       "casualties": [
         {
           "label": "Hostages released during the truce",
           "value": "105 (81 Israelis and dual nationals, 24 foreign nationals)",
-          "attribution": "Israeli government / Qatar"
+          "attribution": "Israeli government / Qatar",
+          "note": "Some compilers count 110 by including hostages released before and after the pause; the 81/24 split follows Israeli and Qatari statements."
         },
         {
           "label": "Palestinian prisoners released",
           "value": "240",
-          "attribution": "Israel Prison Service / Palestinian Prisoners' Society"
+          "attribution": "Israel Prison Service / Palestinian Prisoners' Society",
+          "note": "Mostly women and teenagers held on stone-throwing and similar charges (Time/AP)."
         },
         {
           "label": "Palestinians killed in Gaza (cumulative, 24 Nov 2023)",
           "value": "≈14,800",
           "attribution": "Gaza Health Ministry",
-          "note": "Ministry estimate at the start of the truce; daily reporting was disrupted in late November."
+          "note": "Ministry estimate at the start of the truce from the Tech for Palestine mirror of its daily reports; reporting was disrupted in late November and the figure was not re-corroborated on 2026-09-14."
         }
       ]
     },
@@ -1978,6 +2060,28 @@
     }
   ],
   "uncertainties": [
+    "SEARCH PASS 2026-09-14 (verification editor): 18 WebSearch queries were run before the session-wide budget (200 calls, shared with other units) was exhausted; no page was fetched (publisher domains are blocked). The ten events from 2023-10-07 to the 24-30 November 2023 truce were each corroborated on date, place and key facts by >= 2 publishers in search-result content and are set verified:true, with their sources replaced by URLs that appeared in those results (all 'accessedDate' 2026-09-14 entries). The remaining 15 events (2023-12-01-khan-younis-offensive through 2024-08-29-polio-vaccination-pauses-agreed) could not be searched: they keep verified:false and their original, unfetched, pattern-derived source URLs unchanged.",
+    "NOT RE-CORROBORATED: 2023-12-01-khan-younis-offensive - no WebSearch could be run for this event (budget exhausted); date, figures and source URLs remain as written in the original pass and unverified.",
+    "NOT RE-CORROBORATED: 2024-01-26-icj-provisional-measures-and-unrwa-allegations - no WebSearch could be run for this event (budget exhausted); date, figures and source URLs remain as written in the original pass and unverified.",
+    "NOT RE-CORROBORATED: 2024-02-29-aid-convoy-deaths-gaza-city-flour-massacre - no WebSearch could be run for this event (budget exhausted); date, figures and source URLs remain as written in the original pass and unverified.",
+    "NOT RE-CORROBORATED: 2024-03-25-unsc-resolution-2728-ceasefire-demand - no WebSearch could be run for this event (budget exhausted); date, figures and source URLs remain as written in the original pass and unverified.",
+    "NOT RE-CORROBORATED: 2024-04-01-world-central-kitchen-convoy-strike - no WebSearch could be run for this event (budget exhausted); date, figures and source URLs remain as written in the original pass and unverified.",
+    "NOT RE-CORROBORATED: 2024-04-01-israeli-strike-on-iranian-consulate-damascus - no WebSearch could be run for this event (budget exhausted); date, figures and source URLs remain as written in the original pass and unverified.",
+    "NOT RE-CORROBORATED: 2024-04-13-iran-drone-and-missile-attack-on-israel - no WebSearch could be run for this event (budget exhausted); date, figures and source URLs remain as written in the original pass and unverified.",
+    "NOT RE-CORROBORATED: 2024-05-06-rafah-offensive-and-philadelphi-corridor - no WebSearch could be run for this event (budget exhausted); date, figures and source URLs remain as written in the original pass and unverified.",
+    "NOT RE-CORROBORATED: 2024-05-20-icc-warrant-requests-and-icj-rafah-order - no WebSearch could be run for this event (budget exhausted); date, figures and source URLs remain as written in the original pass and unverified.",
+    "NOT RE-CORROBORATED: 2024-05-26-tel-al-sultan-rafah-tent-camp-strike - no WebSearch could be run for this event (budget exhausted); date, figures and source URLs remain as written in the original pass and unverified.",
+    "NOT RE-CORROBORATED: 2024-06-08-nuseirat-hostage-rescue-operation - no WebSearch could be run for this event (budget exhausted); date, figures and source URLs remain as written in the original pass and unverified.",
+    "NOT RE-CORROBORATED: 2024-07-19-icj-advisory-opinion-on-israeli-occupation - no WebSearch could be run for this event (budget exhausted); date, figures and source URLs remain as written in the original pass and unverified.",
+    "NOT RE-CORROBORATED: 2024-07-27-majdal-shams-strike-and-killings-of-shukr-and-haniyeh - no WebSearch could be run for this event (budget exhausted); date, figures and source URLs remain as written in the original pass and unverified.",
+    "NOT RE-CORROBORATED: 2024-08-15-gaza-death-toll-passes-40000 - no WebSearch could be run for this event (budget exhausted); date, figures and source URLs remain as written in the original pass and unverified.",
+    "NOT RE-CORROBORATED: 2024-08-29-polio-vaccination-pauses-agreed - no WebSearch could be run for this event (budget exhausted); date, figures and source URLs remain as written in the original pass and unverified.",
+    "2023-10-07 secondary figures: the IDF's '≈1,000 attackers killed inside Israel' and the Gaza Health Ministry's 232 killed in Gaza on 7 October each appeared in only one publisher's results (a Times of Israel headline citing an IDF figure of about 1,200 attackers killed on the day; Texas Public Radio for 232). The headline figures (≈1,200 killed, revised from ≈1,400 on 10 November 2023; 251 hostages) were corroborated by Times of Israel, Al Jazeera, NPR and the Washington Post.",
+    "Cumulative Gaza Health Ministry tolls quoted in the 8 October (370), 27 October (7,326), Al-Shifa (≈11,500) and truce (≈14,800) entries come from the ministry's daily reports as mirrored by Tech for Palestine (fetched only in the original pass) and were not re-corroborated on 2026-09-14; the corroborated contemporaneous figures are 'more than 300' on 8 October (Al Jazeera) and 7,028 on 26 October (AFP via Malay Mail). The Tech for Palestine raw.githubusercontent.com URLs were removed from the ten re-sourced events because they did not appear in any search result.",
+    "2023-10-27: the UN General Assembly vote tally (120-14-45) on the humanitarian-truce resolution was not corroborated in this pass; the summary now states only that the resolution was adopted. OCHA's 1.4 million displaced (as of 22 October 2023) appeared in search-result content but the specific OCHA page could not be identified, so no OCHA URL is cited for it.",
+    "2023-10-08 reservists: results corroborate about 360,000 mobilised (Al Jazeera, 12 October); the earlier 300,000 figure was not found and is mentioned only as the initial call-up.",
+    "2023-10-31 Jabalia: the Indonesian Hospital director's figure rose from 'more than 50' to 'at least 80' killed within the day; Airwars' later assessment of at least 126 civilians killed is a post-event compilation, not a contemporaneous count.",
+    "Displacement: the claim that IDF evacuation orders covered 'more than 80 per cent' of Gaza by August 2024 was not corroborated; OCHA's corroborated figure is about 79 per cent as of 19 November 2024, which is what the entry now cites.",
     "METHOD LIMITATION (critical): in this sandbox the organisation's egress proxy returned a policy denial (HTTP 403 on CONNECT) for every publisher domain tested (UN, ICJ, ICC, OCHA, OHCHR, WHO, Britannica, CFR, HRW, Reuters, AP, BBC, Al Jazeera, Times of Israel, Guardian, NYT, ISW, gov.il and dozens more), and the session's WebSearch budget (200 calls) had already been consumed by earlier units before this unit started. The only reachable hosts were api.github.com (scoped to the session's own repository) and raw.githubusercontent.com. Consequently NO publisher page cited below was opened today. Every event is therefore flagged verified:false even though all of them are well-established pre-2025 events; the content was written from the author's knowledge, cross-checked against the one machine-readable source that could be fetched (the Tech for Palestine mirror of Gaza Ministry of Health daily reports). A link-check pass (npm run validate -- --links, or curl per URL) must be run from an unrestricted environment, after which verified can be flipped for events whose sources resolve.",
     "UNCHECKED URL CLASSES: (1) four URLs (Britannica 'October 7 attack', OHCHR 'death toll passes 40,000', CFR Global Conflict Tracker, gov.il 'Swords of Iron: Civilian Casualties') were taken from this session's earlier chapter research, where they appeared in WebSearch result listings; (2) two raw.githubusercontent.com URLs (Palestine Datasets casualties_daily.json and west_bank_daily.json) were fetched and read today (HTTP 200); (3) institutional URLs from memory with stable, well-known paths: icj-cij.org/case/192 and /case/186, the ICC prosecutor's 20 May 2024 statement, press.un.org SC/15641 (Resolution 2728), hrw.org 26 Nov 2023 al-Ahli findings, ochaopt.org/crisis and /data/casualties, britannica.com Israel-Hamas-War, Hezbollah, Hamas and Ismail-Haniyeh, cfr.org what-hamas and what-hezbollah; (4) pattern-derived dated URLs: Times of Israel daily liveblogs (timesofisrael.com/liveblog-<month>-<day>-<year>/), ISW/CTP daily Iran Updates (understandingwar.org/backgrounder/iran-update-<month>-<day>-<year>; criticalthreats.org/analysis/iran-update-...), and OCHA Flash Updates (ochaopt.org/content/hostilities-gaza-strip-and-israel-flash-update-<n>, assuming #1 = 7 Oct 2023 and daily numbering). Classes 3 and 4 follow patterns the author is confident of, but individual pages may have moved (e.g. a liveblog or update not published on a given day); replace any URL that does not return 200/301/302.",
     "7 October 2023 toll: Israel initially cited about 1,400 dead, revised to about 1,200 in November 2023 after some unidentified remains were determined to be attackers; the civilian/soldier split (roughly 800 civilians and 350-400 security personnel) varies by compiler. The hostage count was reported as about 240 in late 2023 and standardised as 251 in 2024; both figures appear in official Israeli material.",
