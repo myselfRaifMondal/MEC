@@ -60,3 +60,7 @@ src/
 ```
 
 State lives in a single reducer (`src/store/reducer.ts`) and is persisted under the `hostinger-mail-clone:v1` key. Use **Settings → Data → Reset demo mailbox** to restore the original seed.
+
+## Also in this repository: mideast-3d
+
+`mideast-3d/` is a separate app: an interactive, sourced 3D globe timeline of the Middle East crisis (1917 to September 2026), built with Vite, React, TypeScript and three.js. See [`mideast-3d/README.md`](mideast-3d/README.md) for how to run, build and deploy it, and for its data methodology. To deploy it on Vercel, create a project for this repository with **Root Directory** set to `mideast-3d` (framework Vite, output `dist`); the root `vercel.json` belongs to the mail client.

@@ -1,0 +1,1524 @@
+{
+  "era": "partition-war",
+  "unit": "partition-war",
+  "events": [
+    {
+      "id": "1947-11-29-un-general-assembly-resolution-181-partition-plan",
+      "date": "1947-11-29",
+      "lat": 40.7459,
+      "lng": -73.8448,
+      "location": "UN General Assembly, Flushing Meadows, New York",
+      "title": "UN General Assembly adopts Resolution 181 recommending partition of Palestine",
+      "category": "political",
+      "significance": 5,
+      "summary": "On 29 November 1947 the United Nations General Assembly, meeting at Flushing Meadows, New York, adopted Resolution 181 (II) by 33 votes to 13 with 10 abstentions, recommending that Mandatory Palestine be partitioned into a Jewish state, an Arab state and an internationally administered Jerusalem, joined in an economic union, with the British Mandate to end no later than 1 August 1948. The plan allotted roughly 55 to 56 percent of the territory to the Jewish state, whose community then made up about one-third of the population. The Jewish Agency accepted the resolution despite reservations; the Arab Higher Committee and the Arab League states rejected it as a violation of the Arab majority's right to self-determination. Britain said it would not enforce a plan not accepted by both sides. Fighting between the two communities began the following day.",
+      "perspectives": [
+        {
+          "party": "Zionist leadership / Jewish Agency",
+          "framing": "Welcomed the vote as international recognition of Jewish statehood after the Holocaust and the legal foundation of the future state, while regretting the loss of Jerusalem and western Galilee; Israel's Declaration of Independence later cited the resolution as authority."
+        },
+        {
+          "party": "Palestinian leadership / Arab Higher Committee and Arab League",
+          "framing": "Rejected partition as an illegitimate award of Arab land to a minority largely composed of recent immigrants, argued the Assembly had no power to divide a country against its majority, and called a general strike; they describe the vote as the start of the Nakba."
+        },
+        {
+          "party": "United Nations",
+          "framing": "Presents Resolution 181 as the Assembly's recommendation for a two-state solution with a special regime for Jerusalem, whose non-implementation left the 'Question of Palestine' on the UN agenda."
+        },
+        {
+          "party": "United Kingdom",
+          "framing": "Abstained, announced it would not impose a settlement rejected by either community, and fixed 15 May 1948 for the end of its administration."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Resolution 181 (II). Future government of Palestine (A/RES/181(II), 29 November 1947)",
+          "url": "https://www.un.org/unispal/document/auto-insert-185393/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "United Nations General Assembly Resolution 181, November 29, 1947",
+          "url": "https://avalon.law.yale.edu/20th_century/res181.asp",
+          "publisher": "Yale Avalon Project",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "United Nations Resolution 181",
+          "url": "https://www.britannica.com/topic/United-Nations-Resolution-181",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "UN General Assembly Resolution 181",
+          "url": "https://www.gov.il/en/pages/un-general-assembly-resolution-181",
+          "publisher": "Israel Ministry of Foreign Affairs",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "FRUS 1947, Vol. V: The United States Representative at the United Nations (Austin) to the Secretary of State - GA adopts partition 33-13 (29 Nov 1947)",
+          "url": "https://history.state.gov/historicaldocuments/frus1947v05/d896",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Partition of Palestine: UNSCOP Majority and Minority Plans",
+          "url": "https://www.palestine-studies.org/en/node/1656507",
+          "publisher": "Institute for Palestine Studies",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "verified": true,
+      "era": "partition-war"
+    },
+    {
+      "id": "1947-11-30-civil-war-in-mandatory-palestine-begins",
+      "date": "1947-11-30",
+      "endDate": "1948-05-14",
+      "lat": 31.7683,
+      "lng": 35.2137,
+      "location": "Mandatory Palestine (Jerusalem and countrywide)",
+      "title": "Civil war between Jewish and Arab communities in Mandatory Palestine",
+      "category": "war",
+      "significance": 4,
+      "summary": "Intercommunal fighting began on 30 November 1947, the day after the partition vote, when Arab gunmen attacked Jewish buses near Petah Tikva and Lydda; the Arab Higher Committee called a three-day general strike from 2 December and the Jerusalem commercial centre was burned. Through the winter the Haganah, Irgun and Lehi fought Palestinian Arab irregulars and, from January 1948, Arab Liberation Army volunteers led by Fawzi al-Qawuqji, while Britain prepared to withdraw. Bombings, convoy ambushes and reprisals escalated: British Mandate figures reported to the UN Palestine Commission recorded 869 people killed and 1,909 injured between 30 November and 1 February. In April 1948 the Haganah moved to Plan Dalet, opening the Jerusalem road in Operation Nachshon and taking Tiberias, Haifa, Safed and Jaffa before the Mandate ended on 14 May, by which time tens of thousands of Palestinians had left their homes.",
+      "perspectives": [
+        {
+          "party": "Zionist leadership / Haganah",
+          "framing": "Describes the period as a defensive struggle by the Yishuv against Arab attacks on roads and settlements, culminating in Plan Dalet to secure the territory of the state allotted by the UN before British withdrawal."
+        },
+        {
+          "party": "Palestinian leadership / Arab Higher Committee",
+          "framing": "Framed the fighting as resistance to the imposition of partition, with Arab volunteers coming to defend Palestine; Palestinian historians see Plan Dalet as the blueprint for expulsions that began the Nakba."
+        },
+        {
+          "party": "United Kingdom",
+          "framing": "As Mandatory power it declared neutrality between the communities, refused to hand authority to the UN Palestine Commission, and concentrated on an orderly military withdrawal by 15 May 1948."
+        },
+        {
+          "party": "Historians",
+          "framing": "Generally divide the war into a civil-war phase (30 November 1947 to 14 May 1948) and an interstate phase; they disagree on whether Plan Dalet was a military contingency plan or an expulsion policy."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Part II (1947-1977) - Origins and Evolution of the Palestine Problem",
+          "url": "https://www.un.org/unispal/history2/origins-and-evolution-of-the-palestine-problem/part-ii-1947-1977/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "1948 Arab-Israeli War",
+          "url": "https://www.britannica.com/event/1948-Arab-Israeli-War",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "The Arab-Israeli War of 1948 (Milestones 1945-1952)",
+          "url": "https://history.state.gov/milestones/1945-1952/arab-israeli-war",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "FRUS 1947, Vol. V: The Consul General at Jerusalem (Macatee) to the Secretary of State - convoy ambushes and disturbances (17 Dec 1947)",
+          "url": "https://history.state.gov/historicaldocuments/frus1947v05/d917",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "FRUS 1948, Vol. V, Part 2: The Consul at Jerusalem (Wasson) to the Secretary of State (13 Apr 1948)",
+          "url": "https://history.state.gov/historicaldocuments/frus1948v05p2/d145",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Killed, both communities, 30 Nov 1947 to 1 Feb 1948",
+          "value": "869 killed, 1,909 injured",
+          "attribution": "British Mandate figures reported to the UN Palestine Commission",
+          "note": "Figure widely cited from the Commission's February 1948 report; not re-verified in this session."
+        }
+      ],
+      "era": "partition-war"
+    },
+    {
+      "id": "1948-04-09-deir-yassin-massacre",
+      "date": "1948-04-09",
+      "lat": 31.7847,
+      "lng": 35.178,
+      "location": "Deir Yassin, near Jerusalem",
+      "title": "Irgun and Lehi attack on the village of Deir Yassin",
+      "category": "attack",
+      "significance": 4,
+      "summary": "Early on 9 April 1948 about 120 fighters of the Irgun and Lehi attacked Deir Yassin, an Arab village of some 600 people on the western outskirts of Jerusalem, during the Haganah's Operation Nachshon to open the road from Tel Aviv. After hours of house-to-house fighting the attackers killed a large number of inhabitants, including women and children, and paraded prisoners through Jerusalem. The US consul reported on 13 April that the attackers themselves claimed 250 dead; Irgun and Arab spokesmen used the figure 254 at the time, whereas a 1987 Bir Zeit University study counted 107 villagers killed and historian Benny Morris estimates 100 to 120. Four attackers died. The Jewish Agency and Haganah condemned the killings. News of Deir Yassin spread fear among Palestinian Arabs and, according to historians and Arab League officials, hastened flight from other towns and villages.",
+      "perspectives": [
+        {
+          "party": "Palestinian leadership / Palestinian historians",
+          "framing": "The Deir Yassin massacre is remembered as the emblematic atrocity of the Nakba, evidence of a deliberate campaign of terror to empty Arab villages; Arab radio broadcasts at the time amplified the killings."
+        },
+        {
+          "party": "Irgun and Lehi",
+          "framing": "Denied a massacre, describing a battle against armed villagers in which civilians died in the crossfire and warnings were given; Menachem Begin later called Arab claims of a massacre a fabrication that ironically caused mass flight."
+        },
+        {
+          "party": "Zionist leadership / Jewish Agency",
+          "framing": "Condemned the attack at the time, with Ben-Gurion apologising to King Abdullah and the Haganah disowning the operation, while Israeli official history has long treated it as an aberration by dissident groups."
+        },
+        {
+          "party": "Historians",
+          "framing": "Most scholars, including Benny Morris, conclude that a massacre of roughly 100 to 120 civilians and prisoners took place and that inflated contemporary figures, spread by both sides, accelerated the Palestinian exodus."
+        }
+      ],
+      "sources": [
+        {
+          "title": "FRUS 1948, Vol. V, Part 2: The Consul at Jerusalem (Wasson) to the Secretary of State - report on Deir Yasin (13 Apr 1948)",
+          "url": "https://history.state.gov/historicaldocuments/frus1948v05p2/d145",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Testimonies From the Censored Deir Yassin Massacre: 'They Piled Bodies and Burned Them'",
+          "url": "https://www.haaretz.com/israel-news/2017-07-16/ty-article-magazine/testimonies-from-the-censored-massacre-at-deir-yassin/0000017f-e364-d38f-a57f-e77689930000",
+          "publisher": "Haaretz",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "The Deir Yassin massacre: Why it still matters 75 years later",
+          "url": "https://www.aljazeera.com/news/2023/4/9/the-deir-yassin-massacre-why-it-still-matters-75-years-later",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Deir Yassin (Institute for Palestine Studies documentation)",
+          "url": "https://www.palestine-studies.org/en/node/1651135",
+          "publisher": "Institute for Palestine Studies",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "1948 Arab-Israeli War",
+          "url": "https://www.britannica.com/event/1948-Arab-Israeli-War",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Villagers killed",
+          "value": "107",
+          "attribution": "Bir Zeit University study (Kanaana and Zitawi, 1987)"
+        },
+        {
+          "label": "Villagers killed",
+          "value": "100-120",
+          "attribution": "Historian Benny Morris"
+        },
+        {
+          "label": "Villagers killed",
+          "value": "250-254",
+          "attribution": "Contemporary claims by Irgun spokesmen and Arab sources; US consul telegram of 13 April 1948"
+        },
+        {
+          "label": "Attackers killed",
+          "value": "4",
+          "attribution": "Irgun and Lehi accounts"
+        }
+      ],
+      "era": "partition-war"
+    },
+    {
+      "id": "1948-04-13-hadassah-medical-convoy-attack",
+      "date": "1948-04-13",
+      "lat": 31.793,
+      "lng": 35.229,
+      "location": "Sheikh Jarrah, Jerusalem",
+      "title": "Attack on the Hadassah medical convoy to Mount Scopus",
+      "category": "attack",
+      "significance": 3,
+      "summary": "On 13 April 1948 a convoy of ambulances, buses and armoured vehicles carrying doctors, nurses, patients, university staff and Haganah escorts from Jerusalem to the Hadassah Hospital and Hebrew University on Mount Scopus was ambushed by Arab fighters in the Sheikh Jarrah neighbourhood, four days after Deir Yassin. The vehicles were trapped under fire for about seven hours before British troops stationed nearby intervened, and several vehicles were set alight. Israeli and Hadassah accounts count 78 dead, including the hospital's director Chaim Yassky, plus one British soldier; some accounts give 79. The attack left the Mount Scopus enclave cut off from Jewish Jerusalem; US diplomatic records show the hospital and university were later demilitarised under United Nations supervision, and Hadassah moved its hospital to western Jerusalem. Israelis remember the attack as one of the war's worst killings of civilians and medical staff.",
+      "perspectives": [
+        {
+          "party": "Israeli government / Hadassah",
+          "framing": "Describes the 'Hadassah convoy massacre' as the deliberate slaughter of unarmed medical personnel and patients, often linked to Arab calls for revenge after Deir Yassin, and criticises the British troops nearby for delaying intervention."
+        },
+        {
+          "party": "Palestinian leadership / Arab forces",
+          "framing": "Arab commanders in Jerusalem had warned that the hospital and university were being used as Haganah bases and treated the convoy, which carried armed escorts and supplies, as a military target on the road to an armed enclave."
+        },
+        {
+          "party": "Historians",
+          "framing": "Benny Morris characterises the episode as a battle that nevertheless included the mass killing of unarmed medical staff; casualty counts of 77, 78 or 79 appear in different accounts."
+        }
+      ],
+      "sources": [
+        {
+          "title": "FRUS 1948, Vol. V, Part 2: The Consul General at Jerusalem (Macdonald) to the Secretary of State - Hadassah Hospital and Hebrew University demilitarised under UN supervision (1 Aug 1948)",
+          "url": "https://history.state.gov/historicaldocuments/frus1948v05p2/d502",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "FRUS 1948, Vol. V, Part 2: Memorandum by Mr. Robert M. McClintock - proposal for a UN zone on Mount Scopus (1 Jul 1948)",
+          "url": "https://history.state.gov/historicaldocuments/frus1948v05p2/d428",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "1948 Arab-Israeli War",
+          "url": "https://www.britannica.com/event/1948-Arab-Israeli-War",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "verified": false,
+      "casualties": [
+        {
+          "label": "Convoy members killed",
+          "value": "78",
+          "attribution": "Hadassah Medical Organization and Israeli accounts"
+        },
+        {
+          "label": "Convoy members killed",
+          "value": "79",
+          "attribution": "Some accounts (including a British soldier killed nearby)"
+        }
+      ],
+      "era": "partition-war"
+    },
+    {
+      "id": "1948-04-22-fall-of-haifa",
+      "date": "1948-04-22",
+      "lat": 32.8156,
+      "lng": 34.9892,
+      "location": "Haifa",
+      "title": "Haganah takes Haifa; most of the city's Arab population leaves",
+      "category": "war",
+      "significance": 3,
+      "summary": "After British forces announced on the night of 21 April 1948 that they were withdrawing to the port and airfield, the Haganah's Carmeli Brigade launched Operation Bi'ur Hametz and within a day took control of Haifa, the Mandate's main port and a mixed city of roughly 70,000 Arabs and 70,000 Jews. Arab National Committee leaders declined a surrender offer that included guarantees and instead asked the British to organise an evacuation; most of the Arab population left by sea and road within days, with only a few thousand remaining, according to historians' estimates. US diplomatic records later noted that many refugees had fled 'owing to Jewish occupation of Haifa on April 21-22'. The capture, three weeks before the Mandate ended, gave the Jewish state-in-waiting its principal harbour and was one of the first large urban displacements of the 1948 Palestinian displacement, or Nakba.",
+      "perspectives": [
+        {
+          "party": "Israeli government / Zionist leadership",
+          "framing": "Stresses that the Haganah offered terms allowing Arabs to stay, that Jewish mayor Shabtai Levy pleaded with residents to remain, and that the exodus followed Arab leaders' own decision to evacuate."
+        },
+        {
+          "party": "Palestinian leadership / Palestinian historians",
+          "framing": "Describe mortar fire on Arab quarters, panic at the port and British collusion as producing a forced flight, and count Haifa among the first cities emptied in the Nakba."
+        },
+        {
+          "party": "United Kingdom",
+          "framing": "British commanders reported that they had withdrawn to avoid casualties before final evacuation and then helped Arab residents leave; London was criticised by Arab states for the sudden pull-back."
+        },
+        {
+          "party": "Historians",
+          "framing": "Benny Morris and others attribute the flight to a combination of military collapse, fear after Deir Yassin, Arab leaders' evacuation decision and Haganah pressure, without a formal expulsion order."
+        }
+      ],
+      "sources": [
+        {
+          "title": "FRUS 1948, Vol. V, Part 2: Editorial Note - British military withdrawal in Haifa announced on the night of April 21 (Apr 1948)",
+          "url": "https://history.state.gov/historicaldocuments/frus1948v05p2/d166",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "FRUS 1948, Vol. V, Part 2: The Secretary of State to the Special Representative in Israel (McDonald) - refugees fled owing to occupation of Haifa on April 21-22 (1 Sep 1948)",
+          "url": "https://history.state.gov/historicaldocuments/frus1948v05p2/d573",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Palestine Remix - Al Nakba",
+          "url": "https://remix.aljazeera.com/aje/PalestineRemix/al-nakba.html",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "1948 Arab-Israeli War",
+          "url": "https://www.britannica.com/event/1948-Arab-Israeli-War",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Part II (1947-1977) - Origins and Evolution of the Palestine Problem",
+          "url": "https://www.un.org/unispal/history2/origins-and-evolution-of-the-palestine-problem/part-ii-1947-1977/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Arab residents who left Haifa",
+          "value": "about 60,000 of roughly 65,000-70,000",
+          "attribution": "Historians' estimates (Benny Morris and others)",
+          "note": "A few thousand Arab residents remained by mid-May 1948."
+        }
+      ],
+      "era": "partition-war"
+    },
+    {
+      "id": "1948-05-13-fall-of-jaffa",
+      "date": "1948-05-13",
+      "lat": 32.053,
+      "lng": 34.752,
+      "location": "Jaffa",
+      "title": "Jaffa surrenders to the Haganah after Irgun assault and exodus of residents",
+      "category": "war",
+      "significance": 3,
+      "summary": "Jaffa, the largest Arab city in Palestine with about 70,000 to 80,000 inhabitants, had been allotted to the Arab state as an enclave under the partition plan. On 25 April 1948 the Irgun launched an assault on the Manshiya quarter with mortar bombardment, and the Haganah's Operation Hametz encircled the city; British forces intervened briefly with tanks and aircraft to halt the Irgun advance. Residents fled by sea and road during the fighting, and on 13 May 1948, the day before the Mandate ended, the remaining notables signed a surrender to the Haganah. Historians estimate that only 3,000 to 4,000 Arab residents stayed. The US consul in Jerusalem reported the same day that, apart from the Irgun attack on Jaffa, Jewish forces had largely kept to the partition lines. Jaffa was later absorbed into the municipality of Tel Aviv.",
+      "perspectives": [
+        {
+          "party": "Israeli government / Irgun",
+          "framing": "The Irgun presented the operation as removing a base for sniping and attacks on Tel Aviv; Israeli accounts note that the surrender agreement promised to protect residents who stayed and blame Arab leaders and British evacuation for the flight."
+        },
+        {
+          "party": "Palestinian leadership / Palestinian historians",
+          "framing": "Describe the shelling of civilian quarters and the collapse of the city's institutions as a deliberate emptying of the largest Palestinian city, with survivors scattered to Gaza, Lebanon and elsewhere."
+        },
+        {
+          "party": "United Kingdom",
+          "framing": "Britain treated the Irgun attack as a breach of its authority in the final weeks of the Mandate and deployed forces to stop it, while organising the departure of residents by sea."
+        }
+      ],
+      "sources": [
+        {
+          "title": "FRUS 1948, Vol. V, Part 2: The Consul at Jerusalem (Wasson) to the Secretary of State - Irgun attack on Jaffa (13 May 1948)",
+          "url": "https://history.state.gov/historicaldocuments/frus1948v05p2/d262",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "FRUS 1948, Vol. V, Part 2: The Secretary of State to the Special Representative in Israel (McDonald) - Jewish armed attack against Jaffa April 25 (1 Sep 1948)",
+          "url": "https://history.state.gov/historicaldocuments/frus1948v05p2/d573",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Palestine Remix - Al Nakba",
+          "url": "https://remix.aljazeera.com/aje/PalestineRemix/al-nakba.html",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "1948 Arab-Israeli War",
+          "url": "https://www.britannica.com/event/1948-Arab-Israeli-War",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Part II (1947-1977) - Origins and Evolution of the Palestine Problem",
+          "url": "https://www.un.org/unispal/history2/origins-and-evolution-of-the-palestine-problem/part-ii-1947-1977/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Arab residents who left Jaffa",
+          "value": "roughly 65,000-75,000 of about 70,000-80,000",
+          "attribution": "Historians' estimates (Benny Morris and others)",
+          "note": "About 3,000-4,000 remained after the surrender."
+        }
+      ],
+      "era": "partition-war"
+    },
+    {
+      "id": "1948-05-14-israel-declaration-of-independence",
+      "date": "1948-05-14",
+      "lat": 32.0632,
+      "lng": 34.77,
+      "location": "Tel Aviv Museum, Rothschild Boulevard, Tel Aviv",
+      "title": "Declaration of the Establishment of the State of Israel",
+      "category": "political",
+      "significance": 5,
+      "summary": "On the afternoon of 14 May 1948, hours before the British Mandate expired at midnight, David Ben-Gurion read the Declaration of the Establishment of the State of Israel at the Tel Aviv Museum on Rothschild Boulevard, invoking the Jewish people's historical connection to the land, the Holocaust and General Assembly Resolution 181, and pledging equality for all inhabitants and peace with neighbouring states. Thirty-seven members of the People's Council signed, and a Provisional Government under Ben-Gurion took office. Eleven minutes after the proclamation, President Truman extended United States de facto recognition to the provisional government; the Soviet Union granted de jure recognition on 17 May. The declaration fixed no borders. Arab governments rejected the new state, and the armies of neighbouring countries crossed into Palestine the following day, transforming the civil war into an interstate war.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Celebrated as Independence Day, the restoration of Jewish sovereignty after two millennia, grounded in natural and historic right and in the UN resolution; the declaration's promise of equality is invoked in Israeli constitutional debate."
+        },
+        {
+          "party": "Palestinian leadership / Arab League",
+          "framing": "Rejected the proclamation as the unilateral creation of a state on Arab land by force; 15 May is commemorated by Palestinians as Nakba Day."
+        },
+        {
+          "party": "United States",
+          "framing": "President Truman recognised the provisional government as the de facto authority within minutes, over the objections of State Department officials who feared alienating Arab states and had favoured a UN trusteeship."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The General Assembly, in session that day, adopted Resolution 186 appointing a Mediator rather than acting on the proclamation; the UN treated the new state's status as unresolved until its admission in May 1949."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Declaration of Establishment of State of Israel",
+          "url": "https://www.knesset.gov.il/docs/eng/megilat_eng.htm",
+          "publisher": "Knesset",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "The Declaration of the Establishment of the State of Israel, May 14, 1948",
+          "url": "https://avalon.law.yale.edu/20th_century/israel.asp",
+          "publisher": "Yale Avalon Project",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Declaration of Establishment of State of Israel",
+          "url": "https://www.gov.il/en/departments/general/declaration-of-establishment-state-of-israel",
+          "publisher": "Israel Ministry of Foreign Affairs",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "FRUS 1948, Vol. V, Part 2: The Secretary of State to Mr. Eliahu Epstein - text of the President's statement of recognition (14 May 1948)",
+          "url": "https://history.state.gov/historicaldocuments/frus1948v05p2/d271",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "The Decision to Recognize Israel",
+          "url": "https://www.trumanlibrary.gov/library/decision-recognize-israel",
+          "publisher": "Harry S. Truman Library",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Creation of Israel, 1948 (Milestones 1945-1952)",
+          "url": "https://history.state.gov/milestones/1945-1952/creation-israel",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "verified": true,
+      "era": "partition-war"
+    },
+    {
+      "id": "1948-05-15-arab-states-enter-the-war",
+      "date": "1948-05-15",
+      "endDate": "1949-03-10",
+      "lat": 31.9,
+      "lng": 35.0,
+      "location": "Mandatory Palestine (multiple fronts)",
+      "title": "Arab state armies enter Palestine; the 1948 Arab-Israeli War",
+      "category": "war",
+      "significance": 5,
+      "summary": "On 15 May 1948, as the Mandate ended, regular forces from Egypt, Transjordan, Syria and Iraq, with a smaller Lebanese contingent and Saudi units under Egyptian command, entered Palestine, and the Arab League cabled the UN Secretary-General that it was intervening to restore order and protect the Arab inhabitants. Egyptian columns advanced along the coast towards Isdud and inland to Hebron and Bethlehem; the Arab Legion took the Jewish Quarter of Jerusalem's Old City on 28 May and held Latrun; Syrian and Iraqi forces fought in the north and Samaria. The newly formed Israel Defense Forces held most positions and, after two UN truces, took the offensive in July, October and December. Israeli official figures put Israel's dead at 6,373, about one percent of its Jewish population; Arab and Palestinian deaths are less documented, historians estimating several thousand soldiers and Al Jazeera citing over 13,000 Palestinians killed by 1949.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "The War of Independence: a war of survival forced on the day-old state by the invasion of five Arab armies bent on its destruction, won at the cost of one percent of the population."
+        },
+        {
+          "party": "Arab League / Egypt, Jordan, Syria, Iraq, Lebanon",
+          "framing": "Justified entry as a collective intervention to protect Palestinian Arabs, restore security after the Mandate's collapse and prevent the establishment by force of a state rejected by the majority; Jordan's aims focused on the Arab-designated areas and Jerusalem."
+        },
+        {
+          "party": "Palestinian leadership / Palestinians",
+          "framing": "See the Arab armies as too few and uncoordinated to prevent the Nakba, and the war's outcome as the loss of most of Palestine to Israel and the rest to Jordanian and Egyptian control."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The Security Council called for a ceasefire, appointed a Mediator, imposed truces on 11 June and 18 July, and on 16 November 1948 called for armistice negotiations; UN observers supervised the lines."
+        }
+      ],
+      "sources": [
+        {
+          "title": "FRUS 1948, Vol. V, Part 2: The United States Representative at the United Nations (Austin) to the Secretary of State - Arab armies invade Palestine (15 May 1948)",
+          "url": "https://history.state.gov/historicaldocuments/frus1948v05p2/d278",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "FRUS 1948, Vol. V, Part 2: Statement Made by Ambassador Austin Before the Security Council (17 May 1948)",
+          "url": "https://history.state.gov/historicaldocuments/frus1948v05p2/d285",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "The Arab-Israeli War of 1948 (Milestones 1945-1952)",
+          "url": "https://history.state.gov/milestones/1945-1952/arab-israeli-war",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "1948 Arab-Israeli War",
+          "url": "https://www.britannica.com/event/1948-Arab-Israeli-War",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Part II (1947-1977) - Origins and Evolution of the Palestine Problem",
+          "url": "https://www.un.org/unispal/history2/origins-and-evolution-of-the-palestine-problem/part-ii-1947-1977/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Israel's War of Independence (1948)",
+          "url": "https://www.idf.il/en/mini-sites/wars-and-operations/israels-war-of-independence-1948/",
+          "publisher": "Israel Defense Forces",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Israel Ministry of Defense Archives - The Time Axis, 1947-1949",
+          "url": "https://archives.mod.gov.il/sites/English/theTimeAxis/Pages/1947-1949.aspx",
+          "publisher": "Israel Ministry of Defense Archives",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Palestine Remix - Al Nakba",
+          "url": "https://remix.aljazeera.com/aje/PalestineRemix/al-nakba.html",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Israeli dead (soldiers and civilians), 1947-1949",
+          "value": "6,373",
+          "attribution": "Israeli official figures",
+          "note": "IDF public history gives about 4,000 soldiers; the Ministry of Defense archive lists 4,624 soldiers."
+        },
+        {
+          "label": "Arab state soldiers killed",
+          "value": "roughly 3,700-7,000",
+          "attribution": "Historians' estimates",
+          "note": "No official consolidated Arab figures were published."
+        },
+        {
+          "label": "Palestinians killed by 1949",
+          "value": "more than 13,000",
+          "attribution": "Al Jazeera (Palestine Remix)"
+        }
+      ],
+      "era": "partition-war"
+    },
+    {
+      "id": "1948-05-15-nakba-1948-palestinian-displacement",
+      "date": "1948-05-15",
+      "endDate": "1949-07-20",
+      "lat": 32.0,
+      "lng": 35.0,
+      "location": "Mandatory Palestine / Israel (countrywide)",
+      "title": "1948 Palestinian displacement (Nakba)",
+      "category": "displacement",
+      "significance": 5,
+      "summary": "Between December 1947 and the 1949 armistices most of the Arab population of the territory that became Israel fled or was expelled, in what Palestinians call the Nakba ('catastrophe'). Flight from Haifa, Jaffa and Tiberias in April and May 1948, expulsions such as Lydda and Ramle in July, and the autumn offensives in Galilee and the Negev depopulated roughly 400 to 500 villages; Israel barred return after the war. Figures vary by source: the UN Mediator reported about 330,000 refugees in September 1948, the US State Department estimated 700,000 in March 1949, the UN Conciliation Commission put the total at 726,000 in 1950, Al Jazeera cites at least 750,000, and Israeli estimates at the time were about 520,000; Britannica gives a range of 520,000 to one million. About 150,000 Palestinians remained inside Israel; refugees in Gaza, the West Bank, Jordan, Lebanon and Syria were registered by UNRWA from 1950.",
+      "perspectives": [
+        {
+          "party": "Palestinian leadership / Palestinians",
+          "framing": "The Nakba is the foundational catastrophe of Palestinian national memory: a planned ethnic cleansing under Plan Dalet, the destruction of hundreds of villages and the denial of return, commemorated on 15 May."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Traditional Israeli accounts hold that Arabs left at the urging of their leaders or in the fog of a war the Arab side started, that Israel could not readmit a hostile population, and that a comparable number of Jews were displaced from Arab countries."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The UN describes the displacement of more than half the Palestinian people, records refugee numbers through the Conciliation Commission and UNRWA, and treats the refugees' rights under Resolution 194 as unresolved."
+        },
+        {
+          "party": "Historians",
+          "framing": "Since the 1980s Israeli 'new historians' such as Benny Morris have documented expulsions alongside flight from combat and fear, while disagreeing with Ilan Pappé and Palestinian scholars over whether there was a master plan."
+        }
+      ],
+      "sources": [
+        {
+          "title": "About the Nakba - Question of Palestine",
+          "url": "https://www.un.org/unispal/about-the-nakba/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Palestine refugees",
+          "url": "https://www.unrwa.org/palestine-refugees",
+          "publisher": "UNRWA",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "The Nakba did not start or end in 1948",
+          "url": "https://www.aljazeera.com/features/2017/5/23/the-nakba-did-not-start-or-end-in-1948",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "1948 Arab-Israeli War",
+          "url": "https://www.britannica.com/event/1948-Arab-Israeli-War",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "FRUS 1948, Vol. V, Part 2: Progress Report of the United Nations Mediator in Palestine (A/648) - approximately 330,000 Arab refugees (16 Sep 1948)",
+          "url": "https://history.state.gov/historicaldocuments/frus1948v05p2/d601",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "FRUS 1949, Vol. VI: Memorandum by the Assistant Secretary of State for United Nations Affairs (Rusk) - some 700,000 refugees (3 Mar 1949)",
+          "url": "https://history.state.gov/historicaldocuments/frus1949v06/d503",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Palestinian refugees",
+          "value": "726,000",
+          "attribution": "UN Conciliation Commission for Palestine (General Progress Report, 1950)"
+        },
+        {
+          "label": "Palestinian refugees",
+          "value": "approximately 330,000",
+          "attribution": "UN Mediator's progress report, September 1948",
+          "note": "Count before the autumn 1948 offensives."
+        },
+        {
+          "label": "Palestinian refugees",
+          "value": "some 700,000",
+          "attribution": "US State Department memorandum, March 1949"
+        },
+        {
+          "label": "Palestinian refugees",
+          "value": "at least 750,000",
+          "attribution": "Al Jazeera"
+        },
+        {
+          "label": "Palestinian refugees",
+          "value": "520,000 to 1,000,000 (consensus above 700,000)",
+          "attribution": "Encyclopaedia Britannica, summarising Israeli, Arab and UN estimates"
+        },
+        {
+          "label": "Villages depopulated",
+          "value": "about 400-530",
+          "attribution": "Walid Khalidi (418); Ilan Pappé (531)"
+        }
+      ],
+      "era": "partition-war"
+    },
+    {
+      "id": "1948-06-11-first-un-truce",
+      "date": "1948-06-11",
+      "endDate": "1948-07-08",
+      "lat": 36.4349,
+      "lng": 28.2176,
+      "location": "Palestine (countrywide); UN Mediator's headquarters, Rhodes",
+      "title": "First UN truce takes effect under Mediator Bernadotte",
+      "category": "ceasefire",
+      "significance": 3,
+      "summary": "Acting under Security Council Resolution 50 of 29 May 1948, UN Mediator Count Folke Bernadotte secured a four-week truce that came into force at 6 a.m. GMT on 11 June 1948 across Palestine. Both sides accepted a halt to fighting and a ban on bringing in fighting personnel and weapons, supervised by military observers from Belgium, France, Sweden and the United States, the nucleus of what became the UN Truce Supervision Organization. Israel used the pause to reorganise the Israel Defense Forces and absorb arms shipments, while the Arab armies also reinforced. Bernadotte's first proposals for a settlement, presented on 28 June, were rejected by both sides. The Arab League refused to extend the truce and fighting resumed on 8 July; after ten days of Israeli gains a second, open-ended truce ordered by Security Council Resolution 54 took effect on 18 July.",
+      "perspectives": [
+        {
+          "party": "United Nations",
+          "framing": "The truce was the Security Council's first enforced pause in the fighting and the origin of UN peacekeeping; the Mediator reported violations by both sides while pressing for a political settlement."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Accepted the truce to consolidate the IDF and absorb immigrants and arms, while regarding the embargo on immigrants of military age as discriminatory; Israel emerged from the pause materially stronger."
+        },
+        {
+          "party": "Arab League",
+          "framing": "Argued that the truce had allowed the Jewish side to rearm and expand, rejected its extension in July, and complained that UN supervision was not impartial."
+        }
+      ],
+      "sources": [
+        {
+          "title": "FRUS 1948, Vol. V, Part 2: The Secretary of State to All Diplomatic Offices - truce to commence June 11, 1948, 6 a.m. GMT (11 Jun 1948)",
+          "url": "https://history.state.gov/historicaldocuments/frus1948v05p2/d378",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "FRUS 1948, Vol. V, Part 2: Resolution 54 (1948) Adopted by the Security Council (15 Jul 1948)",
+          "url": "https://history.state.gov/historicaldocuments/frus1948v05p2/d468",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "UNTSO Operations",
+          "url": "https://untso.unmissions.org/untso-operations",
+          "publisher": "UNTSO (United Nations)",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "1948 Arab-Israeli War",
+          "url": "https://www.britannica.com/event/1948-Arab-Israeli-War",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Part II (1947-1977) - Origins and Evolution of the Palestine Problem",
+          "url": "https://www.un.org/unispal/history2/origins-and-evolution-of-the-palestine-problem/part-ii-1947-1977/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "verified": true,
+      "era": "partition-war"
+    },
+    {
+      "id": "1948-06-20-altalena-affair",
+      "date": "1948-06-20",
+      "endDate": "1948-06-22",
+      "lat": 32.08,
+      "lng": 34.765,
+      "location": "Kfar Vitkin and Tel Aviv beaches",
+      "title": "Altalena affair: IDF sinks Irgun arms ship off Tel Aviv",
+      "category": "political",
+      "significance": 2,
+      "summary": "During the first truce the Irgun's ship Altalena, carrying about 900 immigrants and volunteers and a cargo of rifles, machine guns and ammunition bought in France, anchored off Kfar Vitkin on 20 June 1948. Irgun leader Menachem Begin insisted that part of the arms go to Irgun units in Jerusalem, while the Provisional Government under David Ben-Gurion demanded that everything be handed to the newly unified Israel Defense Forces. After a firefight on the beach the ship sailed to Tel Aviv, where on 22 June IDF artillery shelled it and set it ablaze in view of the city. Sixteen Irgun members and three IDF soldiers were killed, according to The Times of Israel. Irgun units were then absorbed into the IDF, and the affair became a defining test of the new state's monopoly on armed force. The wreck was located off Tel Aviv in 2026.",
+      "perspectives": [
+        {
+          "party": "Israeli government (Ben-Gurion / Mapai)",
+          "framing": "Presented the confrontation as a necessary assertion that a sovereign state could have only one army and one government, and as preventing a private militia from importing arms in breach of the UN truce."
+        },
+        {
+          "party": "Irgun / Revisionist movement (Begin, later Likud)",
+          "framing": "Remembers the shelling of Jews by Jews as an unnecessary tragedy and a political attack on the Irgun, while crediting Begin's order not to return fire with averting civil war."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The Mediator listed the Altalena landing among truce violations by the Jewish side, and Arab governments cited it as evidence of unequal enforcement."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Fire in the hole: Blasting the Altalena",
+          "url": "https://www.timesofisrael.com/fire-in-the-hole-blasting-the-altalena/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Wreckage found of Altalena arms ship sunk in 1948 power tussle, ministers announce",
+          "url": "https://www.timesofisrael.com/wreckage-found-of-altalena-arms-ship-sunk-in-1948-power-tussle-ministers-announce/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "The Altalena affair (Ynetnews magazine)",
+          "url": "https://www.ynetnews.com/magazine/article/bytczrnph",
+          "publisher": "Ynetnews",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "FRUS 1948, Vol. V, Part 2: The Vice Consul at Jerusalem (Burdett) to the Secretary of State - the Altalena incident (24 Jun 1948)",
+          "url": "https://history.state.gov/historicaldocuments/frus1948v05p2/d406",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Menachem Begin",
+          "url": "https://www.britannica.com/biography/Menachem-Begin",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Irgun members killed",
+          "value": "16",
+          "attribution": "The Times of Israel"
+        },
+        {
+          "label": "IDF soldiers killed",
+          "value": "3",
+          "attribution": "The Times of Israel"
+        }
+      ],
+      "era": "partition-war"
+    },
+    {
+      "id": "1948-07-12-lydda-and-ramle-expulsions",
+      "date": "1948-07-12",
+      "endDate": "1948-07-13",
+      "lat": 31.9516,
+      "lng": 34.8956,
+      "location": "Lydda (Lod) and Ramle",
+      "title": "Capture of Lydda and Ramle and expulsion of their inhabitants",
+      "category": "displacement",
+      "significance": 4,
+      "summary": "In Operation Danny (9-18 July 1948), launched after the first truce collapsed, Israeli forces captured the Arab towns of Lydda (Lod) and Ramle, which lay on the road between Tel Aviv and Jerusalem and had been assigned to the Arab state under the partition plan. Lydda fell on 11-12 July; after an Arab Legion patrol entered the town on 12 July and shooting broke out, Israeli troops killed large numbers of residents, including people sheltering in the Dahmash mosque: historian Benny Morris estimates about 250 dead, while Palestinian historian Aref al-Aref counted 426. On 12-13 July the inhabitants of both towns, estimated by Morris at 50,000 to 70,000, were expelled towards Arab Legion lines under orders approved by David Ben-Gurion; many walked in extreme heat and an unknown number died on the way. A US intelligence report confirmed the towns' capture.",
+      "perspectives": [
+        {
+          "party": "Israeli government / IDF",
+          "framing": "Official accounts describe the capture as removing a threat to Tel Aviv and the Jerusalem corridor, the killings as a response to an uprising after the Legion's incursion, and the departure of residents as evacuation during combat."
+        },
+        {
+          "party": "Palestinian leadership / Palestinians",
+          "framing": "Remember the 'Lydda death march' as the largest single expulsion of the Nakba, with a massacre in the mosque and deaths of exhaustion and thirst on the road to Ramallah."
+        },
+        {
+          "party": "Historians",
+          "framing": "Benny Morris and Ari Shavit document an expulsion order approved by Ben-Gurion and conveyed by Yitzhak Rabin, while disputing the death toll; Palestinian historians give higher figures."
+        }
+      ],
+      "sources": [
+        {
+          "title": "FRUS 1948, Vol. V, Part 2: Report by the Central Intelligence Agency - capture of Lydda and Ramle during the nine days of fighting (27 Jul 1948)",
+          "url": "https://history.state.gov/historicaldocuments/frus1948v05p2/d486",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "FRUS 1948, Vol. V, Part 2: Progress Report of the United Nations Mediator in Palestine (A/648) (16 Sep 1948)",
+          "url": "https://history.state.gov/historicaldocuments/frus1948v05p2/d601",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "1948 Arab-Israeli War",
+          "url": "https://www.britannica.com/event/1948-Arab-Israeli-War",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Part II (1947-1977) - Origins and Evolution of the Palestine Problem",
+          "url": "https://www.un.org/unispal/history2/origins-and-evolution-of-the-palestine-problem/part-ii-1947-1977/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "The Nakba did not start or end in 1948",
+          "url": "https://www.aljazeera.com/features/2017/5/23/the-nakba-did-not-start-or-end-in-1948",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Residents expelled from Lydda and Ramle",
+          "value": "50,000-70,000",
+          "attribution": "Historian Benny Morris"
+        },
+        {
+          "label": "Killed in Lydda on 12 July",
+          "value": "about 250",
+          "attribution": "Historian Benny Morris"
+        },
+        {
+          "label": "Killed in Lydda on 12 July",
+          "value": "426",
+          "attribution": "Palestinian historian Aref al-Aref"
+        }
+      ],
+      "era": "partition-war"
+    },
+    {
+      "id": "1948-09-17-assassination-of-count-folke-bernadotte",
+      "date": "1948-09-17",
+      "lat": 31.762,
+      "lng": 35.212,
+      "location": "Katamon, Jerusalem",
+      "title": "UN Mediator Count Folke Bernadotte assassinated by Lehi in Jerusalem",
+      "category": "attack",
+      "significance": 3,
+      "summary": "On 17 September 1948 UN Mediator Count Folke Bernadotte, the Swedish diplomat appointed under General Assembly Resolution 186 on 20 May, was shot dead in Jerusalem's Katamon quarter by members of the Zionist underground group Lehi (the 'Stern Gang'), who stopped his convoy at an improvised roadblock; French observer Colonel André Sérot was also killed. The day before, Bernadotte had submitted a report proposing that the Negev go to the Arabs, Galilee to Israel, that Jerusalem be placed under UN control and that refugees be allowed to return. The Provisional Government of Israel outlawed Lehi and detained hundreds of its members, though no one was convicted of the killing; the Security Council condemned the assassination and Ralph Bunche became Acting Mediator, later negotiating the 1949 armistices. Bernadotte's report nonetheless shaped General Assembly Resolution 194.",
+      "perspectives": [
+        {
+          "party": "United Nations",
+          "framing": "Bunche cabled the Security Council that the Mediator had been 'brutally assassinated' in a planned, cold-blooded attack; the UN regards Bernadotte as the first of its officials killed on mission."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Condemned the killing, dissolved Lehi and used the crisis to complete the state's monopoly on force, while rejecting the Bernadotte plan's territorial proposals as unacceptable."
+        },
+        {
+          "party": "Lehi",
+          "framing": "Its leaders, including Yitzhak Shamir, later acknowledged authorising the attack, claiming Bernadotte's plan threatened Israel's survival and served British interests."
+        },
+        {
+          "party": "Arab League",
+          "framing": "Arab governments cited the assassination as proof of Jewish extremism, while also having rejected Bernadotte's earlier proposals."
+        }
+      ],
+      "sources": [
+        {
+          "title": "FRUS 1948, Vol. V, Part 2: The Consul General at Jerusalem (Macdonald) to the Secretary of State - Bunche's report on the assassination (17 Sep 1948)",
+          "url": "https://history.state.gov/historicaldocuments/frus1948v05p2/d605",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Count Folke Bernadotte: Sweden's Servant of Peace",
+          "url": "https://www.historytoday.com/archive/feature/count-folke-bernadotte-swedens-servant-peace",
+          "publisher": "History Today",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Part II (1947-1977) - Origins and Evolution of the Palestine Problem",
+          "url": "https://www.un.org/unispal/history2/origins-and-evolution-of-the-palestine-problem/part-ii-1947-1977/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "1948 Arab-Israeli War",
+          "url": "https://www.britannica.com/event/1948-Arab-Israeli-War",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Killed",
+          "value": "2 (Count Folke Bernadotte and Colonel André Sérot)",
+          "attribution": "UN report by Ralph Bunche, 17 September 1948"
+        }
+      ],
+      "era": "partition-war"
+    },
+    {
+      "id": "1948-12-11-un-general-assembly-resolution-194",
+      "date": "1948-12-11",
+      "lat": 48.862,
+      "lng": 2.288,
+      "location": "UN General Assembly, Palais de Chaillot, Paris",
+      "title": "UN General Assembly adopts Resolution 194 on refugees and Jerusalem",
+      "category": "political",
+      "significance": 4,
+      "summary": "On 11 December 1948 the UN General Assembly, meeting in Paris, adopted Resolution 194 (III) by 35 votes to 15 with 8 abstentions. Drawing on Bernadotte's final report, it established a three-member Conciliation Commission for Palestine (France, Turkey and the United States), called for Jerusalem and its environs to be placed under permanent international control, and in paragraph 11 resolved 'that the refugees wishing to return to their homes and live at peace with their neighbours should be permitted to do so at the earliest practicable date, and that compensation should be paid for the property of those choosing not to return'. The six Arab member states voted against, rejecting any implied recognition of Israel; Israel, not yet a member, argued that return must await a peace settlement. The resolution has been reaffirmed annually and underpins the Palestinian refugee claim.",
+      "perspectives": [
+        {
+          "party": "Palestinian leadership / PLO",
+          "framing": "Treats paragraph 11 as the legal basis of the 'right of return' for refugees and their descendants, and cites the resolution's linkage to Israel's UN admission."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Reads paragraph 11 as conditional ('wishing to live at peace') and non-binding, holds that the refugee question must be resolved through resettlement and a negotiated peace, and notes that Arab states voted against it."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The resolution created the Conciliation Commission and remains the reference point for the refugee question and for UNRWA's mandate, with the Assembly reaffirming it every year."
+        },
+        {
+          "party": "Arab League",
+          "framing": "Rejected the resolution in 1948 because it implied recognition of Israel and did not restore the Arab state, but later embraced paragraph 11 as a demand."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Resolution 194 (III). Palestine - Progress Report of the United Nations Mediator (A/RES/194(III), 11 December 1948)",
+          "url": "https://www.un.org/unispal/document/auto-insert-210170/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Resolution 194",
+          "url": "https://www.unrwa.org/content/resolution-194",
+          "publisher": "UNRWA",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "A/RES/194 (III) of 11 December 1948",
+          "url": "https://www.securitycouncilreport.org/un-documents/document/ip-ares-194.php",
+          "publisher": "Security Council Report",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "FRUS 1948, Vol. V, Part 2: The Acting Secretary of State to Certain Diplomatic and Consular Offices - text of the refugee paragraph of the General Assembly resolution of December 11, 1948 (29 Dec 1948)",
+          "url": "https://history.state.gov/historicaldocuments/frus1948v05p2/d852",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "verified": true,
+      "era": "partition-war"
+    },
+    {
+      "id": "1949-02-24-israel-egypt-armistice-agreement",
+      "date": "1949-02-24",
+      "lat": 36.4349,
+      "lng": 28.2176,
+      "location": "Rhodes, Greece",
+      "title": "Israel and Egypt sign General Armistice Agreement at Rhodes",
+      "category": "treaty",
+      "significance": 4,
+      "summary": "After six weeks of negotiations on the island of Rhodes chaired by UN Acting Mediator Ralph Bunche, Egypt and Israel signed a General Armistice Agreement on 24 February 1949, the first of four agreements ending the fighting of the 1948 war. The armistice line followed the former Mandate boundary with Egypt except along the coast, where Egypt retained the Gaza Strip, which it went on to administer without annexing it; Egyptian troops besieged at Faluja were allowed to withdraw with their arms, a demilitarised zone was created around al-Auja, and a Mixed Armistice Commission was set up under UN supervision. The agreement stated that the demarcation line was 'not to be construed in any sense as a political or territorial boundary'. President Truman hailed the signing the same day. Lebanon, Jordan and Syria followed with their own agreements between March and July 1949.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Treated the armistice as international acceptance of the ceasefire lines it had won, including the whole Negev, and as a step towards peace treaties that did not follow."
+        },
+        {
+          "party": "Egypt",
+          "framing": "Insisted that the agreement was purely military and without political character, that it did not recognise Israel, and that a state of war continued, later justifying restrictions on Israeli shipping through the Suez Canal."
+        },
+        {
+          "party": "United Nations",
+          "framing": "Bunche, who received the 1950 Nobel Peace Prize for the negotiations, presented the armistices as fulfilling Security Council Resolution 62 and as provisional arrangements pending a final settlement."
+        },
+        {
+          "party": "Palestinian leadership",
+          "framing": "Palestinians were not party to the talks; the agreement left about 200,000 refugees crowded into the Egyptian-administered Gaza Strip."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Egyptian-Israeli General Armistice Agreement, February 24, 1949",
+          "url": "https://avalon.law.yale.edu/20th_century/arm01.asp",
+          "publisher": "Yale Avalon Project",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Egypt-Israel General Armistice Agreement, 1949 (UN Peacemaker document)",
+          "url": "https://peacemaker.un.org/sites/default/files/document/files/2024/05/eg20il490224egyptian-israeli20general20armistice20agreement.pdf",
+          "publisher": "UN Peacemaker",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "FRUS 1949, Vol. VI: Statement by the President on the signing of the Egyptian-Israeli armistice at Rhodes (24 Feb 1949)",
+          "url": "https://history.state.gov/historicaldocuments/frus1949v06/d481",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "FRUS 1949, Vol. VI: The Chargé in Egypt (Patterson) to the Secretary of State - official communiqué on signature at Rhodes (24 Feb 1949)",
+          "url": "https://history.state.gov/historicaldocuments/frus1949v06/d486",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Gaza Strip",
+          "url": "https://www.britannica.com/place/Gaza-Strip",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Israel-Egypt Armistice Agreement (1949)",
+          "url": "https://www.jewishvirtuallibrary.org/israel-egypt-armistice-agreement-1949",
+          "publisher": "Jewish Virtual Library",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "verified": true,
+      "era": "partition-war"
+    },
+    {
+      "id": "1949-03-23-israel-lebanon-armistice-agreement",
+      "date": "1949-03-23",
+      "lat": 33.093,
+      "lng": 35.106,
+      "location": "Ras al-Naqura (Rosh HaNikra), Israel-Lebanon border",
+      "title": "Israel and Lebanon sign General Armistice Agreement at Ras al-Naqura",
+      "category": "treaty",
+      "significance": 2,
+      "summary": "Israel and Lebanon signed a General Armistice Agreement at Ras al-Naqura (Rosh HaNikra) on the coastal border on 23 March 1949, the second of the agreements negotiated under UN Acting Mediator Ralph Bunche. The armistice demarcation line followed the international boundary between Lebanon and Mandatory Palestine drawn in 1923, and Israel agreed to withdraw from around a dozen villages in southern Lebanon that it had occupied during Operation Hiram in October 1948. Lebanon had committed only limited forces to the war, and agreement came quickly once the Egyptian armistice was signed. A Mixed Armistice Commission chaired by a UN observer was established to handle complaints. Like the other 1949 agreements, it stated that its provisions were dictated by military considerations and did not prejudice a final settlement; the line later became the basis of the UN-defined 'Blue Line' of 2000.",
+      "perspectives": [
+        {
+          "party": "Lebanon",
+          "framing": "Presented the agreement as restoring its international border and securing Israeli withdrawal, while maintaining that it implied no recognition of Israel and that a state of war persisted."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Regarded the northern armistice as the least contentious, trading occupied Lebanese villages for a quiet border, and later cited it as the legal basis for the frontier."
+        },
+        {
+          "party": "United Nations",
+          "framing": "UNTSO observers manned the Mixed Armistice Commission and treated the line as an armistice line rather than an agreed border pending peace."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Lebanese-Israeli General Armistice Agreement, March 23, 1949",
+          "url": "https://avalon.law.yale.edu/20th_century/arm02.asp",
+          "publisher": "Yale Avalon Project",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "FRUS 1949, Vol. VI: Memorandum by the Director of the Office of Near Eastern and African Affairs (Satterthwaite) - armistice agreements signed between Israel and Egypt and Israel and Lebanon (24 Mar 1949)",
+          "url": "https://history.state.gov/historicaldocuments/frus1949v06/d551",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "FRUS 1949, Vol. VI: The Secretary of State to the Embassy in Israel - Israel-Lebanon armistice about to be signed (19 Mar 1949)",
+          "url": "https://history.state.gov/historicaldocuments/frus1949v06/d541",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "UNTSO Operations",
+          "url": "https://untso.unmissions.org/untso-operations",
+          "publisher": "UNTSO (United Nations)",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Part II (1947-1977) - Origins and Evolution of the Palestine Problem",
+          "url": "https://www.un.org/unispal/history2/origins-and-evolution-of-the-palestine-problem/part-ii-1947-1977/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "verified": true,
+      "era": "partition-war"
+    },
+    {
+      "id": "1949-04-03-israel-jordan-armistice-agreement",
+      "date": "1949-04-03",
+      "lat": 36.4349,
+      "lng": 28.2176,
+      "location": "Rhodes, Greece",
+      "title": "Israel and Transjordan sign General Armistice Agreement at Rhodes",
+      "category": "treaty",
+      "significance": 4,
+      "summary": "Israel and the Hashemite Kingdom of Transjordan signed a General Armistice Agreement at Rhodes on 3 April 1949, following secret talks between Israeli envoys and King Abdullah at Shuneh. The agreement left the Arab Legion in control of the West Bank hill country and East Jerusalem including the Old City, divided Jerusalem along the November 1948 ceasefire lines with Mount Scopus as an Israeli enclave, and covered the front previously held by Iraqi troops, who withdrew without a separate agreement. In return Israel received the Wadi Ara area and the 'Little Triangle', containing about 16 villages and 35,000 inhabitants, according to a US consular report that noted bitter Palestinian resentment at the transfer. Article II stated that no provision prejudiced either party's rights and claims in the ultimate settlement of the Palestine question. The demarcation line, later called the Green Line, defined the Israel-West Bank boundary until June 1967.",
+      "perspectives": [
+        {
+          "party": "Jordan",
+          "framing": "Secured recognition of its control of the West Bank and the Old City, which it annexed in 1950, and describes the agreement as protecting the Arab areas of Palestine that its army had saved."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Accepted a divided Jerusalem and Jordanian rule in the West Bank in exchange for strategic gains in Wadi Ara and a quiet eastern front, while insisting the line was not a final border."
+        },
+        {
+          "party": "Palestinian leadership / Palestinians",
+          "framing": "Palestinians in the transferred villages and the Arab Higher Committee condemned the deal as a partition of Palestine between Israel and Abdullah over their heads."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The agreement, registered with the UN, created a Mixed Armistice Commission and special committees on Jerusalem access and the Mount Scopus enclave supervised by UNTSO."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Jordanian-Israeli General Armistice Agreement, April 3, 1949",
+          "url": "https://avalon.law.yale.edu/20th_century/arm03.asp",
+          "publisher": "Yale Avalon Project",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Hashemite Jordan Kingdom-Israel General Armistice Agreement (S/1302/Rev.1, 3 April 1949)",
+          "url": "https://www.un.org/unispal/document/auto-insert-181069/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "S/1302/Rev.1 - Hashemite Jordan Kingdom-Israel General Armistice Agreement (UN Digital Library)",
+          "url": "https://digitallibrary.un.org/record/486014/files/S_1302_Rev.1-EN.pdf",
+          "publisher": "United Nations Digital Library",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "FRUS 1949, Vol. VI: The Consul at Jerusalem (Burdett) to the Secretary of State - Palestinian resentment over the Israel-Transjordan armistice and the transfer of 16 villages (8 Apr 1949)",
+          "url": "https://history.state.gov/historicaldocuments/frus1949v06/d586",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "FRUS 1949, Vol. VI: Memorandum of Conversation, by the Secretary of State - congratulations on the armistice concluded between Israel and Transjordan (5 Apr 1949)",
+          "url": "https://history.state.gov/historicaldocuments/frus1949v06/d577",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "West Bank",
+          "url": "https://www.britannica.com/place/West-Bank",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "verified": true,
+      "era": "partition-war"
+    },
+    {
+      "id": "1949-05-11-israel-admitted-to-the-united-nations",
+      "date": "1949-05-11",
+      "lat": 40.7459,
+      "lng": -73.8448,
+      "location": "UN General Assembly, Flushing Meadows, New York",
+      "title": "Israel admitted to the United Nations under Resolution 273",
+      "category": "political",
+      "significance": 3,
+      "summary": "On 11 May 1949 the UN General Assembly adopted Resolution 273 (III) by 37 votes to 12 with 9 abstentions, admitting Israel as the organisation's 59th member state on the Security Council's recommendation of 4 March. The resolution recalled Resolutions 181 and 194 and 'the declarations and explanations' that Israel's representative had given the Ad Hoc Political Committee about implementing them, a linkage Arab states later invoked. An earlier application in December 1948 had failed in the Security Council. Arab members voted against, arguing that Israel had not complied with the partition and refugee resolutions, while the United States co-sponsored the admission. Israel's flag was raised at UN headquarters the same day. Membership consolidated the state's international standing just as the Lausanne talks with Arab delegations under the Conciliation Commission were beginning.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Celebrated admission as final international acceptance of statehood and rejected the argument that membership was conditional on implementing Resolutions 181 and 194."
+        },
+        {
+          "party": "Arab League",
+          "framing": "Opposed admission on the grounds that Israel had seized territory beyond the partition lines, refused to repatriate refugees and had not resolved Jerusalem's status, and later argued its membership was conditional."
+        },
+        {
+          "party": "United States",
+          "framing": "Co-sponsored the resolution, having lobbied other members, while pressing Israel at Lausanne on refugees and territory."
+        },
+        {
+          "party": "United Nations",
+          "framing": "Records Israel as admitted in 1949 as the 59th member; the Assembly's text uniquely referenced the new member's assurances on earlier resolutions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "A/RES/273 (III) - Admission of Israel to membership in the United Nations",
+          "url": "https://www.securitycouncilreport.org/un-documents/document/unmembers-ares273-iii.php",
+          "publisher": "Security Council Report",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Growth in United Nations membership",
+          "url": "https://www.un.org/en/about-us/growth-in-un-membership",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "FRUS 1949, Vol. VI: The Secretary of State to the Israeli Ambassador (Elath) - on the occasion of the admission of Israel to the United Nations (18 May 1949)",
+          "url": "https://history.state.gov/historicaldocuments/frus1949v06/d665",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "FRUS 1949, Vol. VI: The Secretary of State to the Legation in Switzerland - US co-sponsorship of the resolution on admission of Israel (12 May 1949)",
+          "url": "https://history.state.gov/historicaldocuments/frus1949v06/d655",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Creation of Israel, 1948 (Milestones 1945-1952)",
+          "url": "https://history.state.gov/milestones/1945-1952/creation-israel",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "verified": true,
+      "era": "partition-war"
+    },
+    {
+      "id": "1949-07-20-israel-syria-armistice-agreement",
+      "date": "1949-07-20",
+      "lat": 33.006,
+      "lng": 35.57,
+      "location": "Hill 232 near Mahanayim, north of the Sea of Galilee",
+      "title": "Israel and Syria sign the last of the 1949 armistice agreements",
+      "category": "treaty",
+      "significance": 3,
+      "summary": "The last of the 1949 armistice agreements was signed between Israel and Syria on 20 July 1949 in a tent on Hill 232 near Mahanayim, north of the Sea of Galilee, after three and a half months of negotiations under UN mediation that had produced a formal ceasefire on 13 April. Syrian forces withdrew from the positions they held west of the former Mandate boundary at Mishmar HaYarden and along the Jordan River and the lake shore; those areas became demilitarised zones under a Mixed Armistice Commission chaired by a UN officer, with sovereignty deliberately left unresolved. Article V stated that the line was not to be interpreted as having any relation to ultimate territorial arrangements. The agreement completed the end of hostilities of the 1948 war, but disputes over the zones and water works produced recurring clashes until 1967.",
+      "perspectives": [
+        {
+          "party": "Syria",
+          "framing": "Maintained that the demilitarised zones were not Israeli territory and that a state of war continued, later opposing Israeli drainage and water projects there."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Claimed sovereignty over the demilitarised zones as part of Mandatory Palestine and resented the Syrian withdrawal being made conditional on demilitarisation rather than full evacuation."
+        },
+        {
+          "party": "United Nations",
+          "framing": "UNTSO chaired the Israel-Syria Mixed Armistice Commission and repeatedly ruled that neither side could exercise sovereignty in the zones; the Security Council criticised Israel's boycott of the Commission in 1951."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Israeli-Syrian General Armistice Agreement, July 20, 1949",
+          "url": "https://avalon.law.yale.edu/20th_century/arm04.asp",
+          "publisher": "Yale Avalon Project",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "FRUS 1949, Vol. VI: The Secretary of State to the Legation in Syria - gratification at the signature of the Israeli-Syrian armistice agreement on July 20 (20 Jul 1949)",
+          "url": "https://history.state.gov/historicaldocuments/frus1949v06/d843",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "FRUS 1949, Vol. VI: Message Released by the United Nations Security Council - Israeli-Syrian ceasefire declarations of 13 April (16 Apr 1949)",
+          "url": "https://history.state.gov/historicaldocuments/frus1949v06/d596",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "UNTSO Operations",
+          "url": "https://untso.unmissions.org/untso-operations",
+          "publisher": "UNTSO (United Nations)",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Part II (1947-1977) - Origins and Evolution of the Palestine Problem",
+          "url": "https://www.un.org/unispal/history2/origins-and-evolution-of-the-palestine-problem/part-ii-1947-1977/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "verified": true,
+      "era": "partition-war"
+    }
+  ],
+  "boundaryChanges": [
+    {
+      "date": "1947-11-29",
+      "description": "UN General Assembly Resolution 181 recommends partition into a Jewish state (about 55-56 percent of the territory), an Arab state and an international Jerusalem; the lines were never implemented but define the plan shown for this era.",
+      "sources": [
+        "https://www.un.org/unispal/document/auto-insert-185393/",
+        "https://avalon.law.yale.edu/20th_century/res181.asp"
+      ]
+    },
+    {
+      "date": "1948-04-22",
+      "description": "Haganah takes control of Haifa after the British withdraw to the port area; most of the Arab population leaves within days.",
+      "sources": [
+        "https://history.state.gov/historicaldocuments/frus1948v05p2/d573",
+        "https://history.state.gov/historicaldocuments/frus1948v05p2/d166"
+      ]
+    },
+    {
+      "date": "1948-05-13",
+      "description": "Jaffa, allotted to the Arab state, surrenders to the Haganah; Safed (11 May) and Beisan (12 May) also fall in the same days, and Kfar Etzion is captured by the Arab Legion and local Arab forces.",
+      "sources": [
+        "https://history.state.gov/historicaldocuments/frus1948v05p2/d262",
+        "https://www.britannica.com/event/1948-Arab-Israeli-War"
+      ]
+    },
+    {
+      "date": "1948-05-15",
+      "description": "The British Mandate ends; the State of Israel exercises authority in the areas held by Jewish forces, while the armies of Egypt, Transjordan, Syria, Iraq and Lebanon enter Palestine. Egypt takes the Gaza coast and the southern hills; the Arab Legion holds the central hill country and Latrun.",
+      "sources": [
+        "https://history.state.gov/historicaldocuments/frus1948v05p2/d278",
+        "https://history.state.gov/milestones/1945-1952/arab-israeli-war"
+      ]
+    },
+    {
+      "date": "1948-05-28",
+      "description": "The Jewish Quarter of Jerusalem's Old City surrenders to the Arab Legion, which holds East Jerusalem and the Old City until 1967.",
+      "sources": [
+        "https://history.state.gov/historicaldocuments/frus1948v05p2/d345",
+        "https://www.britannica.com/event/1948-Arab-Israeli-War"
+      ]
+    },
+    {
+      "date": "1948-07-12",
+      "description": "Operation Danny (9-18 July): Israeli forces capture Lydda, Ramle and their surroundings and, on 16 July, Nazareth in Galilee.",
+      "sources": [
+        "https://history.state.gov/historicaldocuments/frus1948v05p2/d486",
+        "https://www.un.org/unispal/history2/origins-and-evolution-of-the-palestine-problem/part-ii-1947-1977/"
+      ]
+    },
+    {
+      "date": "1948-10-21",
+      "description": "Operation Yoav (15-22 October): Israel captures Beersheba and the northern Negev, isolating Egyptian forces in the Faluja pocket and along the Gaza coast.",
+      "sources": [
+        "https://www.britannica.com/event/1948-Arab-Israeli-War",
+        "https://www.un.org/unispal/history2/origins-and-evolution-of-the-palestine-problem/part-ii-1947-1977/"
+      ]
+    },
+    {
+      "date": "1948-10-31",
+      "description": "Operation Hiram (29-31 October): Israel takes the central Upper Galilee from the Arab Liberation Army and briefly occupies villages in southern Lebanon.",
+      "sources": [
+        "https://www.britannica.com/event/1948-Arab-Israeli-War",
+        "https://history.state.gov/historicaldocuments/frus1949v06/d551"
+      ]
+    },
+    {
+      "date": "1949-02-24",
+      "description": "Israel-Egypt armistice: Egypt retains and administers the Gaza Strip; the Faluja pocket is evacuated and passes to Israeli control; a demilitarised zone is created at al-Auja.",
+      "sources": [
+        "https://avalon.law.yale.edu/20th_century/arm01.asp",
+        "https://history.state.gov/historicaldocuments/frus1949v06/d481"
+      ]
+    },
+    {
+      "date": "1949-03-10",
+      "description": "Operation Uvda: Israeli forces reach Umm Rashrash (Eilat) on the Gulf of Aqaba, completing Israeli control of the Negev before the armistice with Jordan.",
+      "sources": [
+        "https://www.britannica.com/event/1948-Arab-Israeli-War",
+        "https://history.state.gov/historicaldocuments/frus1949v06/d518"
+      ]
+    },
+    {
+      "date": "1949-03-23",
+      "description": "Israel-Lebanon armistice: the line follows the 1923 international boundary and Israel withdraws from the Lebanese villages it occupied in October 1948.",
+      "sources": [
+        "https://avalon.law.yale.edu/20th_century/arm02.asp",
+        "https://history.state.gov/historicaldocuments/frus1949v06/d551"
+      ]
+    },
+    {
+      "date": "1949-04-03",
+      "description": "Israel-Transjordan armistice: the West Bank and East Jerusalem remain under Jordanian control; Wadi Ara and the Little Triangle (about 16 villages) are transferred to Israel; Mount Scopus becomes a demilitarised Israeli enclave; the Iraqi-held front passes to the Arab Legion.",
+      "sources": [
+        "https://www.un.org/unispal/document/auto-insert-181069/",
+        "https://history.state.gov/historicaldocuments/frus1949v06/d586"
+      ]
+    },
+    {
+      "date": "1949-07-20",
+      "description": "Israel-Syria armistice: Syrian forces withdraw from positions west of the former Mandate boundary, which become demilitarised zones under UN supervision; Israel now holds about 78 percent of Mandatory Palestine.",
+      "sources": [
+        "https://avalon.law.yale.edu/20th_century/arm04.asp",
+        "https://history.state.gov/historicaldocuments/frus1949v06/d843"
+      ]
+    }
+  ],
+  "excluded": [
+    {
+      "title": "Haifa Oil Refinery killings",
+      "date": "1947-12-30",
+      "reason": "Significant early atrocity (Irgun bombing followed by the killing of 39 Jewish workers) but below the unit's threshold once all mandated events were included; covered by the civil-war entry."
+    },
+    {
+      "title": "Ben Yehuda Street bombing, Jerusalem",
+      "date": "1948-02-22",
+      "reason": "Major civil-war bombing (about 50 killed) folded into the civil-war entry to keep the unit near its target size."
+    },
+    {
+      "title": "Operation Nachshon / battle for the Jerusalem road",
+      "date": "1948-04-03 to 1948-04-15",
+      "reason": "Referenced within the Deir Yassin and civil-war entries; treated as context rather than a separate marker."
+    },
+    {
+      "title": "Kfar Etzion massacre",
+      "date": "1948-05-13",
+      "reason": "Killing of about 120-150 surrendering defenders and residents by Arab forces; recorded in the boundary changes for 13 May and omitted as a separate event because the unit already exceeds its target size."
+    },
+    {
+      "title": "Fall of the Jewish Quarter of the Old City",
+      "date": "1948-05-28",
+      "reason": "Recorded as a boundary change; its consequences appear in the Arab-entry and Jordan-armistice entries."
+    },
+    {
+      "title": "Bernadotte plan (first and second proposals)",
+      "date": "1948-06-28 and 1948-09-16",
+      "reason": "Folded into the truce and assassination entries."
+    },
+    {
+      "title": "Operations Yoav, Hiram and Horev",
+      "date": "1948-10-15 to 1949-01-07",
+      "reason": "Recorded as boundary changes; the campaign as a whole is covered by the Arab-entry war entry."
+    },
+    {
+      "title": "Al-Dawayima killings",
+      "date": "1948-10-29",
+      "reason": "Serious atrocity during Operation Yoav, but no verifiable source URL could be located under this session's network restrictions; should be considered for a future revision."
+    },
+    {
+      "title": "Lausanne Conference of the Conciliation Commission",
+      "date": "1949-04-27 to 1949-09-12",
+      "reason": "Negotiations ran past the unit's end date and produced no agreement; mentioned in the admission and Resolution 194 entries."
+    },
+    {
+      "title": "Jewish exodus from Arab countries",
+      "date": "1948-1951",
+      "reason": "Regional consequence largely outside the unit's date range and geography; noted in the Nakba entry's Israeli perspective."
+    }
+  ],
+  "uncertainties": [
+    "RESEARCH-ENVIRONMENT LIMITATION: in this session the WebSearch budget was already exhausted and the organisation's egress proxy denied every publisher host (un.org, britannica.com, avalon.law.yale.edu, gov.il, history.state.gov, aljazeera.com, haaretz.com, timesofisrael.com, unrwa.org, palestine-studies.org and others) for both WebFetch and curl (HTTP CONNECT 403), so no cited URL could be opened or status-checked directly. Only github.com, api.github.com and raw.githubusercontent.com were reachable. URLs were therefore taken from (a) the sibling research files in this repository whose URLs were verified earlier today, (b) verbatim strings found in public GitHub repositories via GitHub code search (proving the URL is real and cited, not invented), and (c) the deterministic history.state.gov document pattern (frus<volume>/d<n>) applied to document ids read from the Office of the Historian's own FRUS TEI XML on GitHub (HistoryAtState/frus). Facts were cross-checked against the FRUS document texts, mirrored copies of Al Jazeera's Palestine Remix page and the UN membership page, Times of Israel RSS descriptions, and Wikipedia-derived corpora (used only for cross-checking, never cited). 'verified: true' reflects confirmation of date and core facts in at least two such texts; a link check (npm run validate -- --links) from an unrestricted network is strongly recommended before publication.",
+    "Avalon armistice URLs: arm03.asp (Jordan) was found cited verbatim; arm01.asp (Egypt), arm02.asp (Lebanon) and arm04.asp (Syria) follow the same numbered series on the Avalon Middle East page and are therefore inferred rather than seen; each of those events carries independent UN or FRUS sources should a link fail.",
+    "Hadassah medical convoy (1948-04-13) is marked verified: false: no publisher page specifically about the attack could be located through the reachable channels, so its sources are the US FRUS documents on the demilitarisation of the Mount Scopus enclave and Britannica's general war article; the date and the death toll (78, sometimes 79 including a British soldier) are confirmed only by Wikipedia-derived texts. A Hadassah, Times of Israel or Jerusalem Post source should be added when network access allows.",
+    "Civil-war casualty figure (869 killed, 1,909 injured between 30 November 1947 and 1 February 1948) is the figure conventionally cited from British Mandate statistics reported to the UN Palestine Commission; it could not be re-read in-session and is flagged in the casualty note.",
+    "Deir Yassin death toll: contemporary claims of 250-254 (repeated in the US consul's 13 April telegram) versus the 1987 Bir Zeit study's 107 and Benny Morris's 100-120; all three are given side by side. The size of the attacking force (about 120-130) and the four attacker deaths come from Irgun/Lehi accounts.",
+    "Haifa and Jaffa population and departure figures are historians' estimates (Morris and others) rather than official counts; Jaffa's formal surrender is dated 13 May 1948, although some accounts use 14 May.",
+    "Lydda: the killings are dated 12 July and the expulsion 12-13 July 1948; death tolls of about 250 (Morris) and 426 (Aref al-Aref) are given side by side, and deaths during the march are described in accounts ranging from a handful to several hundred.",
+    "Nakba entry dating: the displacement spanned December 1947 to 1949; the marker is placed on 15 May 1948 (Nakba Day) with an end date at the Syrian armistice. Refugee figures differ by date and source (330,000 in September 1948; 700,000 in March 1949; 726,000 per the Conciliation Commission in 1950; a UN figure of 711,000 is also often cited); Israeli estimates of about 520,000 and the 400-530 depopulated-village counts are from secondary literature.",
+    "Whole-war casualty figures: Israel's 6,373 dead is the customary official figure (IDF public history gives about 4,000 soldiers and the Ministry of Defense archive 4,624 soldiers); Arab-state military dead (roughly 3,700-7,000) and Palestinian dead (Al Jazeera: more than 13,000) are estimates with no consolidated official count.",
+    "Altalena: the ship reached Kfar Vitkin on 20 June 1948 and was shelled off Tel Aviv on 22 June; the US vice consul's telegram dates the Tel Aviv landing attempt to 22 June while the UN Mediator's report refers to 21 June. Casualty figures (16 Irgun, 3 IDF) follow The Times of Israel (August 2026 reports on the wreck's discovery).",
+    "Resolution 194 vote (35-15-8) and Resolution 273 vote (37-12-9) are the standard tallies from UN records; they were not re-read from the UN pages in this session.",
+    "Israel-Syria armistice: signed on 20 July 1949 at a location variously described as Hill 232, Mahanayim or near the Bnot Yaakov bridge; coordinates are approximate.",
+    "Unit size: the brief's target was 14-17 events, but every mandated item (including the four separate armistice agreements) was retained as its own dated marker, giving 19 events."
+  ]
+}

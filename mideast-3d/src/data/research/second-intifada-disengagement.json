@@ -1,0 +1,1336 @@
+{
+  "era": "second-intifada-disengagement",
+  "unit": "second-intifada-disengagement",
+  "events": [
+    {
+      "id": "2000-09-28-sharon-temple-mount-visit-second-intifada-begins",
+      "date": "2000-09-28",
+      "lat": 31.778,
+      "lng": 35.2354,
+      "location": "Temple Mount / Haram al-Sharif, Jerusalem",
+      "title": "Sharon visits Temple Mount / Haram al-Sharif; Second Intifada begins",
+      "category": "political",
+      "significance": 5,
+      "summary": "On 28 September 2000, Likud opposition leader Ariel Sharon toured the Temple Mount / Haram al-Sharif compound in Jerusalem's Old City, escorted by a large Israeli police contingent, to assert Israeli sovereignty over the site after the collapse of the Camp David summit. Palestinian demonstrators clashed with police during the visit, and on 29 September, after Friday prayers, Israeli police used live fire on stone-throwing crowds inside the compound; contemporaneous reports cited by PBS and The Times of Israel put the number of Palestinians killed that day in Jerusalem at up to seven. Protests and armed confrontations spread rapidly across the West Bank, Gaza Strip and, within days, Arab towns inside Israel. It is widely treated as the start of the Second, or Al-Aqsa, Intifada, an uprising lasting roughly until 2005 that, per Encyclopaedia Britannica, produced more than 4,300 deaths at a ratio of roughly three Palestinians to one Israeli.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Israeli officials described the visit as a legitimate tour by a member of the Knesset of the holiest site in Judaism and argued that the uprising was premeditated by the Palestinian leadership after the failure of Camp David, using the visit as a pretext; Israel refers to the compound as the Temple Mount and to the uprising as the 'Palestinian terror war' or 'Oslo war'."
+        },
+        {
+          "party": "Palestinian Authority",
+          "framing": "Palestinian leaders called the visit a deliberate provocation at Al-Aqsa Mosque, the third-holiest site in Islam, and framed the ensuing 'Al-Aqsa Intifada' as a popular uprising against occupation and the failure of Oslo to deliver a state."
+        },
+        {
+          "party": "United Nations",
+          "framing": "Security Council resolution 1322 of 7 October 2000 deplored the provocation carried out at Al-Haram al-Sharif and condemned the excessive use of force against Palestinians, while calling on Israel to abide by the Fourth Geneva Convention; the Mitchell Committee later found the visit did not cause the uprising but was poorly timed."
+        }
+      ],
+      "sources": [
+        {
+          "title": "What happened on the Temple Mount in September 2000?",
+          "url": "https://www.britannica.com/question/What-happened-on-the-Temple-Mount-in-September-2000",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Twenty years since the Al-Aqsa Intifada, what do Palestinians hope for now",
+          "url": "https://www.timesofisrael.com/twenty-years-since-the-al-aqsa-intifada-what-do-palestinians-hope-for-now/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Global Connections: Ariel Sharon visits the Temple Mount (September 2000)",
+          "url": "https://www.pbs.org/wgbh/globalconnections/mideast/timeline/text/links/event_155.html",
+          "publisher": "PBS",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Palestinian Intifada: 20 years later, Israeli occupation continues",
+          "url": "https://www.aljazeera.com/news/2020/9/28/palestinian-intifada-20-years-later-israeli-occupation-continues",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "second-intifada-disengagement",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Palestinians killed in Jerusalem clashes, 29 September 2000",
+          "value": "up to 7",
+          "attribution": "Contemporaneous reports cited by PBS and The Times of Israel",
+          "note": "Figures for the first day range from four to seven depending on the source and area counted."
+        },
+        {
+          "label": "Total fatalities, Second Intifada (2000-05)",
+          "value": "more than 4,300",
+          "attribution": "Encyclopaedia Britannica",
+          "note": "Ratio of Palestinian to Israeli deaths given as slightly more than 3 to 1."
+        }
+      ]
+    },
+    {
+      "id": "2000-10-01-october-2000-killings-arab-citizens-of-israel",
+      "date": "2000-10-01",
+      "endDate": "2000-10-08",
+      "lat": 32.5195,
+      "lng": 35.1527,
+      "location": "Umm al-Fahm and Galilee towns, Israel",
+      "title": "October 2000 killings of Arab citizens of Israel; Or Commission",
+      "category": "attack",
+      "significance": 2,
+      "summary": "Between 1 and 8 October 2000, protests by Palestinian citizens of Israel in Galilee and Triangle towns such as Umm al-Fahm, Nazareth and Sakhnin, held in solidarity with Palestinians in the occupied territories, turned into confrontations with Israeli police. Officers used live ammunition and rubber-coated bullets; per the legal centre Adalah, thirteen unarmed Palestinians were shot dead, twelve of them citizens of Israel and one a resident of Gaza, and hundreds were injured. The government of Ehud Barak appointed a state commission of inquiry under Supreme Court Justice Theodor Or on 8 November 2000. Its report, published on 1 September 2003, found that there had been no justification for the lethal fire, criticised senior police commanders and political leaders, and recommended reforms. No officer was indicted, a point that families and rights groups continue to raise, and the events deepened the estrangement between the state and its Arab minority.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "The Barak government described the events as violent riots that blocked roads and endangered lives during a national emergency, appointed the Or Commission to examine police conduct, and later accepted its recommendations; Ehud Barak publicly apologised to the families in 2019."
+        },
+        {
+          "party": "Arab citizens of Israel and human-rights organisations",
+          "framing": "Adalah and the High Follow-Up Committee call the events the 'October 2000 killings' or 'October uprising', describe the dead as unarmed demonstrators shot by police snipers, and cite the absence of any indictment as evidence of impunity."
+        }
+      ],
+      "sources": [
+        {
+          "title": "The October 2000 Killings (October Uprising)",
+          "url": "https://www.adalah.org/en/content/view/10127",
+          "publisher": "Adalah",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "The Bloody Events of October 2000 That Just Forced Barak to Apologize to Israel's Arabs",
+          "url": "https://www.haaretz.com/israel-news/2019-07-24/ty-article/.premium/the-bloody-events-of-october-2000-that-forced-barak-to-apologize-to-israels-arabs/0000017f-f217-da6f-a77f-fa1fec790000",
+          "publisher": "Haaretz",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "In nights of Arab-Jewish violence, memories of October 2000",
+          "url": "https://www.timesofisrael.com/in-nights-of-arab-jewish-violence-memories-of-october-2000/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "second-intifada-disengagement",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Palestinian demonstrators killed by Israeli police",
+          "value": "13",
+          "attribution": "Adalah / Or Commission",
+          "note": "Twelve citizens of Israel and one resident of the Gaza Strip; hundreds injured."
+        }
+      ]
+    },
+    {
+      "id": "2001-01-21-taba-talks",
+      "date": "2001-01-21",
+      "endDate": "2001-01-27",
+      "lat": 29.4917,
+      "lng": 34.899,
+      "location": "Taba, Egypt",
+      "title": "Taba talks end without a permanent-status agreement",
+      "category": "political",
+      "significance": 3,
+      "summary": "From 21 to 27 January 2001, Israeli and Palestinian delegations met at the Egyptian Red Sea resort of Taba in a final attempt to reach a permanent-status agreement before Israel's 6 February election. Israel's team was led by Foreign Minister Shlomo Ben-Ami and included Yossi Beilin and Gilad Sher; the Palestinian team was headed by Ahmed Qurei and included Saeb Erekat, Nabil Shaath and Mohammed Dahlan. Negotiators worked from the parameters President Bill Clinton had presented in December 2000 and discussed territory, Jerusalem, refugees and security. Their joint statement of 27 January said the sides had never been closer to agreement but that time constraints made a deal impossible; EU envoy Miguel Moratinos later recorded the positions in an unofficial paper. Ariel Sharon won the election and did not resume the talks, ending the Oslo-era permanent-status process.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "The Barak government's negotiators described Taba as evidence of Israel's far-reaching offers; the incoming Sharon government said the talks were held by a caretaker government without a mandate and declared their positions non-binding."
+        },
+        {
+          "party": "Palestinian Authority",
+          "framing": "Palestinian negotiators said Taba showed that agreement on borders based on the 1967 lines, Jerusalem and refugees was within reach and argued that Israel's election, not Palestinian rejectionism, ended the process."
+        },
+        {
+          "party": "European Union",
+          "framing": "EU special envoy Miguel Moratinos compiled a 'non-paper' recording the positions reached, which the EU presented as proof of substantial progress on all core issues."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Israel-Palestinian Negotiations, December 2000/January 2001",
+          "url": "https://www.gov.il/en/pages/israel-palestinian-negotiations-dec-2000-jan-2001",
+          "publisher": "Israel Ministry of Foreign Affairs",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Israeli-Palestinian Joint Statement, 27 January 2001",
+          "url": "https://www.inss.org.il/wp-content/uploads/2018/12/10-01.2001-Israeli-Palestinian-Joint-Statement.pdf",
+          "publisher": "Institute for National Security Studies",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Moratinos 'Non-Paper' on Taba negotiations",
+          "url": "https://www.un.org/unispal/document/auto-insert-200101/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "The Taba Negotiations (January 2001)",
+          "url": "https://online.ucpress.edu/jps/article/31/3/79/52925/The-Taba-Negotiations-January-2001",
+          "publisher": "Journal of Palestine Studies",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "second-intifada-disengagement",
+      "verified": true
+    },
+    {
+      "id": "2001-06-01-dolphinarium-discotheque-bombing-tel-aviv",
+      "date": "2001-06-01",
+      "lat": 32.0681,
+      "lng": 34.7626,
+      "location": "Tel Aviv, Israel",
+      "title": "Dolphinarium discotheque suicide bombing in Tel Aviv",
+      "category": "attack",
+      "significance": 3,
+      "summary": "On the night of 1 June 2001, a suicide bomber detonated explosives packed with ball bearings among a crowd of young people queuing outside the Dolphinarium discotheque on the Tel Aviv beachfront. According to the Israel Ministry of Foreign Affairs, 21 Israelis were killed, most of them teenagers from families that had immigrated from the former Soviet Union, and dozens more were wounded; The Jerusalem Post put the number injured at 132. The bomber, Saeed Hotari from the Jenin area, was affiliated with Hamas, which claimed the attack. It was the deadliest single attack inside Israel since the intifada had begun eight months earlier. Under heavy international pressure, Yasser Arafat announced a unilateral ceasefire the following day and Israel's government held back from a large-scale military response, although the lull proved short-lived.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Israel called the bombing a 'massacre' of children by a Hamas terrorist, held the Palestinian Authority responsible for failing to act against armed groups, and cited it in demanding that Arafat arrest militants."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Hamas claimed the bombing as a 'martyrdom operation' by its military wing in retaliation for Israeli killings of Palestinians, framing attacks inside Israel as legitimate resistance to occupation."
+        },
+        {
+          "party": "Palestinian Authority",
+          "framing": "Arafat condemned the attack and declared a ceasefire, presenting it as a Palestinian commitment to restore calm while accusing Israel of provoking violence through incursions and closures."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Tel-Aviv suicide bombing at the Dolphin disco - 1 June 2001",
+          "url": "https://www.gov.il/en/pages/tel-aviv-suicide-bombing-at-the-dolphin-disco-1-jun-2001",
+          "publisher": "Israel Ministry of Foreign Affairs",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "20th anniversary of the infamous Dolphinarium Disco terror attack",
+          "url": "https://www.jpost.com/israel-news/20th-anniversary-of-the-infamous-dolphinarium-disco-terror-attack-669853",
+          "publisher": "The Jerusalem Post",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "20 years on, Dolphinarium bombing victims still struggle",
+          "url": "https://www.ynetnews.com/magazine/article/BksG4wGq00",
+          "publisher": "Ynetnews",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "second-intifada-disengagement",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Israelis killed",
+          "value": "21",
+          "attribution": "Israel Ministry of Foreign Affairs",
+          "note": "Most victims were teenagers."
+        },
+        {
+          "label": "Injured",
+          "value": "132",
+          "attribution": "The Jerusalem Post"
+        }
+      ]
+    },
+    {
+      "id": "2001-08-09-sbarro-pizzeria-bombing-jerusalem",
+      "date": "2001-08-09",
+      "lat": 31.781,
+      "lng": 35.216,
+      "location": "Jerusalem",
+      "title": "Sbarro pizzeria suicide bombing in central Jerusalem",
+      "category": "attack",
+      "significance": 3,
+      "summary": "On 9 August 2001, at lunchtime, a suicide bomber detonated a device inside the Sbarro pizzeria at the corner of King George Street and Jaffa Road, one of the busiest intersections in central Jerusalem. According to the Israel Ministry of Foreign Affairs, 15 people were killed, including seven children, and about 130 were wounded. Hamas and Palestinian Islamic Jihad both claimed responsibility; the bomber, Izz al-Din al-Masri from the Jenin area, had been guided to the site by Ahlam Tamimi, who was convicted in Israel, released in the 2011 Shalit exchange and later charged in the United States, where two victims held citizenship. Israel responded by seizing Orient House, the PLO's headquarters in East Jerusalem, and stepping up strikes on Palestinian Authority facilities, while the attack hardened international views of the escalating violence and increased pressure on Yasser Arafat to act against armed groups.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Israel described the bombing as a terrorist massacre targeting families and children, responded by closing Orient House and other PA institutions in Jerusalem, and cited the attack as proof that the PA was not preventing terrorism."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Hamas's military wing claimed the bombing as retaliation for Israel's targeted killings, including a strike in Nablus days earlier, and framed it as resistance; Tamimi has since described the attack without regret in interviews."
+        },
+        {
+          "party": "United States",
+          "framing": "Washington condemned the attack, later listed Tamimi as a wanted terrorist and filed charges in 2017, while also criticising Israel's seizure of Orient House as an escalation."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Suicide bombing at the Sbarro pizzeria in Jerusalem",
+          "url": "https://www.gov.il/en/pages/suicide-bombing-at-the-sbarro-pizzeria-in-jerusalem",
+          "publisher": "Israel Ministry of Foreign Affairs",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "25 years ago, the Sbarro bombing opened a wound in Israel that still hasn't healed",
+          "url": "https://www.timesofisrael.com/25-years-ago-today-the-sbarro-bombing-opened-a-wound-in-israel-that-still-hasnt-healed/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Jordanian woman charged in U.S. in 2001 Jerusalem bombing",
+          "url": "https://www.pbs.org/newshour/nation/jordanian-woman-charged-u-s-2001-jerusalem-bombing",
+          "publisher": "PBS NewsHour",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "second-intifada-disengagement",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Killed",
+          "value": "15",
+          "attribution": "Israel Ministry of Foreign Affairs",
+          "note": "Including seven children; about 130 wounded."
+        }
+      ]
+    },
+    {
+      "id": "2002-03-27-park-hotel-passover-bombing-netanya",
+      "date": "2002-03-27",
+      "lat": 32.3283,
+      "lng": 34.8529,
+      "location": "Netanya, Israel",
+      "title": "Passover bombing at the Park Hotel, Netanya",
+      "category": "attack",
+      "significance": 4,
+      "summary": "On the evening of 27 March 2002, as some 250 guests gathered for the Passover seder in the dining room of the Park Hotel in the coastal city of Netanya, a suicide bomber walked past hotel security and detonated a large explosive device. According to the Israel Ministry of Foreign Affairs, 30 people were killed, many of them elderly and including Holocaust survivors, and about 140 were wounded; early reports carried by CNN that night gave a toll of 19. Hamas claimed responsibility and identified the bomber as Abdel-Basset Odeh from Tulkarm. The attack was the deadliest against Israeli civilians of the Second Intifada and came at the end of a month of repeated bombings in Israeli cities. Two days later Israel's cabinet ordered Operation Defensive Shield, the largest West Bank military operation since 1967, and the timing overshadowed the Arab League summit in Beirut.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Israel called the attack the 'Passover massacre', a deliberate slaughter of civilians at a religious meal, declared the Palestinian Authority an entity that supports terrorism, and cited the bombing as the trigger for Operation Defensive Shield."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Hamas claimed the bombing as a 'martyrdom operation' by its Izz ad-Din al-Qassam Brigades and presented it as a response to Israeli military operations in the West Bank and Gaza."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The Secretary-General condemned the bombing as a terrorist attack on civilians and, within days, the Security Council adopted resolution 1402 calling for a ceasefire and Israeli withdrawal from Palestinian cities."
+        }
+      ],
+      "sources": [
+        {
+          "title": "'Passover massacre' at Israeli hotel kills 19",
+          "url": "https://www.cnn.com/2002/WORLD/meast/03/27/mideast/",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Passover suicide bombing at Park Hotel in Netanya",
+          "url": "https://www.gov.il/en/pages/passover-suicide-bombing-at-park-hotel-in-netanya",
+          "publisher": "Israel Ministry of Foreign Affairs",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Ten years after Passover blast, survivors return to Park Hotel",
+          "url": "https://www.timesofisrael.com/ten-years-after-passover-bombing-survivors-return-to-netanyas-park-hotel/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Letter dated 27 March 2002 from the Permanent Representative of Israel to the United Nations",
+          "url": "https://www.un.org/unispal/document/auto-insert-188564",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "second-intifada-disengagement",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Killed",
+          "value": "30",
+          "attribution": "Israel Ministry of Foreign Affairs",
+          "note": "About 140 wounded. CNN's report on the night gave a preliminary toll of 19."
+        }
+      ]
+    },
+    {
+      "id": "2002-03-28-arab-peace-initiative-beirut-summit",
+      "date": "2002-03-28",
+      "lat": 33.8938,
+      "lng": 35.5018,
+      "location": "Beirut, Lebanon",
+      "title": "Arab League summit in Beirut adopts the Arab Peace Initiative",
+      "category": "political",
+      "significance": 4,
+      "summary": "On 28 March 2002, the 14th Arab League summit in Beirut unanimously adopted a peace proposal put forward by Saudi Crown Prince Abdullah. The Arab Peace Initiative offered Israel an end to the Arab-Israeli conflict, a peace agreement and normal relations with all Arab states in exchange for a full Israeli withdrawal from the territories occupied since June 1967, including the Syrian Golan Heights and remaining Lebanese territory, the establishment of an independent Palestinian state with East Jerusalem as its capital in the West Bank and Gaza Strip, and a just solution to the Palestinian refugee question agreed in accordance with UN General Assembly resolution 194. The summit was overshadowed by the Park Hotel bombing the previous evening and by Yasser Arafat's absence after Israel restricted his travel. Israel's government did not accept the plan, though later Arab summits re-endorsed it and the Quartet's Road Map referenced it.",
+      "perspectives": [
+        {
+          "party": "Arab League",
+          "framing": "Arab states presented the initiative as a historic collective offer of comprehensive peace and normalisation on the basis of 'land for peace' and international legitimacy, and have repeatedly reaffirmed it as a package rather than a starting point for negotiation."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "The Sharon government said the plan was a non-starter because it demanded withdrawal to the 1967 lines and a refugee solution based on resolution 194 before negotiations; later Israeli leaders described elements as positive while rejecting its terms as preconditions."
+        },
+        {
+          "party": "Palestinian Authority",
+          "framing": "The PLO endorsed the initiative as the Arab consensus for a two-state settlement on the 1967 lines and has cited it in every subsequent negotiation as the framework for a regional peace."
+        }
+      ],
+      "sources": [
+        {
+          "title": "The Arab Peace Initiative (Beirut, 28 March 2002)",
+          "url": "https://unsco.unmissions.org/sites/default/files/api.pdf",
+          "publisher": "United Nations Special Coordinator for the Middle East Peace Process",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Arab Peace Initiative - LAS Summit - Letter from Lebanon (excerpts)",
+          "url": "https://www.un.org/unispal/document/auto-insert-181223/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Israeli-Palestinian Peacemaking: The Arab Peace Initiative",
+          "url": "https://www.chathamhouse.org/2018/07/israeli-palestinian-peacemaking/arab-peace-initiative",
+          "publisher": "Chatham House",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "second-intifada-disengagement",
+      "verified": true
+    },
+    {
+      "id": "2002-03-29-operation-defensive-shield-and-jenin",
+      "date": "2002-03-29",
+      "endDate": "2002-05-10",
+      "lat": 32.459,
+      "lng": 35.286,
+      "location": "Jenin refugee camp, West Bank",
+      "title": "Operation Defensive Shield and the battle of Jenin refugee camp",
+      "category": "war",
+      "significance": 5,
+      "summary": "On 29 March 2002, two days after the Park Hotel bombing, Israel launched Operation Defensive Shield, its largest military operation in the West Bank since 1967. Over the following weeks the IDF entered Ramallah, where Yasser Arafat's Muqata compound was besieged, and Tulkarm, Qalqilya, Bethlehem, Jenin and Nablus, imposing curfews and mass arrests. The most contested fighting took place in the Jenin refugee camp from 3 April, where troops faced booby-trapped alleys and armed groups. The UN Secretary-General's report to the General Assembly (A/ES-10/186, August 2002) found that at least 52 Palestinians, up to half of them possibly civilians, and 23 Israeli soldiers died there, did not substantiate early Palestinian claims of a massacre of hundreds, and documented extensive destruction of the camp. Human Rights Watch counted at least 52 Palestinian dead, including 22 civilians. The Church of the Nativity siege in Bethlehem ended on 10 May 2002.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Israel described the operation as a defensive campaign to dismantle the 'terrorist infrastructure' behind the suicide bombings, said Jenin camp was a base for attackers, and rejected massacre allegations as a libel, pointing out that it sent infantry rather than bombing the camp from the air."
+        },
+        {
+          "party": "Palestinian Authority",
+          "framing": "Palestinian officials called the operation a reoccupation of Area A in violation of Oslo, described the siege of Arafat as an attempt to topple him, and initially alleged that hundreds had been killed in Jenin, later citing the camp's destruction as a war crime."
+        },
+        {
+          "party": "United Nations",
+          "framing": "Security Council resolutions 1402 and 1403 demanded Israeli withdrawal; a proposed fact-finding team was disbanded after Israel objected, and the Secretary-General's report relied on secondary sources, calling for accountability while giving no support to the massacre claim."
+        },
+        {
+          "party": "Human-rights organisations",
+          "framing": "Human Rights Watch and Amnesty International documented unlawful killings, use of civilians as human shields and disproportionate destruction in Jenin and Nablus and called for war-crimes investigations, while also condemning Palestinian bombings of Israeli civilians."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Report of Secretary-General on recent events in Jenin, other Palestinian cities",
+          "url": "https://press.un.org/en/2002/sg2077.doc.htm",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Jenin: IDF Military Operations",
+          "url": "https://www.hrw.org/report/2002/05/02/jenin/idf-military-operations",
+          "publisher": "Human Rights Watch",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Report of Secretary-General on recent events in Jenin, other Palestinian cities",
+          "url": "https://reliefweb.int/report/israel/report-secretary-general-recent-events-jenin-other-palestinian-cities",
+          "publisher": "ReliefWeb (OCHA)",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Operation Defensive Shield (2002)",
+          "url": "https://www.ynetnews.com/articles/0,7340,L-3685678,00.html",
+          "publisher": "Ynetnews",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "second-intifada-disengagement",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Palestinians killed in Jenin refugee camp",
+          "value": "at least 52",
+          "attribution": "UN Secretary-General report A/ES-10/186",
+          "note": "Up to half may have been civilians; 23 Israeli soldiers also killed in the camp."
+        },
+        {
+          "label": "Palestinians killed in Jenin refugee camp",
+          "value": "at least 52 (at least 22 civilians)",
+          "attribution": "Human Rights Watch",
+          "note": "At least 27 of the dead suspected to have been armed fighters."
+        },
+        {
+          "label": "Israeli soldiers killed in Jenin refugee camp",
+          "value": "23",
+          "attribution": "UN Secretary-General report / IDF"
+        },
+        {
+          "label": "Deaths, 28 September 2000 to 7 May 2002 (all violence)",
+          "value": "1,539 Palestinians; 441 Israelis",
+          "attribution": "UN Secretary-General report A/ES-10/186"
+        }
+      ]
+    },
+    {
+      "id": "2002-06-23-west-bank-barrier-construction-begins",
+      "date": "2002-06-23",
+      "lat": 32.517,
+      "lng": 35.238,
+      "location": "Salem checkpoint, northern West Bank",
+      "title": "Israel approves and begins building the West Bank barrier",
+      "category": "political",
+      "significance": 4,
+      "summary": "In June 2002, at the height of the suicide-bombing campaign, Israel's cabinet approved and began building a physical barrier between Israel and the West Bank. The 23 June 2002 decision authorised a first phase running roughly 123 kilometres from the Salem checkpoint near Jenin south to the settlement of Elkana, plus sections north and south of Jerusalem; per UN OCHA, that stage was declared complete in July 2003. Rather than following the 1949 Green Line, the route, later planned at more than 700 kilometres of fences, walls, trenches and patrol roads, looped east to enclose settlements, placing Palestinian villages, farmland and East Jerusalem neighbourhoods on the Israeli side; per OCHA, some 85 percent of the planned route lies inside the West Bank. Israel's government described the barrier as a temporary security measure, while Palestinians and rights groups said it amounted to de facto annexation.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Israel calls the barrier the 'security fence' or 'anti-terror fence', a reversible, non-political defensive measure to stop infiltration from Judea and Samaria, and credits it with the sharp fall in suicide bombings after 2003."
+        },
+        {
+          "party": "Palestinian Authority",
+          "framing": "Palestinians call it the 'separation wall' or 'apartheid wall', argue that its route inside the West Bank seizes land and water, isolates East Jerusalem and predetermines borders, and sought the ICJ advisory opinion through the UN General Assembly."
+        },
+        {
+          "party": "Human-rights organisations",
+          "framing": "B'Tselem, Human Rights Watch and OCHA describe the barrier's humanitarian impact on access to land, services and family life and argue that a route on the Green Line would meet security needs without violating international law."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Impact of Israel's separation barrier on affected West Bank communities - OCHA update report #3",
+          "url": "https://www.un.org/unispal/document/auto-insert-207980/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "The Separation Barrier",
+          "url": "https://www.btselem.org/separation_barrier",
+          "publisher": "B'Tselem",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Israel's Security Fences, Separating Israel from the Palestinians (CRS Report RS21564)",
+          "url": "https://www.everycrsreport.com/reports/RS21564.html",
+          "publisher": "Congressional Research Service (via EveryCRSReport)",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "The humanitarian impact of 20 years of the Barrier - December 2022",
+          "url": "https://www.ochaopt.org/content/humanitarian-impact-20-years-barrier-december-2022",
+          "publisher": "UN OCHA occupied Palestinian territory",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Israel: West Bank Barrier Endangers Basic Rights",
+          "url": "https://www.hrw.org/news/2003/09/30/israel-west-bank-barrier-endangers-basic-rights",
+          "publisher": "Human Rights Watch",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "second-intifada-disengagement",
+      "verified": true
+    },
+    {
+      "id": "2003-04-30-quartet-road-map-for-peace",
+      "date": "2003-04-30",
+      "lat": 31.7683,
+      "lng": 35.2137,
+      "location": "Jerusalem and Ramallah",
+      "title": "Quartet presents the Road Map for Peace",
+      "category": "political",
+      "significance": 3,
+      "summary": "On 30 April 2003, the Quartet of the United States, European Union, United Nations and Russia formally presented Israel and the Palestinian Authority with 'A Performance-Based Roadmap to a Permanent Two-State Solution'. The document set out three phases: an end to violence, Palestinian institutional reform and an Israeli settlement freeze and withdrawal from areas occupied since September 2000; an interim Palestinian state with provisional borders; and permanent-status negotiations aimed at a final settlement, originally targeted for 2005. Its release followed the appointment of Mahmoud Abbas as the first Palestinian prime minister, a condition pressed by Washington. Israel's cabinet accepted the plan on 25 May 2003 while attaching fourteen reservations, and Prime Ministers Ariel Sharon and Abbas endorsed it with President George W. Bush at Aqaba, Jordan, on 4 June 2003. Implementation stalled within months amid renewed attacks, military operations and Abbas's resignation in September.",
+      "perspectives": [
+        {
+          "party": "United States",
+          "framing": "The Bush administration presented the Road Map as the path to its June 2002 vision of two states, insisting on Palestinian security performance and reform as the first step and on reciprocal Israeli obligations on settlements."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Israel accepted 'the steps set out in the Road Map' subject to fourteen reservations, chiefly that Palestinian action against terrorism precede any Israeli obligation, that the refugee 'right of return' be excluded, and that the Arab Peace Initiative not be a reference."
+        },
+        {
+          "party": "Palestinian Authority",
+          "framing": "The PA accepted the plan without reservations, stressed the settlement freeze and the 2005 statehood target, and argued that Israel's reservations and continued incursions emptied it of content."
+        },
+        {
+          "party": "United Nations",
+          "framing": "Security Council resolution 1515 of 19 November 2003 endorsed the Road Map and called on the parties to fulfil their obligations under it."
+        }
+      ],
+      "sources": [
+        {
+          "title": "A Performance-based Road Map to a Permanent Two-State Solution to the Israeli-Palestinian Conflict",
+          "url": "https://peacemaker.un.org/en/node/8984",
+          "publisher": "United Nations Peacemaker",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Middle East: The Road Map to Peace",
+          "url": "https://www.cfr.org/backgrounders/middle-east-road-map-peace",
+          "publisher": "Council on Foreign Relations",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Roadmap for Peace in the Middle East: Israeli/Palestinian Reciprocal Action, Quartet Support",
+          "url": "https://2001-2009.state.gov/r/pa/ei/rls/22520.htm",
+          "publisher": "U.S. Department of State (archive)",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Developments/Peace process review: January-December 2003",
+          "url": "https://www.un.org/unispal/document/auto-insert-195793/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "second-intifada-disengagement",
+      "verified": true
+    },
+    {
+      "id": "2004-03-22-ahmed-yassin-killed-gaza",
+      "date": "2004-03-22",
+      "lat": 31.5017,
+      "lng": 34.4668,
+      "location": "Gaza City, Gaza Strip",
+      "title": "Israeli helicopter strike kills Hamas founder Sheikh Ahmed Yassin",
+      "category": "attack",
+      "significance": 3,
+      "summary": "In the early hours of 22 March 2004, missiles fired from Israeli helicopters struck Sheikh Ahmed Yassin, the 67-year-old founder and spiritual leader of Hamas, as he was being wheeled out of a mosque near his home in Gaza City after dawn prayers. Yassin, a quadriplegic, died instantly; according to contemporaneous reports by NPR and Voice of America citing Palestinian sources, between seven and nine other Palestinians, including bodyguards and bystanders, were also killed and more than a dozen wounded. Israel's government said Yassin was directly responsible for planning suicide bombings, while the killing drew condemnation from the UN Secretary-General, the European Union and Arab governments; a Security Council resolution criticising it was vetoed by the United States on 25 March. Hamas named Abdel Aziz al-Rantisi as its Gaza leader; he was killed in a similar strike on 17 April 2004.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Prime Minister Ariel Sharon called Yassin 'the mastermind of Palestinian terror' and presented the strike as a targeted killing of a legitimate military target responsible for hundreds of Israeli deaths."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Hamas described Yassin as a martyred spiritual leader assassinated while leaving prayer, vowed revenge, and portrayed the killing as proof that Israel's planned Gaza withdrawal was a retreat under fire."
+        },
+        {
+          "party": "United Nations",
+          "framing": "Secretary-General Kofi Annan condemned the 'extrajudicial killing' as contrary to international law and warned it would fuel further violence; the United States vetoed a draft Council resolution it considered one-sided."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Hamas Leader Dead in Israeli Attack",
+          "url": "https://www.npr.org/2004/03/22/1784233/hamas-leader-dead-in-israeli-attack",
+          "publisher": "NPR",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Israel Assassinates Hamas Founder Sheikh Ahmed Yassin in Gaza Missile Attack",
+          "url": "https://www.voanews.com/a/a-13-a-2004-03-22-2-israel-66878867/261044.html",
+          "publisher": "Voice of America",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Killing of Sheikh Ahmed Yassin - UN Secretary-General statement and reactions",
+          "url": "https://www.un.org/unispal/document/auto-insert-186830",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "second-intifada-disengagement",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Killed",
+          "value": "Yassin plus 7-9 others",
+          "attribution": "Palestinian sources cited by NPR and Voice of America",
+          "note": "Reported figures for bodyguards and bystanders killed vary between seven and nine; more than a dozen wounded."
+        }
+      ]
+    },
+    {
+      "id": "2004-07-09-icj-advisory-opinion-west-bank-barrier",
+      "date": "2004-07-09",
+      "lat": 52.086,
+      "lng": 4.295,
+      "location": "The Hague, Netherlands",
+      "title": "ICJ advisory opinion finds the West Bank barrier contrary to international law",
+      "category": "political",
+      "significance": 4,
+      "summary": "On 9 July 2004, the International Court of Justice in The Hague delivered an advisory opinion requested by the UN General Assembly (resolution ES-10/14) on the legal consequences of the barrier Israel was building in the occupied Palestinian territory. By fourteen votes to one, with US judge Thomas Buergenthal dissenting, the Court found that construction of the wall and its associated regime in the West Bank, including in and around East Jerusalem, was contrary to international law; that Israel was obliged to cease construction, dismantle the sections already built and make reparation; and that other states should not recognise the resulting situation. Israel, which had contested the Court's jurisdiction and not argued the merits, rejected the opinion as political, pointing to its own Supreme Court ruling of 30 June 2004 ordering route changes on proportionality grounds. On 20 July 2004 the General Assembly voted 150 to 6 to demand compliance.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Israel said the Court lacked jurisdiction over a political dispute, that the opinion ignored Palestinian terrorism and Israel's right of self-defence, and that only Israel's own Supreme Court rulings on the fence would be binding; it continued construction along a modified route."
+        },
+        {
+          "party": "Palestinian Authority",
+          "framing": "The PLO hailed the opinion as a historic legal victory confirming that the 'wall' and the settlements it protects are illegal, and has cited it in later UN resolutions and international-law initiatives."
+        },
+        {
+          "party": "United States",
+          "framing": "Washington argued the Court should have declined the case, said the barrier issue belonged in political negotiations under the Road Map, and voted against the General Assembly resolution endorsing the opinion."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The General Assembly endorsed the opinion in resolution ES-10/15 and later established a register of damage caused by the barrier; the Secretary-General reported that Israel had not complied."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Legal Consequences of the Construction of a Wall in the Occupied Palestinian Territory",
+          "url": "https://www.icj-cij.org/case/131",
+          "publisher": "International Court of Justice",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "ICJ Advisory opinion on the Legal Consequences of the Construction of a Wall in the OPT - Full text",
+          "url": "https://www.un.org/unispal/document/auto-insert-178825/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Advisory Opinion Concerning Legal Consequences of the Construction of a Wall in the Occupied Palestinian Territory",
+          "url": "https://www.refworld.org/jurisprudence/caselaw/icj/2004/en/35595",
+          "publisher": "UNHCR Refworld",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "ICJ/Israel, Separation Wall/Security Fence in the Occupied Palestinian Territory",
+          "url": "https://casebook.icrc.org/case-study/icjisrael-separation-wallsecurity-fence-occupied-palestinian-territory",
+          "publisher": "ICRC",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "second-intifada-disengagement",
+      "verified": true
+    },
+    {
+      "id": "2004-11-11-death-of-yasser-arafat",
+      "date": "2004-11-11",
+      "lat": 31.907,
+      "lng": 35.204,
+      "location": "Ramallah, West Bank (died in Clamart, France)",
+      "title": "Death of Yasser Arafat",
+      "category": "political",
+      "significance": 4,
+      "summary": "Yasser Arafat, chairman of the PLO and president of the Palestinian Authority, died on 11 November 2004 at the Percy military hospital in Clamart, near Paris, at the age of 75. He had fallen ill in mid-October at his Muqata headquarters in Ramallah, where Israel had confined him since 2002, and was flown to France on 29 October; French doctors reported a blood disorder but no definitive cause was made public, which fed enduring, unproven poisoning claims and later Swiss, Russian and French investigations. After a military funeral in Cairo, his body was flown to Ramallah and buried in the Muqata on 12 November amid huge crowds. Mahmoud Abbas succeeded him as PLO chairman the same day, Rawhi Fattouh became interim PA president, and Abbas won the presidential election of 9 January 2005, opening a new phase in Israeli-Palestinian diplomacy.",
+      "perspectives": [
+        {
+          "party": "Palestinian Authority",
+          "framing": "Palestinians mourned Arafat as the symbol of their national movement and 'the father of the Palestinian people'; many officials and the public suspect he was poisoned, and the PA later commissioned forensic tests on his remains."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Israeli leaders called Arafat an arch-terrorist and an obstacle to peace, refused burial in Jerusalem, and said his passing could open the way to a more moderate Palestinian leadership; Israel denies any role in his death."
+        },
+        {
+          "party": "United States",
+          "framing": "The Bush administration, which had refused to deal with Arafat since 2002, expressed condolences and framed the succession as an opportunity for reform, democracy and renewed Road Map diplomacy."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Palestinian Leader Yasser Arafat Dies at 75",
+          "url": "https://www.npr.org/2004/11/11/4129396/palestinian-leader-yasser-arafat-dies-at-75",
+          "publisher": "NPR",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Chaotic crowds crash Arafat burial",
+          "url": "https://www.cnn.com/2004/WORLD/meast/11/12/arafat.main/index.html",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Arafat's coffin flown to Ram Allah",
+          "url": "https://www.aljazeera.com/news/2004/11/12/arafats-coffin-flown-to-ram-allah",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "OCHA Weekly Briefing Notes - OPT (10-16 Nov. 2004)",
+          "url": "https://www.un.org/unispal/document/auto-insert-206044/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "second-intifada-disengagement",
+      "verified": true
+    },
+    {
+      "id": "2005-02-08-sharm-el-sheikh-summit-ceasefire",
+      "date": "2005-02-08",
+      "lat": 27.9158,
+      "lng": 34.33,
+      "location": "Sharm el-Sheikh, Egypt",
+      "title": "Sharm el-Sheikh summit: Sharon and Abbas declare a cessation of violence",
+      "category": "ceasefire",
+      "significance": 3,
+      "summary": "On 8 February 2005, Egyptian President Hosni Mubarak and King Abdullah II of Jordan hosted Israeli Prime Minister Ariel Sharon and newly elected Palestinian Authority President Mahmoud Abbas at Sharm el-Sheikh, the first such summit in more than four years. In separate closing statements both leaders declared an end to all violence against each other's peoples; Israel undertook to release about 900 prisoners and to hand security responsibility for several West Bank cities back to the PA, and both reaffirmed the Road Map. Hamas and Islamic Jihad said they were not bound by the understanding, and attacks continued at a reduced level. The summit is widely treated as the end of the Second Intifada. Per B'Tselem, Israeli forces killed 6,371 Palestinians and Palestinians killed 1,083 Israelis between September 2000 and September 2010, figures that include Operation Cast Lead; UN OCHA counted 5,848 conflict deaths from September 2000 to August 2007.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Sharon presented the declaration as a chance to end the 'terror war' provided the PA dismantled armed groups, and tied prisoner releases and city handovers to Palestinian security performance ahead of the Gaza disengagement."
+        },
+        {
+          "party": "Palestinian Authority",
+          "framing": "Abbas framed the summit as a mutual ceasefire and a return to negotiations, and pursued a separate 'calm' (tahdiya) with Hamas and Islamic Jihad in Cairo in March 2005 rather than a crackdown."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Hamas said it was not party to the Sharm el-Sheikh understandings, described them as a unilateral Palestinian Authority commitment, and conditioned any calm on Israeli reciprocity and prisoner releases."
+        },
+        {
+          "party": "Egypt",
+          "framing": "Egypt, with Jordan, cast itself as guarantor of the understandings, returned its ambassador to Israel and prepared to deploy border guards along the Gaza frontier as part of the coming disengagement."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Sharon, Abbas Formally Announce Cease-Fire",
+          "url": "https://www.npr.org/2005/02/08/4490236/sharon-abbas-formally-announce-cease-fire",
+          "publisher": "NPR",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Sharm el-Sheikh Summit, 8 February 2005 - Media Statement",
+          "url": "https://www.un.org/unispal/document/auto-insert-192822",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "10 years to the second Intifada - summary of data",
+          "url": "https://www.btselem.org/press_releases/20100927",
+          "publisher": "B'Tselem",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Israeli-Palestinian Fatalities Since 2000 - Key Trends (August 2007)",
+          "url": "https://www.ochaopt.org/content/israeli-palestinian-fatalities-2000-key-trends-august-2007",
+          "publisher": "UN OCHA occupied Palestinian territory",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Historic agreement, but many challenges ahead",
+          "url": "https://www.nbcnews.com/id/wbna6933812",
+          "publisher": "NBC News",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "second-intifada-disengagement",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Palestinians killed by Israeli security forces, 29 Sep 2000 - 26 Sep 2010",
+          "value": "6,371 (including 1,317 minors)",
+          "attribution": "B'Tselem",
+          "note": "Ten-year figure that also includes Operation Cast Lead (2008-09); at least 2,996 were not taking part in hostilities when killed."
+        },
+        {
+          "label": "Israelis killed by Palestinians, 29 Sep 2000 - 26 Sep 2010",
+          "value": "1,083 (741 civilians including 124 minors; 342 security forces)",
+          "attribution": "B'Tselem",
+          "note": "Ten-year figure; the large majority of Israeli deaths occurred in 2001-2004."
+        },
+        {
+          "label": "Conflict deaths, Sep 2000 - Aug 2007",
+          "value": "5,848",
+          "attribution": "UN OCHA (Special Focus, August 2007)",
+          "note": "OCHA's breakdown as published: 4,228 Palestinians, 1,024 Israelis and 63 foreign nationals; OCHA also counts a rising number of Palestinians killed by other Palestinians."
+        },
+        {
+          "label": "Fatalities, Second Intifada 2000-05",
+          "value": "more than 4,300",
+          "attribution": "Encyclopaedia Britannica"
+        }
+      ]
+    },
+    {
+      "id": "2005-08-15-israeli-disengagement-from-gaza",
+      "date": "2005-08-15",
+      "endDate": "2005-09-12",
+      "lat": 31.33,
+      "lng": 34.28,
+      "location": "Gush Katif, Gaza Strip",
+      "title": "Israel evacuates Gaza settlements and withdraws its forces",
+      "category": "political",
+      "significance": 5,
+      "summary": "Between 15 August and 12 September 2005, Israel unilaterally evacuated all 21 of its settlements in the Gaza Strip and four small settlements in the northern West Bank under Prime Minister Ariel Sharon's disengagement plan, which the Knesset had approved in October 2004. Per Encyclopaedia Britannica, some 8,500 to 9,000 settlers lived in Gaza alongside about 1.3 million Palestinians; most left by the 15 August deadline and the rest were removed by soldiers and police in a week of emotional but largely non-violent confrontations, completed on 22 August. Settler homes were demolished, and the last Israeli soldiers withdrew from the Strip on 12 September, ending 38 years of military presence inside Gaza. Israel retained control of Gaza's airspace, coastline and most crossings, and Egypt deployed border guards along the Philadelphi corridor; the United Nations continued to regard the Gaza Strip as occupied territory.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Sharon presented disengagement as a painful but necessary unilateral step to improve security and Israel's demographic and diplomatic position, and Israel maintains that its occupation of Gaza ended with the withdrawal; settlers and the religious right condemned it as an 'expulsion' of Jews from their communities."
+        },
+        {
+          "party": "Palestinian Authority",
+          "framing": "The PA welcomed the evacuation as the fruit of Palestinian steadfastness but objected that it was unilateral, left Israel in control of Gaza's borders, sea and airspace, and was designed, in the words of Sharon's adviser Dov Weisglass, to put the peace process 'in formaldehyde'."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Hamas claimed the withdrawal as a victory of armed resistance, comparing it to Israel's 2000 exit from Lebanon, and used the claim in its 2006 election campaign."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The UN welcomed the withdrawal as a step under the Road Map while stating that, given Israel's continued control of access, Gaza remained occupied territory under international humanitarian law."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Israel's disengagement from Gaza (2005)",
+          "url": "https://www.britannica.com/event/Israels-disengagement-from-Gaza",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Israel's Disengagement from Gaza and North Samaria (2005)",
+          "url": "https://www.gov.il/en/departments/general/israel-s-disengagement-from-gaza-and-north-samaria",
+          "publisher": "Israel Ministry of Foreign Affairs",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Middle East: The Disengagement Plan",
+          "url": "https://www.cfr.org/backgrounders/middle-east-disengagement-plan",
+          "publisher": "Council on Foreign Relations",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Israel's Disengagement from Gaza (CRS Report RS22000)",
+          "url": "https://www.everycrsreport.com/reports/RS22000.html",
+          "publisher": "Congressional Research Service (via EveryCRSReport)",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Press conference by Israel on the disengagement, 15 August 2005",
+          "url": "https://press.un.org/en/2005/israel_brfg_050815.doc.htm",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "second-intifada-disengagement",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Israeli settlers evacuated from the Gaza Strip",
+          "value": "about 8,500-9,000",
+          "attribution": "Encyclopaedia Britannica / Israel Ministry of Foreign Affairs",
+          "note": "From 21 settlements; roughly 500 more evacuated from four northern West Bank settlements."
+        }
+      ]
+    },
+    {
+      "id": "2006-01-25-hamas-wins-palestinian-legislative-election",
+      "date": "2006-01-25",
+      "lat": 31.9038,
+      "lng": 35.2034,
+      "location": "Ramallah, West Bank",
+      "title": "Hamas wins the Palestinian Legislative Council election",
+      "category": "political",
+      "significance": 4,
+      "summary": "On 25 January 2006, Palestinians in the West Bank, Gaza Strip and East Jerusalem voted for a new Palestinian Legislative Council in the first parliamentary election since 1996. Final results announced on 29 January gave Hamas, running as the Change and Reform list, 74 of 132 seats and the ruling Fatah movement 45, on turnout of roughly 77 percent; international observers judged the vote free and fair. Hamas, which had boycotted the 1996 poll and remained committed to armed struggle, formed a government under Ismail Haniyeh in March 2006. The Quartet responded by demanding that any Palestinian government recognise Israel, renounce violence and accept previous agreements; when Hamas refused, the United States and European Union suspended direct aid and Israel withheld tax revenues it collected for the PA, deepening a financial and political crisis that fed the later Hamas-Fatah confrontation.",
+      "perspectives": [
+        {
+          "party": "Hamas",
+          "framing": "Hamas presented its victory as a democratic mandate to end Fatah's corruption and to pursue 'resistance' alongside governance, and rejected the Quartet's conditions as an attempt to overturn the election result."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Israel said it would not negotiate with a government led by a terrorist organisation sworn to its destruction, suspended the transfer of Palestinian tax revenues, and treated the PA as a hostile entity until Hamas met the Quartet's conditions."
+        },
+        {
+          "party": "United States",
+          "framing": "Washington, which had pressed for the election, said Hamas could not have 'one foot in politics and the other in terror', cut direct assistance to the PA and led the Quartet's three conditions."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The UN, as a Quartet member, endorsed the three principles while urging that humanitarian aid continue; UN officials briefed the Security Council that the outcome created deep uncertainty for the peace process."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Hamas Wins Majority in Palestinian Elections",
+          "url": "https://www.npr.org/2006/01/26/5173619/hamas-wins-majority-in-palestinian-elections",
+          "publisher": "NPR",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Hamas wins huge majority",
+          "url": "https://www.aljazeera.com/news/2006/1/26/hamas-wins-huge-majority",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Final Palestinian Election Result: Hamas Wins 74 Seats, Fatah 45",
+          "url": "https://www.haaretz.com/2006-01-29/ty-article/final-palestinian-election-result-hamas-wins-74-seats-fatah-45/0000017f-edd4-d4cd-af7f-edfc29080000",
+          "publisher": "Haaretz",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "In briefing to Security Council, Assistant Secretary-General highlights impact of Israeli Prime Minister illness, Hamas victory in Palestinian elections",
+          "url": "https://press.un.org/en/2006/sc8624.doc.htm",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "second-intifada-disengagement",
+      "verified": true
+    },
+    {
+      "id": "2006-06-25-capture-of-gilad-shalit-kerem-shalom",
+      "date": "2006-06-25",
+      "lat": 31.228,
+      "lng": 34.283,
+      "location": "Kerem Shalom, Israel-Gaza border",
+      "title": "Cross-border raid from Gaza captures Israeli soldier Gilad Shalit",
+      "category": "attack",
+      "significance": 3,
+      "summary": "Before dawn on 25 June 2006, Palestinian militants emerged from a tunnel dug some 300 metres under the Gaza border fence and attacked an Israeli army post near the Kerem Shalom crossing. Per the IDF, two soldiers, Lieutenant Hanan Barak and Staff Sergeant Pavel Slutsker, were killed and several wounded; two attackers also died. Corporal Gilad Shalit, a 19-year-old tank crewman, was wounded and carried into the Gaza Strip. Hamas's armed wing, together with the Popular Resistance Committees and the Army of Islam, claimed the raid and demanded the release of Palestinian prisoners. Israel responded on 28 June with Operation Summer Rains, sending ground forces back into Gaza for the first time since the disengagement and arresting dozens of Hamas legislators and ministers in the West Bank. Shalit was held incommunicado for more than five years until his release on 18 October 2011 in exchange for 1,027 Palestinian prisoners.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Israel called the raid a kidnapping and an act of war by the Hamas-led PA, held the Hamas government responsible, and framed Operation Summer Rains as necessary to recover the 'abducted soldier' and stop rocket fire."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Hamas's Qassam Brigades described the operation as a legitimate military action against soldiers and Shalit as a prisoner of war to be exchanged for the thousands of Palestinians held in Israeli jails."
+        },
+        {
+          "party": "Human-rights organisations",
+          "framing": "Groups such as Human Rights Watch said Shalit's incommunicado detention without Red Cross access was unlawful, while criticising Israel's collective measures in Gaza, including strikes on the power station, as disproportionate."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gilad Shalit",
+          "url": "https://www.britannica.com/biography/Gilad-Shalit",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Gilad Shalit: Released after 5 years in terrorist captivity",
+          "url": "https://www.gov.il/en/pages/bth-six-months-in-terrorist-captivity-11-jan-2007",
+          "publisher": "Israel Ministry of Foreign Affairs",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "20 years on, newly released military logs detail confusion during Shalit abduction",
+          "url": "https://www.timesofisrael.com/20-years-on-newly-released-military-logs-detail-confusion-during-shalit-abduction/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "second-intifada-disengagement",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Israeli soldiers killed",
+          "value": "2",
+          "attribution": "IDF / Israel Ministry of Foreign Affairs",
+          "note": "Several soldiers wounded; one captured. Israeli accounts also report two attackers killed."
+        }
+      ]
+    },
+    {
+      "id": "2006-07-12-lebanon-war-and-unsc-resolution-1701",
+      "date": "2006-07-12",
+      "endDate": "2006-08-14",
+      "lat": 33.12,
+      "lng": 35.43,
+      "location": "Southern Lebanon and northern Israel",
+      "title": "2006 Lebanon War between Israel and Hezbollah; UNSC resolution 1701",
+      "category": "war",
+      "significance": 4,
+      "summary": "On 12 July 2006, Hezbollah fighters crossed the Blue Line into northern Israel, killed three soldiers and captured two, Ehud Goldwasser and Eldad Regev; five more soldiers died in a failed rescue. Israel answered with a 34-day air, naval and ground campaign across Lebanon, including Beirut's southern suburbs and a push toward the Litani River, while Hezbollah fired around 4,000 rockets into northern Israel. Per Human Rights Watch, at least 1,109 people were killed in Lebanon, mostly civilians, 4,399 were injured and about one million displaced; per Encyclopaedia Britannica, about 120 Israeli soldiers and more than 40 Israeli civilians were killed. The UN Security Council unanimously adopted resolution 1701 on 11 August, calling for a cessation of hostilities, effective 14 August, an Israeli withdrawal, and an expanded UNIFIL alongside the Lebanese army south of the Litani. Israel completed its withdrawal, except from Ghajar, on 1 October 2006.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Israel called the campaign the 'Second Lebanon War', a war of self-defence against an Iranian-backed terrorist organisation that had attacked from sovereign Lebanese territory, and blamed Hezbollah's use of villages for civilian deaths; the Winograd Commission later criticised the war's conduct."
+        },
+        {
+          "party": "Hezbollah",
+          "framing": "Hezbollah described the raid as an operation to free Lebanese prisoners and the war as a 'divine victory' of resistance against Israeli aggression, claiming to have withstood the IDF and deterred future attacks."
+        },
+        {
+          "party": "Lebanese government",
+          "framing": "The Siniora government said it had not authorised Hezbollah's raid, condemned Israel's bombardment of Lebanese infrastructure as collective punishment, and sought the ceasefire and international force established under resolution 1701."
+        },
+        {
+          "party": "Human-rights organisations",
+          "framing": "Human Rights Watch and Amnesty International documented indiscriminate Israeli strikes and cluster-munition use in the war's final days, and Hezbollah's indiscriminate rocket fire on Israeli towns, characterising violations by both sides as possible war crimes."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Why They Died: Civilian Casualties in Lebanon during the 2006 War",
+          "url": "https://www.hrw.org/report/2007/09/05/why-they-died/civilian-casualties-lebanon-during-2006-war",
+          "publisher": "Human Rights Watch",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "2006 Lebanon War",
+          "url": "https://www.britannica.com/event/2006-Lebanon-War",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Security Council calls for end to hostilities between Hizbollah, Israel, unanimously adopting resolution 1701 (2006)",
+          "url": "https://press.un.org/en/2006/sc8808.doc.htm",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Lebanon: UN commander discusses speedy Israeli withdrawal from final post",
+          "url": "https://news.un.org/en/story/2006/10/195402",
+          "publisher": "UN News",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Security Council resolution 1701 (2006)",
+          "url": "https://unsco.unmissions.org/sites/default/files/s_res_17012006.pdf",
+          "publisher": "United Nations Special Coordinator for the Middle East Peace Process",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "second-intifada-disengagement",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Killed in Lebanon",
+          "value": "at least 1,109",
+          "attribution": "Human Rights Watch",
+          "note": "Vast majority civilians; 4,399 injured and about 1 million displaced. Lebanese official tallies were somewhat higher (around 1,200)."
+        },
+        {
+          "label": "Israelis killed",
+          "value": "about 120 soldiers and more than 40 civilians",
+          "attribution": "Encyclopaedia Britannica"
+        },
+        {
+          "label": "Israelis killed by Hezbollah rocket fire",
+          "value": "43 civilians and 12 soldiers",
+          "attribution": "Human Rights Watch",
+          "note": "Rocket deaths only; excludes soldiers killed in ground fighting inside Lebanon."
+        }
+      ]
+    },
+    {
+      "id": "2007-06-14-hamas-takes-control-of-gaza-strip",
+      "date": "2007-06-14",
+      "lat": 31.5069,
+      "lng": 34.456,
+      "location": "Gaza City, Gaza Strip",
+      "title": "Hamas takes control of the Gaza Strip; Abbas forms emergency government",
+      "category": "war",
+      "significance": 5,
+      "summary": "After months of factional clashes and the collapse of the Mecca unity government, fighting between Hamas and Fatah forces in the Gaza Strip escalated on 7 June 2007 into a week-long battle. By 14 June, Hamas's armed wing and its Executive Force had overrun the Palestinian Authority's security headquarters, the Preventive Security compound and President Mahmoud Abbas's Gaza offices, and Fatah's command structure in the territory collapsed. Per Human Rights Watch, 161 Palestinians were killed in the June fighting, including 41 civilians; Arab News later cited 188 dead and more than 650 wounded. Abbas dismissed Prime Minister Ismail Haniyeh's government on 14 June, declared a state of emergency and appointed Salam Fayyad to lead an emergency cabinet in Ramallah; Hamas rejected the decree. The split left two rival administrations, Hamas in Gaza and the PA in the West Bank, while Israel and Egypt tightened the closure of Gaza's crossings.",
+      "perspectives": [
+        {
+          "party": "Hamas",
+          "framing": "Hamas called its action a pre-emptive move against a US-backed Fatah 'coup' plotted by security chief Mohammed Dahlan, said it was defending the elected government, and described the outcome as 'liberating' Gaza from collaborators."
+        },
+        {
+          "party": "Palestinian Authority",
+          "framing": "Abbas and Fatah described the takeover as a bloody military coup by 'putschists' against Palestinian legitimacy, dissolved the unity government and refused any dialogue with Hamas until it reversed the seizure."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Israel declared Gaza a 'hostile territory' in September 2007, restricted the passage of goods and people, and said it would work with the Fayyad government in the West Bank while isolating Hamas."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The UN Special Coordinator briefed the Security Council on the violent insurrection, mourned two UN staff killed on 13 June, recognised the Fayyad emergency government, and warned of a humanitarian crisis as crossings closed."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Two years after Hamas seized Gaza",
+          "url": "https://www.aljazeera.com/news/2009/6/14/two-years-after-hamas-seized-gaza",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Internal Fight: Palestinian Abuses in Gaza and the West Bank - IV. Gaza: Abuses against Fatah",
+          "url": "https://www.hrw.org/reports/2008/iopt0708/5.htm",
+          "publisher": "Human Rights Watch",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Hamas seizes control in Gaza / PA emergency Government - Special Coordinator Williams briefs Security Council",
+          "url": "https://www.un.org/unispal/document/auto-insert-189947/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Palestine: Split administration of the West Bank and the Gaza Strip",
+          "url": "https://www.britannica.com/place/Palestine/Split-administration-of-the-West-Bank-and-the-Gaza-Strip",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "2007 - Hamas takes over the Gaza Strip",
+          "url": "https://www.arabnews.com/node/2597224/amp",
+          "publisher": "Arab News",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "second-intifada-disengagement",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Palestinians killed in Gaza factional fighting, June 2007",
+          "value": "161 (including 41 civilians)",
+          "attribution": "Human Rights Watch",
+          "note": "Two UN staff members were among the dead, per the UN Special Coordinator."
+        },
+        {
+          "label": "Palestinians killed in Gaza factional fighting, June 2007",
+          "value": "188 (more than 650 wounded)",
+          "attribution": "Arab News"
+        }
+      ]
+    }
+  ],
+  "boundaryChanges": [
+    {
+      "date": "2002-03-29",
+      "description": "Operation Defensive Shield: Israeli forces re-enter the Palestinian Authority-administered cities of the West Bank (Area A), including Ramallah, Bethlehem, Jenin, Nablus, Tulkarm and Qalqilya; after a partial pull-back in May, most cities are reoccupied from June 2002 and remain under direct Israeli military control with curfews for much of the intifada.",
+      "sources": [
+        "https://press.un.org/en/2002/sg2077.doc.htm",
+        "https://www.hrw.org/report/2002/05/02/jenin/idf-military-operations"
+      ]
+    },
+    {
+      "date": "2002-06-23",
+      "description": "Israel's cabinet approves Phase A of the West Bank barrier (Salem checkpoint to Elkana, about 123 km, plus Jerusalem sections) and construction begins; the route runs largely east of the 1949 Green Line, creating a de facto closed 'seam zone' between the Green Line and the barrier. Phase A declared complete July 2003.",
+      "sources": [
+        "https://www.un.org/unispal/document/auto-insert-207980/",
+        "https://www.btselem.org/separation_barrier"
+      ]
+    },
+    {
+      "date": "2005-08-15",
+      "description": "Israel evacuates all 21 settlements in the Gaza Strip and four in the northern West Bank (Ganim, Kadim, Sa-Nur, Homesh); civilian evacuation completed 22 August 2005.",
+      "sources": [
+        "https://www.britannica.com/event/Israels-disengagement-from-Gaza",
+        "https://www.gov.il/en/departments/general/israel-s-disengagement-from-gaza-and-north-samaria"
+      ]
+    },
+    {
+      "date": "2005-09-12",
+      "description": "Last Israeli soldiers leave the Gaza Strip; the interior of Gaza passes to Palestinian Authority administration while Israel retains control of the airspace, territorial waters and land crossings other than Rafah. Under an Israel-Egypt agreement, 750 Egyptian border guards deploy on the Egyptian side of the Philadelphi corridor.",
+      "sources": [
+        "https://www.cfr.org/backgrounders/middle-east-disengagement-plan",
+        "https://www.un.org/unispal/document/auto-insert-197880/"
+      ]
+    },
+    {
+      "date": "2005-11-25",
+      "description": "Rafah crossing between Gaza and Egypt reopens under the 15 November 2005 Agreement on Movement and Access, operated by the Palestinian Authority with European Union monitors (EUBAM Rafah) and remote Israeli video monitoring.",
+      "sources": [
+        "https://news.un.org/en/story/2005/11/161912",
+        "https://2001-2009.state.gov/r/pa/scp/2005/57294.htm"
+      ]
+    },
+    {
+      "date": "2006-06-28",
+      "description": "Operation Summer Rains: Israeli ground forces re-enter parts of the Gaza Strip for the first time since the 2005 withdrawal, following the capture of Gilad Shalit; operations continue intermittently through late 2006.",
+      "sources": [
+        "https://www.globalsecurity.org/military/world/war/intifada2_summer-rains.htm",
+        "https://www.britannica.com/biography/Gilad-Shalit"
+      ]
+    },
+    {
+      "date": "2006-07-12",
+      "description": "2006 Lebanon War: Israeli ground forces operate in southern Lebanon up to the Litani River until the 14 August cessation of hostilities under UNSC resolution 1701.",
+      "sources": [
+        "https://www.britannica.com/event/2006-Lebanon-War",
+        "https://press.un.org/en/2006/sc8808.doc.htm"
+      ]
+    },
+    {
+      "date": "2006-10-01",
+      "description": "Israel completes its withdrawal from southern Lebanon (except the northern part of Ghajar village); the Lebanese Armed Forces and an expanded UNIFIL (authorised up to 15,000 troops) deploy between the Blue Line and the Litani River.",
+      "sources": [
+        "https://news.un.org/en/story/2006/10/195402",
+        "https://unifil.unmissions.org/en/background"
+      ]
+    },
+    {
+      "date": "2007-06-14",
+      "description": "Hamas takes control of the entire Gaza Strip; the Palestinian Authority under President Abbas and the Fayyad emergency government retains administration only in the Palestinian-administered areas of the West Bank. Israel and Egypt close Gaza's crossings, beginning the blockade.",
+      "sources": [
+        "https://www.aljazeera.com/news/2009/6/14/two-years-after-hamas-seized-gaza",
+        "https://www.un.org/unispal/document/auto-insert-189947/"
+      ]
+    }
+  ],
+  "excluded": [
+    {
+      "title": "Election of Ariel Sharon as Israeli prime minister",
+      "date": "2001-02-06",
+      "reason": "Domestic political event; its consequences are captured in the Taba and Defensive Shield entries."
+    },
+    {
+      "title": "Karine A weapons-ship seizure",
+      "date": "2002-01-03",
+      "reason": "Significant for US-PA relations but below the casualty/territorial threshold; unit already at 19 events."
+    },
+    {
+      "title": "Siege of the Church of the Nativity, Bethlehem",
+      "date": "2002-04-02",
+      "reason": "Folded into the Operation Defensive Shield entry (siege end date 10 May 2002 used as the operation's endDate)."
+    },
+    {
+      "title": "Aqaba summit (Bush, Sharon, Abbas)",
+      "date": "2003-06-04",
+      "reason": "Folded into the Road Map entry."
+    },
+    {
+      "title": "Geneva Initiative (unofficial accord)",
+      "date": "2003-12-01",
+      "reason": "Track-two document without governmental standing; omitted for space."
+    },
+    {
+      "title": "Killing of Abdel Aziz al-Rantisi",
+      "date": "2004-04-17",
+      "reason": "Mentioned within the Yassin entry; a second targeted-killing entry would duplicate."
+    },
+    {
+      "title": "Operation Rainbow / Rafah house demolitions",
+      "date": "2004-05-18",
+      "reason": "Serious humanitarian episode (HRW 'Razing Rafah') but could not be sourced to two publishers within the session's search budget."
+    },
+    {
+      "title": "Election of Mahmoud Abbas as PA president",
+      "date": "2005-01-09",
+      "reason": "Covered within the Arafat and Sharm el-Sheikh entries."
+    },
+    {
+      "title": "Beit Hanoun shelling",
+      "date": "2006-11-08",
+      "reason": "Could not be sourced to two publishers within the session's search budget; candidate for a later pass."
+    },
+    {
+      "title": "Mecca Agreement (Hamas-Fatah unity government)",
+      "date": "2007-02-08",
+      "reason": "Referenced in the Hamas takeover entry; omitted as a standalone event to stay near the target count."
+    }
+  ],
+  "uncertainties": [
+    "METHOD LIMITATION: in this sandbox every outbound fetch (WebFetch and curl alike) was denied by the organisation's egress proxy for all publisher domains, and the session's WebSearch budget was exhausted after research. All URLs were therefore taken verbatim from WebSearch result listings and facts were confirmed from content the search tool extracted from those pages; no URL's HTTP status could be checked directly. A link-check pass (npm run validate -- --links) should be run from an unrestricted environment before publication.",
+    "West Bank barrier start date: the brief specified 2002-06-16 as the start of construction, but the sources available confirm only the cabinet decision of 23 June 2002 approving Phase A; CRS states work began about a month after approval, while OCHA and B'Tselem date the start to June 2002. The event is dated 2002-06-23 (id 2002-06-23-west-bank-barrier-construction-begins) and should be re-dated if a source for 16 June is found.",
+    "Casualties on 29 September 2000: figures for Palestinians killed in Jerusalem on the first day range from four (at the compound) to seven (city-wide); the entry gives 'up to 7' attributed to contemporaneous reports.",
+    "Park Hotel bombing: CNN's report on the night gave 19 dead; the Israel MFA's final toll is 30 (one victim died later of wounds). The entry uses the MFA figure.",
+    "Jenin: the UN Secretary-General's report gives at least 52 Palestinian dead, up to half possibly civilians, and 23 Israeli soldiers; HRW gives at least 52 with at least 22 civilians. Early Palestinian claims of several hundred dead were not substantiated by either. The Palestinian Authority's overall figure for the whole operation (frequently cited as 497 killed between 1 March and 7 May 2002) could not be confirmed in this session and is not used.",
+    "Yassin strike: reports of other Palestinians killed range from seven to nine; the entry gives the range.",
+    "Arafat's death: announced at 03:30 CET on 11 November 2004; some outlets dated it 12 November in local Middle East time.",
+    "Second Intifada totals: B'Tselem's ten-year press release (29 Sep 2000 to 26 Sep 2010) figures of 6,371 Palestinians and 1,083 Israelis include Operation Cast Lead and 2009-10 deaths, so they overstate the 2000-05 uprising itself; B'Tselem's period table for 29 Sep 2000 to 26 Dec 2008 (about 4,860 Palestinians and about 1,060 Israelis) could not be retrieved directly. OCHA's August 2007 total of 5,848 is reproduced as published; its component figures (4,228 Palestinians, 1,024 Israelis, 63 foreign nationals) do not sum to the total, the balance apparently being Palestinians killed in intra-Palestinian violence.",
+    "2006 Lebanon War: Lebanese government tallies (about 1,191 killed) were not directly confirmed; HRW's 'at least 1,109' is used. Israel's official figures (commonly 44 civilians and 119 soldiers) were not directly confirmed; Britannica's 'about 120 soldiers and more than 40 civilians' is used, alongside HRW's rocket-only count of 43 civilians and 12 soldiers.",
+    "Hamas takeover of Gaza: the fighting is dated 7-15 June 2007 in most accounts; the entry uses 14 June (the day Abbas dismissed the government and Hamas completed its seizure of PA security compounds). Death tolls vary: HRW 161 (41 civilians), Arab News 188.",
+    "Gaza disengagement: settler numbers are given as about 8,500 (Israeli figures) to about 9,000 (Britannica); both are reported.",
+    "Unit size: the brief's target was 15-18 events, but all listed must-include items were confirmed, giving 19 events (with UNSC 1701 folded into the Lebanon War entry and the B'Tselem intifada totals attached to the Sharm el-Sheikh ceasefire entry)."
+  ]
+}

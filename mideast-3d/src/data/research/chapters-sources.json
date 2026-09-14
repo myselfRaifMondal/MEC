@@ -1,0 +1,350 @@
+[
+  {
+    "id": "mandate",
+    "sources": [
+      {
+        "title": "Part I (1917-1947) - Origins and Evolution of the Palestine Problem",
+        "url": "https://www.un.org/unispal/history2/origins-and-evolution-of-the-palestine-problem/part-i-1917-1947/",
+        "publisher": "United Nations",
+        "accessedDate": "2026-09-09"
+      },
+      {
+        "title": "Balfour Declaration",
+        "url": "https://www.britannica.com/event/Balfour-Declaration",
+        "publisher": "Encyclopaedia Britannica",
+        "accessedDate": "2026-09-09"
+      },
+      {
+        "title": "Palestine - World War I and after",
+        "url": "https://www.britannica.com/place/Palestine/World-War-I-and-after",
+        "publisher": "Encyclopaedia Britannica",
+        "accessedDate": "2026-09-09"
+      },
+      {
+        "title": "Balfour Declaration, 2 November 1917",
+        "url": "https://www.palquest.org/en/highlight/157/balfour-declaration",
+        "publisher": "Institute for Palestine Studies (Palquest)",
+        "accessedDate": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "id": "partition-war",
+    "sources": [
+      {
+        "title": "United Nations Resolution 181",
+        "url": "https://www.britannica.com/topic/United-Nations-Resolution-181",
+        "publisher": "Encyclopaedia Britannica",
+        "accessedDate": "2026-09-09"
+      },
+      {
+        "title": "1948 Arab-Israeli War",
+        "url": "https://www.britannica.com/event/1948-Arab-Israeli-War",
+        "publisher": "Encyclopaedia Britannica",
+        "accessedDate": "2026-09-09"
+      },
+      {
+        "title": "UN General Assembly Resolution 181",
+        "url": "https://www.gov.il/en/pages/un-general-assembly-resolution-181",
+        "publisher": "Israel Ministry of Foreign Affairs",
+        "accessedDate": "2026-09-09"
+      },
+      {
+        "title": "General Assembly - Question of Palestine",
+        "url": "https://www.un.org/unispal/data-collection/general-assembly/",
+        "publisher": "United Nations",
+        "accessedDate": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "id": "armistice-suez",
+    "sources": [
+      {
+        "title": "The Suez Crisis, 1956",
+        "url": "https://history.state.gov/milestones/1953-1960/suez",
+        "publisher": "US Department of State, Office of the Historian",
+        "accessedDate": "2026-09-09"
+      },
+      {
+        "title": "First United Nations Emergency Force (UNEF I) - Background",
+        "url": "https://peacekeeping.un.org/sites/default/files/past/unef1backgr2.html",
+        "publisher": "United Nations Peacekeeping",
+        "accessedDate": "2026-09-09"
+      },
+      {
+        "title": "West Bank",
+        "url": "https://www.britannica.com/place/West-Bank",
+        "publisher": "Encyclopaedia Britannica",
+        "accessedDate": "2026-09-09"
+      },
+      {
+        "title": "Gaza Strip",
+        "url": "https://www.britannica.com/place/Gaza-Strip",
+        "publisher": "Encyclopaedia Britannica",
+        "accessedDate": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "id": "six-day-to-yom-kippur",
+    "sources": [
+      {
+        "title": "The 1967 Arab-Israeli War",
+        "url": "https://history.state.gov/milestones/1961-1968/arab-israeli-war-1967",
+        "publisher": "US Department of State, Office of the Historian",
+        "accessedDate": "2026-09-09"
+      },
+      {
+        "title": "United Nations Resolution 242 (1967)",
+        "url": "https://www.britannica.com/topic/United-Nations-Resolution-242",
+        "publisher": "Encyclopaedia Britannica",
+        "accessedDate": "2026-09-09"
+      },
+      {
+        "title": "Yom Kippur War",
+        "url": "https://www.britannica.com/event/Yom-Kippur-War",
+        "publisher": "Encyclopaedia Britannica",
+        "accessedDate": "2026-09-09"
+      },
+      {
+        "title": "Golan Heights",
+        "url": "https://www.britannica.com/place/Golan-Heights",
+        "publisher": "Encyclopaedia Britannica",
+        "accessedDate": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "id": "camp-david-lebanon",
+    "sources": [
+      {
+        "title": "Camp David Accords and the Arab-Israeli Peace Process",
+        "url": "https://history.state.gov/milestones/1977-1980/camp-david",
+        "publisher": "US Department of State, Office of the Historian",
+        "accessedDate": "2026-09-09"
+      },
+      {
+        "title": "The Reagan Administration and Lebanon, 1981-1984",
+        "url": "https://history.state.gov/milestones/1981-1988/lebanon",
+        "publisher": "US Department of State, Office of the Historian",
+        "accessedDate": "2026-09-09"
+      },
+      {
+        "title": "Israel - War in Lebanon",
+        "url": "https://www.britannica.com/place/Israel/War-in-Lebanon",
+        "publisher": "Encyclopaedia Britannica",
+        "accessedDate": "2026-09-09"
+      },
+      {
+        "title": "UNIFIL Background",
+        "url": "https://unifil.unmissions.org/en/background",
+        "publisher": "United Nations Interim Force in Lebanon",
+        "accessedDate": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "id": "first-intifada-oslo",
+    "sources": [
+      {
+        "title": "Fatalities in the first Intifada",
+        "url": "https://www.btselem.org/statistics/first_intifada_tables",
+        "publisher": "B'Tselem",
+        "accessedDate": "2026-09-09"
+      },
+      {
+        "title": "Palestine - The first intifada",
+        "url": "https://www.britannica.com/place/Palestine/The-first-intifada",
+        "publisher": "Encyclopaedia Britannica",
+        "accessedDate": "2026-09-09"
+      },
+      {
+        "title": "The Madrid Conference, 1991",
+        "url": "https://history.state.gov/milestones/1989-1992/madrid-conference",
+        "publisher": "US Department of State, Office of the Historian",
+        "accessedDate": "2026-09-09"
+      },
+      {
+        "title": "Declaration of State of Palestine - Palestine National Council",
+        "url": "https://www.un.org/unispal/document/auto-insert-178680/",
+        "publisher": "United Nations",
+        "accessedDate": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "id": "oslo-process",
+    "sources": [
+      {
+        "title": "The Oslo Accords and the Arab-Israeli Peace Process",
+        "url": "https://history.state.gov/milestones/1993-2000/oslo",
+        "publisher": "US Department of State, Office of the Historian",
+        "accessedDate": "2026-09-09"
+      },
+      {
+        "title": "Oslo Accords",
+        "url": "https://www.britannica.com/topic/Oslo-Accords",
+        "publisher": "Encyclopaedia Britannica",
+        "accessedDate": "2026-09-09"
+      },
+      {
+        "title": "Declaration of Principles on Interim Self-Government Arrangements (\"Oslo Accord\")",
+        "url": "https://www.un.org/unispal/document/auto-insert-180015/",
+        "publisher": "United Nations",
+        "accessedDate": "2026-09-09"
+      },
+      {
+        "title": "The Middle East Peace Summit at Camp David, July 2000",
+        "url": "https://www.gov.il/en/pages/the-middle-east-peace-summit-at-camp-david-july-2000",
+        "publisher": "Israel Ministry of Foreign Affairs",
+        "accessedDate": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "id": "second-intifada-disengagement",
+    "sources": [
+      {
+        "title": "10 years to the second Intifada - summary of data",
+        "url": "https://www.btselem.org/press_releases/20100927",
+        "publisher": "B'Tselem",
+        "accessedDate": "2026-09-09"
+      },
+      {
+        "title": "Summary of the Advisory Opinion of 9 July 2004 (Legal Consequences of the Construction of a Wall)",
+        "url": "https://www.icj-cij.org/case/131/summaries",
+        "publisher": "International Court of Justice",
+        "accessedDate": "2026-09-09"
+      },
+      {
+        "title": "Israel's disengagement from Gaza (2005)",
+        "url": "https://www.britannica.com/event/Israels-disengagement-from-Gaza",
+        "publisher": "Encyclopaedia Britannica",
+        "accessedDate": "2026-09-09"
+      },
+      {
+        "title": "Israeli-Palestinian fatalities since 2000 - OCHA Special Focus",
+        "url": "https://www.un.org/unispal/document/auto-insert-208380/",
+        "publisher": "UN OCHA",
+        "accessedDate": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "id": "gaza-wars",
+    "sources": [
+      {
+        "title": "Key figures on the 2014 hostilities",
+        "url": "https://www.ochaopt.org/content/key-figures-2014-hostilities",
+        "publisher": "UN OCHA",
+        "accessedDate": "2026-09-09"
+      },
+      {
+        "title": "B'Tselem's investigation of fatalities in Operation Cast Lead",
+        "url": "https://www.btselem.org/download/20090909_cast_lead_fatalities_eng.pdf",
+        "publisher": "B'Tselem",
+        "accessedDate": "2026-09-09"
+      },
+      {
+        "title": "Gaza Strip - Blockade",
+        "url": "https://www.britannica.com/place/Gaza-Strip/Blockade",
+        "publisher": "Encyclopaedia Britannica",
+        "accessedDate": "2026-09-09"
+      },
+      {
+        "title": "The Abraham Accords",
+        "url": "https://www.state.gov/the-abraham-accords",
+        "publisher": "US Department of State",
+        "accessedDate": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "id": "october-7-gaza-war",
+    "sources": [
+      {
+        "title": "October 7 attack",
+        "url": "https://www.britannica.com/event/October-7-attack",
+        "publisher": "Encyclopaedia Britannica",
+        "accessedDate": "2026-09-09"
+      },
+      {
+        "title": "Gaza: Turk pleads for end to fighting as death toll passes 40,000",
+        "url": "https://www.ohchr.org/en/statements-and-speeches/2024/08/gaza-turk-pleads-end-fighting-death-toll-passes-40000",
+        "publisher": "UN Office of the High Commissioner for Human Rights",
+        "accessedDate": "2026-09-09"
+      },
+      {
+        "title": "Israeli-Palestinian Conflict - Global Conflict Tracker",
+        "url": "https://www.cfr.org/global-conflict-tracker/conflict/israeli-palestinian-conflict",
+        "publisher": "Council on Foreign Relations",
+        "accessedDate": "2026-09-09"
+      },
+      {
+        "title": "Swords of Iron: Civilian Casualties",
+        "url": "https://www.gov.il/en/pages/swords-of-iron-civilian-casualties",
+        "publisher": "Israel Ministry of Foreign Affairs",
+        "accessedDate": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "id": "regional-escalation",
+    "sources": [
+      {
+        "title": "From pager blasts to Nasrallah's killing: 12 days that transformed a bloody conflict",
+        "url": "https://www.npr.org/2024/09/29/g-s1-25348/israel-hezbollah-lebanon-hassan-nasrallah-timeline",
+        "publisher": "NPR",
+        "accessedDate": "2026-09-09"
+      },
+      {
+        "title": "November 27, 2024 - Israel-Hezbollah ceasefire takes effect in Lebanon",
+        "url": "https://www.cnn.com/world/live-news/israel-hezbollah-ceasefire-deal-gaza-war-11-27-24-intl-hnk",
+        "publisher": "CNN",
+        "accessedDate": "2026-09-09"
+      },
+      {
+        "title": "Israel-Hamas War - Ceasefire and hostage exchange (January-March 2025)",
+        "url": "https://www.britannica.com/event/Israel-Hamas-War/Ceasefire-and-hostage-exchange-January-March-2025",
+        "publisher": "Encyclopaedia Britannica",
+        "accessedDate": "2026-09-09"
+      },
+      {
+        "title": "12-Day War (June 2025)",
+        "url": "https://www.britannica.com/event/12-Day-War",
+        "publisher": "Encyclopaedia Britannica",
+        "accessedDate": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "id": "ceasefire-and-after",
+    "sources": [
+      {
+        "title": "Security Council Authorizes Stabilization Force in Gaza, Adopting Resolution 2803 (2025)",
+        "url": "https://www.un.org/unispal/document/security-council-meeting-coverage-17nov25/",
+        "publisher": "United Nations",
+        "accessedDate": "2026-09-09"
+      },
+      {
+        "title": "Trump announces deal for Hamas to disarm, militants demand Israel withdraws from Gaza first",
+        "url": "https://www.npr.org/2026/07/31/g-s1-136500/trump-hamas-gaza",
+        "publisher": "NPR",
+        "accessedDate": "2026-09-09"
+      },
+      {
+        "title": "2026 Iran war",
+        "url": "https://www.britannica.com/event/2026-Iran-war",
+        "publisher": "Encyclopaedia Britannica",
+        "accessedDate": "2026-09-09"
+      },
+      {
+        "title": "Conflict With Hezbollah in Lebanon - Global Conflict Tracker",
+        "url": "https://www.cfr.org/global-conflict-tracker/conflict/political-instability-lebanon",
+        "publisher": "Council on Foreign Relations",
+        "accessedDate": "2026-09-09"
+      }
+    ]
+  }
+]

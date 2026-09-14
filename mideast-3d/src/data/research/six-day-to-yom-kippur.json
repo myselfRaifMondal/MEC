@@ -1,0 +1,1348 @@
+{
+  "era": "six-day-to-yom-kippur",
+  "unit": "six-day-to-yom-kippur",
+  "events": [
+    {
+      "id": "1967-06-05-six-day-war",
+      "date": "1967-06-05",
+      "endDate": "1967-06-10",
+      "lat": 31.7767,
+      "lng": 35.2345,
+      "location": "Three fronts: Sinai, West Bank and Golan (marker at Jerusalem)",
+      "title": "Six-Day War: Israel defeats Egypt, Jordan and Syria and occupies new territory",
+      "category": "war",
+      "significance": 5,
+      "summary": "On the morning of 5 June 1967, after a May crisis over Egypt's closure of the Straits of Tiran and its build-up in Sinai, Israel launched air strikes that destroyed most of the Egyptian air force and sent its army into Sinai and the Gaza Strip. Jordan opened fire the same day; Israeli forces took East Jerusalem and the West Bank by 7 June and reached the Suez Canal by 8 June. Israel attacked Syrian positions on the Golan Heights from 9 June, and the ceasefire demanded by UN Security Council resolutions 233 to 236 held on all fronts from the evening of 10 June. Israel's Ministry of Defense archive records 776 Israeli dead. No full official Arab toll exists; secondary estimates run to roughly 10,000-15,000 Egyptian, about 700 Jordanian and 1,000-2,500 Syrian soldiers killed. Israel now controlled Sinai, Gaza, the West Bank, East Jerusalem and the Golan Heights.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Presents the war as a pre-emptive act of self-defence against an imminent Arab attack, made unavoidable by the blockade of Eilat, the withdrawal of UN peacekeepers and Nasser's threats; the captured territories are described as security assets and, in the case of Jerusalem, as the reunification of Israel's capital."
+        },
+        {
+          "party": "Egypt",
+          "framing": "Nasser's government initially described the 5 June strikes as aggression carried out with American and British help, a charge it later withdrew; Egypt frames the war as an Israeli attack whose results, the occupation of Arab land, had to be reversed."
+        },
+        {
+          "party": "Palestinian leadership / PLO",
+          "framing": "Calls the war the Naksa, the 'setback', which placed the whole of Mandate Palestine under Israeli control and created a second wave of refugees, and regards the occupation that began in June 1967 as the central fact of Palestinian life since."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The Security Council confined itself to ceasefire demands during the fighting and then, in resolution 237, called on Israel to facilitate the return of inhabitants who had fled; UN usage refers to the territories taken in 1967 as occupied."
+        }
+      ],
+      "sources": [
+        {
+          "title": "FRUS 1964-1968, Vol. XIX, Arab-Israeli Crisis and War, 1967, Document 152: Editorial Note on the outbreak of fighting, 5 June 1967",
+          "url": "https://history.state.gov/historicaldocuments/frus1964-68v19/d152",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "FRUS 1964-1968, Vol. XIX, Arab-Israeli Crisis and War, 1967, Document 230: President's Daily Brief, 9 June 1967 (ceasefire observed on all fronts)",
+          "url": "https://history.state.gov/historicaldocuments/frus1964-68v19/d230",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Resolutions adopted by the Security Council in 1967",
+          "url": "https://www.un.org/securitycouncil/content/resolutions-adopted-security-council-1967",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "The 1967 Arab-Israeli War (Milestones in the History of U.S. Foreign Relations)",
+          "url": "https://history.state.gov/milestones/1961-1968/arab-israeli-war-1967",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Six-Day War | Definition, Causes, History, Summary, Outcomes, & Facts",
+          "url": "https://www.britannica.com/event/Six-Day-War",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "The Naksa: How Israel occupied the whole of Palestine in 1967",
+          "url": "https://www.aljazeera.com/features/2018/6/4/the-naksa-how-israel-occupied-the-whole-of-palestine-in-1967",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "The Six-Day War - The Price of War",
+          "url": "https://archives.mod.gov.il/sites/English/Exhibitions/The_Six-Day_War/Pages/The-Price-of-War.aspx",
+          "publisher": "Israel Ministry of Defense Archives",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "six-day-to-yom-kippur",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Israeli soldiers killed",
+          "value": "776",
+          "attribution": "Israel Ministry of Defense Archives",
+          "note": "Dead between 5 and 14 June 1967 per the ministry's 'Price of War' page; some secondary tables give up to 983."
+        },
+        {
+          "label": "Egyptian soldiers killed or missing",
+          "value": "≈10,000-15,000",
+          "attribution": "Estimates in secondary literature",
+          "note": "No official Egyptian total was published. A contemporaneous diplomatic report recorded in FRUS quotes an Egyptian figure of 20,000 dead against an earlier figure of 5,000."
+        },
+        {
+          "label": "Jordanian soldiers killed",
+          "value": "≈700",
+          "attribution": "Estimates in secondary literature",
+          "note": "Commonly cited Jordanian figure; not confirmed in a primary source read for this entry."
+        },
+        {
+          "label": "Syrian soldiers killed",
+          "value": "≈1,000-2,500",
+          "attribution": "Estimates in secondary literature",
+          "note": "Contested; at least one secondary source gives a figure as low as 450."
+        }
+      ]
+    },
+    {
+      "id": "1967-06-05-displacement-from-west-bank-and-golan",
+      "date": "1967-06-05",
+      "lat": 31.8733,
+      "lng": 35.5411,
+      "location": "Allenby (King Hussein) Bridge, Jordan Valley, and the Golan Heights",
+      "title": "1967 displacement: hundreds of thousands flee the West Bank, Gaza and the Golan",
+      "category": "displacement",
+      "significance": 4,
+      "summary": "The June 1967 fighting set off the largest population movement since 1948. As Israeli forces took the West Bank, Gaza Strip and Golan Heights, hundreds of thousands of people crossed the Jordan River or fled toward Damascus, many of them 1948 refugees uprooted a second time. Amnesty International and the Palestinian news agency WAFA put the number of Palestinians displaced at about 300,000, more than 100,000 of them already registered refugees; historians' estimates range from roughly 250,000 to 325,000. Amnesty gives about 100,000 Syrians displaced from the Golan, and the Akevot Institute, citing an Israeli census of August 1967, reports only 6,396 residents remaining there out of a pre-war population of about 130,000. UNRWA opened ten new camps, and Security Council resolution 237 of 14 June 1967 called on Israel to facilitate return; most remained in Jordan and Syria. Palestinians call the episode the Naksa.",
+      "perspectives": [
+        {
+          "party": "Palestinian leadership / PLO",
+          "framing": "Describes the exodus as a second Nakba or the Naksa, attributing it to Israeli military pressure, the demolition of villages such as Imwas, Yalo and Beit Nuba near Latrun, and the refusal to allow return; the displaced are counted as refugees with a right of return."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Maintained that most people left of their own accord during the fighting or on Jordanian advice, offered a limited family-reunification scheme, and argued that the refugee question could only be settled within an overall peace agreement."
+        },
+        {
+          "party": "United Nations",
+          "framing": "UNRWA registered the newly displaced as 'displaced persons' distinct from 1948 refugees and reported on their numbers; the Security Council and General Assembly called on Israel to facilitate their return."
+        },
+        {
+          "party": "Syria",
+          "framing": "Holds that the Golan's Arab population was expelled and its villages destroyed, and that the roughly 100,000 displaced and their descendants retain the right to return to the occupied Golan."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Persons displaced as a result of the June 1967 and subsequent hostilities - Report of the Secretary-General",
+          "url": "https://www.un.org/unispal/document/auto-insert-178971",
+          "publisher": "United Nations (UNISPAL)",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Palestine refugees",
+          "url": "https://www.unrwa.org/palestine-refugees",
+          "publisher": "UNRWA",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "58 years since the Naksa",
+          "url": "https://www.amnesty.org.au/58-years-since-the-naksa/",
+          "publisher": "Amnesty International Australia",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Remembering the Naksa, or setback, of 1967",
+          "url": "https://english.wafa.ps/Pages/Details/129536",
+          "publisher": "WAFA (Palestinian News and Info Agency)",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Displacement in the Heights: How the Population of the Golan Heights Vanished in 1967",
+          "url": "https://www.akevot.org.il/en/article/displacement-in-the-golan/",
+          "publisher": "Akevot Institute for Israeli-Palestinian Conflict Research",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel shoots propaganda film. Golan Heights residents flee",
+          "url": "https://www.akevot.org.il/en/article/israel-shoots-propaganda-film-golan-heights-residents-flee/",
+          "publisher": "Akevot Institute for Israeli-Palestinian Conflict Research",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "The 1967 Palestinian Refugees - Also Waiting to Go Home",
+          "url": "https://badil.org/press-releases/2355.html",
+          "publisher": "BADIL Resource Center",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "six-day-to-yom-kippur",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Palestinians displaced from the West Bank and Gaza",
+          "value": "≈300,000 (more than 100,000 of them registered 1948 refugees)",
+          "attribution": "Amnesty International; WAFA",
+          "note": "Both cite the UN-registered figure for June 1967; UNRWA classed the newly displaced as displaced persons rather than as 1948 refugees."
+        },
+        {
+          "label": "Palestinians displaced from the West Bank and Gaza",
+          "value": "≈250,000-325,000",
+          "attribution": "Estimates in secondary literature"
+        },
+        {
+          "label": "Syrians displaced from the Golan Heights",
+          "value": "≈100,000",
+          "attribution": "Amnesty International; Syrian government figures",
+          "note": "Akevot puts the pre-war Golan population at about 130,000."
+        },
+        {
+          "label": "Syrian residents remaining in the occupied Golan",
+          "value": "6,396",
+          "attribution": "Israeli census of August 1967, as reported by the Akevot Institute",
+          "note": "The vast majority of those remaining were Druze."
+        }
+      ]
+    },
+    {
+      "id": "1967-06-27-israel-extends-law-to-east-jerusalem",
+      "date": "1967-06-27",
+      "lat": 31.7857,
+      "lng": 35.2338,
+      "location": "East Jerusalem (Old City and surrounding areas)",
+      "title": "Israel extends its law and administration to East Jerusalem",
+      "category": "political",
+      "significance": 4,
+      "summary": "On 27 June 1967 the Knesset passed three laws enabling the government to extend Israeli law, jurisdiction and administration to any area of the former Mandate territory; on 28 June the government applied them to East Jerusalem and about 70 square kilometres of surrounding West Bank land held by Jordan since 1949, and dissolved the Arab municipal council. Israel described the step as municipal unification and denied that it amounted to annexation. The UN General Assembly, in resolution 2253 of 4 July 1967, adopted 99-0 with 20 abstentions including the United States, declared such measures invalid and called on Israel to rescind them; the Security Council reaffirmed this in resolution 252 of 21 May 1968. No state recognised the change. The enlarged municipality became the basis for Israeli neighbourhood construction beyond the 1949 line and remains one of the most contested questions in the conflict.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Framed the measures as the reunification of Jerusalem, Israel's eternal capital, guaranteeing free access to holy places of all faiths; it insisted at the time that the laws were administrative rather than an annexation, a position later formalised in the 1980 Basic Law: Jerusalem."
+        },
+        {
+          "party": "Jordan",
+          "framing": "Denounced the annexation of a city it had administered since 1948, retained its claim to the West Bank until 1988 and continued to assert custodianship of the Muslim holy places, including the Haram al-Sharif / Temple Mount."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The General Assembly and Security Council held that measures changing the status of Jerusalem are invalid, that acquisition of territory by military conquest is inadmissible, and that East Jerusalem is occupied territory."
+        },
+        {
+          "party": "Palestinian leadership",
+          "framing": "Regards East Jerusalem as the capital of a future Palestinian state and describes the expansion of the municipal boundary, land expropriations and residency rules as steps in the city's annexation and Judaisation."
+        }
+      ],
+      "sources": [
+        {
+          "title": "FRUS 1964-1968, Vol. XIX, Arab-Israeli Crisis and War, 1967, Document 333: Telegram on Israeli action on Jerusalem, 30 June 1967 (Knesset bills of 27 June)",
+          "url": "https://history.state.gov/historicaldocuments/frus1964-68v19/d333",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "FRUS 1964-1968, Vol. XIX, Arab-Israeli Crisis and War, 1967, Document 344: Circular telegram on General Assembly resolution 2253, July 1967",
+          "url": "https://history.state.gov/historicaldocuments/frus1964-68v19/d344",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "UN Security Council, Resolution 252 (1968) of 21 May 1968",
+          "url": "https://www.refworld.org/docid/3b00f1fe4.html",
+          "publisher": "UNHCR Refworld",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "The Status of Jerusalem (1997)",
+          "url": "https://www.un.org/unispal/wp-content/uploads/2016/07/The-Status-of-Jerusalem-Engish-199708.pdf",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Background on East Jerusalem",
+          "url": "https://www.btselem.org/jerusalem",
+          "publisher": "B'Tselem",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "six-day-to-yom-kippur",
+      "verified": true
+    },
+    {
+      "id": "1967-09-01-khartoum-resolution",
+      "date": "1967-09-01",
+      "lat": 15.5007,
+      "lng": 32.5599,
+      "location": "Khartoum, Sudan",
+      "title": "Arab summit at Khartoum adopts the 'three noes' resolution",
+      "category": "political",
+      "significance": 3,
+      "summary": "Arab heads of state met in Khartoum from 29 August to 1 September 1967 to coordinate their response. The summit resolution adopted on 1 September pledged to unite Arab political and diplomatic efforts to 'eliminate the effects of the aggression' and secure Israeli withdrawal from occupied Arab land 'within the framework of the main principles to which the Arab states adhere, namely: no peace with Israel, no recognition of Israel, no negotiations with it, and adherence to the rights of the Palestinian people in their country'. It also arranged Saudi, Kuwaiti and Libyan subsidies for Egypt and Jordan and ended the wartime oil boycott of Western states. President Johnson wrote to King Faisal on 25 September that the conference marked 'notable progress for the forces of Arab moderation', while Israel cited the 'three noes' for decades as proof that no Arab partner for peace existed.",
+      "perspectives": [
+        {
+          "party": "Arab League",
+          "framing": "Presented the resolution as a unified rejection of negotiating under occupation and a commitment to recover the occupied territories by political means, while restoring Arab solidarity and financial support for the front-line states."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Cited the 'three noes' for decades as evidence of Arab rejectionism that justified holding the territories pending direct negotiations and a peace treaty."
+        },
+        {
+          "party": "United States",
+          "framing": "President Johnson told King Faisal that Khartoum marked 'notable progress for the forces of Arab moderation', and officials noted the endorsement of political rather than military means and the moderates' influence over the outcome."
+        },
+        {
+          "party": "Historians",
+          "framing": "Many read the resolution as ambiguous, arguing that Nasser and Hussein used it to legitimise a diplomatic path leading to their acceptance of resolution 242, whereas others see it as confirming Arab refusal of peace."
+        }
+      ],
+      "sources": [
+        {
+          "title": "LAS Khartoum Resolution, 1 September 1967",
+          "url": "https://www.un.org/unispal/document/auto-insert-193039",
+          "publisher": "United Nations (UNISPAL)",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "4th Arab League Summit in Khartoum - Three No's Resolution (1967)",
+          "url": "https://ecf.org.il/issues/issue/141",
+          "publisher": "Economic Cooperation Foundation",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "FRUS 1964-1968, Vol. XIX, Arab-Israeli Crisis and War, 1967, Document 447: Letter From President Johnson to King Faisal, 25 September 1967",
+          "url": "https://history.state.gov/historicaldocuments/frus1964-68v19/d447",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel-Arab Peace Process: The Khartoum Resolutions",
+          "url": "https://jewishvirtuallibrary.org/the-khartoum-resolutions",
+          "publisher": "Jewish Virtual Library",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "six-day-to-yom-kippur",
+      "verified": true
+    },
+    {
+      "id": "1967-09-27-kfar-etzion-first-settlement-and-allon-plan",
+      "date": "1967-09-27",
+      "lat": 31.6505,
+      "lng": 35.1141,
+      "location": "Kfar Etzion, between Bethlehem and Hebron, Israeli-occupied West Bank",
+      "title": "Kfar Etzion re-established: first Israeli settlement in the occupied West Bank",
+      "category": "political",
+      "significance": 3,
+      "summary": "On 27 September 1967 a group of young Israelis, many of them children of kibbutz members killed there in May 1948, re-established Kfar Etzion between Bethlehem and Hebron in the Israeli-occupied West Bank, the first Israeli settlement in territory captured in June. Press reports summarised by the US State Department on 25 September recorded Prime Minister Levi Eshkol's announcement of settlements near Baniyas on the Golan, at Etzion and at Beit Haarava by the Dead Sea; Israel presented the sites as Nahal military-agricultural strongpoints. Asked about them on 27 September, the State Department spokesman restated the US position on territorial questions, and Washington privately urged Israel not to prejudge a settlement. The move followed minister Yigal Allon's unofficial July 1967 plan for settlement along the Jordan Valley while returning populated highland areas to Jordan. Kfar Etzion began a settlement enterprise that by the 2020s encompassed several hundred thousand Israelis.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Described the early sites as security strongpoints in Judea and Samaria and the Golan, and Kfar Etzion specifically as the return of a community destroyed in 1948; later governments refer to settlements as communities and dispute that the Fourth Geneva Convention applies to the West Bank."
+        },
+        {
+          "party": "Palestinian leadership",
+          "framing": "Regards settlements as colonies built on confiscated Palestinian land that entrench the occupation and pre-empt a Palestinian state, and points to Kfar Etzion as the start of a deliberate policy rather than a spontaneous return."
+        },
+        {
+          "party": "United Nations",
+          "framing": "Holds that settlements in territory occupied in 1967 have no legal validity and breach the Fourth Geneva Convention, a position later set out in Security Council resolutions 446 (1979) and 2334 (2016)."
+        },
+        {
+          "party": "United States",
+          "framing": "In 1967-68 Washington privately asked Israel to avoid steps that would appear to prejudge a settlement, and reported that the 'strongpoints' were taking on a permanent civilian character."
+        }
+      ],
+      "sources": [
+        {
+          "title": "FRUS 1964-1968, Vol. XIX, Arab-Israeli Crisis and War, 1967, Document 451: Memorandum of conversation, September 1967, with editorial note on press reports of Israeli settlements at Baniyas, Etzion and Beit Haarava",
+          "url": "https://history.state.gov/historicaldocuments/frus1964-68v19/d451",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "West Bank Settlements Explained",
+          "url": "https://israelpolicyforum.org/west-bank-settlements-explained/",
+          "publisher": "Israel Policy Forum",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israeli Settlements: Chronology",
+          "url": "https://fanack.com/arab-palestinian-israeli-conflict/israeli-settlements-new/israeli-settlements-throughout-history/",
+          "publisher": "Fanack",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "The fraud of Gush Etzion, Israel's mythological settlement bloc",
+          "url": "https://www.972mag.com/the-fraud-of-gush-etzion-israels-mythological-settlement-bloc/",
+          "publisher": "+972 Magazine",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "1967, September 29: Initial U.S. Diplomatic Response to Settlement",
+          "url": "http://southjerusalem.com/1967-september-29-initial-u-s-diplomatic-response-to-settlement/",
+          "publisher": "South Jerusalem (Gershom Gorenberg)",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "six-day-to-yom-kippur",
+      "verified": true
+    },
+    {
+      "id": "1967-11-22-unsc-resolution-242",
+      "date": "1967-11-22",
+      "lat": 40.7489,
+      "lng": -73.968,
+      "location": "UN Headquarters, New York",
+      "title": "UN Security Council adopts Resolution 242 on 'land for peace'",
+      "category": "political",
+      "significance": 5,
+      "summary": "On 22 November 1967 the UN Security Council unanimously adopted the British-drafted resolution 242, the framework for later Arab-Israeli negotiations. Emphasising 'the inadmissibility of the acquisition of territory by war', it affirmed that a just and lasting peace should include 'withdrawal of Israeli armed forces from territories occupied in the recent conflict' and 'termination of all claims or states of belligerency', with respect for every state's right 'to live in peace within secure and recognized boundaries'. It also called for freedom of navigation and 'a just settlement of the refugee problem', and provided for a special representative, Gunnar Jarring. Because the English text has no definite article before 'territories', Israel argued that withdrawal need not be total, while Arab states, citing the French text, insisted on full withdrawal. Egypt and Jordan accepted it; Syria rejected it until 1973, and the PLO rejected it as treating Palestinians only as refugees.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Reads the resolution as requiring withdrawal only to 'secure and recognized boundaries' negotiated directly with Arab states, not to the 1949 lines, and as linking any withdrawal to peace, an end of belligerency and recognition."
+        },
+        {
+          "party": "Egypt",
+          "framing": "Accepted the resolution as requiring complete Israeli withdrawal from all territories occupied in June 1967 before or as part of any settlement, citing the preamble on the inadmissibility of acquiring territory by war and the French text."
+        },
+        {
+          "party": "PLO",
+          "framing": "Rejected the resolution for two decades because it referred to Palestinians only as a 'refugee problem' and did not recognise their national rights; the PLO accepted it, with 338, in 1988."
+        },
+        {
+          "party": "United Kingdom",
+          "framing": "As the drafter, Lord Caradon described the wording as deliberately balanced and denied that the missing article was accidental, insisting that the emphasis lay on the inadmissibility of acquiring territory by war combined with secure boundaries."
+        }
+      ],
+      "sources": [
+        {
+          "title": "FRUS 1964-1968, Vol. XIX, Arab-Israeli Crisis and War, 1967, Document 542: Text of United Nations Security Council Resolution 242, 22 November 1967",
+          "url": "https://history.state.gov/historicaldocuments/frus1964-68v19/d542",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "FRUS 1964-1968, Vol. XIX, Arab-Israeli Crisis and War, 1967, Document 541: Editorial Note on the adoption of Resolution 242",
+          "url": "https://history.state.gov/historicaldocuments/frus1964-68v19/d541",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Security Council resolution 242 (1967) - UN Peacemaker",
+          "url": "https://peacemaker.un.org/middle-east-resolution242",
+          "publisher": "United Nations Peacemaker",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Security Council Resolution 242 (1967) (PDF)",
+          "url": "https://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/IP%20S%20RES%20242.pdf",
+          "publisher": "Security Council Report",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Resolutions adopted by the Security Council in 1967",
+          "url": "https://www.un.org/securitycouncil/content/resolutions-adopted-security-council-1967",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "United Nations Resolution 242",
+          "url": "https://www.britannica.com/topic/United-Nations-Resolution-242",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "six-day-to-yom-kippur",
+      "verified": true
+    },
+    {
+      "id": "1968-03-21-battle-of-karameh",
+      "date": "1968-03-21",
+      "lat": 31.9542,
+      "lng": 35.5806,
+      "location": "Karameh, Jordan Valley, Jordan",
+      "title": "Battle of Karameh: Israeli raid into Jordan meets Fatah and Jordanian resistance",
+      "category": "war",
+      "significance": 3,
+      "summary": "Before dawn on 21 March 1968 Israeli forces crossed the Damiya and Allenby bridges into Jordan with armour and air support to attack Fatah bases at Karameh, a Jordan Valley town used for raids into the occupied West Bank, and at Safi south of the Dead Sea. President Johnson's appeal to Eshkol against a reprisal arrived three hours after the operation began. Fatah fighters, joined by Jordanian army artillery and armour, resisted through the day before the Israelis withdrew, having demolished much of the town. Casualty figures are disputed: Israeli figures cite 28 to 33 Israeli soldiers killed, Jordan reported several dozen soldiers dead and Palestinian fighters killed are put at roughly 100 to 200. On 24 March the UN Security Council condemned the 'large-scale and carefully planned' Israeli action in resolution 248. Fatah presented the battle as a victory, and thousands of recruits joined Fatah.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Described the operation as a necessary reaction to terrorism after a mine attack on a school bus, aimed at destroying guerrilla bases, and reported that it had localised the fighting and spared civilians."
+        },
+        {
+          "party": "PLO",
+          "framing": "Fatah calls Karameh (Arabic for 'dignity') the moment the Palestinian resistance stood its ground against the Israeli army, a founding myth that made Yasser Arafat the movement's leader and brought a surge of volunteers."
+        },
+        {
+          "party": "Jordan",
+          "framing": "Credits the Jordanian army's artillery and armour with inflicting the losses that forced the Israeli withdrawal, while the episode also deepened its unease at the fedayeen's growing autonomy on Jordanian soil."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The Security Council deplored the loss of life, condemned the Israeli military action as a violation of the ceasefire and warned that further such acts would lead it to consider more effective steps."
+        }
+      ],
+      "sources": [
+        {
+          "title": "FRUS 1964-1968, Vol. XX, Arab-Israeli Dispute, 1967-1968, Document 119: President Johnson's message to Prime Minister Eshkol, 21 March 1968, with editorial note on the Karameh operation",
+          "url": "https://history.state.gov/historicaldocuments/frus1964-68v20/d119",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "FRUS 1964-1968, Vol. XX, Arab-Israeli Dispute, 1967-1968, Document 128: Memorandum of conversation with Israeli minister Evron on the Karameh attack, 29 March 1968",
+          "url": "https://history.state.gov/historicaldocuments/frus1964-68v20/d128",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "UN Security Council, Resolution 248 (1968) of 24 March 1968",
+          "url": "https://www.refworld.org/docid/3b00f20c44.html",
+          "publisher": "UNHCR Refworld",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Timeline: History of a Revolution (PLO chronology)",
+          "url": "https://www.aljazeera.com/video/plo-history-of-a-revolution/2009/8/12/timeline-history-of-a-revolution",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "six-day-to-yom-kippur",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Israeli soldiers killed",
+          "value": "28-33",
+          "attribution": "Israeli figures as reported in secondary literature",
+          "note": "Not confirmed in a primary source read for this entry."
+        },
+        {
+          "label": "Jordanian soldiers killed",
+          "value": "several dozen (figures range from about 40 to 84)",
+          "attribution": "Jordanian figures as reported in secondary literature"
+        },
+        {
+          "label": "Palestinian fighters killed",
+          "value": "≈100-200",
+          "attribution": "Israeli and Palestinian figures differ",
+          "note": "Israel reported higher Palestinian losses than Fatah acknowledged."
+        }
+      ]
+    },
+    {
+      "id": "1968-12-28-israeli-raid-on-beirut-airport",
+      "date": "1968-12-28",
+      "lat": 33.8209,
+      "lng": 35.4884,
+      "location": "Beirut International Airport, Lebanon",
+      "title": "Israeli commandos destroy 13 airliners at Beirut airport after Athens attack",
+      "category": "attack",
+      "significance": 2,
+      "summary": "On 26 December 1968 two members of the Popular Front for the Liberation of Palestine attacked an El Al airliner at Athens airport, killing one Israeli passenger. Holding Lebanon responsible for a group that operated from its territory, Israel retaliated on the night of 28 December: about 45 commandos landed by helicopter at Beirut International Airport and destroyed thirteen Lebanese-owned civilian aircraft in a twenty-minute operation without loss of life. Lebanon, which had stayed out of the 1967 war, protested to the UN Security Council, which on 31 December unanimously adopted resolution 262 condemning Israel for a 'premeditated' attack on a civil airport and holding that Lebanon was entitled to appropriate redress. France, whose helicopters and aircraft were used, tightened its arms embargo on Israel. The raid opened a cycle of Palestinian operations from Lebanon and Israeli reprisals that would dominate the Israel-Lebanon frontier.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Justified the raid as a proportionate response to a terrorist attack planned in Beirut, deliberately aimed at property rather than lives, and as a warning to Arab states hosting armed Palestinian groups."
+        },
+        {
+          "party": "Lebanon",
+          "framing": "Condemned an unprovoked attack on a neutral country's civil aviation and sought international redress, while facing growing domestic pressure over the Palestinian armed presence that led to the 1969 Cairo Agreement."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The Security Council condemned Israel for a premeditated, large-scale and carefully planned military action against a civil airport and warned of further steps in the event of repetition."
+        },
+        {
+          "party": "PLO",
+          "framing": "The PFLP claimed the Athens attack as a legitimate operation against Israel's national airline and presented the Beirut raid as proof of Israeli aggression against Arab states."
+        }
+      ],
+      "sources": [
+        {
+          "title": "FRUS 1964-1968, Vol. XX, Arab-Israeli Dispute, 1967-1968, Document 367: Editorial Note on the Athens attack and the Israeli raid on Beirut airport, December 1968",
+          "url": "https://history.state.gov/historicaldocuments/frus1964-68v20/d367",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "UN Security Council, Resolution 262 (1968) of 31 December 1968",
+          "url": "https://www.refworld.org/docid/3b00f2104c.html",
+          "publisher": "UNHCR Refworld",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "six-day-to-yom-kippur",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Killed in the Beirut raid",
+          "value": "0 reported",
+          "attribution": "FRUS editorial note; UN Security Council resolution 262",
+          "note": "Thirteen civilian aircraft destroyed. One Israeli passenger was killed in the preceding Athens attack of 26 December."
+        }
+      ]
+    },
+    {
+      "id": "1969-03-08-war-of-attrition",
+      "date": "1969-03-08",
+      "endDate": "1970-08-07",
+      "lat": 30.5965,
+      "lng": 32.2715,
+      "location": "Suez Canal front (Ismailia sector), Egypt",
+      "title": "War of Attrition along the Suez Canal ends in a US-brokered standstill ceasefire",
+      "category": "war",
+      "significance": 4,
+      "summary": "After months of intermittent clashes along the Suez Canal, Egypt's president Gamal Abdel Nasser declared on 8 March 1969 that the 1967 ceasefire was void and opened sustained artillery, commando and air attacks intended to make Israel's hold on the east bank of the Canal too costly to maintain. Israel replied with air strikes along the Canal and, from January 1970, deep-penetration bombing near Cairo, which led the Soviet Union to send air-defence crews and pilots to Egypt; Israeli and Soviet-flown aircraft fought directly in July 1970. A United States initiative by Secretary of State William Rogers produced a 90-day standstill ceasefire effective at 22:00 GMT on 7 August 1970, later extended. Israeli accounts, including Ynetnews, put Israeli dead at about 1,424 with more than 3,000 wounded; Egypt published no total, and secondary estimates of Egyptian dead range from roughly 2,900 to 10,000. No territory changed hands.",
+      "perspectives": [
+        {
+          "party": "Egypt",
+          "framing": "Framed the campaign as a war to liberate occupied Sinai by imposing unacceptable losses on Israel, and treated the 1970 ceasefire as a pause that allowed missile batteries to be moved to the Canal in preparation for a crossing."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Described the fighting as Egyptian violations of the ceasefire that justified deep-penetration raids to punish Nasser, and complained that Egypt breached the August 1970 standstill by moving surface-to-air missiles forward."
+        },
+        {
+          "party": "United States",
+          "framing": "Saw the war as a dangerous superpower flashpoint after Soviet forces arrived in Egypt, and promoted the Rogers initiative to secure a ceasefire and revive the Jarring mission under resolution 242."
+        },
+        {
+          "party": "Historians",
+          "framing": "Debate whether the war was an Egyptian failure or a strategic success, noting that Soviet involvement, the missile wall built during the ceasefire and Israeli overconfidence shaped the surprise of October 1973."
+        }
+      ],
+      "sources": [
+        {
+          "title": "FRUS 1969-1976, Vol. XXIII, Arab-Israeli Dispute, 1969-1972, Document 145: Cease-Fire Agreement Between Israel and the United Arab Republic, 7 August 1970",
+          "url": "https://history.state.gov/historicaldocuments/frus1969-76v23/d145",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "War of Attrition | History, Combatants, & Facts",
+          "url": "https://www.britannica.com/event/War-of-Attrition-1969-1970",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "War of Attrition (1969-1970)",
+          "url": "https://www.ynetnews.com/articles/0,7340,L-3611617,00.html",
+          "publisher": "Ynetnews",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "War of Attrition (1969-1970)",
+          "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/war-attrition-1969-1970",
+          "publisher": "Encyclopedia.com",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "War of Attrition (1969-1970) | History | Research Starters",
+          "url": "https://www.ebsco.com/research-starters/history/war-attrition-1969-1970",
+          "publisher": "EBSCO Research Starters",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "six-day-to-yom-kippur",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Israeli soldiers killed",
+          "value": "≈1,424 (more than 3,000 wounded)",
+          "attribution": "Israeli figures as reported by Ynetnews and other secondary accounts",
+          "note": "Covers March 1969 to August 1970; not confirmed against an official Israeli publication in this pass."
+        },
+        {
+          "label": "Egyptians killed",
+          "value": "≈2,900-10,000",
+          "attribution": "Estimates in secondary literature",
+          "note": "Egypt published no agreed total; one account gives about 4,000 soldiers and 900 officers, others about 10,000."
+        }
+      ]
+    },
+    {
+      "id": "1970-09-16-black-september-in-jordan",
+      "date": "1970-09-16",
+      "endDate": "1970-09-27",
+      "lat": 31.9539,
+      "lng": 35.9106,
+      "location": "Amman, Jordan",
+      "title": "Black September: Jordan's army fights Palestinian armed groups",
+      "category": "war",
+      "significance": 4,
+      "summary": "Tension between King Hussein and the Palestinian armed organisations based in Jordan peaked after the Popular Front for the Liberation of Palestine hijacked four airliners on 6 September 1970 and blew up three of them at Dawson's Field near Zarqa. On 16 September the King declared martial law and installed a military cabinet; the next day the army attacked fedayeen positions in Amman and elsewhere. Syrian armoured brigades crossed into northern Jordan on 20 September but withdrew after Jordanian air strikes and Israeli and American threats. On 27 September Hussein and Yasser Arafat signed a ceasefire in Cairo brokered by Nasser, who died the next day. The CIA recorded Arafat claiming more than 7,000 casualties in the Amman camps; later secondary estimates range from about 3,000 to 5,000 dead. Fighting resumed in 1971 until the PLO was expelled to Lebanon; the Black September Organisation took its name from these events.",
+      "perspectives": [
+        {
+          "party": "Jordan",
+          "framing": "Presents the campaign as the restoration of state authority against armed groups that had created a state within a state, hijacked aircraft on Jordanian soil and threatened the monarchy, and stresses the Syrian invasion as a foreign attack repelled by the army."
+        },
+        {
+          "party": "PLO",
+          "framing": "Calls the events Black September, a massacre of Palestinian fighters and refugees by a regime acting in concert with Israel and the United States; the expulsion to Lebanon is remembered as a betrayal by an Arab government."
+        },
+        {
+          "party": "United States",
+          "framing": "Treated the crisis as a Cold War test, moving the Sixth Fleet and coordinating with Israel to deter Syria, and credited Hussein's victory with averting a wider war."
+        },
+        {
+          "party": "Syria",
+          "framing": "Justified its incursion as support for the Palestinian resistance under the banner of the Palestine Liberation Army and withdrew amid the refusal of its air force commander, Hafez al-Assad, to commit aircraft."
+        }
+      ],
+      "sources": [
+        {
+          "title": "FRUS 1969-1976, Vol. XXIV, Middle East Region and Arabian Peninsula, 1969-1972; Jordan, September 1970, Document 303: Minutes of a Washington Special Actions Group meeting, September 1970, with note on the Hussein-Arafat ceasefire signed in Cairo on 27 September",
+          "url": "https://history.state.gov/historicaldocuments/frus1969-76v24/d303",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "FRUS 1969-1976, Vol. XXIV, Middle East Region and Arabian Peninsula, 1969-1972; Jordan, September 1970, Document 313: Minutes, September 1970: CIA reporting of Arafat's claim of over 7,000 casualties",
+          "url": "https://history.state.gov/historicaldocuments/frus1969-76v24/d313",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "FRUS 1969-1976, Vol. XXIV, Middle East Region and Arabian Peninsula, 1969-1972; Jordan, September 1970, Document 260: Memorandum, September 1970, noting the declaration of martial law and the military cabinet of 16 September",
+          "url": "https://history.state.gov/historicaldocuments/frus1969-76v24/d260",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Timeline: History of a Revolution (PLO chronology)",
+          "url": "https://www.aljazeera.com/video/plo-history-of-a-revolution/2009/8/12/timeline-history-of-a-revolution",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "The Fedayeen (ESAU study, 1970)",
+          "url": "https://www.cia.gov/readingroom/docs/esau-47.pdf",
+          "publisher": "CIA FOIA Reading Room",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "six-day-to-yom-kippur",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Casualties claimed in the Amman fedayeen camps",
+          "value": "more than 7,000",
+          "attribution": "Yasser Arafat, as reported by the CIA (recorded in FRUS)",
+          "note": "Contemporaneous claim covering killed and wounded, made during the fighting."
+        },
+        {
+          "label": "Deaths (all parties)",
+          "value": "≈3,000-5,000",
+          "attribution": "Estimates in secondary literature",
+          "note": "Palestinian sources have claimed far higher figures and Jordanian official figures are much lower; no agreed count exists."
+        }
+      ]
+    },
+    {
+      "id": "1972-09-05-munich-olympics-attack",
+      "date": "1972-09-05",
+      "endDate": "1972-09-06",
+      "lat": 48.179,
+      "lng": 11.55,
+      "location": "Olympic Village, Munich, West Germany",
+      "title": "Munich Olympics attack: eleven Israeli team members killed",
+      "category": "attack",
+      "significance": 4,
+      "summary": "Early on 5 September 1972 eight members of the Palestinian Black September Organisation entered the Olympic Village in Munich, West Germany, and broke into the Israeli team's quarters, killing wrestling coach Moshe Weinberg and weightlifter Yossef Romano and seizing nine other athletes and officials. They demanded the release of more than 200 prisoners held in Israel; Israel refused, and after a day of negotiation the West German authorities flew the attackers and hostages by helicopter to Fürstenfeldbruck air base, where a rescue attempt collapsed into a gunfight. All nine hostages were killed, along with a West German police officer and five of the attackers; the three surviving attackers were captured and released in October after a Lufthansa hijacking. The Games resumed after a one-day pause. Israel bombed Palestinian bases in Syria and Lebanon within days and began a covert campaign against those it held responsible for the attack.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Describes the attack as a terrorist massacre of unarmed athletes, criticises the German rescue operation and the later release of the surviving attackers, and treated the assassination of Black September figures as legitimate counter-terrorism."
+        },
+        {
+          "party": "PLO",
+          "framing": "Black September, linked to Fatah, presented the operation as an act of the Palestinian resistance intended to free prisoners and force the world to notice the Palestinian cause; the PLO leadership publicly distanced itself from the group by 1974."
+        },
+        {
+          "party": "West Germany",
+          "framing": "Acknowledged the failure of an improvised police operation and the lack of specialist forces, created the GSG 9 counter-terrorism unit, and in 2022 formally apologised and agreed compensation with the victims' families."
+        },
+        {
+          "party": "International Olympic Committee",
+          "framing": "Under Avery Brundage the IOC insisted that 'the Games must go on', resuming competition after a memorial service; it has since honoured the victims at later Games."
+        }
+      ],
+      "sources": [
+        {
+          "title": "FRUS 1969-1976, Vol. XXIII, Arab-Israeli Dispute, 1969-1972, Document 307: Memorandum for the President's Files, 6 September 1972, with editorial note on the Munich attack",
+          "url": "https://history.state.gov/historicaldocuments/frus1969-76v23/d307",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Germany, Israel mark 50 years since 1972 Munich Olympics attacks",
+          "url": "https://www.aljazeera.com/news/2022/9/5/germany-israel-mark-50-years-since-1972-munich-olympics-attacks",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Munich 1972 Olympic Games",
+          "url": "https://olympics.com/en/olympic-games/munich-1972",
+          "publisher": "International Olympic Committee",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "six-day-to-yom-kippur",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Israeli athletes and officials killed",
+          "value": "11",
+          "attribution": "White House memorandum of 6 September 1972 (FRUS); Al Jazeera",
+          "note": "Two killed in the Olympic Village on 5 September, nine at Fürstenfeldbruck early on 6 September."
+        },
+        {
+          "label": "Attackers killed",
+          "value": "4 (contemporaneous US memorandum) / 5 (later accounts)",
+          "attribution": "FRUS editorial note; standard later accounts"
+        },
+        {
+          "label": "West German police officer killed",
+          "value": "1",
+          "attribution": "Standard later accounts",
+          "note": "Not mentioned in the FRUS note read for this entry."
+        }
+      ]
+    },
+    {
+      "id": "1973-10-06-october-war",
+      "date": "1973-10-06",
+      "endDate": "1973-10-25",
+      "lat": 30.59,
+      "lng": 32.29,
+      "location": "Suez Canal front and Golan Heights (marker near Ismailia)",
+      "title": "October War (Yom Kippur / Ramadan War): Egypt and Syria attack Israeli forces",
+      "category": "war",
+      "significance": 5,
+      "summary": "At 2 p.m. on 6 October 1973, Yom Kippur and during Ramadan, Egypt and Syria launched a coordinated surprise attack on Israeli forces in occupied Sinai and the Golan Heights. Egyptian troops crossed the Suez Canal and overran the Bar-Lev Line, while Syrian armour broke into the Golan. After heavy initial losses Israel drove Syrian forces back beyond the 1967 line toward Damascus and from 15 October crossed the Canal, encircling Egypt's Third Army; the superpowers airlifted arms to the combatants. The war ended through UN Security Council resolutions 338 (22 October), 339 and 340 (25 October), which created a new UN Emergency Force. Israel's State Archives record about 2,656 Israeli soldiers killed; Golda Meir gave Henry Kissinger a figure of 1,500 to 2,000 dead during the fighting. Egypt and Syria issued no agreed totals; secondary estimates run to roughly 8,000 to 18,500 Arab soldiers killed.",
+      "perspectives": [
+        {
+          "party": "Egypt",
+          "framing": "Celebrates 6 October as the day the army crossed the Canal and 'restored Arab dignity', treating the war as a victory that broke the post-1967 deadlock and led to the recovery of Sinai; Egyptian accounts play down the later Israeli crossing."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Calls it the Yom Kippur War, a surprise attack that Israel repelled at great cost; the Agranat Commission blamed intelligence and command failures, and the shock reshaped Israeli politics and led to the 1977 change of government."
+        },
+        {
+          "party": "Syria",
+          "framing": "Presents the October War of Liberation as a coordinated effort to recover the Golan that was undercut when Egypt accepted a ceasefire, and emphasises the return of Quneitra in 1974 as its outcome."
+        },
+        {
+          "party": "United States",
+          "framing": "Framed its airlift and diplomacy as preventing an Israeli defeat while avoiding a humiliation of Egypt, and used the outcome to displace Soviet influence in Cairo and launch step-by-step negotiations."
+        }
+      ],
+      "sources": [
+        {
+          "title": "FRUS 1969-1976, Vol. XXV, Arab-Israeli Crisis and War, 1973, Document 102: Memorandum, 6 October 1973, with note that Syria and Egypt attacked at 1200Z (2 p.m. local time)",
+          "url": "https://history.state.gov/historicaldocuments/frus1969-76v25/d102",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "FRUS 1969-1976, Vol. XXV, Arab-Israeli Crisis and War, 1973, Document 259: Memorandum of conversation, late October 1973: Prime Minister Meir's casualty figures",
+          "url": "https://history.state.gov/historicaldocuments/frus1969-76v25/d259",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "The 1973 Arab-Israeli War (Milestones in the History of U.S. Foreign Relations)",
+          "url": "https://history.state.gov/milestones/1969-1976/arab-israeli-war-1973",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "UN Security Council, Resolution 338 (1973) of 22 October 1973",
+          "url": "https://www.refworld.org/docid/3b00f1dd50.html",
+          "publisher": "UNHCR Refworld",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "UN Security Council, Resolution 340 (1973) of 25 October 1973",
+          "url": "https://www.refworld.org/docid/3b00f20b70.html",
+          "publisher": "UNHCR Refworld",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Yom Kippur War | Summary, Causes, Combatants, & Facts",
+          "url": "https://www.britannica.com/event/Yom-Kippur-War",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "The 50th Anniversary of the Yom Kippur War - Newly Declassified Material",
+          "url": "https://catalog.archives.gov.il/site/en/publication/ykw-en/",
+          "publisher": "Israel State Archives",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "The Arab-Israeli war of 1973: What happened?",
+          "url": "https://www.aljazeera.com/indepth/features/2017/10/arab-israeli-war-of-1973-what-happened-171005105247349.html",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "1973: Arab states attack Israeli forces (On This Day)",
+          "url": "http://news.bbc.co.uk/onthisday/hi/dates/stories/october/6/newsid_2514000/2514317.stm",
+          "publisher": "BBC News",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "six-day-to-yom-kippur",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Israeli soldiers killed",
+          "value": "≈2,656",
+          "attribution": "Israel State Archives",
+          "note": "Other Israeli summaries give 2,521-2,800; figure taken from a compiled dataset citing the archives' 50th-anniversary publication."
+        },
+        {
+          "label": "Israeli dead (during the war)",
+          "value": "1,500-2,000",
+          "attribution": "Golda Meir, as reported to Henry Kissinger (FRUS)",
+          "note": "Contemporaneous figure with 5,000-7,000 wounded."
+        },
+        {
+          "label": "Egyptian and Syrian soldiers killed",
+          "value": "≈8,000-18,500 combined",
+          "attribution": "Estimates in secondary literature",
+          "note": "Neither government published an agreed total; commonly cited breakdowns include 7,700-15,000 Egyptian and 3,000-3,500 Syrian dead."
+        }
+      ]
+    },
+    {
+      "id": "1973-10-17-arab-oil-embargo",
+      "date": "1973-10-17",
+      "lat": 29.3759,
+      "lng": 47.9774,
+      "location": "Kuwait City, Kuwait (OAPEC ministers' meeting)",
+      "title": "Arab oil producers cut output and embargo the United States",
+      "category": "political",
+      "significance": 4,
+      "summary": "On 17 October 1973 Arab oil ministers meeting in Kuwait announced that their states would cut production by 5 per cent at once and by a further 5 per cent each month until Israel withdrew from the territories occupied in 1967 and Palestinian rights were restored; Abu Dhabi halted shipments to the United States the same day. After President Nixon asked Congress on 19 October for 2.2 billion dollars in emergency military aid for Israel, Saudi Arabia on 20 October cut off all oil exports to the United States, and the embargo was extended to the Netherlands and other states. Federal Reserve History records that the price of oil nearly quadrupled, from 2.90 dollars a barrel before the embargo to 11.65 dollars in January 1974. OAPEC lifted the embargo on the United States in March 1974, after the Egypt-Israel disengagement agreement. Importing countries faced shortages and recession.",
+      "perspectives": [
+        {
+          "party": "Arab League",
+          "framing": "Producers presented the cuts and embargo as a legitimate use of Arab resources to support Egypt and Syria and to press the United States and Europe to compel Israeli withdrawal under resolution 242."
+        },
+        {
+          "party": "United States",
+          "framing": "Condemned the embargo as blackmail and a threat to the world economy, launched 'Project Independence', and used Kissinger's shuttle diplomacy partly to secure its lifting; the Office of the Historian records the episode as a turning point in US energy policy."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Saw the embargo as evidence that Arab states would use economic warfare against Israel's allies, and worried that Western dependence on Arab oil would erode support for Israel."
+        },
+        {
+          "party": "Historians",
+          "framing": "Stress that the price rise owed as much to OPEC's unilateral posted-price decisions as to the embargo itself, and debate how far the embargo changed Western policy toward the conflict."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Oil Embargo, 1973-1974 (Milestones in the History of U.S. Foreign Relations)",
+          "url": "https://history.state.gov/milestones/1969-1976/oil-embargo",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "FRUS 1969-1976, Vol. XXXVI, Energy Crisis, 1969-1974, Document 223",
+          "url": "https://history.state.gov/historicaldocuments/frus1969-76v36/d223",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Oil Shock of 1973-74",
+          "url": "https://www.federalreservehistory.org/essays/oil-shock-of-1973-74",
+          "publisher": "Federal Reserve History",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Arab oil embargo | History, Cause, Impact, & Definition",
+          "url": "https://www.britannica.com/event/Arab-oil-embargo",
+          "publisher": "Encyclopaedia Britannica",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Arab Oil Producers Curtail Oil Shipments to Industrial States | History | Research Starters",
+          "url": "https://www.ebsco.com/research-starters/history/arab-oil-producers-curtail-oil-shipments-industrial-states",
+          "publisher": "EBSCO Research Starters",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "The 1973 oil embargo: its history, motives, and consequences",
+          "url": "https://www.ogj.com/pipelines-transportation/tankers/article/17235810/the-1973-oil-embargo-its-history-motives-and-consequences",
+          "publisher": "Oil & Gas Journal",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "six-day-to-yom-kippur",
+      "verified": true
+    },
+    {
+      "id": "1973-10-22-unsc-resolution-338",
+      "date": "1973-10-22",
+      "lat": 40.7489,
+      "lng": -73.968,
+      "location": "UN Headquarters, New York",
+      "title": "UN Security Council Resolution 338 calls for a ceasefire and negotiations",
+      "category": "ceasefire",
+      "significance": 4,
+      "summary": "At 12:50 a.m. New York time on 22 October 1973 the UN Security Council adopted resolution 338, a US-Soviet draft negotiated in Moscow by Kissinger and Brezhnev, by 14 votes to none with China not participating. It called on all parties 'to cease all firing and terminate all military activity' within twelve hours in the positions they occupied, called for implementation of resolution 242 'in all of its parts', and decided that negotiations 'between the parties concerned under appropriate auspices' should begin immediately and concurrently with the ceasefire. Egypt and Israel ordered a ceasefire for 18:52 local time, but fighting continued as Israeli forces completed the encirclement of Egypt's Third Army; the Council reaffirmed the ceasefire in resolution 339 on 23 October and created UNEF II in resolution 340 on 25 October. With 242, resolution 338 became the agreed basis for later Arab-Israeli negotiations.",
+      "perspectives": [
+        {
+          "party": "United States",
+          "framing": "Kissinger presented the resolution as a superpower agreement that ended the war on terms preserving Israel's battlefield position while committing the parties, for the first time, to direct negotiations under American auspices."
+        },
+        {
+          "party": "Egypt",
+          "framing": "Accepted the ceasefire to save the Third Army and read the call for negotiations 'under appropriate auspices' as leading to full Israeli withdrawal under 242; Egypt accused Israel of violating the ceasefire by advancing after 22 October."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Accepted the resolution under American pressure, valued its call for negotiations between the parties, and disputed Egyptian claims about the 22 October lines when the Council demanded a return to them."
+        },
+        {
+          "party": "Syria",
+          "framing": "Accepted 338 only on 23 October and with the understanding that it required Israeli withdrawal from all territories occupied in 1967 and respect for Palestinian rights; this marked Syria's first acceptance of resolution 242."
+        }
+      ],
+      "sources": [
+        {
+          "title": "UN Security Council, Resolution 338 (1973) of 22 October 1973",
+          "url": "https://www.refworld.org/docid/3b00f1dd50.html",
+          "publisher": "UNHCR Refworld",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Security Council resolution 338 (1973) - UN Peacemaker",
+          "url": "https://peacemaker.un.org/middle-east-resolution338",
+          "publisher": "United Nations Peacemaker",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Security Council Resolution 338 (1973) (PDF)",
+          "url": "https://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/Golan%20Heights%20SRES338.pdf",
+          "publisher": "Security Council Report",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "UN Security Council Resolution 338, October 22, 1973",
+          "url": "https://avalon.law.yale.edu/20th_century/un338.asp",
+          "publisher": "Yale Law School, Avalon Project",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "FRUS 1969-1976, Vol. XXV, Arab-Israeli Crisis and War, 1973, Document 229: Memorandum of conversation, October 1973, with note on the Security Council's adoption of Resolution 338 by 14 votes to 0",
+          "url": "https://history.state.gov/historicaldocuments/frus1969-76v25/d229",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "six-day-to-yom-kippur",
+      "verified": true
+    },
+    {
+      "id": "1974-01-18-sinai-i-disengagement-agreement",
+      "date": "1974-01-18",
+      "lat": 30.05,
+      "lng": 32.2,
+      "location": "Kilometre 101, Cairo-Suez road, Egypt",
+      "title": "Egypt and Israel sign the Sinai I disengagement agreement at Kilometre 101",
+      "category": "treaty",
+      "significance": 3,
+      "summary": "At 12:25 p.m. on 18 January 1974 the chiefs of staff of Egypt and Israel, Mohamed Abdel Ghani el-Gamasy and David Elazar, signed the first disengagement of forces agreement, known as Sinai I, at Kilometre 101 on the Cairo-Suez road, with UNEF commander General Ensio Siilasvuo signing as witness. It followed a week of shuttle diplomacy by Henry Kissinger between Aswan and Jerusalem. Israel agreed to withdraw from the west bank of the Suez Canal and from a strip east of it, Egypt kept a limited force on the east bank, and a UN buffer zone controlled by UNEF II separated the sides, with zones of limited forces and armaments beyond it. The UN records that disengagement was completed in March 1974. The agreement, which both sides called a first step rather than a peace settlement, ended the siege of Egypt's Third Army.",
+      "perspectives": [
+        {
+          "party": "Egypt",
+          "framing": "President Sadat presented the agreement as the first fruit of the October crossing, restoring Egyptian sovereignty over the east bank of the Canal and opening a diplomatic path, backed by the United States, toward full recovery of Sinai."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Prime Minister Meir's government accepted withdrawal from the Canal in return for the release of the Third Army pressure, prisoner exchanges, limitations on Egyptian forces and an American commitment to Israel's security, describing it as separation of forces rather than a political settlement."
+        },
+        {
+          "party": "United States",
+          "framing": "Kissinger treated Sinai I as proof that step-by-step diplomacy under American auspices could produce results where the Geneva framework could not, and as leverage for lifting the Arab oil embargo."
+        },
+        {
+          "party": "United Nations",
+          "framing": "UNEF II supervised the disengagement, manned the buffer zone and inspected the limited-forces zones, reporting to the Security Council under resolution 340."
+        }
+      ],
+      "sources": [
+        {
+          "title": "FRUS 1969-1976, Vol. XXVI, Arab-Israeli Dispute, 1974-1976, Document 16: Telegram From Secretary of State Kissinger to the Department of State, January 1974 (signing at Kilometer 101 at 12:25 p.m. on 18 January)",
+          "url": "https://history.state.gov/historicaldocuments/frus1969-76v26/d16",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "FRUS 1969-1976, Vol. XXVI, Arab-Israeli Dispute, 1974-1976, Chapter 1: First Egyptian-Israeli Disengagement Agreement, January 1974",
+          "url": "https://history.state.gov/historicaldocuments/frus1969-76v26/ch1",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Egyptian-Israeli Agreement on Disengagement of Forces in Pursuance of the Geneva Peace Conference (Sinai I)",
+          "url": "https://peacemaker.un.org/en/node/9421",
+          "publisher": "United Nations Peacemaker",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Letter dated 18 January 1974 from the Secretary-General addressed to the President of the Security Council",
+          "url": "https://www.un.org/unispal/document/auto-insert-181723",
+          "publisher": "United Nations (UNISPAL)",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Second United Nations Emergency Force (UNEF II) - Background (Full text)",
+          "url": "https://peacekeeping.un.org/sites/default/files/past/unef2backgr2.html",
+          "publisher": "United Nations Peacekeeping",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Egypt-Israel Separation of Forces Agreement (Sinai I) (January 1974)",
+          "url": "https://www.jewishvirtuallibrary.org/egypt-israel-separation-of-forces-agreement-sinai-i-january-1974",
+          "publisher": "Jewish Virtual Library",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel-Egypt Disengagement Agreement (1974)",
+          "url": "https://ecf.org.il/issues/issue/179",
+          "publisher": "Economic Cooperation Foundation",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "six-day-to-yom-kippur",
+      "verified": true
+    },
+    {
+      "id": "1974-05-31-israel-syria-disengagement-agreement",
+      "date": "1974-05-31",
+      "lat": 46.2044,
+      "lng": 6.1432,
+      "location": "Geneva, Switzerland (agreement covers the Golan Heights)",
+      "title": "Israel and Syria sign a disengagement agreement; UNDOF created",
+      "category": "treaty",
+      "significance": 3,
+      "summary": "After 32 days of Kissinger's shuttle diplomacy between Damascus and Jerusalem, and months of artillery duels on the Golan front, Israel and Syria signed an Agreement on Disengagement in the Egyptian-Israeli military working group of the Geneva Conference on 31 May 1974. Israel undertook to withdraw from the salient it had captured in October 1973 and from the town of Quneitra and a narrow strip along the 1967 ceasefire line, which returned to Syrian civil administration; an area of separation patrolled by a new UN Disengagement Observer Force (UNDOF), created the same day by Security Council resolution 350, and equal zones of limited forces and armaments were established on either side. Prisoners of war were exchanged in June. The agreement ended the fighting of the October War on the Syrian front, and UNDOF's mandate has been renewed at six-month intervals ever since.",
+      "perspectives": [
+        {
+          "party": "Syria",
+          "framing": "President Assad presented the agreement as recovering Quneitra and the 1973 losses without recognising Israel, insisting it was a military disengagement and only a first step toward full Israeli withdrawal from the Golan; Syria accused Israel of razing Quneitra before handing it over."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Valued the agreement for ending the war of attrition on the Golan, securing the return of Israeli prisoners and obtaining a Syrian commitment against guerrilla attacks from its territory, while retaining the Golan plateau captured in 1967."
+        },
+        {
+          "party": "United States",
+          "framing": "Kissinger regarded the accord as his most difficult negotiation, extending step-by-step diplomacy to Israel's most hostile neighbour and enabling the Arab oil embargo to remain lifted."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The Security Council welcomed the agreement as implementing resolution 338 and created UNDOF to supervise the area of separation, an arrangement it has renewed every six months since 1974."
+        }
+      ],
+      "sources": [
+        {
+          "title": "FRUS 1969-1976, Vol. XXVI, Arab-Israeli Dispute, 1974-1976, Document 77: Memorandum of conversation, Damascus, 29 May 1974, with the agreed announcement of the signing in Geneva on 31 May",
+          "url": "https://history.state.gov/historicaldocuments/frus1969-76v26/d77",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "FRUS 1969-1976, Vol. XXVI, Arab-Israeli Dispute, 1974-1976, Document 83: Letter from Foreign Minister Eban, May 1974, on the limited-forces zones and UNDOF inspection",
+          "url": "https://history.state.gov/historicaldocuments/frus1969-76v26/d83",
+          "publisher": "US Office of the Historian",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "Separation of Forces Agreement between Israel and Syria, 31 May 1974 - UN Peacemaker",
+          "url": "https://peacemaker.un.org/israelsyria-separationforces74",
+          "publisher": "United Nations Peacemaker",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "UN Security Council, Resolution 350 (1974) of 31 May 1974",
+          "url": "https://www.refworld.org/docid/3b00f17388.html",
+          "publisher": "UNHCR Refworld",
+          "accessedDate": "2026-09-09"
+        },
+        {
+          "title": "UNDOF - Background",
+          "url": "https://undof.unmissions.org/en/undof-background",
+          "publisher": "United Nations Disengagement Observer Force",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Golan (Israel/Syria) Chronology of Events",
+          "url": "https://www.securitycouncilreport.org/chronology/golan-israelsyria.php",
+          "publisher": "Security Council Report",
+          "accessedDate": "2026-09-09"
+        }
+      ],
+      "era": "six-day-to-yom-kippur",
+      "verified": true
+    }
+  ],
+  "boundaryChanges": [
+    {
+      "date": "1967-06-07",
+      "description": "Israeli forces complete the capture of East Jerusalem (Old City) and the West Bank from Jordan; the territory passes from Jordanian administration to Israeli military occupation, with the 1949 armistice line becoming the Green Line.",
+      "sources": [
+        "https://history.state.gov/historicaldocuments/frus1964-68v19/d333",
+        "https://www.aljazeera.com/features/2018/6/4/the-naksa-how-israel-occupied-the-whole-of-palestine-in-1967"
+      ]
+    },
+    {
+      "date": "1967-06-08",
+      "description": "Israeli forces reach the Suez Canal and the Red Sea, completing the occupation of the Sinai Peninsula and the Gaza Strip, previously under Egyptian control and administration; the Canal becomes the de facto ceasefire line and is closed to shipping.",
+      "sources": [
+        "https://history.state.gov/historicaldocuments/frus1964-68v19/d230",
+        "https://history.state.gov/milestones/1961-1968/arab-israeli-war-1967"
+      ]
+    },
+    {
+      "date": "1967-06-10",
+      "description": "Ceasefire on the Syrian front at 16:30 GMT leaves Israel in occupation of the Golan Heights up to a line east of Quneitra; Security Council resolution 236 calls for a return to the ceasefire positions of that hour.",
+      "sources": [
+        "https://www.un.org/securitycouncil/content/resolutions-adopted-security-council-1967",
+        "https://www.britannica.com/place/Golan-Heights"
+      ]
+    },
+    {
+      "date": "1967-06-28",
+      "description": "Israel applies its law, jurisdiction and administration to East Jerusalem and about 70 square kilometres of surrounding West Bank land, enlarging the Jerusalem municipality; the annexation is not recognised internationally (UNGA 2253, UNSC 252).",
+      "sources": [
+        "https://history.state.gov/historicaldocuments/frus1964-68v19/d333",
+        "https://www.refworld.org/docid/3b00f1fe4.html"
+      ]
+    },
+    {
+      "date": "1973-10-25",
+      "description": "October War ceasefire lines: Egyptian forces hold two bridgeheads on the east bank of the Suez Canal while Israeli forces hold a salient west of the Canal encircling the Egyptian Third Army; on the Golan, Israeli forces hold a salient beyond the 1967 line toward Sa'sa'. UNEF II is created to supervise the Egyptian front.",
+      "sources": [
+        "https://www.refworld.org/docid/3b00f20b70.html",
+        "https://history.state.gov/milestones/1969-1976/arab-israeli-war-1973"
+      ]
+    },
+    {
+      "date": "1974-01-18",
+      "description": "Sinai I: Israel withdraws from the west bank of the Suez Canal and from a strip east of it; Egypt holds a limited-forces zone along the east bank, a UNEF buffer zone separates the sides and limited-armament zones extend beyond it (implemented by early March 1974).",
+      "sources": [
+        "https://history.state.gov/historicaldocuments/frus1969-76v26/d10",
+        "https://peacekeeping.un.org/sites/default/files/past/unef2backgr2.html"
+      ]
+    },
+    {
+      "date": "1974-05-31",
+      "description": "Israel-Syria disengagement: Israel withdraws from the 1973 salient and from Quneitra and a strip along the 1967 line; a UNDOF-patrolled area of separation and two limited-forces zones are established on the Golan (implemented by late June 1974).",
+      "sources": [
+        "https://www.refworld.org/docid/3b00f17388.html",
+        "https://undof.unmissions.org/background"
+      ]
+    }
+  ],
+  "excluded": [
+    {
+      "title": "USS Liberty attacked by Israeli forces",
+      "date": "1967-06-08",
+      "reason": "A United States-Israel incident during the war rather than an event between the parties to the conflict; 34 US personnel killed. Mentioned in the sources but outside the unit's scope."
+    },
+    {
+      "title": "UN General Assembly resolution 2253 on Jerusalem",
+      "date": "1967-07-04",
+      "reason": "Folded into the East Jerusalem event as its immediate international consequence."
+    },
+    {
+      "title": "PLO Charter revised and Arafat elected PLO chairman",
+      "date": "1969-02-04",
+      "reason": "Important political turning point (Al Jazeera's PLO chronology dates the fifth PNC session to February 1969) but dropped to stay within the 16-event cap; noted in the Karameh perspectives."
+    },
+    {
+      "title": "Cairo Agreement between Lebanon and the PLO",
+      "date": "1969-11-03",
+      "reason": "Only one publisher (FRUS, which dates the agreement to 2 November 1969) could be confirmed; mentioned in the Beirut airport raid perspectives."
+    },
+    {
+      "title": "Rogers Plan and Rogers Initiative",
+      "date": "1969-12-09",
+      "reason": "US diplomatic initiatives covered within the War of Attrition event, whose August 1970 ceasefire was their main result."
+    },
+    {
+      "title": "Dawson's Field hijackings",
+      "date": "1970-09-06",
+      "reason": "Folded into the Black September event as its trigger."
+    },
+    {
+      "title": "Sabena Flight 571 hijacking and rescue at Lod",
+      "date": "1972-05-08",
+      "reason": "Below the significance threshold for this unit; no authoritative source URL could be confirmed from the research environment."
+    },
+    {
+      "title": "Lod Airport attack by Japanese Red Army members for the PFLP",
+      "date": "1972-05-30",
+      "reason": "26 killed and about 80 wounded (FRUS gives 25 killed, 72 wounded); only a single publisher could be confirmed and the 16-event cap was reached. Recommended addition if capacity allows."
+    },
+    {
+      "title": "Israeli reprisal raids on Syria and Lebanon after Munich",
+      "date": "1972-09-08",
+      "reason": "Folded into the Munich event's consequences."
+    },
+    {
+      "title": "Libyan Arab Airlines Flight 114 shot down over Sinai",
+      "date": "1973-02-21",
+      "reason": "108 killed; Israel-Libya incident peripheral to the Arab-Israeli front lines and below the cap."
+    },
+    {
+      "title": "Operation Spring of Youth (Israeli raid on PLO leaders in Beirut)",
+      "date": "1973-04-10",
+      "reason": "Dropped for the event cap; covered in Al Jazeera's PLO chronology."
+    },
+    {
+      "title": "Kilometre 101 talks and Six-Point Agreement",
+      "date": "1973-11-11",
+      "reason": "Folded into the Sinai I event as its preparatory stage."
+    },
+    {
+      "title": "Geneva Middle East Peace Conference",
+      "date": "1973-12-21",
+      "reason": "Folded into the Resolution 338 and Sinai I events."
+    },
+    {
+      "title": "Arab oil embargo lifted at OAPEC meeting in Vienna",
+      "date": "1974-03-18",
+      "reason": "Recorded as the conclusion of the embargo event rather than as a separate entry."
+    }
+  ],
+  "uncertainties": [
+    "Research-environment note (pass of 2026-09-14): a second verification pass re-checked the six previously unverified events by WebSearch. The session's WebSearch budget (200 calls, shared across the session) was exhausted after 16 searches in this pass, so the ten events already marked verified:true were NOT re-searched; their sources, accessedDates (2026-09-09) and verified flags are carried over from the previous pass, which read FRUS TEI XML and UN resolution texts from GitHub mirrors rather than opening the cited pages. Their URLs therefore have not been confirmed in a search listing and a link check (npm run validate -- --links) is still required for them. An earlier pass had also found the organisation's egress proxy blocking WebFetch and curl for every publisher host; no cited page was opened directly in either pass.",
+    "Verification status: the six events that were verified:false after the first pass (1967 displacement, Khartoum Resolution, Kfar Etzion / Allon Plan, War of Attrition, Arab oil embargo, Sinai I) were each corroborated on 2026-09-14 by the content of WebSearch results from at least two different publishers for the event, its date and its place; their sources were replaced with URLs that appeared in those search listings and they are now verified:true. Casualty and displacement figures for these events are given only as attributed ranges where publishers differ.",
+    "Six-Day War casualties: the Israeli figure of 776 comes from the Israel Ministry of Defense Archives page as cited in a compiled dataset (another ministry page gives 736 and secondary tables up to 983). Arab figures are secondary-literature ranges; a contemporaneous diplomatic report recorded in FRUS (1964-68 XIX, Document 394) quotes an Egyptian source giving 20,000 Egyptian dead against an earlier figure of 5,000.",
+    "1967 displacement: the figure of about 300,000 Palestinians displaced (more than 100,000 of them already 1948 refugees) is corroborated by Amnesty International Australia and WAFA; UN Secretary-General reports on 'persons displaced as a result of the June 1967 and subsequent hostilities' (UNISPAL) confirm UN reporting on the displaced but the exact wording of UNRWA's 1967 Commissioner-General report ('more than 300,000 including about 120,000 registered refugees') and its figure of about 80,000 Syrians displaced were not read in this pass and have been removed from the casualties table. The 100,000 Syrian figure is from Amnesty and Syrian sources; Akevot reports the August 1967 Israeli census of 6,396 remaining residents against a pre-war population of about 130,000. Historians' totals for Palestinians range from about 250,000 to 325,000. Security Council resolution 237 (14 June 1967) was read in the previous pass.",
+    "East Jerusalem: FRUS records the three Knesset laws of 27 June 1967 and the government's administrative action of 28 June; the area figure of about 70 square kilometres is the commonly cited figure (UN and B'Tselem) and was not read in a primary source here. The UNGA vote (99-0-20) is from FRUS Document 344.",
+    "Kfar Etzion: the establishment date of 27 September 1967 is corroborated by Israel Policy Forum, Fanack and +972 Magazine; FRUS 1964-68 XIX Document 451 confirms the 25 September press reports of Eshkol's announcement and the 27 September State Department briefing. The description of the sites as Nahal 'strongpoints' and the July 1967 Allon Plan were read in FRUS documents 458 and XX/213 in the previous pass but those documents did not appear in a search listing in this pass and are no longer cited; the Allon Plan sentence rests on the standard literature.",
+    "Karameh casualties: none of the figures (Israeli 28-33 killed; Jordanian about 40-84; Palestinian about 100-200) was read in a primary source; FRUS Document 119 confirms the date, the crossing points and the Israeli justification, and Security Council resolution 248 confirms the international response.",
+    "War of Attrition: the start date of 8 March 1969 (Nasser's declaration) and the standstill ceasefire effective 2200 GMT on 7 August 1970 (90 days, to 5 November) are corroborated by FRUS 1969-76 XXIII Document 145, Ynetnews, Encyclopedia.com and EBSCO. The Israeli toll of about 1,424 killed and more than 3,000 wounded is the figure given in Israeli secondary accounts (Ynetnews) and was not confirmed against an official Israeli publication; Egyptian dead are reported anywhere from about 2,900 to 10,000, with one account giving about 4,000 soldiers and 900 officers. Britannica's current URL replaces the older 'EBchecked' form.",
+    "Black September: the '7,000 casualties' figure is Arafat's claim as relayed by CIA Director Helms during the fighting (FRUS 1969-76 XXIV, Document 313) and covers killed and wounded; the 3,000-5,000 death estimate is the secondary-literature range and was not read in a primary source. The event is dated from the martial-law declaration of 16 September to the Cairo ceasefire of 27 September 1970, with the 6 September hijackings described as the trigger.",
+    "Munich: the White House memorandum of 6 September 1972 (FRUS) says two athletes were killed in the village and nine at Furstenfeldbruck, with 'four of their captors' dying; standard later accounts give five attackers and one West German policeman killed. Both are recorded.",
+    "October War: the figure of about 2,656 Israeli soldiers killed is attributed to the Israel State Archives' 50th-anniversary publication as cited in a compiled dataset (other Israeli summaries give 2,521-2,800); Meir's 1,500-2,000 figure is contemporaneous (FRUS 1969-76 XXV, Document 259). Egyptian and Syrian totals are secondary-literature ranges. The Al Jazeera 2017 article URL is in the older 'indepth/features' format found verbatim in a citation corpus and may redirect.",
+    "Oil embargo: the Kuwait announcement of 17 October 1973 (5 per cent cut, monthly increments) is corroborated by Britannica, Oil & Gas Journal, EBSCO and the US Office of the Historian; Saudi Arabia's halt of exports to the United States on 20 October and Nixon's 19 October request for 2.2 billion dollars are given by Britannica and Federal Reserve History; the price rise from 2.90 to 11.65 dollars a barrel by January 1974 is Federal Reserve History's figure. Sources agree the embargo was lifted in March 1974; the Vienna meeting date of 18 March 1974 read in FRUS XXXVI Document 341 in the previous pass is no longer cited and the summary now says only March 1974.",
+    "Sinai I: the signing at Kilometer 101 at 12:25 p.m. on 18 January 1974 by chiefs of staff Gamasy and Elazar, witnessed by General Siilasvuo, is corroborated by FRUS 1969-76 XXVI Document 16 and the Jewish Virtual Library, with the agreement text on UN Peacemaker and the Secretary-General's letter of 18 January 1974 on UNISPAL; the UN Peacekeeping UNEF II background page confirms completion of disengagement in March 1974. The marker coordinates for Kilometre 101 (about 30.05 N, 32.20 E) are approximate.",
+    "Israel-Syria disengagement: FRUS confirms the announcement that the agreement would be signed in Geneva on 31 May 1974 (an earlier draft said 30 May) and the limited-forces terms; Security Council resolution 350 of 31 May 1974 welcomed the agreement and created UNDOF. The June 1974 prisoner exchange and the withdrawal timetable are from the standard chronology. The UNDOF background URL was updated to the form that appeared in a 2026-09-14 search listing (undof.unmissions.org/en/undof-background).",
+    "Refworld URLs are cited in https form; the resolution text files carry them in http form (http://www.refworld.org/docid/...). Refworld has since reorganised its site and these document IDs may redirect.",
+    "Cairo Agreement (Lebanon-PLO): FRUS 1969-76 XXIII, Document 60 dates the 'so-called Cairo Agreement' to 2 November 1969, whereas most accounts give 3 November; the event was excluded rather than resolve the discrepancy without a second source."
+  ]
+}

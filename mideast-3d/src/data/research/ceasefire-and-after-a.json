@@ -1,0 +1,1264 @@
+{
+  "era": "ceasefire-and-after",
+  "unit": "ceasefire-and-after-a",
+  "events": [
+    {
+      "id": "2025-07-06-houthis-sink-magic-seas-and-eternity-c",
+      "date": "2025-07-06",
+      "endDate": "2025-07-09",
+      "lat": 14.2,
+      "lng": 42.4,
+      "location": "Red Sea, southwest of Hodeidah, Yemen",
+      "title": "Houthis sink the Magic Seas and Eternity C in the Red Sea",
+      "category": "attack",
+      "significance": 3,
+      "summary": "In the first week of July 2025 Houthi forces sank two commercial bulk carriers in the Red Sea, roughly 100 kilometres southwest of the Yemeni port of Hodeidah. The Liberian-flagged, Greek-operated Magic Seas was attacked on 6 July and sank; its crew were rescued. The Eternity C was attacked from 7 July with rocket-propelled grenades fired from small craft and, by the Houthis' own account, missiles and an unmanned boat, and sank on 9 July. Per CNN, citing the operator, three crew members were killed and ten rescued; the EU naval mission put the dead at at least four with others missing, and several crew were taken by the Houthis, which the United States described as kidnapping. The Houthis said they targeted vessels linked to Israel and would continue until the Gaza war ended; Human Rights Watch called the attacks apparent war crimes.",
+      "perspectives": [
+        {
+          "party": "Houthis (Ansar Allah)",
+          "framing": "Present the sinkings as part of their maritime campaign in support of Gaza, saying the ships belonged to companies dealing with Israeli ports and that the crew members taken aboard were 'rescued'."
+        },
+        {
+          "party": "United States",
+          "framing": "Condemned the attacks as unprovoked aggression against commercial shipping and described the seizure of surviving crew as kidnapping, calling for their immediate release."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Framed the attacks as evidence that the Iran-backed Houthis remained a threat to international navigation and cited them in justifying continued Israeli strikes on Houthi targets in Yemen."
+        },
+        {
+          "party": "Human Rights Watch",
+          "framing": "Characterised the deliberate attacks on civilian cargo ships and the killing of sailors as apparent war crimes and urged accountability."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Eternity C: 10 rescued, 3 killed and others 'kidnapped' after Houthis sink ship in second Red Sea attack in a week",
+          "url": "https://www.cnn.com/world/middleeast/eternity-c-houthi-rebels-red-sea-intl-hnk",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Houthi videos show attacks that sank two ships in Red Sea this week",
+          "url": "https://www.timesofisrael.com/houthi-videos-show-attacks-that-sank-two-ships-in-red-sea-this-week/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Yemen: Houthis' Attacks on Cargo Ships Apparent War Crimes",
+          "url": "https://www.hrw.org/news/2025/07/23/yemen-houthis-attacks-on-cargo-ships-apparent-war-crimes",
+          "publisher": "Human Rights Watch",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Six rescued, 15 missing after Houthi attack on cargo ship in Red Sea",
+          "url": "https://www.aljazeera.com/news/2025/7/9/five-rescued-after-suspected-attack-by-yemens-houthis-on-red-sea-vessel",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Eternity C crew killed",
+          "value": "3",
+          "attribution": "Ship operator, as reported by CNN",
+          "note": "10 of 25 crew rescued; others missing or taken by the Houthis."
+        },
+        {
+          "label": "Eternity C crew killed",
+          "value": "at least 4 presumed dead, 11 missing",
+          "attribution": "EU naval mission (Aspides)",
+          "note": "Count as of 11 July 2025."
+        },
+        {
+          "label": "Magic Seas crew killed",
+          "value": "0",
+          "attribution": "Ship operator / Times of Israel",
+          "note": "All crew rescued before the vessel sank."
+        }
+      ]
+    },
+    {
+      "id": "2025-08-05-lebanon-cabinet-orders-army-plan-to-disarm-hezbollah",
+      "date": "2025-08-05",
+      "endDate": "2025-08-07",
+      "lat": 33.8959,
+      "lng": 35.5018,
+      "location": "Grand Serail, Beirut, Lebanon",
+      "title": "Lebanese cabinet tasks the army with a plan to disarm Hezbollah",
+      "category": "political",
+      "significance": 4,
+      "summary": "On 5 August 2025 Lebanon's cabinet, under President Joseph Aoun and Prime Minister Nawaf Salam, instructed the Lebanese Armed Forces to draw up a plan by the end of the year to bring all weapons in the country under state control, a direct challenge to Hezbollah, which had refused to disarm after its 2024 war with Israel. On 7 August the cabinet approved the objectives of a paper submitted by US envoy Thomas Barrack that included a disarmament timetable; ministers from Hezbollah and its ally Amal walked out of both sessions. Hezbollah leader Naim Qassem called the decision a 'grave sin' and said the group would not disarm while Israeli forces remained in Lebanon. On 5 September the cabinet 'welcomed' the army's confidential plan without setting a timeframe, the army cautioning that its capabilities were limited. Israel welcomed the decision as a step toward Lebanese sovereignty.",
+      "perspectives": [
+        {
+          "party": "Lebanese government",
+          "framing": "Presents the decision as restoring the state's monopoly on arms and implementing the November 2024 ceasefire and UN Security Council Resolution 1701, while seeking Israeli withdrawal and an end to strikes in return."
+        },
+        {
+          "party": "Hezbollah",
+          "framing": "Rejects disarmament as serving Israeli and American dictates, calls the cabinet decision a 'grave sin' and insists its weapons are the 'resistance' needed while Israel occupies Lebanese territory and continues attacks."
+        },
+        {
+          "party": "United States",
+          "framing": "Envoy Thomas Barrack's paper framed disarmament with a timetable as the path to Israeli withdrawal, reconstruction aid and stability; Washington pressed Beirut for a public commitment."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Welcomed the plan as key to Lebanese sovereignty while stating that it would continue to act against Hezbollah's rearmament until disarmament was implemented."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Lebanese cabinet tasks army with drawing up plans to disarm Hezbollah by year's end",
+          "url": "https://www.timesofisrael.com/lebanese-cabinet-tasks-army-with-drawing-up-plans-to-disarm-hezbollah-by-years-end/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Lebanese Government Instructs Army to Develop Plan for State Monopoly on Weapons as Hezbollah Refuses to Disarm",
+          "url": "https://www.fdd.org/analysis/2025/08/05/lebanese-government-instructs-army-to-develop-plan-for-state-monopoly-on-weapons-as-hezbollah-refuses-to-disarm/",
+          "publisher": "Foundation for Defense of Democracies",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Lebanon's cabinet welcomes army plan to disarm Hezbollah, gives no timeline",
+          "url": "https://www.aljazeera.com/news/2025/9/5/lebanons-cabinet-welcomes-army-plan-to-disarm-hezbollah-gives-no-timeline",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Lebanon 2025: Plans to disarm Hezbollah",
+          "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10347/",
+          "publisher": "House of Commons Library",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true
+    },
+    {
+      "id": "2025-08-08-israel-security-cabinet-approves-gaza-city-takeover",
+      "date": "2025-08-08",
+      "lat": 31.7808,
+      "lng": 35.2029,
+      "location": "Prime Minister's Office, Jerusalem",
+      "title": "Israeli security cabinet approves plan to take control of Gaza City",
+      "category": "political",
+      "significance": 4,
+      "summary": "In the early hours of 8 August 2025 Israel's security cabinet approved Prime Minister Benjamin Netanyahu's proposal for the IDF to take control of Gaza City, the largest urban centre in the Strip, with civilians to be evacuated southward. The government set five conditions for ending the war: disarmament of Hamas, the return of all living and dead hostages, demilitarisation of Gaza, Israeli security control, and a civilian administration that was neither Hamas nor the Palestinian Authority. IDF Chief of Staff Eyal Zamir had warned that the plan would endanger the hostages and stretch the military, and hostage families protested in Tel Aviv and Jerusalem. Britain's prime minister Keir Starmer said the decision was wrong and urged reconsideration, and Turkey called on the UN Security Council to prevent its implementation. The decision set the stage for the Gaza City ground offensive launched in September.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Described the plan as the way to 'defeat Hamas' and free the hostages, insisting Israel did not intend to govern Gaza permanently but to hand it to a non-Hamas civilian administration after the war."
+        },
+        {
+          "party": "IDF leadership and hostage families",
+          "framing": "The chief of staff and the Hostages and Missing Families Forum warned that an assault on Gaza City would endanger the remaining hostages and exhaust reservists, calling instead for a negotiated deal."
+        },
+        {
+          "party": "United Kingdom",
+          "framing": "Prime Minister Starmer called the decision wrong, said it would not end the conflict or bring the hostages home, and urged Israel to reconsider."
+        },
+        {
+          "party": "Turkey",
+          "framing": "Condemned the plan in the strongest terms as a step toward occupation and called on the international community and UN Security Council to act."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Israeli Security Cabinet Approves Plans for Gaza City Takeover, Evacuation of Civilians",
+          "url": "https://www.fdd.org/analysis/2025/08/08/israeli-security-cabinet-approves-plans-for-gaza-city-takeover-evacuation-of-civilians/",
+          "publisher": "Foundation for Defense of Democracies",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel announces plan to take over Gaza City in another escalation of the war",
+          "url": "https://www.npr.org/2025/08/08/nx-s1-5495694/israel-gaza-military-escalation",
+          "publisher": "NPR",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel's security cabinet approves plans to take over Gaza City",
+          "url": "https://www.euronews.com/2025/08/08/israels-security-cabinet-to-debate-expanding-gaza-operation-despite-opposition",
+          "publisher": "Euronews",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israeli security cabinet approves plan for Israel to take over Gaza City",
+          "url": "https://www.cbc.ca/lite/story/1.7603048",
+          "publisher": "CBC News",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true
+    },
+    {
+      "id": "2025-08-22-ipc-confirms-famine-in-gaza-governorate",
+      "date": "2025-08-22",
+      "lat": 31.5017,
+      "lng": 34.4668,
+      "location": "Gaza Governorate, Gaza Strip",
+      "title": "IPC confirms famine in Gaza Governorate",
+      "category": "political",
+      "significance": 5,
+      "summary": "On 22 August 2025 the Integrated Food Security Phase Classification (IPC) confirmed Famine (IPC Phase 5) in Gaza Governorate as of 15 August, the first famine officially confirmed in the Middle East, and projected its spread to Deir al-Balah and Khan Younis governorates by the end of September. The analysis found more than 500,000 people across the Strip facing catastrophic conditions, a further 1.07 million in Emergency (Phase 4) and 396,000 in Crisis (Phase 3), after 22 months of war and restrictions on aid. The WHO and UN Secretary-General António Guterres called the famine man-made and 'a failure of humanity', demanding an immediate ceasefire and unimpeded aid. Israel's Foreign Ministry and COGAT rejected the report as fabricated and based on partial sources affiliated with Hamas, saying there was no famine in Gaza and citing increased aid deliveries. In December the IPC assessed that famine conditions no longer prevailed.",
+      "perspectives": [
+        {
+          "party": "IPC / United Nations",
+          "framing": "Presented the finding as a technical, evidence-based classification and described the famine as entirely man-made and preventable, calling for a ceasefire and full humanitarian access."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "The Foreign Ministry and COGAT called the report 'fabricated' and 'methodologically flawed', said it relied on Hamas-affiliated data, asserted that there was no famine and pointed to aid volumes entering the Strip."
+        },
+        {
+          "party": "Hamas and Palestinian officials",
+          "framing": "Cited the confirmation as proof of a deliberate policy of starvation and a 'crime of genocide', demanding international intervention to open crossings."
+        },
+        {
+          "party": "European Union",
+          "framing": "Commissioner Hadja Lahbib said the confirmation was a man-made catastrophe and called on Israel to allow immediate, unimpeded humanitarian access."
+        }
+      ],
+      "sources": [
+        {
+          "title": "GAZA STRIP: Famine confirmed in Gaza Governorate, projected to expand",
+          "url": "https://www.ipcinfo.org/ipcinfo-website/countries-in-focus-archive/issue-134/en/",
+          "publisher": "IPC",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Famine confirmed for first time in Gaza",
+          "url": "https://www.who.int/news/item/22-08-2025-famine-confirmed-for-first-time-in-gaza",
+          "publisher": "World Health Organization",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Famine in Gaza: 'A failure of humanity itself', says UN chief",
+          "url": "https://news.un.org/en/story/2025/08/1165702",
+          "publisher": "UN News",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel firmly rejects the IPC Gaza report",
+          "url": "https://embassies.gov.il/multilateral-organizations-france/en/news/israel-firmly-rejects-ipc-gaza-report",
+          "publisher": "Israel Ministry of Foreign Affairs",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Statement by Commissioner Lahbib on Gaza famine",
+          "url": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/statement-commissioner-lahbib-gaza-famine-2025-08-22_en",
+          "publisher": "European Commission",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "People in Catastrophe (IPC Phase 5) across the Gaza Strip",
+          "value": "more than 500,000",
+          "attribution": "IPC",
+          "note": "As of 15 August 2025; 641,000 projected by end of September 2025."
+        },
+        {
+          "label": "People in Emergency (IPC Phase 4)",
+          "value": "1.07 million (54%)",
+          "attribution": "IPC"
+        }
+      ]
+    },
+    {
+      "id": "2025-08-25-nasser-hospital-strike-kills-journalists",
+      "date": "2025-08-25",
+      "lat": 31.3417,
+      "lng": 34.2953,
+      "location": "Nasser Hospital, Khan Younis, Gaza Strip",
+      "title": "Strike on Nasser Hospital kills 20-22 people including five journalists",
+      "category": "attack",
+      "significance": 4,
+      "summary": "On the morning of 25 August 2025 Israeli tank fire struck an upper floor and external staircase of Nasser Hospital in Khan Younis in two rounds minutes apart; the second hit rescuers and journalists who had rushed to the site after the first. Per the Gaza Health Ministry 20 people were killed, while Civil Defence and hospital officials cited by CNN and AP put the toll at 22 with about 50 wounded, including five journalists: Reuters cameraman Hussam al-Masri, AP freelancer Mariam Dagga, Al Jazeera's Mohammed Salama, freelancer Moaz Abu Taha and Ahmed Abu Aziz of Middle East Eye. Netanyahu called it a 'tragic mishap'; an initial IDF inquiry on 26 August said troops had targeted a camera it said Hamas placed to observe forces and that six of the dead were militants; the chief of staff ordered a wider probe into the authorisation and munitions used.",
+      "perspectives": [
+        {
+          "party": "Israeli government / IDF",
+          "framing": "Called the deaths a 'tragic mishap', said the target was a Hamas surveillance camera on the hospital roof, identified six of the dead as 'terrorists' and said the strike's approval process and munitions would be investigated."
+        },
+        {
+          "party": "Hamas and Gaza authorities",
+          "framing": "Described the strike as a deliberate 'massacre' of journalists and rescuers and part of a pattern of attacks on hospitals and the press."
+        },
+        {
+          "party": "News organisations and press-freedom groups",
+          "framing": "Reuters, AP and Al Jazeera demanded explanations; the Committee to Protect Journalists and others called the 'double-tap' strike an attack on the press and demanded accountability."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The Secretary-General condemned the killing of journalists and health workers and called for a prompt, impartial investigation and respect for the protection of hospitals."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Nasser Hospital, Gaza: Outrage after Israel kills five journalists in 'double-tap' attack",
+          "url": "https://www.cnn.com/2025/08/25/middleeast/more-than-dozen-killed-israeli-strikes-gaza-hospital-journalists-intl",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "IDF strike on south Gaza hospital said to kill 20, including rescuers and journalists",
+          "url": "https://www.timesofisrael.com/strike-on-south-gaza-hospital-said-to-kill-20-including-rescuers-and-journalists/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel claims strike on hospital that killed journalists was targeting a camera used by Hamas",
+          "url": "https://www.cbsnews.com/news/israel-gaza-hospital-attack-journalists-killed-idf-says-camera-was-target/",
+          "publisher": "CBS News",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "IDF conducts inquiry into strikes near Gaza's Nasser Hospital",
+          "url": "https://www.longwarjournal.org/archives/2025/08/idf-conducts-inquiry-into-strikes-near-gazas-nasser-hospital.php",
+          "publisher": "FDD's Long War Journal",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Killed",
+          "value": "20",
+          "attribution": "Gaza Health Ministry"
+        },
+        {
+          "label": "Killed",
+          "value": "22 (about 50 wounded)",
+          "attribution": "Gaza Civil Defence / hospital officials, as reported by CNN and AP"
+        },
+        {
+          "label": "Journalists killed",
+          "value": "5",
+          "attribution": "Reuters, AP, Al Jazeera, Middle East Eye (employers)"
+        },
+        {
+          "label": "Militants among the dead",
+          "value": "6",
+          "attribution": "IDF initial inquiry"
+        }
+      ]
+    },
+    {
+      "id": "2025-09-09-israeli-strike-on-hamas-leaders-in-doha",
+      "date": "2025-09-09",
+      "lat": 25.3548,
+      "lng": 51.5197,
+      "location": "Leqtaifiya district, Doha, Qatar",
+      "title": "Israeli air strike targets Hamas leadership in Doha",
+      "category": "attack",
+      "significance": 4,
+      "summary": "On 9 September 2025 Israeli aircraft struck a residential compound in the Leqtaifiya district of Doha where Hamas's political leadership was meeting to discuss a US ceasefire proposal. According to Israeli officials cited by CNN, more than ten jets fired over ten munitions at a target list that included chief negotiator Khalil al-Hayya, Zaher Jabarin, Muhammad Darwish and Khaled Mashal. Hamas said five of its members were killed, including al-Hayya's son and his office director, but that the negotiating delegation survived; Qatar said a member of its Internal Security Force was also killed. It was Israel's first known strike in Qatar, a US ally, and its first on a Gulf Cooperation Council member. Qatar condemned the attack as a violation of its sovereignty and suspended its mediation; on 29 September Netanyahu apologised to Qatar's prime minister in a call arranged by President Trump.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Said it acted alone against the 'terrorist leadership' responsible for 7 October, that the targets were legitimate wherever they hid, and later expressed regret to Qatar for the death of a Qatari serviceman."
+        },
+        {
+          "party": "Qatar",
+          "framing": "Condemned a 'cowardly' and 'treacherous' attack on a sovereign state hosting negotiations it was conducting at US request, and demanded international accountability."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Called the strike a failed assassination attempt that proved Israel was not seeking a deal, while confirming that the delegation survived and five members were killed."
+        },
+        {
+          "party": "United States",
+          "framing": "President Trump said he was unhappy with the strike, that it did not advance US or Israeli goals, and that Qatar was a strong ally; he later brokered Netanyahu's apology."
+        }
+      ],
+      "sources": [
+        {
+          "title": "September 9, 2025: Israel carries out attack in Qatar targeting Hamas leaders",
+          "url": "https://www.cnn.com/world/live-news/israel-qatar-attack-09-09-25",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel Strikes Hamas in Qatar",
+          "url": "https://www.csis.org/analysis/israel-strikes-hamas-qatar",
+          "publisher": "Center for Strategic and International Studies",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Qatar – Israeli strikes against Hamas leaders in Doha (10 September 2025)",
+          "url": "https://www.diplomatie.gouv.fr/en/country-files/qatar/events/article/qatar-israeli-strikes-against-hamas-leaders-in-doha-10-09-25",
+          "publisher": "French Ministry for Europe and Foreign Affairs",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Netanyahu apologises to Qatar for strike on Doha as Trump says Gaza peace is 'very close'",
+          "url": "https://euronews.com/2025/09/29/netanyahu-apologises-to-qatar-for-strike-on-doha-as-trump-says-gaza-peace-is-very-close",
+          "publisher": "Euronews",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Hamas members killed",
+          "value": "5",
+          "attribution": "Hamas",
+          "note": "Including Khalil al-Hayya's son and the director of his office; senior leaders survived."
+        },
+        {
+          "label": "Qatari security personnel killed",
+          "value": "1",
+          "attribution": "Qatar Ministry of Interior"
+        }
+      ]
+    },
+    {
+      "id": "2025-09-16-gaza-city-ground-offensive",
+      "date": "2025-09-16",
+      "endDate": "2025-10-10",
+      "lat": 31.5017,
+      "lng": 34.4668,
+      "location": "Gaza City, Gaza Strip",
+      "title": "Israeli ground offensive in Gaza City (Gideon's Chariots II)",
+      "category": "war",
+      "significance": 5,
+      "summary": "On 16 September 2025 elements of three IDF divisions, the 98th, 162nd and 36th, pushed into Gaza City in the ground phase of Operation Gideon's Chariots II, after two weeks of air strikes on high-rise buildings and after the military placed the entire city, home to an estimated one million people, under an evacuation order directing residents to Al-Mawasi. Defence Minister Israel Katz declared that 'Gaza is burning'. By mid-September the IDF said it controlled about 40 percent of the city. UN OCHA, citing the Site Management Cluster, recorded more than 388,400 displacement movements between 14 August and 23 September, roughly 9,700 a day, as hundreds of thousands moved south along the coastal road while many others remained. Amnesty International described a catastrophic wave of mass displacement under inhumane conditions. The offensive halted when the ceasefire took effect on 10 October and Israeli forces withdrew to the Yellow Line.",
+      "perspectives": [
+        {
+          "party": "Israeli government / IDF",
+          "framing": "Framed the operation as the decisive phase to dismantle Hamas's last stronghold and free the hostages, saying civilians were warned and given a humanitarian zone in the south."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Described the assault as a war of extermination and forced displacement, and said Israel bore responsibility for the fate of hostages held in the city."
+        },
+        {
+          "party": "United Nations (OCHA, UN News)",
+          "framing": "Reported that nearly one million people in a famine-affected city faced bombardment and impossible evacuation conditions, and said the south lacked space, shelter and services for new arrivals."
+        },
+        {
+          "party": "Amnesty International",
+          "framing": "Characterised the evacuation orders and destruction as forced displacement and part of what it called genocide, calling for an immediate halt to the offensive."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Israel expands push into Gaza City center with 3 IDF divisions",
+          "url": "https://www.longwarjournal.org/archives/2025/09/israel-expands-push-into-gaza-city-center-with-3-idf-divisions.php",
+          "publisher": "FDD's Long War Journal",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "'Gaza is burning': Israel launches ground invasion of strip's largest city",
+          "url": "https://www.cnbc.com/2025/09/16/gaza-is-burning-israel-launches-ground-invasion-of-gaza-city.html",
+          "publisher": "CNBC",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Gaza City invasion live updates: Israel launches expanded ground offensive, says 'Gaza is burning'",
+          "url": "https://www.nbcnews.com/world/middle-east/live-blog/israel-gaza-live-updates-idf-gaza-city-ground-operation-rcna224199",
+          "publisher": "NBC News",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Humanitarian Situation Update #326 | Gaza Strip",
+          "url": "https://www.ochaopt.org/content/humanitarian-situation-update-326-gaza-strip",
+          "publisher": "UN OCHA",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Gazans flee 'death and devastation' with no transportation or means of shelter",
+          "url": "https://news.un.org/en/story/2025/09/1165896",
+          "publisher": "UN News",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel/OPT: Catastrophic wave of mass displacement under inhumane conditions as Israel obliterates Gaza City",
+          "url": "https://www.amnesty.org/en/latest/news/2025/10/catastrophic-mass-displacement-as-israel-obliterates-gaza-city/",
+          "publisher": "Amnesty International",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Displacement movements recorded",
+          "value": "more than 388,400",
+          "attribution": "UN OCHA, citing the Site Management Cluster",
+          "note": "14 August to 23 September 2025; about 9,700 per day."
+        },
+        {
+          "label": "People under evacuation order in Gaza City",
+          "value": "nearly 1 million",
+          "attribution": "UN OCHA",
+          "note": "Estimate at the time the whole city was placed under a displacement order (10 September 2025)."
+        }
+      ]
+    },
+    {
+      "id": "2025-09-16-un-commission-of-inquiry-genocide-finding",
+      "date": "2025-09-16",
+      "lat": 46.2267,
+      "lng": 6.1406,
+      "location": "Palais des Nations, Geneva",
+      "title": "UN Commission of Inquiry concludes Israel committed genocide in Gaza",
+      "category": "political",
+      "significance": 4,
+      "summary": "On 16 September 2025 the Independent International Commission of Inquiry on the Occupied Palestinian Territory, a three-member body established by the UN Human Rights Council and chaired by Navi Pillay, published a report concluding that Israeli authorities and security forces had committed genocide against Palestinians in the Gaza Strip between 7 October 2023 and 31 July 2025. It found four of the five acts listed in the 1948 Genocide Convention: killing, causing serious bodily or mental harm, inflicting conditions of life calculated to destroy the group, and imposing measures intended to prevent births, and inferred intent from statements by Israeli civilian and military leaders and the pattern of military conduct. The paper (A/HRC/60/CRP.3) was presented to the Council's 60th session. Israel's Foreign Ministry rejected the report as 'distorted and false' and accused the panel of echoing Hamas propaganda; Amnesty International said the finding must spur international action.",
+      "perspectives": [
+        {
+          "party": "UN Commission of Inquiry",
+          "framing": "Presented its conclusion as a legal finding under the Genocide Convention based on two years of evidence, and called on states to prevent genocide and to end arms transfers."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Rejected the report as 'distorted and false', called the commissioners biased 'Hamas proxies', and said Israel was fighting a defensive war in accordance with international law."
+        },
+        {
+          "party": "Palestinian Authority and Hamas",
+          "framing": "Welcomed the finding as confirmation of what Palestinians had described since 2023 and demanded sanctions and prosecutions."
+        },
+        {
+          "party": "Human-rights organisations",
+          "framing": "Amnesty International and others said the report aligned with their own findings and urged governments to act on their obligations under the Convention."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Commission of Inquiry: Israeli authorities and Israeli security forces have committed and are continuing to commit genocide against the Palestinians in the Gaza Strip (A/HRC/60/CRP.3)",
+          "url": "https://www.un.org/unispal/document/commission-of-inquiry-report-genocide-in-gaza-a-hrc-60-crp-3/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel/OPT: UN report concluding Israel is committing genocide in Gaza must spur international action",
+          "url": "https://www.amnesty.org/en/latest/news/2025/09/israel-opt-un-report-concluding-israel-is-committing-genocide-in-gaza-must-spur-international-action/",
+          "publisher": "Amnesty International",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "UN inquiry finds that Israel has committed genocide in Gaza",
+          "url": "https://www.cbc.ca/lite/story/1.7634867",
+          "publisher": "CBC News",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "United Nations Commission Of Inquiry Says Israel Is Committing Genocide In Gaza",
+          "url": "https://www.forbes.com/sites/ewelinaochab/2025/09/16/united-nations-commission-of-inquiry-israel-is-committing-genocide-in-gaza/",
+          "publisher": "Forbes",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true
+    },
+    {
+      "id": "2025-09-21-uk-canada-australia-france-recognise-palestine",
+      "date": "2025-09-21",
+      "endDate": "2025-09-22",
+      "lat": 40.7489,
+      "lng": -73.968,
+      "location": "UN Headquarters, New York",
+      "title": "UK, Canada, Australia, France and others recognise the State of Palestine",
+      "category": "political",
+      "significance": 4,
+      "summary": "On 21 September 2025 the United Kingdom, Canada and Australia formally recognised the State of Palestine in a coordinated step, with Portugal following the same day. On 22 September, at a UN General Assembly high-level conference on the two-state solution co-chaired by France and Saudi Arabia, President Emmanuel Macron announced France's recognition, joined by Belgium, Luxembourg and Malta. The governments said recognition was intended to preserve the possibility of a two-state solution amid the war in Gaza and settlement expansion, and was tied to Palestinian Authority reform and the exclusion of Hamas from governance. Prime Minister Netanyahu responded that 'there will be no Palestinian state' and said Israel's answer would come after his return from the United States; the United States opposed the move, and some Israeli ministers called for annexing parts of the West Bank. The Palestinian Authority welcomed the recognitions as historic.",
+      "perspectives": [
+        {
+          "party": "United Kingdom, Canada, Australia and France",
+          "framing": "Framed recognition as keeping alive the two-state solution and rewarding a reformed Palestinian Authority rather than Hamas, while condemning the 7 October attack and calling for the hostages' release."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Called the recognitions a 'reward for terror' after 7 October, vowed that no Palestinian state would be established, and floated sovereignty measures in the West Bank ('Judea and Samaria') in response."
+        },
+        {
+          "party": "Palestinian Authority",
+          "framing": "President Mahmoud Abbas welcomed the decisions as a historic step toward realising Palestinian self-determination and urged other states to follow."
+        },
+        {
+          "party": "United States",
+          "framing": "Opposed unilateral recognition, said it did nothing to free hostages or end the war, and denied visas to the Palestinian delegation ahead of the General Assembly session."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Britain, Canada and Australia formally recognize a Palestinian state, deepening Israel's isolation",
+          "url": "https://www.cnn.com/2025/09/21/world/palestinian-state-uk-canada-australia-intl",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "U.K., Canada, Australia recognize Palestine as state, break with U.S.",
+          "url": "https://www.washingtonpost.com/world/2025/09/21/britain-recognizes-palestine-state-israel/",
+          "publisher": "The Washington Post",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "France Leads Wave of New Recognitions of Palestine at United Nations Summit",
+          "url": "https://press.un.org/en/2025/pal2251.doc.htm",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "France among six more countries to formally recognise Palestinian statehood",
+          "url": "https://www.aljazeera.com/news/2025/9/22/france-recognises-palestinian-state-ahead-of-the-unga-meeting",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "UK, Canada, France statements on recognising a Palestinian state 2025",
+          "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10323/",
+          "publisher": "House of Commons Library",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true
+    },
+    {
+      "id": "2025-09-29-trump-20-point-gaza-plan",
+      "date": "2025-09-29",
+      "lat": 38.8977,
+      "lng": -77.0365,
+      "location": "White House, Washington, D.C.",
+      "title": "Trump unveils 20-point plan to end the Gaza war",
+      "category": "political",
+      "significance": 4,
+      "summary": "On 29 September 2025 President Donald Trump, appearing with Prime Minister Netanyahu at the White House, unveiled a 20-point 'Comprehensive Plan to End the Gaza Conflict' that Netanyahu said Israel accepted. The plan provided for an immediate end to fighting once both sides agreed, the return of all living and dead hostages within 72 hours of Israeli acceptance, the release of 250 Palestinian prisoners serving life sentences and 1,700 Gazans detained since 7 October 2023, a staged Israeli withdrawal, disarmament of Hamas with amnesty for members who renounced violence, a technocratic Palestinian committee to run Gaza under an international 'Board of Peace' chaired by Trump, a temporary International Stabilisation Force, and a possible future political horizon for Palestinian self-determination. The White House said the plan was drafted in consultation with Arab and Muslim states. Hamas gave a partial acceptance and indirect talks in Egypt produced the 9 October agreement.",
+      "perspectives": [
+        {
+          "party": "United States",
+          "framing": "Presented the plan as the end of the war, a path to a demilitarised and rebuilt Gaza and to wider regional normalisation, warning that Israel would have US backing to 'finish the job' if Hamas refused."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Netanyahu said the plan met Israel's war aims of disarming Hamas and returning the hostages, stressed that the IDF would stay in most of Gaza until demilitarisation, and rejected any role for the Palestinian Authority without reform."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Accepted the hostage-release and withdrawal provisions in principle but said disarmament and Gaza's future governance were national matters to be decided by Palestinians."
+        },
+        {
+          "party": "Arab and Muslim states",
+          "framing": "Egypt, Qatar, Turkey, Saudi Arabia, Jordan, the UAE, Indonesia and Pakistan welcomed the announcement and pledged to work with Washington on implementation, while stressing eventual Palestinian statehood."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Analysis: How happy is Israel's Netanyahu with Trump's Gaza plan?",
+          "url": "https://www.aljazeera.com/news/2025/9/30/analysis-how-happy-is-israels-netanyahu-with-trumps-gaza-plan",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Trump and Netanyahu say they have agreed on proposed Gaza peace plan",
+          "url": "https://www.euronews.com/embed/2834972",
+          "publisher": "Euronews",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Donald Trump says Israel backs Gaza peace plan",
+          "url": "https://gulfnews.com/world/americas/donald-trump-says-israel-backs-gaza-peace-plan-1.500288213",
+          "publisher": "Gulf News",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "The Trump-Netanyahu Plan for Gaza: A Legal Analysis",
+          "url": "https://arabcenterdc.org/resource/the-trump-netanyahu-plan-for-gaza-a-legal-analysis/",
+          "publisher": "Arab Center Washington DC",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true
+    },
+    {
+      "id": "2025-10-01-global-sumud-flotilla-intercepted",
+      "date": "2025-10-01",
+      "endDate": "2025-10-03",
+      "lat": 31.85,
+      "lng": 33.5,
+      "location": "Eastern Mediterranean, off the Gaza coast",
+      "title": "Israeli navy intercepts the Global Sumud Flotilla",
+      "category": "political",
+      "significance": 3,
+      "summary": "On the evening of 1 October 2025 the Israeli navy began intercepting the Global Sumud Flotilla, a civilian convoy of roughly 40 to 45 vessels carrying several hundred activists, parliamentarians, doctors and lawyers, among them Swedish campaigner Greta Thunberg, that sought to break the maritime blockade of Gaza and deliver aid. Boarding operations continued through the night into 2 October in international waters as communications were jammed; NPR reported that most vessels were seized and their passengers detained and taken to Israel for deportation, and Al Jazeera reported that the final boat was intercepted on 3 October. Israel described the interception as peaceful and the flotilla as a provocation serving Hamas; Italy said it had received assurances that no violence would be used. Organisers and Front Line Defenders said the seizure in international waters violated international law and that detainees were denied legal counsel; protests followed in several countries.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Called the flotilla a 'selfie' publicity stunt and provocation that carried negligible aid, said the naval blockade is lawful, and emphasised that the interception was carried out without violence and participants were deported."
+        },
+        {
+          "party": "Flotilla organisers",
+          "framing": "Described a peaceful civilian humanitarian mission to break an illegal siege and said the boarding of ships in international waters and detention of participants amounted to abduction."
+        },
+        {
+          "party": "Human-rights groups (Front Line Defenders, Amnesty)",
+          "framing": "Said the interception in international waters violated international law and raised concerns about arbitrary detention and denial of access to lawyers."
+        },
+        {
+          "party": "European governments (Italy, Spain)",
+          "framing": "Urged restraint and consular protection for their nationals; Italy relayed Israeli assurances of non-violence while Spain and others criticised the interception."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Israeli navy intercepts most Gaza-bound flotilla boats and arrests activists",
+          "url": "https://www.npr.org/2025/10/01/g-s1-91522/gaza-aid-flotilla-sumud-israel",
+          "publisher": "NPR",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Last boat in Gaza humanitarian flotilla intercepted by Israel",
+          "url": "https://www.aljazeera.com/news/2025/10/3/israel-dismantles-gaza-humanitarian-flotilla-but-one-boat-sails",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Oct. 1: Italy's FM says Israel assured him troops won't use violence against flotilla activists",
+          "url": "https://www.timesofisrael.com/liveblog-october-1-2025/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "OPT: Israeli Attack on Global Sumud Flotilla in international waters violates International Law",
+          "url": "https://www.frontlinedefenders.org/en/statement-report/opt-israeli-attack-global-sumud-flotilla-international-waters-violates",
+          "publisher": "Front Line Defenders",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true
+    },
+    {
+      "id": "2025-10-09-sharm-el-sheikh-ceasefire-agreement",
+      "date": "2025-10-09",
+      "endDate": "2025-10-13",
+      "lat": 27.9158,
+      "lng": 34.33,
+      "location": "Sharm el-Sheikh, Egypt",
+      "title": "Sharm el-Sheikh ceasefire takes effect; IDF withdraws to the Yellow Line",
+      "category": "ceasefire",
+      "significance": 5,
+      "summary": "On 9 October 2025 Israel and Hamas agreed the first phase of Trump's plan after indirect talks in Sharm el-Sheikh mediated by Egypt, Qatar, Turkey and the United States; the Israeli cabinet ratified it overnight and the ceasefire took effect at noon on 10 October, when Israeli forces pulled back to a demarcation known as the 'Yellow Line'. Israel completed the withdrawal within 24 hours while retaining direct control of roughly 53 percent of the Strip per Gisha's mapping, including Rafah and the eastern belt; tens of thousands of displaced Palestinians walked north toward Gaza City. The text provided for hostage releases within 72 hours, a prisoner exchange and a surge of aid. On 13 October Trump addressed the Knesset and then joined leaders of more than 20 countries at a Sharm el-Sheikh summit where the US, Egypt, Qatar and Turkey signed a guarantors' declaration; Netanyahu did not attend.",
+      "perspectives": [
+        {
+          "party": "United States",
+          "framing": "President Trump proclaimed the end of the war and 'the historic dawn of a new Middle East', presenting the deal as the first phase of his 20-point plan guaranteed by the US and regional mediators."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Presented the agreement as securing the return of all hostages while the IDF remained deployed in more than half of Gaza until Hamas disarmed; the chief of staff later called the Yellow Line 'a new border line'."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Framed the agreement as ending the war and the 'genocide' and forcing an Israeli withdrawal, while insisting that its weapons and Gaza's governance remained Palestinian matters."
+        },
+        {
+          "party": "Egypt, Qatar and Turkey",
+          "framing": "Cast themselves as guarantors of a comprehensive end to the war leading to reconstruction and a political horizon for a Palestinian state."
+        },
+        {
+          "party": "Palestinian civil-society and rights groups (Gisha)",
+          "framing": "Noted that the Yellow Line left more than two million people confined to under half of the Strip and that its unmarked route exposed civilians to lethal fire."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Full text of Oct. 9 Israel-Hamas deal on Trump's plan for 'comprehensive end' to Gaza war",
+          "url": "https://www.timesofisrael.com/full-text-of-oct-9-israel-hamas-deal-on-trumps-plan-for-comprehensive-end-to-gaza-war/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "October 10, 2025 - Israel-Hamas war",
+          "url": "https://www.cnn.com/world/live-news/israel-hamas-gaza-ceasefire-agreement-10-10-25",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Map of Gaza shows how Israeli forces will withdraw under ceasefire deal",
+          "url": "https://www.aljazeera.com/news/2025/10/9/map-of-gaza-shows-how-israeli-forces-will-withdraw-under-ceasefire-deal",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "The 'Yellow Line': Approximately 58 percent of the Gaza Strip is still under direct Israeli control",
+          "url": "https://gisha.org/en/the-yellow-line/",
+          "publisher": "Gisha",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Trump, world leaders gather in Egypt for ceasefire deal signing with Netanyahu absent",
+          "url": "https://abcnews.com/International/trump-world-leaders-gather-egypt-ceasefire-deal-signing/story?id=126477199",
+          "publisher": "ABC News",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Sharm El-Sheikh Peace Summit",
+          "url": "https://sis.gov.eg/en/media-center/events/sharm-el-sheikh-peace-summit/",
+          "publisher": "Egypt State Information Service",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true
+    },
+    {
+      "id": "2025-10-13-hostage-and-prisoner-exchange",
+      "date": "2025-10-13",
+      "lat": 31.42,
+      "lng": 34.35,
+      "location": "Gaza Strip and Ramallah, West Bank",
+      "title": "Last 20 living hostages freed; Israel releases about 1,968 Palestinians",
+      "category": "ceasefire",
+      "significance": 5,
+      "summary": "On 13 October 2025, about 72 hours after the ceasefire took effect, Hamas handed the last 20 living Israeli hostages to the International Committee of the Red Cross in two groups, ending more than two years of captivity, and later that day transferred the bodies of four deceased hostages, out of 28 it was required to return. In exchange Israel released about 1,968 Palestinian prisoners and detainees: 250 serving life sentences, many of whom were transferred to Egypt, and about 1,700 people detained in Gaza since 7 October 2023, who were bused to Ramallah and to Khan Younis. President Trump addressed the Knesset, declaring the war over, before flying to the Sharm el-Sheikh summit. Hamas subsequently returned remains in batches; Israel said several handovers were slow or misidentified, and the bodies of about 360 Palestinians were transferred to Gaza in return over the following weeks.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Celebrated the return of all living hostages as the fulfilment of a central war aim, while calling the release of convicted 'terrorists' a painful price and insisting the deal required the return of every deceased hostage."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Presented the exchange as a victory that freed thousands of Palestinian 'prisoners of freedom', and said locating remains under rubble required time and equipment."
+        },
+        {
+          "party": "Palestinian Authority and prisoners' groups",
+          "framing": "Welcomed the releases while noting that most Gaza detainees had been held without charge and criticising the deportation of long-serving prisoners abroad."
+        },
+        {
+          "party": "United States",
+          "framing": "President Trump hailed 'a historic dawn' and the end of the war, taking credit for the deal in his Knesset address and at the Sharm el-Sheikh summit."
+        }
+      ],
+      "sources": [
+        {
+          "title": "All 20 remaining living hostages return to Israel, after over 2 years in Hamas captivity",
+          "url": "https://www.timesofisrael.com/all-20-remaining-living-hostages-return-to-israel-after-over-2-years-in-hamas-captivity/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israeli hostages freed, hundreds of Palestinians released, as Trump hails 'historic dawn'",
+          "url": "https://www.npr.org/2025/10/13/g-s1-93207/hamas-releasing-israeli-hostages",
+          "publisher": "NPR",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Living hostages and Palestinian prisoners released as part of Gaza ceasefire",
+          "url": "https://www.pbs.org/newshour/world/living-hostages-and-palestinian-prisoners-released-as-part-of-gaza-ceasefire",
+          "publisher": "PBS NewsHour",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "What to know about the 20 living hostages released by Hamas",
+          "url": "https://www.axios.com/2025/10/13/israeli-hostages-released-hamas-war",
+          "publisher": "Axios",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true
+    },
+    {
+      "id": "2025-10-19-gaza-strikes-after-rafah-attack",
+      "date": "2025-10-19",
+      "lat": 31.2969,
+      "lng": 34.2435,
+      "location": "Rafah, Gaza Strip",
+      "title": "Two Israeli soldiers killed in Rafah; Israeli strikes kill dozens in Gaza",
+      "category": "attack",
+      "significance": 3,
+      "summary": "On 19 October 2025, nine days into the ceasefire, the IDF said its troops in Rafah, east of the Yellow Line, came under anti-tank and sniper fire; two soldiers, Maj. Yaniv Kula and Staff Sgt. Itay Yavetz of the Nahal Brigade, were killed and three wounded. Israel responded with what the army called a 'massive and extensive wave' of strikes on dozens of targets across the Strip and briefly halted aid entry. Gaza's Civil Defence agency said at least 42 Palestinians were killed that day, per Al Jazeera, and the Gaza Government Media Office said 97 Palestinians had been killed since the truce began. Hamas's armed wing said it remained committed to the ceasefire and had no contact with fighters trapped in Rafah. Both sides accused the other of violations; US envoys Steve Witkoff and Jared Kushner flew to Israel the next day and Washington said the ceasefire held.",
+      "perspectives": [
+        {
+          "party": "Israeli government / IDF",
+          "framing": "Said Hamas had blatantly violated the ceasefire by attacking soldiers inside the Israeli-controlled zone and that the strikes were a proportionate response to 'terrorist' targets."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Denied ordering any attack, said its fighters in Rafah were cut off from the leadership, and accused Israel of fabricating pretexts to continue killing civilians and to block aid."
+        },
+        {
+          "party": "United States",
+          "framing": "Vice President Vance and the envoys said skirmishes were expected, that the ceasefire was holding, and that Hamas would be 'obliterated' if it kept breaching the deal."
+        },
+        {
+          "party": "Gaza authorities and UN agencies",
+          "framing": "Reported dozens of civilian deaths and warned that suspending aid deliveries violated the agreement's humanitarian provisions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Israeli strikes kill dozens as both sides say the other breached Gaza truce",
+          "url": "https://www.aljazeera.com/news/2025/10/19/israeli-strikes-kill-15-in-gaza-as-both-sides-say-the-other-breached-truce",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "2 soldiers killed, 3 wounded in attack on troops in Gaza; IDF launches wave of strikes on Hamas",
+          "url": "https://www.timesofisrael.com/2-soldiers-killed-3-wounded-in-attack-on-troops-in-gaza-idf-launches-wave-of-strikes-on-hamas/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel strikes Gaza as both Israel and Hamas accuse each other of breaching ceasefire",
+          "url": "https://www.npr.org/2025/10/19/nx-s1-5579554/israel-and-hamas-accuse-each-other-of-breaching-fragile-ceasefire-in-gaza",
+          "publisher": "NPR",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Israeli soldiers killed",
+          "value": "2 (3 wounded)",
+          "attribution": "IDF"
+        },
+        {
+          "label": "Palestinians killed on 19 October",
+          "value": "at least 42",
+          "attribution": "Gaza Civil Defence, as reported by Al Jazeera",
+          "note": "Earlier reports the same day cited 15 to 30 killed."
+        },
+        {
+          "label": "Palestinians killed since the 10 October ceasefire",
+          "value": "97 (230 wounded)",
+          "attribution": "Gaza Government Media Office",
+          "note": "As of 19 October 2025."
+        }
+      ]
+    },
+    {
+      "id": "2025-10-28-israeli-strikes-kill-over-100-in-gaza",
+      "date": "2025-10-28",
+      "endDate": "2025-10-29",
+      "lat": 31.5017,
+      "lng": 34.4668,
+      "location": "Gaza City, Khan Younis and central Gaza",
+      "title": "Israeli strikes kill more than 100 in Gaza's deadliest day since the ceasefire",
+      "category": "attack",
+      "significance": 4,
+      "summary": "On 28 October 2025 an Israeli soldier was killed in Rafah and Prime Minister Netanyahu ordered 'powerful strikes' across Gaza, also citing as a clear violation Hamas's return the previous day of remains that did not belong to any of the 13 hostages still unaccounted for. Overnight strikes hit Gaza City, Khan Younis and central Gaza; local health authorities said at least 104 people were killed, including dozens of children, making it the deadliest day since the truce began, per CNN and NBC News. The IDF said it struck dozens of Hamas commanders, fighters and sites, and said on 29 October that it would resume the ceasefire while responding forcefully to any violation. Hamas denied involvement in the Rafah attack and accused Israel of seeking pretexts to resume the war. President Trump said the ceasefire was not in jeopardy and that Israel could hit back when soldiers were killed.",
+      "perspectives": [
+        {
+          "party": "Israeli government / IDF",
+          "framing": "Framed the strikes as enforcement of the ceasefire against Hamas violations, including the killing of a soldier and the staged handover of remains, and said targets were 'terrorists' and weapons sites."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Denied responsibility for the Rafah attack, said Israel was using pretexts to resume the war, and delayed a planned handover of remains in response."
+        },
+        {
+          "party": "United States",
+          "framing": "President Trump said 'nothing' would jeopardise the ceasefire and that Israel was entitled to respond when its soldiers were killed, while pressing both sides to return to the plan."
+        },
+        {
+          "party": "Gaza Health Ministry and humanitarian agencies",
+          "framing": "Reported the highest single-day toll since 10 October, with many women and children among the dead, and said the strikes showed the ceasefire offered civilians little protection."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Deadliest day in Gaza since ceasefire as Israel launches wave of strikes, accusing Hamas of breaching truce",
+          "url": "https://www.cnn.com/2025/10/28/middleeast/israel-military-strikes-gaza-latam-intl",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel launches renewed strikes in Gaza less than 3 weeks into Trump's ceasefire deal",
+          "url": "https://www.npr.org/2025/10/28/g-s1-95372/netanyahu-israel-strikes-gaza-hamas",
+          "publisher": "NPR",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel says ceasefire back on after strikes kill more than 100 in Gaza",
+          "url": "https://www.nbcnews.com/world/gaza/israel-gaza-strikes-ceasefire-hamas-trump-netanyahu-rcna240428",
+          "publisher": "NBC News",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel kills 20 in Gaza attacks, Hamas delays handover of captive's remains",
+          "url": "https://www.aljazeera.com/news/2025/10/28/israel-says-return-of-misidentified-body-breaches-gaza-deal-mulls-response",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Palestinians killed, 28-29 October",
+          "value": "at least 104",
+          "attribution": "Gaza Health Ministry / local health authorities, as reported by CNN and NBC News",
+          "note": "Including dozens of children."
+        },
+        {
+          "label": "Israeli soldiers killed in Rafah",
+          "value": "1",
+          "attribution": "IDF"
+        }
+      ]
+    },
+    {
+      "id": "2025-11-17-unsc-resolution-2803-board-of-peace",
+      "date": "2025-11-17",
+      "lat": 40.7489,
+      "lng": -73.968,
+      "location": "UN Security Council, New York",
+      "title": "UN Security Council adopts Resolution 2803 on the Board of Peace and ISF",
+      "category": "political",
+      "significance": 4,
+      "summary": "On 17 November 2025 the UN Security Council adopted Resolution 2803 by 13 votes to none, with China and Russia abstaining, endorsing the US 'Comprehensive Plan to End the Gaza Conflict' agreed by Israel and Hamas in October. The resolution welcomed the Board of Peace, to be chaired by President Trump, as a transitional administration for Gaza overseeing a technocratic Palestinian committee, and authorised member states to form a temporary International Stabilization Force under the Board's unified command to secure borders, protect civilians and aid corridors, and oversee Gaza's demilitarisation and the decommissioning of weapons in coordination with Israel and Egypt, with Israeli forces to withdraw as the force established control. It referred to a possible pathway to Palestinian self-determination and statehood once Palestinian Authority reform and reconstruction advanced. Washington called the vote historic; Russia and China argued the Council had ceded its role; Hamas rejected international guardianship.",
+      "perspectives": [
+        {
+          "party": "United States",
+          "framing": "Presented the resolution as historic international backing for ending the war, disarming Hamas and rebuilding Gaza under the Board of Peace."
+        },
+        {
+          "party": "Russia and China",
+          "framing": "Abstained, arguing that the Council was handing Gaza's governance to an unaccountable external body, that the text lacked UN oversight, and that Palestinian statehood was insufficiently guaranteed."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Welcomed the mandate to disarm Hamas and demilitarise Gaza while rejecting the language on a pathway to a Palestinian state."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Rejected the resolution as imposing an international guardianship on Gaza and said disarmament would strip Palestinians of the 'right to resist' occupation."
+        },
+        {
+          "party": "Palestinian Authority",
+          "framing": "Welcomed the endorsement and its reference to statehood, and said it was ready to assume responsibility in Gaza after reform."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Security Council Authorizes International Stabilization Force in Gaza, Adopting Resolution 2803 (2025)",
+          "url": "https://press.un.org/en/2025/sc16225.doc.htm",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "What is Security Council Resolution 2803, and what does it mean for the Trump Gaza plan?",
+          "url": "https://www.chathamhouse.org/2025/11/what-security-council-resolution-2803-and-what-does-it-mean-trump-gaza-plan",
+          "publisher": "Chatham House",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "The Security Council as Architect? Resolution 2803, the Board of Peace, and the Limits of Transition in Gaza",
+          "url": "https://asil.org/insights/volume-29-issue-16/",
+          "publisher": "American Society of International Law",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "S/RES/2803",
+          "url": "https://www.securitycouncilreport.org/un-documents/document/s-res-2803.php",
+          "publisher": "Security Council Report",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true
+    },
+    {
+      "id": "2025-11-23-beirut-strike-kills-hezbollah-chief-of-staff",
+      "date": "2025-11-23",
+      "lat": 33.8547,
+      "lng": 35.5062,
+      "location": "Dahieh, southern Beirut, Lebanon",
+      "title": "Israeli strike in Beirut kills Hezbollah chief of staff Haytham Ali Tabatabai",
+      "category": "attack",
+      "significance": 4,
+      "summary": "On 23 November 2025 an Israeli air strike on an apartment in Beirut's southern suburb of Dahieh killed Haytham Ali Tabatabai, Hezbollah's chief of staff and the most senior figure in the group after Secretary-General Naim Qassem, together with four other members whom Hezbollah named as Qasem Barjawi, Mustafa Barou, Rifaat Hussein and Ibrahim Hussein. Lebanon's Health Ministry reported five dead and 28 wounded. It was the first Israeli strike on Beirut in months and the highest-profile killing since the November 2024 ceasefire, which Israel said it was enforcing against Hezbollah's rebuilding of its forces; Netanyahu called Tabatabai a 'mass murderer'. Hezbollah acknowledged the death hours later and described the attack as a flagrant violation of the ceasefire, while Lebanon's government condemned the strike as it pursued its plan for a state monopoly on arms. Israeli strikes in southern Lebanon continued almost daily.",
+      "perspectives": [
+        {
+          "party": "Israeli government / IDF",
+          "framing": "Said Tabatabai was leading Hezbollah's effort to rebuild and rearm in violation of the ceasefire and that Israel would act anywhere in Lebanon to prevent it."
+        },
+        {
+          "party": "Hezbollah",
+          "framing": "Mourned Tabatabai as a 'great jihadist commander', called the strike a flagrant Israeli aggression and ceasefire violation, and said it reserved the right to respond."
+        },
+        {
+          "party": "Lebanese government",
+          "framing": "Condemned the strike on the capital as an escalation undermining the ceasefire and Lebanon's disarmament plan, and appealed to the United States and France as guarantors."
+        },
+        {
+          "party": "United States",
+          "framing": "Backed Israel's right to act against Hezbollah's rearmament while urging Lebanon to accelerate disarmament and avoid a wider war."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Israeli airstrike kills Hezbollah Chief of Staff Haytham Ali Tabatabai",
+          "url": "https://www.longwarjournal.org/archives/2025/11/israeli-airstrike-kills-hezbollah-chief-of-staff-haytham-ali-tabatabai.php",
+          "publisher": "FDD's Long War Journal",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "In escalation, IDF kills Hezbollah military chief in targeted Beirut strike",
+          "url": "https://www.timesofisrael.com/in-escalation-idf-says-it-killed-hezbollah-military-chief-in-targeted-beirut-strike/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel says Hezbollah chief of staff killed in first strike on Beirut in months",
+          "url": "https://www.cnn.com/2025/11/23/middleeast/israel-hezbollah-beirut-strikes-intl",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Killed",
+          "value": "5 (28 wounded)",
+          "attribution": "Lebanese Health Ministry"
+        },
+        {
+          "label": "Hezbollah members killed",
+          "value": "5, including chief of staff Haytham Ali Tabatabai",
+          "attribution": "Hezbollah / IDF"
+        }
+      ]
+    },
+    {
+      "id": "2025-11-29-gaza-death-toll-passes-70000",
+      "date": "2025-11-29",
+      "lat": 31.5017,
+      "lng": 34.4668,
+      "location": "Gaza Strip",
+      "title": "Gaza Health Ministry death toll passes 70,000",
+      "category": "war",
+      "significance": 3,
+      "summary": "On 29 November 2025 the Gaza Health Ministry announced that the cumulative death toll since 7 October 2023 had reached 70,100, after 299 previously unregistered deaths were verified, and that 354 Palestinians had been killed by Israeli fire since the ceasefire took effect on 10 October; the ministry's counts do not distinguish civilians from combatants. The Times of Israel reported that the IDF regarded the ministry's figure as broadly accurate, believing around 70,000 Gazans had been killed, while stating that at least 22,000 of the dead were combatants and that the civilian-combatant breakdown remained under review. A joint investigation by +972 Magazine, Local Call and The Guardian, reported by Al Jazeera in August, found that an Israeli military intelligence database listed 8,900 Hamas and Islamic Jihad fighters as confirmed or probably killed as of May 2025, about 17 percent of the toll then recorded.",
+      "perspectives": [
+        {
+          "party": "Gaza Health Ministry",
+          "framing": "Presents its registry of named, identified dead as a conservative count that excludes thousands still missing under rubble, and attributes deaths after 10 October to Israeli ceasefire violations."
+        },
+        {
+          "party": "Israeli government / IDF",
+          "framing": "Accepts the approximate total while stressing that a large share were combatants ('terrorists'), disputes the ministry's independence from Hamas, and blames Hamas for civilian deaths by fighting from populated areas."
+        },
+        {
+          "party": "United Nations and independent researchers",
+          "framing": "Have treated the ministry's figures as broadly reliable and, with peer-reviewed studies, suggested the true toll may be higher; they note that the majority of identified dead are women, children and the elderly."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Death toll from Gaza war surpasses 70,000: health ministry",
+          "url": "https://www.france24.com/en/live-news/20251129-death-toll-from-gaza-war-surpasses-70-000-health-ministry",
+          "publisher": "France 24",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Palestinian death toll surpasses 70,000 since start of Israel-Hamas war, Gaza ministry says",
+          "url": "https://www.pbs.org/newshour/world/palestinian-death-toll-surpasses-70000-since-start-of-israel-hamas-war-gaza-ministry-says",
+          "publisher": "PBS NewsHour",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "IDF believes 70,000 Gazans killed in war, as claimed by Hamas; civilian-combatant ratio unclear",
+          "url": "https://www.timesofisrael.com/idf-believes-70000-gazans-killed-in-war-as-claimed-by-hamas/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israeli data shows 83 percent of Gaza war dead are civilians: Report",
+          "url": "https://www.aljazeera.com/news/2025/8/21/israeli-data-shows-83-percent-of-gaza-war-dead-are-civilians-report",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "ceasefire-and-after",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Palestinians killed in Gaza since 7 October 2023",
+          "value": "70,100",
+          "attribution": "Gaza Health Ministry",
+          "note": "As of 29 November 2025; includes 354 killed since the 10 October ceasefire."
+        },
+        {
+          "label": "Palestinians killed in Gaza since 7 October 2023",
+          "value": "around 70,000",
+          "attribution": "IDF assessment, as reported by The Times of Israel",
+          "note": "IDF regards the ministry's total as broadly accurate."
+        },
+        {
+          "label": "Combatants killed in Gaza",
+          "value": "at least 22,000",
+          "attribution": "IDF",
+          "note": "Stated before the October 2025 ceasefire; breakdown described as under review."
+        },
+        {
+          "label": "Hamas and PIJ fighters confirmed or probably killed",
+          "value": "8,900 (as of May 2025)",
+          "attribution": "Israeli military intelligence database, per +972 Magazine / Local Call / The Guardian",
+          "note": "About 17 percent of the ministry's toll at that date."
+        }
+      ]
+    }
+  ],
+  "boundaryChanges": [
+    {
+      "date": "2025-09-16",
+      "description": "IDF divisions advance into Gaza City; by mid-September the army says it controls about 40 percent of the city, adding to the roughly 70 percent of the Strip under Israeli control after Gideon's Chariots I.",
+      "sources": [
+        "https://www.longwarjournal.org/archives/2025/09/israel-expands-push-into-gaza-city-center-with-3-idf-divisions.php",
+        "https://www.cnbc.com/2025/09/16/gaza-is-burning-israel-launches-ground-invasion-of-gaza-city.html"
+      ]
+    },
+    {
+      "date": "2025-10-10",
+      "description": "Ceasefire takes effect; Israeli forces withdraw from Gaza City and other areas to the 'Yellow Line', retaining direct control of roughly 53 percent of the Gaza Strip (Rafah, the eastern belt and the perimeter). Yellow concrete markers placed from 17 October.",
+      "sources": [
+        "https://gisha.org/en/the-yellow-line/",
+        "https://www.aljazeera.com/news/2025/10/9/map-of-gaza-shows-how-israeli-forces-will-withdraw-under-ceasefire-deal",
+        "https://www.cnn.com/world/live-news/israel-hamas-gaza-ceasefire-agreement-10-10-25"
+      ]
+    }
+  ],
+  "excluded": [
+    {
+      "title": "Israeli strikes on Syrian Defence Ministry in Damascus amid Sweida clashes",
+      "date": "2025-07-16",
+      "reason": "Corroborated (UN News, NPR, Al Jazeera) but left out to stay within the 14-18 event target; peripheral to the Gaza/Lebanon track of this unit."
+    },
+    {
+      "title": "Israeli strike in Sanaa kills Houthi prime minister Ahmed al-Rahawi and ministers",
+      "date": "2025-08-28",
+      "reason": "Corroborated (Al Jazeera, Times of Israel, FDD) but left out to stay within the event target; the Houthi front is represented by the July ship sinkings."
+    },
+    {
+      "title": "Moves toward 'phase two' of the ceasefire and partial reopening of the Rafah crossing",
+      "date": "2025-12-07",
+      "reason": "Search budget exhausted before two publishers could corroborate specific dates and terms; December 2025 is therefore under-covered."
+    }
+  ],
+  "uncertainties": [
+    "The shared WebSearch budget was exhausted after the core searches; December 2025 (phase-two talks, Rafah crossing, further ceasefire deaths) and West Bank developments (E1 approval, settler violence) could not be researched and are not represented.",
+    "Eternity C death toll differs by source: CNN (citing the operator) reported 3 killed and 10 rescued; the EU naval mission put the dead at at least 4 with 11 missing. Both figures are given.",
+    "19 October 2025 Palestinian toll: Al Jazeera's URL slug cites 15 killed while the updated article cites at least 42 per Civil Defence; the higher, later figure is used with a note.",
+    "Nasser Hospital toll: Gaza Health Ministry said 20 killed while Civil Defence/hospital officials cited by CNN/AP said 22; both given.",
+    "Trump 20-point plan: no primary White House text was retrieved before the budget ran out; provisions are drawn from Al Jazeera, Euronews, Gulf News and Arab Center DC coverage.",
+    "Yellow Line extent: Gisha's initial mapping put Israeli-controlled territory at about 53 percent of the Strip; a later Gisha page refers to approximately 58 percent after the line shifted. The 53 percent figure for October 2025 is used.",
+    "Flotilla detainee numbers (widely reported as more than 400) could not be corroborated from retrieved content; the summary says 'several hundred'."
+  ]
+}

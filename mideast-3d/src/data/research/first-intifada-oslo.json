@@ -1,0 +1,1105 @@
+{
+  "era": "first-intifada-oslo",
+  "unit": "first-intifada-oslo",
+  "events": [
+    {
+      "id": "1987-12-09-first-intifada-begins",
+      "date": "1987-12-09",
+      "lat": 31.5333,
+      "lng": 34.4833,
+      "location": "Jabalia refugee camp, Gaza Strip",
+      "title": "First Intifada begins after Jabalia road crash",
+      "category": "war",
+      "significance": 5,
+      "summary": "On 8 December 1987 an Israeli truck collided with vehicles carrying Palestinian workers at the Erez checkpoint, killing four residents of Jabalia camp. Many Gazans believed the crash was deliberate, and on 9 December protests spread from Jabalia across the Gaza Strip and then the West Bank; an Israeli patrol fired on demonstrators in Jabalia, killing a 17-year-old. The unrest became a sustained uprising, the First Intifada, combining stone-throwing, strikes, boycotts and local committees coordinated by a Unified National Leadership, met by Israeli curfews, mass arrests and deportations. Between 9 December 1987 and 13 September 1993, per B'Tselem, Israeli security forces killed about 1,070 Palestinians in the occupied territories (including 237 minors) and Israeli civilians killed 54 more, while Palestinians killed about 100 Israeli civilians and 60 security personnel; other tallies drawing on B'Tselem give 1,162 Palestinians killed by Israelis.",
+      "perspectives": [
+        {
+          "party": "Palestinian leadership and popular committees",
+          "framing": "Describes the intifada ('shaking off') as a largely unarmed popular uprising against twenty years of Israeli occupation, and those killed as martyrs; Palestinian accounts treat the Jabalia crash as the spark for a revolt rooted in occupation, settlement and economic dependency."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Initially characterised the unrest as riots and disturbances orchestrated by the PLO and treated stone-throwing and petrol bombs as violent attacks on soldiers and civilians; Defence Minister Rabin's 'force, might, beatings' policy was defended as restoring order in Judea and Samaria and Gaza while avoiding live fire where possible."
+        },
+        {
+          "party": "Human-rights organisations",
+          "framing": "B'Tselem, founded in 1989 in response to the uprising, documented killings by security forces, beatings, administrative detention, house demolitions and deportations and framed many of these as violations of international humanitarian law; it also recorded killings of Israelis and of Palestinians accused of collaboration."
+        }
+      ],
+      "sources": [
+        {
+          "title": "The First Intifada, 1987",
+          "url": "https://www.palestine-studies.org/en/node/1652150",
+          "publisher": "Institute for Palestine Studies",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Intifada begins on Gaza Strip | December 9, 1987",
+          "url": "https://www.history.com/this-day-in-history/december-9/intifada-begins-on-gaza-strip",
+          "publisher": "History.com",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "1987 - Palestine's First Intifada",
+          "url": "https://www.arabnews.com/node/2597154/amp",
+          "publisher": "Arab News",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Fatalities in the first Intifada",
+          "url": "https://www.btselem.org/statistics/first_intifada_tables",
+          "publisher": "B'Tselem",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Stories from the first Intifada: 'They broke my bones'",
+          "url": "https://www.aljazeera.com/news/2017/12/10/stories-from-the-first-intifada-they-broke-my-bones",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Palestine - The first intifada",
+          "url": "https://www.britannica.com/place/Palestine/The-first-intifada",
+          "publisher": "Britannica",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "first-intifada-oslo",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Palestinians killed by Israeli security forces (9 Dec 1987 - 13 Sep 1993)",
+          "value": "about 1,070 (including 237 minors)",
+          "attribution": "B'Tselem (as cited by Al Jazeera)",
+          "note": "A further 54 Palestinians were killed by Israeli civilians per the same tally."
+        },
+        {
+          "label": "Palestinians killed by Israelis (9 Dec 1987 - 13 Sep 1993)",
+          "value": "1,162",
+          "attribution": "B'Tselem figures as compiled by secondary sources",
+          "note": "Combines killings by security forces and by Israeli civilians; figures differ slightly by cut-off date and category."
+        },
+        {
+          "label": "Israelis killed by Palestinians (9 Dec 1987 - 13 Sep 1993)",
+          "value": "about 160 (100 civilians, 60 security-force personnel)",
+          "attribution": "B'Tselem (as cited by Al Jazeera)"
+        },
+        {
+          "label": "Killed in initial Jabalia clash (9 Dec 1987)",
+          "value": "1 (17-year-old), 16 wounded",
+          "attribution": "Institute for Palestine Studies / History.com"
+        }
+      ]
+    },
+    {
+      "id": "1987-12-14-hamas-founded",
+      "date": "1987-12-14",
+      "lat": 31.5017,
+      "lng": 34.4668,
+      "location": "Gaza City, Gaza Strip",
+      "title": "Hamas founded by Muslim Brotherhood figures in Gaza",
+      "category": "political",
+      "significance": 5,
+      "summary": "In the first days of the intifada, leaders of the Muslim Brotherhood in the Gaza Strip, headed by Sheikh Ahmed Yassin with Abd al-Aziz al-Rantisi and others, formed Harakat al-Muqawama al-Islamiya (Islamic Resistance Movement), known by its acronym Hamas. Accounts cited by the Council on Foreign Relations and PBS describe a founding meeting in Gaza City on 9 December and a first communiqué issued under the Hamas name on 14 December 1987, the date most often given for the movement's founding. Hamas positioned itself as the Brotherhood's activist arm in the uprising, competing with the PLO-aligned Unified National Leadership and with Palestinian Islamic Jihad, and built on the Brotherhood's network of mosques, charities and the Islamic University of Gaza. Its emergence introduced an Islamist rival to the secular PLO that rejected negotiated partition of historic Palestine.",
+      "perspectives": [
+        {
+          "party": "Hamas",
+          "framing": "Presents itself as a Palestinian Islamic national liberation and resistance movement born of the intifada, dating its foundation to the uprising's first day and framing armed struggle (jihad) against Israeli occupation as a religious and national duty."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Regards Hamas as a terrorist organisation committed to Israel's destruction; Israeli accounts note that the authorities had earlier tolerated the Brotherhood's charitable network as a counterweight to the PLO and later outlawed Hamas in 1989."
+        },
+        {
+          "party": "PLO / Fatah",
+          "framing": "Viewed Hamas as a competitor that stayed outside the Unified National Leadership and challenged the PLO's claim to be the sole legitimate representative of the Palestinian people, while sharing the goal of ending the occupation."
+        },
+        {
+          "party": "United States",
+          "framing": "Later designated Hamas a foreign terrorist organisation (1997); US backgrounders describe it as an offshoot of the Muslim Brotherhood that combines social services, political activity and an armed wing."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Hamas | Definition, History, Ideology, & Facts",
+          "url": "https://www.britannica.com/topic/Hamas",
+          "publisher": "Britannica",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "What is Hamas? What to know about its origins, leaders and funding",
+          "url": "https://www.pbs.org/newshour/world/what-is-hamas-what-to-know-about-its-origins-leaders-and-funding",
+          "publisher": "PBS NewsHour",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "What Is Hamas?",
+          "url": "https://www.cfr.org/backgrounders/what-hamas",
+          "publisher": "Council on Foreign Relations",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Hamas - Backgrounder",
+          "url": "https://mei.edu/backgrounder/hamas/",
+          "publisher": "Middle East Institute",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "The Islamic Resistance Movement - Hamas",
+          "url": "https://www.palquest.org/en/highlight/23294/islamic-resistance-movement-%E2%80%93-hamas",
+          "publisher": "Palquest (Institute for Palestine Studies)",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "first-intifada-oslo",
+      "verified": true
+    },
+    {
+      "id": "1988-04-16-abu-jihad-assassinated-tunis",
+      "date": "1988-04-16",
+      "lat": 36.8687,
+      "lng": 10.3417,
+      "location": "Sidi Bou Said, Tunis, Tunisia",
+      "title": "Khalil al-Wazir (Abu Jihad) assassinated in Tunis",
+      "category": "attack",
+      "significance": 3,
+      "summary": "In the early hours of 16 April 1988 a commando team landed by sea near Tunis and entered the home of Khalil al-Wazir, known as Abu Jihad, a co-founder of Fatah, deputy to Yasser Arafat and the PLO official overseeing the intifada from exile. According to Tunisia's complaint to the UN Security Council, the attackers shot dead a Tunisian gardener and two guards before killing al-Wazir in front of his wife and daughter. Tunisia blamed Israel; on 25 April the Security Council adopted Resolution 611 condemning the attack as a violation of Tunisian sovereignty, with the United States abstaining. Israel neither confirmed nor denied involvement until 2012, when the military censor cleared an interview with the Sayeret Matkal officer who led the raid, planned with the Mossad. Protests followed in the occupied territories.",
+      "perspectives": [
+        {
+          "party": "PLO / Fatah",
+          "framing": "Mourned Abu Jihad as a martyr and 'the engineer of the intifada', calling the killing an Israeli state assassination intended to decapitate the uprising's leadership; the November 1988 PNC session was dedicated to him."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Maintained official silence for 24 years; Israeli accounts published in 2012 describe al-Wazir as the commander responsible for attacks including the 1978 Coastal Road attack and frame the operation as a counter-terrorism strike against a legitimate military target."
+        },
+        {
+          "party": "Tunisia and the UN Security Council",
+          "framing": "Tunisia condemned an act of aggression on its territory; Resolution 611 called the attack a flagrant violation of the UN Charter and international law without naming Israel, and the United States abstained."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Israel admits responsibility for 1988 assassination",
+          "url": "https://www.france24.com/en/20121101-israel-admits-responsibility-1988-murder-plo-deputy-arafat-abu-jihad-tunis-palestine",
+          "publisher": "France 24",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israeli operative interview reveals details of PLO co-founder's assassination",
+          "url": "https://www.cnn.com/2012/11/01/world/meast/israel-agent-assassination/index.html",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "24 years later, Israel acknowledges top-secret operation that killed Fatah terror chief",
+          "url": "https://www.timesofisrael.com/israel-admits-to-top-secret-operation-that-killed-top-fatah-commander-abu-jihad-in-1988/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Letter dated 19 April 1988 from the Permanent Representative of Tunisia to the Security Council",
+          "url": "https://www.un.org/unispal/document/auto-insert-181705",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Security Council resolution 611 (1988) - Assassination of Khalil El-Wazir in Tunisia",
+          "url": "https://www.un.org/unispal/document/auto-insert-181939/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Khalil al-Wazir Abu Jihad (1935-1988)",
+          "url": "https://www.palestine-studies.org/en/node/1651182",
+          "publisher": "Institute for Palestine Studies",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "first-intifada-oslo",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Killed in the raid",
+          "value": "4 (Khalil al-Wazir, two guards and a Tunisian gardener)",
+          "attribution": "Tunisian government letter to the UN Security Council, 19 April 1988"
+        }
+      ]
+    },
+    {
+      "id": "1988-07-31-jordan-disengages-west-bank",
+      "date": "1988-07-31",
+      "lat": 31.9539,
+      "lng": 35.9106,
+      "location": "Amman, Jordan",
+      "title": "King Hussein severs Jordan's legal and administrative ties with the West Bank",
+      "category": "political",
+      "significance": 4,
+      "summary": "In a televised address on 31 July 1988, King Hussein announced that Jordan was dismantling its legal and administrative links with the West Bank, which it had annexed in 1950 and lost to Israel in 1967. He said Jordan would respect the wish of the PLO, recognised by the Arab League in 1974 as the sole legitimate representative of the Palestinian people, to establish an independent Palestinian state. The lower house of parliament, half of whose seats represented West Bank districts, had been dissolved the previous day; Jordan stopped paying about 21,000 West Bank civil servants and, according to Human Rights Watch, West Bank residents lost Jordanian citizenship under regulations issued soon afterwards. The decision removed the 'Jordanian option' from Israeli and American diplomacy and cleared the way for the PLO's November declaration of independence.",
+      "perspectives": [
+        {
+          "party": "Jordanian government",
+          "framing": "Presented the step as respecting Palestinian national aspirations and Arab consensus, ending Jordan's claim to sovereignty while preserving its custodianship of Muslim holy places in Jerusalem and its concern for Palestinian rights."
+        },
+        {
+          "party": "PLO",
+          "framing": "Welcomed the disengagement as recognition of its exclusive representation and as removing a rival claimant to the West Bank, enabling it to declare statehood over the occupied territories."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "The Likud-led government, which rejected any Palestinian state, saw the removal of Jordan as a negotiating partner for Judea and Samaria as complicating the Camp David autonomy framework; Labor figures lamented the loss of the 'Jordanian option'."
+        },
+        {
+          "party": "Human-rights organisations",
+          "framing": "Human Rights Watch later described the citizenship consequences as rendering many Palestinian-origin Jordanians stateless through opaque and arbitrary application of the 1988 regulations."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Jordan to cut W. Bank administrative, legal ties",
+          "url": "https://www.washingtonpost.com/archive/politics/1988/08/01/jordan-to-cut-w-bank-administrative-legal-ties/ddfcfa23-8644-40dc-9ccc-f08579debaaa/",
+          "publisher": "The Washington Post",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Stateless Again: Palestinian-Origin Jordanians Deprived of their Nationality",
+          "url": "https://www.hrw.org/report/2010/02/01/stateless-again/palestinian-origin-jordanians-deprived-their-nationality",
+          "publisher": "Human Rights Watch",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "King Hussein's Address to the Nation on Severing Ties with the West Bank - 31 July 1988",
+          "url": "https://www.palquest.org/en/historictext/30208/king-hussein%E2%80%99s-address-nation-severing-ties-west-bank",
+          "publisher": "Palquest (Institute for Palestine Studies)",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Jordan and Palestine",
+          "url": "https://www.cfr.org/articles/jordan-and-palestine",
+          "publisher": "Council on Foreign Relations",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "King Hussein Announces Jordan's Disengagement from the West Bank (1988)",
+          "url": "https://ecf.org.il/issues/issue/1008",
+          "publisher": "Economic Cooperation Foundation",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "first-intifada-oslo",
+      "verified": true
+    },
+    {
+      "id": "1988-08-18-hamas-charter-issued",
+      "date": "1988-08-18",
+      "lat": 31.5017,
+      "lng": 34.4668,
+      "location": "Gaza City, Gaza Strip",
+      "title": "Hamas issues its founding charter (Covenant)",
+      "category": "political",
+      "significance": 3,
+      "summary": "On 18 August 1988 Hamas published the Covenant of the Islamic Resistance Movement, a 36-article charter setting out its identity, aims and worldview. The document defined Hamas as a wing of the Muslim Brotherhood in Palestine, declared all of Palestine an Islamic waqf (endowment) that no one may cede, rejected negotiated settlements and international conferences as contradicting its principles, and called for jihad to liberate the land; it also contained antisemitic passages and references to the Protocols of the Elders of Zion. Translations were later posted by the US Federation of American Scientists, Yale's Avalon Project and the Israeli Foreign Ministry, and the text was cited in UN Human Rights Council debates. In May 2017 Hamas issued a new political document accepting a state on the 1967 lines without formally revoking the 1988 charter.",
+      "perspectives": [
+        {
+          "party": "Hamas",
+          "framing": "Describes the charter as an expression of the movement's Islamic identity and its refusal to recognise the legitimacy of Israel's establishment on Palestinian land; later leaders have called it a historical document superseded in practice by the 2017 'Document of General Principles and Policies'."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Cites the covenant as proof that Hamas seeks the destruction of Israel and the killing of Jews, and argues the 2017 document did not change its fundamental goals; the Foreign Ministry titled its translation 'The Charter of Allah'."
+        },
+        {
+          "party": "Palestinian Authority / PLO",
+          "framing": "Contrasted the charter's rejection of negotiation with the PLO's acceptance of a two-state solution, treating it as evidence of Hamas's refusal to join a unified national programme."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Translation of the original 1988 charter of Hamas",
+          "url": "https://irp.fas.org/world/para/docs/880818.htm",
+          "publisher": "Federation of American Scientists",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Hamas Covenant 1988",
+          "url": "https://avalon.law.yale.edu/20th_century/hamas.asp",
+          "publisher": "Yale Law School Avalon Project",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "The Covenant of the Islamic Resistance Movement - Hamas",
+          "url": "https://www.gov.il/en/pages/the-charter-of-allah-the-platform-of-the-islamic",
+          "publisher": "Israel Ministry of Foreign Affairs",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "The Charter of Hamas - HRC first special session - NGO statement",
+          "url": "https://www.un.org/unispal/document/auto-insert-182893/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Hamas' political document: What to expect",
+          "url": "https://www.aljazeera.com/amp/features/2017/5/1/hamas-political-document-what-to-expect",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "first-intifada-oslo",
+      "verified": true
+    },
+    {
+      "id": "1988-11-15-plo-declaration-of-independence-algiers",
+      "date": "1988-11-15",
+      "lat": 36.7538,
+      "lng": 3.0588,
+      "location": "Algiers, Algeria",
+      "title": "Palestine National Council declares the State of Palestine in Algiers",
+      "category": "political",
+      "significance": 4,
+      "summary": "At the close of its 19th session in Algiers on 15 November 1988, the Palestine National Council, chaired by Yasser Arafat, proclaimed the establishment of the State of Palestine with Jerusalem as its capital. The declaration, drafted by Mahmoud Darwish, invoked UN General Assembly Resolution 181 of 1947 as a source of legitimacy; an accompanying political communiqué accepted Security Council Resolutions 242 and 338 as the basis for an international conference, implicitly recognising Israel and endorsing a two-state outcome. The PNC vote was 253 in favour, 46 against and 10 abstaining. Dozens of states recognised Palestine within weeks, and on 15 December the UN General Assembly adopted Resolution 43/177 acknowledging the proclamation and adopting the designation 'Palestine' in place of 'PLO' in the UN system, by 104 votes to 2 with 36 abstentions.",
+      "perspectives": [
+        {
+          "party": "PLO",
+          "framing": "Hailed the declaration as the culmination of the intifada and the exercise of the Palestinian people's right to self-determination, presenting acceptance of 242 and 338 as a historic compromise for peace on the 1967 lines."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Dismissed the declaration as a propaganda exercise by a terrorist organisation, noting the PNC's continued reference to armed struggle and its failure to explicitly recognise Israel or renounce the Palestinian National Covenant."
+        },
+        {
+          "party": "United States",
+          "framing": "Judged the Algiers texts ambiguous and insufficient to open a dialogue, insisting on explicit acceptance of Israel's right to exist and an unambiguous renunciation of terrorism; it denied Arafat a visa to address the General Assembly in New York."
+        },
+        {
+          "party": "United Nations General Assembly",
+          "framing": "Acknowledged the proclamation in Resolution 43/177 and moved the December session to Geneva so that Arafat could speak, while affirming the need for Palestinian sovereignty over the territory occupied since 1967."
+        }
+      ],
+      "sources": [
+        {
+          "title": "November 15, 1988: Arafat declares Palestinian independence",
+          "url": "https://www.jpost.com/history/article-873930",
+          "publisher": "The Jerusalem Post",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Palestinian Declaration of Independence, 1988",
+          "url": "https://www.palestine-studies.org/en/node/1653405",
+          "publisher": "Institute for Palestine Studies",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Palestinian Declaration of Independence and Acceptance of Res. 242 and 338 (1988)",
+          "url": "https://ecf.org.il/issues/issue/12",
+          "publisher": "Economic Cooperation Foundation",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Yearbook of the United Nations 1988 (excerpts) - Question of Palestine",
+          "url": "https://www.un.org/unispal/document/auto-insert-206021/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Palestinian Declaration of Independence - 15 November 1988 (Historical Text)",
+          "url": "https://www.palquest.org/en/historictext/9673/palestinian-declaration-independence",
+          "publisher": "Palquest (Institute for Palestine Studies)",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "first-intifada-oslo",
+      "verified": true
+    },
+    {
+      "id": "1988-12-14-arafat-geneva-statement-us-plo-dialogue",
+      "date": "1988-12-14",
+      "lat": 46.2267,
+      "lng": 6.1405,
+      "location": "Palais des Nations, Geneva, Switzerland",
+      "title": "Arafat's Geneva statement opens a US-PLO dialogue",
+      "category": "political",
+      "significance": 4,
+      "summary": "After the United States refused Yasser Arafat a visa, the UN General Assembly moved its debate on Palestine to Geneva, where Arafat addressed it on 13 December 1988, calling for peace and saying he opposed terrorism in all its forms. Washington judged the speech insufficient. At a press conference on 14 December Arafat read a clarifying statement: the PLO accepted Security Council Resolutions 242 and 338, recognised the right of Israel to exist in peace and security, and 'totally and absolutely' renounced terrorism. Within hours Secretary of State George Shultz announced that the PLO had met US conditions and that the United States would open a substantive dialogue, with Ambassador Robert Pelletreau in Tunis as the sole authorised channel; the first meeting took place in Carthage two days later. The 13-year US ban on PLO contacts ended, though Israel objected.",
+      "perspectives": [
+        {
+          "party": "PLO",
+          "framing": "Presented the Geneva statements as the Palestinian 'peace offensive' that translated the Algiers declaration into terms the world could accept, and the US dialogue as long-overdue recognition of the PLO as a negotiating partner."
+        },
+        {
+          "party": "United States",
+          "framing": "Shultz said the PLO had accepted 242 and 338, recognised Israel's right to exist and renounced terrorism, so the US was 'prepared for a substantive dialogue'; officials stressed that US policy against a Palestinian state and support for Israel were unchanged."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Prime Minister Shamir's government called the US move a grave error, arguing that Arafat's words were tactical and that the PLO remained a terrorist organisation whose covenant called for Israel's destruction."
+        }
+      ],
+      "sources": [
+        {
+          "title": "The United States will open direct talks with the PLO",
+          "url": "https://www.upi.com/Archives/1988/12/14/The-United-States-will-open-direct-talks-with-the/3063598078800/",
+          "publisher": "UPI",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "U.S., in shift, agrees to 'substantive dialogue' with PLO",
+          "url": "https://www.washingtonpost.com/archive/politics/1988/12/15/us-in-shift-agrees-to-substantive-dialogue-with-plo/6aa09e42-e81f-47c1-82d6-9518dff14f9b/",
+          "publisher": "The Washington Post",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Breakthrough: After 13 years of silence, the U.S. agrees to talk with the P.L.O.",
+          "url": "https://time.com/archive/6701446/breakthrough-after-13-years-of-silence-the-u-s-agrees-to-talk-with-the-p-l-o/",
+          "publisher": "TIME",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Press Conference Statement of Yasir Arafat Clarifying His Speech Before the UN General Assembly - 14 December 1988",
+          "url": "https://www.palquest.org/en/historictext/9679/press-conference-statement-yasir-arafat-clarifying-his-speech-un-general-assembly",
+          "publisher": "Palquest (Institute for Palestine Studies)",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "PLO leader Yasser Arafat said he opposed terrorism 'in all its forms'",
+          "url": "https://www.upi.com/Archives/1988/12/13/PLO-leader-Yasser-Arafat-said-he-opposed-terrorism-in/4314597992400/",
+          "publisher": "UPI",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "first-intifada-oslo",
+      "verified": true
+    },
+    {
+      "id": "1989-07-06-bus-405-attack",
+      "date": "1989-07-06",
+      "lat": 31.8036,
+      "lng": 35.1006,
+      "location": "Highway 1 near Kiryat Ye'arim, Israel",
+      "title": "Bus 405 attack on the Tel Aviv-Jerusalem highway kills 16",
+      "category": "attack",
+      "significance": 2,
+      "summary": "On 6 July 1989 a Palestinian passenger from the Gaza Strip, Abd al-Hadi Ghanim, seized the steering wheel of Egged bus 405 as it travelled from Tel Aviv to Jerusalem and forced it off Highway 1 into a ravine near Kiryat Ye'arim, where it caught fire. Sixteen people were killed, including two Canadians and an American, and 27 were injured, according to Israeli accounts; the attacker survived and was sentenced to 16 life terms. Palestinian Islamic Jihad claimed the attack, which Israeli sources describe as the first Palestinian suicide attack inside Israel. It was the deadliest single attack on Israelis during the First Intifada and led to tighter restrictions on Gaza workers entering Israel and calls in Israel for the death penalty. Ghanim was released to Gaza in the 2011 Shalit prisoner exchange.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Described the incident as a murderous terrorist attack on civilians and a sign that the intifada had spread lethal violence inside Israel's pre-1967 lines; survivors' groups have campaigned against the perpetrator's release."
+        },
+        {
+          "party": "Palestinian Islamic Jihad",
+          "framing": "Claimed the attack as a resistance operation and described Ghanim as a hero of the intifada; Islamic Jihad and Hamas later celebrated his release in the 2011 exchange."
+        },
+        {
+          "party": "Human-rights organisations",
+          "framing": "B'Tselem counted the victims among Israeli civilians killed by Palestinians during the intifada and documented the subsequent collective measures imposed on Gaza residents."
+        }
+      ],
+      "sources": [
+        {
+          "title": "On this day: Attack on the 405 bus",
+          "url": "https://www.thejc.com/on-this-day-attack-on-the-405-bus-uiy8b9uq",
+          "publisher": "The Jewish Chronicle",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Bus 405 Suicide Attack Kills or Wounds 33",
+          "url": "https://israeled.org/bus-405-suicide-attack/",
+          "publisher": "Center for Israel Education",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Victims of 1989 attack on bus No. 405 cry out",
+          "url": "https://www.ynetnews.com/articles/0,7340,L-4135891,00.html",
+          "publisher": "Ynetnews",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "first-intifada-oslo",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Killed",
+          "value": "16",
+          "attribution": "Israeli accounts (Center for Israel Education, The Jewish Chronicle)"
+        },
+        {
+          "label": "Injured",
+          "value": "27",
+          "attribution": "Israeli accounts (Center for Israel Education, The Jewish Chronicle)"
+        }
+      ]
+    },
+    {
+      "id": "1990-10-08-temple-mount-haram-al-sharif-killings",
+      "date": "1990-10-08",
+      "lat": 31.778,
+      "lng": 35.2354,
+      "location": "Temple Mount / Haram al-Sharif, Jerusalem",
+      "title": "Israeli police kill 17 Palestinians at the Temple Mount / Haram al-Sharif",
+      "category": "attack",
+      "significance": 3,
+      "summary": "On 8 October 1990, during the Sukkot holiday, thousands of Palestinians gathered at the Haram al-Sharif / Temple Mount after rumours that the Temple Mount Faithful group would lay a cornerstone for a new temple. Clashes broke out around mid-morning; stones were thrown towards the Western Wall plaza and Israeli police and border police used tear gas, rubber bullets and live fire. According to the Israeli Zamir commission and a B'Tselem report annexed to the UN Secretary-General's report, 17 Palestinians were killed; some Palestinian accounts put the toll at 21, with more than 150 Palestinians and about 20 Israelis injured. The Security Council unanimously adopted Resolution 672 on 12 October condemning the violence and Resolution 673 on 24 October deploring Israel's refusal to receive a UN mission. Israel's commission found the police had faced mortal danger but faulted their preparation; no officers were charged.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Called the events the 'Temple Mount riots', describing an organised assault by thousands of stone-throwers on Jewish worshippers at the Western Wall; the Zamir commission concluded that police lives were in danger, and Israel rejected UN involvement as interference in its internal affairs and sovereignty in Jerusalem."
+        },
+        {
+          "party": "Palestinian leadership",
+          "framing": "Described the 'Al-Aqsa massacre' as unprovoked killing of worshippers defending the mosque, demanded international protection for Palestinians under occupation and used it to press for UN action during the Gulf crisis."
+        },
+        {
+          "party": "United Nations Security Council",
+          "framing": "Resolution 672 condemned the acts of violence committed by Israeli security forces, expressed alarm at the loss of life and asked the Secretary-General to send a mission; Resolution 673 deplored Israel's refusal to receive it."
+        },
+        {
+          "party": "Human-rights organisations",
+          "framing": "B'Tselem's investigation, transmitted to the Security Council, disputed the official account of an ambush, finding that police had opened fire on retreating crowds and used live ammunition disproportionately."
+        }
+      ],
+      "sources": [
+        {
+          "title": "The Haram al-Sharif (Temple Mount) Killings",
+          "url": "https://www.palestine-studies.org/en/node/41225",
+          "publisher": "Institute for Palestine Studies",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Al-Haram al-Shareef incidents - B'Tselem report - SecGen report/Addendum",
+          "url": "https://www.un.org/unispal/document/auto-insert-183371/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Security Council resolution 672 (1990) [Territories occupied by Israel]",
+          "url": "https://www.refworld.org/legal/resolution/unsc/1990/en/80532",
+          "publisher": "UNHCR Refworld",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Resolution 673 (1990)",
+          "url": "https://www.un.org/unispal/document/auto-insert-185135",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Summary of Commission of Inquiry Report into the Events on the Temple Mount in October 1990",
+          "url": "https://jewishvirtuallibrary.org/summary-of-commission-of-inquiry-report-nbsp-into-the-events-on-the-temple-mount-in-october-1990",
+          "publisher": "Jewish Virtual Library",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israeli judge will not charge Temple Mount police",
+          "url": "https://www.upi.com/Archives/1991/07/18/Israeli-judge-will-not-charge-Temple-Mount-police/8416679809600/",
+          "publisher": "UPI",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "first-intifada-oslo",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Palestinians killed",
+          "value": "17",
+          "attribution": "Israeli Zamir commission of inquiry / B'Tselem report annexed to UN Secretary-General's report"
+        },
+        {
+          "label": "Palestinians killed",
+          "value": "21",
+          "attribution": "Palestinian accounts cited by the Institute for Palestine Studies"
+        },
+        {
+          "label": "Injured",
+          "value": "more than 150 Palestinians and about 20 Israelis",
+          "attribution": "Institute for Palestine Studies"
+        }
+      ]
+    },
+    {
+      "id": "1991-01-18-iraqi-scud-attacks-on-israel",
+      "date": "1991-01-18",
+      "endDate": "1991-02-25",
+      "lat": 32.0853,
+      "lng": 34.7818,
+      "location": "Tel Aviv, Israel",
+      "title": "Iraq fires Scud missiles at Israel during the Gulf War",
+      "category": "attack",
+      "significance": 4,
+      "summary": "In the early hours of 18 January 1991, the day after the US-led coalition began air strikes on Iraq, Iraq launched the first of a series of modified Scud missiles at Israel, striking Tel Aviv and Haifa. Over the following five weeks about 39 Scuds were fired at Israel, according to an MIT Defense and Arms Control Studies paper and Israel's Defence Ministry; most fell in the Tel Aviv area, including a heavy hit on Ramat Gan. Israelis were issued gas masks and sealed rooms amid fears of chemical warheads, which were never used. The same paper recorded two people killed directly and about a dozen deaths from heart attacks or misuse of gas masks. Under US pressure, and with Patriot batteries deployed by American crews, the Shamir government did not retaliate, preserving the Arab members of the coalition. The attacks ended with the late-February ceasefire.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Framed the missile strikes as unprovoked aggression against civilians by a regime that had threatened to 'burn half of Israel', and its restraint as a strategic sacrifice made at Washington's request; the episode strengthened arguments for missile defence and for Israel's security concerns in later talks."
+        },
+        {
+          "party": "Iraqi government",
+          "framing": "Presented the attacks as striking the 'Zionist entity' in retaliation for the coalition bombing, aiming to draw Israel into the war and split Arab states from the US-led coalition."
+        },
+        {
+          "party": "United States",
+          "framing": "Praised Israel's 'remarkable restraint', rushed Patriot batteries and crews to Israel and pressed Jerusalem not to intervene so as to keep Egypt, Syria and Saudi Arabia in the coalition."
+        },
+        {
+          "party": "PLO",
+          "framing": "Arafat's public alignment with Saddam Hussein and scenes of Palestinians cheering the Scuds were framed by the PLO as solidarity against Western intervention, but cost it Gulf funding and weakened its diplomatic position."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gas masks, missiles and irony: Defense Ministry releases photos of 1991 Gulf War",
+          "url": "https://www.timesofisrael.com/gas-masks-missiles-and-irony-defense-ministry-releases-photos-of-1991-gulf-war/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Casualties and Damage from Scud Attacks in the 1991 Gulf War (DACS Working Paper, March 1993)",
+          "url": "https://dgi.umd.edu/sites/default/files/2019-08/1993-DACS-Scud.pdf",
+          "publisher": "MIT Defense and Arms Control Studies Program",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Gulf War Tel Aviv",
+          "url": "https://www.cia.gov/resources/csi/static/Gulf-War-Tel-Aviv.pdf",
+          "publisher": "CIA Center for the Study of Intelligence",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "'We're going to attack Iraq,' Israel told the US. 'Move your planes'",
+          "url": "https://www.timesofisrael.com/were-going-to-attack-iraq-israel-told-the-us-move-your-planes/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Iraqi Scud attacks on Israel - news release, 25 January 1991",
+          "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1991/910125-169948.htm",
+          "publisher": "GlobalSecurity.org",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "first-intifada-oslo",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Israelis killed directly by Scud impacts",
+          "value": "2",
+          "attribution": "MIT DACS working paper (Fetter, Lewis, Gronlund, 1993)"
+        },
+        {
+          "label": "Indirect deaths (heart attacks, gas-mask misuse)",
+          "value": "about 11-13",
+          "attribution": "MIT DACS working paper / The Times of Israel"
+        },
+        {
+          "label": "Scud missiles fired at Israel",
+          "value": "39 (other counts give up to 42)",
+          "attribution": "MIT DACS working paper; Israeli Defence Ministry as cited by The Times of Israel"
+        }
+      ]
+    },
+    {
+      "id": "1991-10-30-madrid-peace-conference",
+      "date": "1991-10-30",
+      "endDate": "1991-11-01",
+      "lat": 40.418,
+      "lng": -3.7143,
+      "location": "Royal Palace, Madrid, Spain",
+      "title": "Madrid Conference opens direct Arab-Israeli negotiations",
+      "category": "political",
+      "significance": 5,
+      "summary": "From 30 October to 1 November 1991 the Madrid Conference, co-sponsored by the United States and the Soviet Union and opened by Presidents George H. W. Bush and Mikhail Gorbachev, brought Israel into the first direct public negotiations with Syria, Lebanon and a joint Jordanian-Palestinian delegation. Secretary of State James Baker had made eight trips to the region after the Gulf War to secure attendance; Israel, led by Yitzhak Shamir, agreed on condition that the PLO was excluded and that Palestinians from the occupied territories, headed by Gaza physician Haidar Abdel Shafi, took part within Jordan's delegation. The invitation letter envisaged two tracks: bilateral talks on the basis of Resolutions 242 and 338 and multilateral working groups on regional issues. Bilateral negotiations began in Madrid on 3 November and continued in Washington through 1993, with the Palestinian track producing little before the secret Oslo channel.",
+      "perspectives": [
+        {
+          "party": "United States",
+          "framing": "Bush presented the conference as a historic opportunity created by the Gulf War to trade 'territory for peace' through direct talks, insisting the US would not impose a settlement."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "Shamir framed participation as talks on peace and autonomy without preconditions, rejected territorial withdrawal and land-for-peace in his speech, and stressed that the PLO and East Jerusalem residents were excluded."
+        },
+        {
+          "party": "Palestinian delegation / PLO",
+          "framing": "Abdel Shafi's address called for an end to occupation and settlement and Palestinian self-determination; the PLO, formally excluded, directed the delegation from Tunis and viewed Madrid as recognition of Palestinians as a party."
+        },
+        {
+          "party": "Syria",
+          "framing": "Foreign Minister Farouk al-Sharaa attended to recover the Golan Heights on the basis of full withdrawal for full peace and used his speech to denounce Shamir's record."
+        }
+      ],
+      "sources": [
+        {
+          "title": "The 1991 Madrid Peace Conference",
+          "url": "https://adst.org/2015/10/the-1991-madrid-peace-conference/",
+          "publisher": "Association for Diplomatic Studies and Training",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Remarks at the Opening Session of the Middle East Peace Conference in Madrid, Spain",
+          "url": "https://www.bush41library.gov/digital-research-room/finding-aid/public-papers/remarks-opening-session-middle-east-peace",
+          "publisher": "George H.W. Bush Presidential Library and Museum",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "The Madrid Conference and the Washington Process (1991-1993): A Regional Framework for Resolving the Arab-Israeli Conflict",
+          "url": "https://www.prio.org/publications/14309",
+          "publisher": "Peace Research Institute Oslo (PRIO)",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "The conference that wasn't - 'Madrid' in retrospect",
+          "url": "https://www.jpost.com/opinion/the-conference-that-wasnt-madrid-in-retrospect-opinion-683286",
+          "publisher": "The Jerusalem Post",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Haydar Abd al-Shafi, Opening and Closing Statements, Madrid Conference, 31 October and 1 November 1991",
+          "url": "https://publish.iupress.indiana.edu/read/negotiating-arab-israeli-peace-third-edition-appendices/section/a2951b0c-ed0f-4d50-8562-6cf9f62d62c2",
+          "publisher": "Indiana University Press",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "1991 Madrid Peace Conference - in pictures",
+          "url": "https://www.thenationalnews.com/news/mena/2024/10/11/1991-madrid-peace-conference-in-pictures/",
+          "publisher": "The National",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "first-intifada-oslo",
+      "verified": true
+    },
+    {
+      "id": "1992-06-23-rabin-labor-wins-israeli-election",
+      "date": "1992-06-23",
+      "lat": 31.7767,
+      "lng": 35.2044,
+      "location": "Jerusalem, Israel (Knesset)",
+      "title": "Yitzhak Rabin's Labor Party wins Israeli general election",
+      "category": "political",
+      "significance": 4,
+      "summary": "In the Knesset election of 23 June 1992 the Labor Party under Yitzhak Rabin, who had defeated Shimon Peres for the leadership in February, won 44 of 120 seats with about 34.7 per cent of the vote, while Yitzhak Shamir's Likud fell to 32 seats, according to the Israel Democracy Institute. Turnout was about 77 per cent. Labor, Meretz (12 seats) and the ultra-Orthodox Shas party formed a coalition, with the outside support of five Arab-party Knesset members giving Rabin a blocking majority of 61. Rabin took office as prime minister and defence minister on 13 July with Peres as foreign minister, promising to reach an agreement on Palestinian autonomy within six to nine months and to curb 'political' settlements. The change of government ended the Bush administration's dispute with Shamir over loan guarantees and settlement building and enabled the secret Oslo channel.",
+      "perspectives": [
+        {
+          "party": "Israeli Labor government",
+          "framing": "Rabin presented the result as a mandate to change national priorities, pursue peace with the Palestinians and Arab states from a position of strength and redirect resources from settlements to immigrant absorption and infrastructure."
+        },
+        {
+          "party": "Likud opposition",
+          "framing": "Shamir and Likud attributed the defeat to internal splits and US pressure, warned that Rabin would concede parts of the Land of Israel, and argued that the coalition depended on Arab votes and lacked a Jewish majority."
+        },
+        {
+          "party": "PLO and Palestinian analysts",
+          "framing": "Institute for Palestine Studies commentary saw the election as opening possibilities in the Washington talks while cautioning that Rabin's positions on Jerusalem, settlements and statehood differed from Likud's mainly in style."
+        },
+        {
+          "party": "United States",
+          "framing": "The Bush administration welcomed the outcome and soon approved $10 billion in loan guarantees after Rabin agreed to freeze new settlement construction, treating the new government as a partner for the Madrid process."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Elections 1992",
+          "url": "https://en.idi.org.il/israeli-elections-and-parties/elections/1992/",
+          "publisher": "Israel Democracy Institute",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "The nightmare of the 1992 election is coming back to haunt Netanyahu",
+          "url": "https://www.timesofisrael.com/the-nightmare-of-the-1992-election-is-coming-back-to-haunt-netanyahu/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel's Elections and Their Implications",
+          "url": "https://www.palestine-studies.org/en/node/40321",
+          "publisher": "Institute for Palestine Studies",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Rabin to Head Israel's Labor Opposition",
+          "url": "https://www.csmonitor.com/1992/0221/21072.html",
+          "publisher": "The Christian Science Monitor",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "first-intifada-oslo",
+      "verified": true
+    },
+    {
+      "id": "1992-12-17-deportation-415-hamas-islamic-jihad-marj-al-zuhur",
+      "date": "1992-12-17",
+      "lat": 33.36,
+      "lng": 35.55,
+      "location": "Marj al-Zuhur, southern Lebanon",
+      "title": "Israel deports 415 Hamas and Islamic Jihad members to Marj al-Zuhur",
+      "category": "displacement",
+      "significance": 4,
+      "summary": "After Hamas members abducted and killed border police sergeant Nissim Toledano on 13-15 December 1992, following the killing of five other Israeli security personnel that month, the Rabin government ordered the temporary deportation of 415 Palestinians identified as Hamas and Islamic Jihad activists from the West Bank and Gaza Strip. On 17 December, after the High Court of Justice lifted an injunction, they were bused blindfolded into Lebanon for one or two years. Lebanon refused to admit them, so they camped at Marj al-Zuhur north of Israel's self-declared security zone; B'Tselem called it the largest single deportation since 1967. On 18 December the Security Council unanimously adopted Resolution 799 condemning the deportations as a breach of the Fourth Geneva Convention and demanding the deportees' return. Israel agreed on 1 February 1993 to repatriate 101 and halve the others' terms; most returned by December 1993.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Rabin described the deportations as a temporary, lawful measure against 'inciters and organisers' of Hamas terrorism after a wave of killings, rather than punishment of individuals for specific acts, and rejected the applicability of the Fourth Geneva Convention's deportation ban."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Treated the expulsion as proof of Israel's brutality and turned the tent camp into a media stage and 'university', framing the deportees as steadfast resisters; Hamas scholars later describe Marj al-Zuhur as a milestone in the movement's rise."
+        },
+        {
+          "party": "United Nations Security Council",
+          "framing": "Resolution 799 strongly condemned the deportation of 'hundreds of Palestinian civilians', reaffirmed the Fourth Geneva Convention's application to the occupied territories including Jerusalem and demanded their safe and immediate return."
+        },
+        {
+          "party": "Human-rights organisations",
+          "framing": "B'Tselem and Human Rights Watch called the mass deportation a grave violation of international humanitarian law carried out without due process, noting that many deportees were not accused of violence."
+        },
+        {
+          "party": "Palestinian delegation to the Washington talks",
+          "framing": "Suspended participation in the bilateral negotiations in protest and demanded the deportees' return as a condition for resuming."
+        }
+      ],
+      "sources": [
+        {
+          "title": "The Mass Deportation of 1992",
+          "url": "https://www.btselem.org/deportation/1992_mass_deportation",
+          "publisher": "B'Tselem",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Palestinian Deportees (Vol. 5, Issue 4, August 1993)",
+          "url": "https://www.hrw.org/reports/lebanon_1993.pdf",
+          "publisher": "Human Rights Watch",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Resolution 799 (1992)",
+          "url": "https://www.un.org/unispal/document/auto-insert-184956",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Report submitted to the Security Council by the Secretary-General in accordance with resolution 799 (1992)",
+          "url": "https://www.un.org/unispal/document/auto-insert-180990",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Crushing Hamas? Origins and Expansion of the Islamic Resistance Movement in Lebanon",
+          "url": "https://www.cmi.no/publications/9240-crushing-hamas-origins-and-expansion-of-the-islamic-resistance-movement-in-lebanon",
+          "publisher": "Chr. Michelsen Institute",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "first-intifada-oslo",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Palestinians deported to Lebanon",
+          "value": "415",
+          "attribution": "B'Tselem / Human Rights Watch",
+          "note": "Israel agreed on 1 February 1993 to allow 101 to return immediately; the rest returned in stages by December 1993."
+        }
+      ]
+    },
+    {
+      "id": "1993-07-25-operation-accountability-lebanon",
+      "date": "1993-07-25",
+      "endDate": "1993-07-31",
+      "lat": 33.3789,
+      "lng": 35.4839,
+      "location": "Nabatieh, southern Lebanon",
+      "title": "Operation Accountability: seven-day Israeli offensive in southern Lebanon",
+      "category": "war",
+      "significance": 3,
+      "summary": "From 25 to 31 July 1993 Israel carried out Operation Accountability, known in Lebanon as the Seven-Day War, after Hezbollah and PFLP-General Command attacks killed Israeli soldiers in the occupied 'security zone' and Hezbollah rockets hit northern Israel. Prime Minister Rabin ordered air, artillery and naval strikes on villages across southern Lebanon with the declared aims of striking Hezbollah, denying it a base and driving civilians north to pressure Beirut and Damascus to restrain it. Lebanese and human-rights sources cited by the Economic Cooperation Foundation put the dead at about 118-130 Lebanese, mostly civilians, with roughly 500 wounded; contemporary estimates cited in Israeli and Lebanese accounts spoke of up to 300,000 displaced. Hezbollah fire killed two Israeli civilians and one soldier, per the IDF. US Secretary of State Warren Christopher brokered an unwritten understanding on 31 July under which both sides agreed not to target civilians.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Rabin presented the operation as holding Lebanon and Syria accountable for Hezbollah attacks on Israeli troops and towns, stating openly that displacing residents was intended to press Beirut to act; the IDF describes it as a response to Katyusha fire on the Galilee."
+        },
+        {
+          "party": "Hezbollah",
+          "framing": "Cast its rocket fire and attacks as legitimate resistance to Israel's occupation of southern Lebanon and claimed that the July understandings recognised its right to fight Israeli forces inside Lebanon."
+        },
+        {
+          "party": "Lebanese government",
+          "framing": "Condemned the bombardment as aggression against civilians and infrastructure, appealed to the Security Council and highlighted the mass flight of villagers towards Beirut."
+        },
+        {
+          "party": "Human-rights organisations",
+          "framing": "Human Rights Watch later criticised both Israel's deliberate targeting of civilian areas to create displacement and Hezbollah's indiscriminate rocket fire on Israeli towns as violations of the laws of war."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Operation Accountability (1993)",
+          "url": "https://ecf.org.il/issues/issue/1384",
+          "publisher": "Economic Cooperation Foundation",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Operation Accountability (1993)",
+          "url": "https://www.ynetnews.com/articles/0,7340,L-3284732,00.html",
+          "publisher": "Ynetnews",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "The history of conflict between Hezbollah and Israel",
+          "url": "https://www.aljazeera.com/news/2024/9/18/hezbollah-and-israel-a-timeline-of-conflict",
+          "publisher": "Al Jazeera",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Operation Accountability",
+          "url": "https://www.idf.il/en/mini-sites/wars-and-operations/operation-accountability/",
+          "publisher": "Israel Defense Forces",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel/Lebanon: 'Operation Grapes of Wrath' - the civilian victims (background on the July 1993 understandings)",
+          "url": "https://www.hrw.org/reports/1996/Israel.htm",
+          "publisher": "Human Rights Watch",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "first-intifada-oslo",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Lebanese killed",
+          "value": "about 118-130 (mostly civilians)",
+          "attribution": "Lebanese and human-rights sources cited by the Economic Cooperation Foundation"
+        },
+        {
+          "label": "Lebanese wounded",
+          "value": "about 500",
+          "attribution": "Lebanese and human-rights sources cited by the Economic Cooperation Foundation"
+        },
+        {
+          "label": "Israelis killed",
+          "value": "3 (2 civilians, 1 soldier)",
+          "attribution": "IDF / Ynetnews"
+        },
+        {
+          "label": "Displaced in southern Lebanon",
+          "value": "up to 300,000",
+          "attribution": "Contemporary estimates cited in Israeli and Lebanese accounts",
+          "note": "Figure widely repeated but not independently corroborated in the sources consulted; treat as approximate."
+        }
+      ]
+    },
+    {
+      "id": "1993-09-09-israel-plo-mutual-recognition-letters",
+      "date": "1993-09-09",
+      "lat": 31.7683,
+      "lng": 35.2137,
+      "location": "Jerusalem, Israel (and Tunis, Tunisia)",
+      "title": "Israel and the PLO exchange letters of mutual recognition",
+      "category": "treaty",
+      "significance": 5,
+      "summary": "On 9 September 1993, after months of secret Norwegian-hosted talks in Oslo, Yasser Arafat signed a letter to Prime Minister Yitzhak Rabin in Tunis stating that the PLO recognised the right of the State of Israel to exist in peace and security, accepted Security Council Resolutions 242 and 338, committed itself to a peaceful resolution of the conflict, renounced terrorism and other acts of violence, and undertook to submit to the Palestine National Council the changes needed to remove clauses of the Palestinian National Covenant inconsistent with these commitments. In a separate letter to Norwegian foreign minister Johan Jorgen Holst, Arafat pledged to call for an end to intifada violence. Rabin's reply in Jerusalem recognised the PLO as the representative of the Palestinian people and agreed to negotiate with it. The exchange made possible the signing of the Declaration of Principles in Washington on 13 September.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Rabin and Peres described recognition of the PLO as a calculated risk that turned an enemy into a negotiating partner, stressing that Israel recognised the organisation, not a state, and conditioned progress on an end to violence and revision of the Palestinian Covenant."
+        },
+        {
+          "party": "PLO",
+          "framing": "Arafat presented Israel's recognition as the PLO's greatest diplomatic achievement, confirming its status as sole legitimate representative and opening the road to a Palestinian state; critics inside the PLO and Hamas denounced the letters as capitulation and recognition of Israel without reciprocity on statehood."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Rejected the mutual recognition and the subsequent Oslo Accords as a betrayal that surrendered most of Palestine, and vowed to continue armed resistance."
+        },
+        {
+          "party": "United States and Norway",
+          "framing": "Washington, which had been sidelined by the Oslo channel, immediately resumed its dialogue with the PLO and hosted the Washington signing; Norway framed the exchange as proof that back-channel facilitation could break deadlocks."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Israel-PLO Mutual Recognition - Letters and Speeches",
+          "url": "https://peacemaker.un.org/sites/default/files/document/files/2024/05/israel-plo20mutual20recognition.pdf",
+          "publisher": "United Nations Peacemaker",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel-PLO Recognition: Exchange of letters between PM Rabin and Chairman Arafat",
+          "url": "https://un.org/unispal/document/auto-insert-205528",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel-PLO Mutual Recognition Agreement (MRA), September 9, 1993",
+          "url": "https://israeled.org/israel-plo-mutual-recognition-agreement-mra-september-9-1993/",
+          "publisher": "Center for Israel Education",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Exchange of Letters on Israel-PLO Mutual Recognition (1993)",
+          "url": "https://ecf.org.il/issues/issue/15",
+          "publisher": "Economic Cooperation Foundation",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel-PLO Recognition - Exchange of Letters between PM Rabin and Chairman Arafat",
+          "url": "https://www.inss.org.il/wp-content/uploads/2018/12/2-09.1993-Israel-PLO-Recognition-Exchange-of-Letters-between-PM-Rabin-and-Chairman-Arafat.pdf",
+          "publisher": "Institute for National Security Studies",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel/PLO Recognition - Exchange of Letters",
+          "url": "https://www.peaceagreements.org/view/34/",
+          "publisher": "PA-X Peace Agreements Database (University of Edinburgh)",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "first-intifada-oslo",
+      "verified": true
+    }
+  ],
+  "boundaryChanges": [
+    {
+      "date": "1988-07-31",
+      "description": "Jordan renounced its legal and administrative claims to the West Bank (annexed by Jordan in 1950, under Israeli military control since 1967). This changed the status of the territory's claimant but not control on the ground, which remained Israeli; the PLO subsequently declared the State of Palestine over the occupied territories on 15 November 1988 without exercising control.",
+      "sources": [
+        "https://www.washingtonpost.com/archive/politics/1988/08/01/jordan-to-cut-w-bank-administrative-legal-ties/ddfcfa23-8644-40dc-9ccc-f08579debaaa/",
+        "https://www.hrw.org/report/2010/02/01/stateless-again/palestinian-origin-jordanians-deprived-their-nationality"
+      ]
+    }
+  ],
+  "excluded": [
+    {
+      "title": "Rishon LeZion killings of seven Palestinian workers by Ami Popper",
+      "date": "1990-05-20",
+      "reason": "Corroborated (The Times of Israel, WAFA, Ynetnews) but omitted to stay within the 12-15 event target; could be added as a significance-2 attack event with the subsequent week of Gaza clashes."
+    },
+    {
+      "title": "United States suspends dialogue with the PLO after the Palestine Liberation Front beach attack",
+      "date": "1990-06-20",
+      "reason": "Corroborated (Christian Science Monitor, FAS congressional record, UN documents) but omitted to stay within the event target; noted in the 1988-12-14 event context."
+    },
+    {
+      "title": "Iraq invades Kuwait; PLO aligns with Baghdad",
+      "date": "1990-08-02",
+      "reason": "Outside the geographic focus of the timeline; its consequences for Israel are covered by the Scud attacks and Madrid events."
+    },
+    {
+      "title": "Operation Solomon airlift of Ethiopian Jews",
+      "date": "1991-05-24",
+      "reason": "Not researched within the search budget; peripheral to the Israeli-Palestinian conflict focus of this unit."
+    },
+    {
+      "title": "Secret Oslo channel begins in Sarpsborg, Norway",
+      "date": "1993-01-20",
+      "reason": "Not separately researched within the search budget; covered in the mutual-recognition event."
+    }
+  ],
+  "uncertainties": [
+    "Search budget: the session-wide WebSearch cap was reached after 26 queries for this unit, so some events rely on fewer corroborating mainstream news sources than preferred (e.g. Scud attacks, Operation Accountability, Bus 405).",
+    "First Intifada casualty totals: figures attributed to B'Tselem vary by compiler and cut-off date: 1,070 Palestinians killed by security forces plus 54 by Israeli civilians (as cited by Al Jazeera) versus 1,162 killed by Israelis (as cited by secondary compilations); B'Tselem's own table page could not be read directly. Israeli figures of 100 civilians and 60 security personnel are as cited by secondary sources.",
+    "Hamas founding date: sources differ between a founding meeting on 9 December 1987 and the first communiqué on 14 December 1987; Hamas literature backdates the founding to the intifada's first day. The 14 December date is used per the task instruction and most references.",
+    "Temple Mount / Haram al-Sharif killings: death toll reported as 17 (Israeli commission, B'Tselem) or 21 (Palestinian accounts); both given.",
+    "Scud attacks: number of missiles fired at Israel given as 39 (MIT DACS paper, Israeli Defence Ministry) or about 42 (other compilations); indirect death counts range from 11 to 13.",
+    "Operation Accountability: the widely repeated figure of up to 300,000 displaced could not be traced to a primary source within the results; Lebanese casualty figures (118-130 killed) are cited via the Economic Cooperation Foundation rather than directly from Lebanese authorities.",
+    "Marj al-Zuhur deportation location coordinates are approximate (camp in the Wadi al-Taym / Nabatieh area north of the Israeli security zone).",
+    "Mutual recognition letters: Arafat signed in Tunis and Rabin in Jerusalem on the same day; the event is placed in Jerusalem."
+  ]
+}
