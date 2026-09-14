@@ -1,5 +1,5 @@
 import { test, expect, type Page } from '@playwright/test';
-import chapters from '../src/data/chapters.json';
+import chapters from '../src/data/chapters.json' with { type: 'json' };
 import type { AppState } from '../src/state/store';
 
 /**
