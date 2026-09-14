@@ -1,5 +1,5 @@
 import { createContext, useContext, useEffect, useMemo, useReducer, type ReactNode } from 'react'
-import { BCREC_MESSAGE_ID, bcrecNotice, createSeedState } from '../data/seed'
+import { BCREC_MESSAGE_ID, BCREC_REPLY_ID, bcrecNotice, bcrecReply, createSeedState } from '../data/seed'
 import type { AppState } from '../types'
 import { reducer, type Action } from './reducer'
 
@@ -29,6 +29,7 @@ function loadState(): AppState {
 export function migrate(state: AppState): AppState {
   let messages = state.messages
   if (!messages.some((m) => m.id === BCREC_MESSAGE_ID)) messages = [bcrecNotice(), ...messages]
+  if (!messages.some((m) => m.id === BCREC_REPLY_ID)) messages = [bcrecReply(), ...messages]
   // Rich bodies were added after the first release; copy them onto saved seed messages by id.
   if (messages.some((m) => m.id.startsWith('seed_') && !m.html)) {
     const fresh = new Map(createSeedState().messages.map((m) => [m.id, m.html] as const))

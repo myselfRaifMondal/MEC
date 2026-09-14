@@ -18,6 +18,63 @@ function attach(name: string, size: number, type: string, url?: string): Attachm
 
 export const BCREC_MESSAGE_ID = 'seed_bcrec_indiquant'
 
+export const BCREC_REPLY_ID = 'seed_bcrec_reply'
+
+/** Raif's reply to the BCREC notice, asking for pending reimbursements before the felicitation. Lives in Sent. */
+export function bcrecReply(): Message {
+  const notice = bcrecNotice()
+  const quoted = notice.body
+    .split('\n')
+    .map((l) => `> ${l}`)
+    .join('\n')
+  return {
+    id: BCREC_REPLY_ID,
+    folder: 'sent',
+    from: ME,
+    to: [notice.from],
+    cc: [],
+    bcc: [],
+    subject: `Re: ${notice.subject}`,
+    date: at(0, 10, 40),
+    read: true,
+    starred: false,
+    hasCalendarInvite: false,
+    attachments: [],
+    inReplyTo: notice.id,
+    body: `Respected Sir/Madam,
+
+Thank you for the notice and for the invitation to the Press Meet on Wednesday, 16th September 2026. It is an honour for IndiQuant to be felicitated by the college, and I look forward to representing the team at the Albert Einstein Hall.
+
+Before the event, I would like to request that the college kindly clear my pending reimbursement dues from earlier this year. Both trips were undertaken while representing BCREC:
+
+1. IIT Kharagpur, January 2026: travel, accommodation and registration for the visit.
+2. Bangalore, June 2026: travel, stay and participation in the EF (Entrepreneur First) Selection Hackathon.
+
+On both occasions the college asked me to submit my expenses for reimbursement, and I submitted the claim forms along with the tickets and receipts to the accounts office. Till date, neither claim has been reimbursed, and I have not received any update on their status.
+
+I would also like to mention that my parents have supported me throughout, on the understanding that the college would reimburse these expenses as assured. They stood by me for both trips without hesitation, and I would like to be able to tell them that the college has honoured its word before I stand on stage at the felicitation.
+
+I therefore request that the pending amounts be settled before 16th September so that I can attend the Press Meet without this matter remaining open. I am happy to resubmit any document that may be required; copies of the original claims are with me.
+
+I confirm my attendance at the Press Meet.
+
+Thank you for your understanding and support.
+
+Warm regards,
+Raif Mondal
+Founder, IndiQuant
+MEC
+
+
+On ${formatQuotedDate(notice.date)}, Dr. B. C. Roy Engineering College <info@bcrec.ac.in> wrote:
+${quoted}`,
+  }
+}
+
+function formatQuotedDate(iso: string): string {
+  return new Date(iso).toLocaleString('en-IN', { weekday: 'short', day: 'numeric', month: 'short', year: 'numeric', hour: 'numeric', minute: '2-digit' })
+}
+
 /** Notice from BCREC with the IndiQuant press-meet PDF attached; always the newest inbox message. */
 export function bcrecNotice(): Message {
   return {
@@ -517,7 +574,7 @@ const setupSteps: SetupStep[] = [
 export function createSeedState(): AppState {
   counter = 0
   return {
-    messages: [bcrecNotice(), ...featured(), ...generated(), ...other()],
+    messages: [bcrecReply(), bcrecNotice(), ...featured(), ...generated(), ...other()],
     customFolders: [{ id: 'f_receipts', name: 'Receipts' }],
     contacts,
     settings,

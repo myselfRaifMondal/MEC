@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { BCREC_MESSAGE_ID, createSeedState } from '../data/seed'
+import { BCREC_MESSAGE_ID, BCREC_REPLY_ID, createSeedState } from '../data/seed'
 import { migrate } from '../store/StoreContext'
 import { reducer } from '../store/reducer'
 import { listMessages, paginate, unreadCount } from '../store/queries'
@@ -19,7 +19,7 @@ describe('reducer', () => {
 
   it('moves to trash, remembers the origin, and restores it', () => {
     const s = base()
-    const id = s.messages[0].id
+    const id = s.messages.find((m) => m.folder === 'inbox')!.id
     const trashed = reducer(s, { type: 'trash', ids: [id] })
     const m = trashed.messages.find((x) => x.id === id)!
     expect(m.folder).toBe('trash')
@@ -133,6 +133,19 @@ describe('queries', () => {
     const migrated = migrate(old)
     expect(migrated.messages[0].id).toBe(BCREC_MESSAGE_ID)
     expect(migrate(migrated)).toBe(migrated)
+  })
+
+  it('seeds the reimbursement reply to BCREC as the newest sent message', () => {
+    const s = base()
+    const sent = listMessages(s, { folder: 'sent', filter: 'all', sort: 'newest', search: '' })
+    expect(sent[0].id).toBe(BCREC_REPLY_ID)
+    expect(sent[0].to[0].email).toBe('info@bcrec.ac.in')
+    expect(sent[0].inReplyTo).toBe(BCREC_MESSAGE_ID)
+    expect(sent[0].subject.startsWith('Re: ')).toBe(true)
+    expect(sent[0].body).toContain('IIT Kharagpur')
+    expect(sent[0].body).toContain('EF (Entrepreneur First) Selection Hackathon')
+    const withoutReply = { ...s, messages: s.messages.filter((m) => m.id !== BCREC_REPLY_ID) }
+    expect(migrate(withoutReply).messages.some((m) => m.id === BCREC_REPLY_ID)).toBe(true)
   })
 
   it('backfills rich HTML bodies onto saved seed messages', () => {
