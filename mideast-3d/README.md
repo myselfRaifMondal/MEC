@@ -54,7 +54,11 @@ Every event conforms to `TimelineEvent` in `src/data/types.ts` and is checked by
 - `era`: the chapter the event belongs to
 - `verified`: true only when the event, its date and its key figures were confirmed against at least two sources that were actually read
 
-Research was carried out era by era. Each era's output lives in `src/data/research/<era>.json` together with the boundary changes, excluded events and open uncertainties the researcher recorded. Events dated after 1 September 2024 were then re-checked by a separate, independent pass that had to find at least one source not already cited, confirm date, place and every figure, and downgrade anything it could not confirm. Events dated after 1 June 2026 fall after the model's training data; every fact about them comes from pages fetched on 9 September 2026, and the validator refuses any such event whose sources were not accessed that day or that is not marked verified.
+Research was carried out era by era on 9 and 14 September 2026. Each era's output lives in `src/data/research/<era>.json` together with the boundary changes, excluded events and open uncertainties the researcher recorded. A second, independent verification pass then went over every event with fresh searches and had to corroborate the event, its date, its place and every casualty figure in results from two different publishers before it could keep `verified: true`; it replaced any cited URL that did not appear verbatim in a search result and added the corroborating sources it found.
+
+**How "verified" was established.** The research environment could run web searches (which return the URL and the relevant text of each matching page) but could not open publisher pages directly. "Verified" therefore means: the event, date, place and key figures are corroborated by the search-result content of at least two different publishers, and every cited URL was taken verbatim from a search result. It does not mean each page was read in full. Sources carry the date the research was run as `accessedDate`. Before publication, run `npm run validate -- --links` from a normal network to confirm every URL still resolves.
+
+Events dated after 1 June 2026 fall after the model's training data; nothing about them was written from memory, and the validator refuses any such event that is not marked verified or whose sources were not accessed on the research date.
 
 Unverified events are kept in the data set for transparency but are excluded from the default view (`loader.ts` exports only verified events to the scene and panels).
 
@@ -88,11 +92,36 @@ Twelve eras, each with a 150–250 word overview and a camera pose. Overviews fo
 
 ## Data status
 
-{{DATA_STATUS}}
+As of 14 September 2026 (`npm run validate` output):
+
+| Measure | Value |
+| --- | --- |
+| Chapters | 12 |
+| Events | 245 (243 verified, 2 unverified and hidden by default) |
+| Events dated after 1 June 2026 | 8, all verified |
+| Source citations | 1,246 (5.1 per event) from 258 distinct publishers |
+| Events with structured, attributed casualty figures | 134 |
+| Boundary features across 12 chapter files | 348 (117 flagged approximate / hand-digitised) |
+| Categories | political 83, attack 65, war 48, treaty 25, ceasefire 13, displacement 11 |
+| Production bundle | about 600 KB gzipped JavaScript plus lazily fetched GeoJSON (40 to 68 KB per chapter) |
+| Lighthouse (desktop preset, headless software WebGL) | performance 75 |
+| Playwright smoke test | 6 of 6 passing at 1440 px and 375 px |
+
+Unverified events (kept in the data, excluded from the default view):
+
+- `1948-04-13-hadassah-medical-convoy-attack`: no publisher page specifically about the attack could be located through the research channel; sources cover it only indirectly.
+- `1985-06-10-israel-withdraws-to-south-lebanon-security-zone`: the June 1985 completion is corroborated but no source stated the exact day used for the event date.
+
+No event was found where sources disagree on whether it happened at all. Events the researchers considered but dropped, and every figure or date that sources dispute, are listed per era in `src/data/research/<era>.json` under `excluded` and `uncertainties`.
 
 ## Known limitations
 
-{{LIMITATIONS}}
+- Source pages could not be opened directly during research (see "How verified was established"), so URL liveness has not been checked from inside the research environment; run `npm run validate -- --links` before deploying.
+- Casualty figures for the 2023 to 2026 period are frequently revised by the reporting bodies; the figures shown carry the date of the count where the source gave one, and later revisions are not tracked automatically.
+- Boundary geometry marked `approximate` is a simplified hand rendering (the 1947 partition plan, East Jerusalem, Oslo Area A, the West Bank barrier, the southern Lebanon zones, UNDOF/UNIFIL areas and every post-2023 control zone including the Gaza "Yellow Line"); Area B is not drawn, and Israeli positions in Lebanon and Syria during 2026 are shown at their last confirmed extent.
+- The timeline uses a non-linear scale so that the 2023 to 2026 chapters remain scrubbable; the three most recent chapter markers are narrow on a 375 px screen, and chapter navigation there is easiest with the slider or the panel's previous/next buttons.
+- Line width in WebGL is one pixel, so line hierarchy is conveyed by colour and dashing only.
+- Playwright uses Chromium; set `CHROMIUM_PATH` if a pre-installed browser should be used.
 
 ## Licence
 

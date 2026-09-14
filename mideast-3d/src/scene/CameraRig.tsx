@@ -8,7 +8,7 @@
  *   changes, and to the selected event when one is selected.
  * - Any user interaction (drag, wheel, pinch) cancels a flight in progress.
  */
-import { OrbitControls } from '@react-three/drei';
+import { OrbitControls } from '@react-three/drei/core/OrbitControls';
 import { useFrame, useThree } from '@react-three/fiber';
 import { useCallback, useEffect, useRef, type ComponentRef } from 'react';
 import { Quaternion, Vector3 } from 'three';

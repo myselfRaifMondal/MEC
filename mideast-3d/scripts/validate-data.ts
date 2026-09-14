@@ -17,7 +17,7 @@ const BOUNDARY_DIR = resolve(DATA_DIR, 'boundaries');
 
 /** Sources for events after this date must have been accessed on DATA_ACCESSED_DATE. */
 const RECENT_CUTOFF = '2026-06-01';
-const DATA_ACCESSED_DATE = '2026-09-09';
+const DATA_ACCESSED_DATE = '2026-09-14';
 const SCOPE_START = '1917-11-02';
 const SCOPE_END = '2026-09-09';
 
