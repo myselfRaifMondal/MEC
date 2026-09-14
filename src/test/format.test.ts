@@ -1,4 +1,5 @@
 import { describe, expect, it } from 'vitest'
+import { logoFor } from '../data/logos'
 import { formatBytes, formatListDate, initials, parseAddressList, snippetOf } from '../utils/format'
 
 describe('format helpers', () => {
@@ -33,5 +34,13 @@ describe('format helpers', () => {
     expect(initials('Granola')).toBe('G')
     expect(snippetOf('a\n\nb   c', 10)).toBe('a b c')
     expect(snippetOf('x'.repeat(50), 10).length).toBe(10)
+  })
+
+  it('resolves sender logos by domain and falls back for unknown senders', () => {
+    expect(logoFor('info@bcrec.ac.in')).toBe('/logos/bcrec.svg')
+    expect(logoFor('Training@NVIDIA.example')).toBe('/logos/nvidia.svg')
+    expect(logoFor('postmaster@mec.example')).toBe('/logos/postmaster.svg')
+    expect(logoFor('dev@mec.example')).toBeUndefined()
+    expect(logoFor(undefined)).toBeUndefined()
   })
 })

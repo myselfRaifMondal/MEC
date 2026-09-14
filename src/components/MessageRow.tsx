@@ -4,6 +4,7 @@ import { useStore } from '../store/StoreContext'
 import { folderLabel } from '../store/queries'
 import type { Message } from '../types'
 import { formatListDate, snippetOf } from '../utils/format'
+import { Avatar } from './Avatar'
 import { Checkbox } from './Checkbox'
 
 interface Props {
@@ -19,6 +20,7 @@ interface Props {
 export const MessageRow = memo(function MessageRow({ message: m, selected, checked, showFolder, onOpen, onCheck, onStar }: Props) {
   const { state } = useStore()
   const outgoing = m.folder === 'sent' || m.folder === 'drafts' || m.folder === 'scheduled'
+  const counterpart = outgoing ? m.to[0] : m.from
   const who = outgoing ? (m.to.length ? `To: ${m.to.map((t) => t.name || t.email).join(', ')}` : 'To: (no recipient)') : m.from.name || m.from.email
   const compact = state.settings.density === 'compact'
   const classes = ['row', m.read ? 'read' : '', selected ? 'selected' : '', checked ? 'checked' : '', compact ? 'compact' : ''].filter(Boolean).join(' ')
@@ -39,6 +41,9 @@ export const MessageRow = memo(function MessageRow({ message: m, selected, check
     >
       <div className="row-check">
         <Checkbox checked={checked} onChange={onCheck} label={`Select message from ${who}`} />
+      </div>
+      <div className="row-avatar">
+        <Avatar name={counterpart?.name ?? who} email={counterpart?.email} size="sm" me={outgoing && !counterpart} />
       </div>
       <div className="row-main">
         <div className="row-sender">

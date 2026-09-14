@@ -544,6 +544,25 @@ a {
   height: 56px;
   font-size: 20px;
 }
+.avatar.logo {
+  overflow: hidden;
+  background: #262736;
+  border: 1px solid var(--border-strong);
+}
+.avatar.logo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.avatar.logo.light {
+  background: #fff;
+  border-color: #e4e4ea;
+}
+.avatar.logo.light img {
+  object-fit: contain;
+  padding: 12%;
+}
 
 /* ---------- Message list ---------- */
 
@@ -670,8 +689,8 @@ a {
 
 .row {
   display: grid;
-  grid-template-columns: 24px 1fr auto;
-  column-gap: 20px;
+  grid-template-columns: 24px 40px 1fr auto;
+  column-gap: 16px;
   align-items: start;
   padding: 20px 24px 20px 24px;
   border-bottom: 1px solid var(--border);
@@ -692,7 +711,14 @@ a {
   padding: 12px 24px;
 }
 .row .row-check {
+  padding-top: 8px;
+}
+.row .row-avatar {
   padding-top: 2px;
+}
+.row .row-avatar .avatar.sm {
+  width: 40px;
+  height: 40px;
 }
 .row-main {
   min-width: 0;
