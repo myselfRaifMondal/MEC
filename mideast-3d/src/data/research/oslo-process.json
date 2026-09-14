@@ -1,0 +1,1121 @@
+{
+  "era": "oslo-process",
+  "unit": "oslo-process",
+  "events": [
+    {
+      "id": "1993-09-13-oslo-declaration-of-principles-signed",
+      "date": "1993-09-13",
+      "lat": 38.8977,
+      "lng": -77.0365,
+      "location": "White House, Washington, D.C.",
+      "title": "Israel and the PLO sign the Oslo Declaration of Principles",
+      "category": "treaty",
+      "significance": 5,
+      "summary": "On 13 September 1993 Israel and the Palestine Liberation Organization signed the Declaration of Principles on Interim Self-Government Arrangements on the South Lawn of the White House. Israeli Foreign Minister Shimon Peres and PLO official Mahmoud Abbas signed the text in the presence of Prime Minister Yitzhak Rabin, PLO Chairman Yasser Arafat and US President Bill Clinton, after which Rabin and Arafat shook hands. The declaration followed secret talks in Oslo, Norway, and an exchange of letters of mutual recognition days earlier. It set out a five-year transitional period of Palestinian interim self-government in the West Bank and Gaza Strip, beginning with an Israeli withdrawal from the Gaza Strip and the Jericho area, elections to a Palestinian Council, and permanent-status negotiations on Jerusalem, refugees, settlements, security and borders based on Security Council Resolutions 242 and 338.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "The Rabin government presented the declaration as a historic breakthrough that secured PLO recognition of Israel and a renunciation of terrorism, while deferring Jerusalem, settlements and statehood to permanent-status talks and preserving Israeli responsibility for overall security."
+        },
+        {
+          "party": "Palestine Liberation Organization",
+          "framing": "The PLO leadership framed the accord as the first step towards ending the occupation and achieving an independent Palestinian state with Jerusalem as its capital, and as Israeli recognition of the PLO as the representative of the Palestinian people."
+        },
+        {
+          "party": "Hamas and other Palestinian opponents",
+          "framing": "Hamas, Islamic Jihad and PFLP rejected the accord as a capitulation that surrendered most of historic Palestine and postponed refugees and Jerusalem, and refused to recognise the resulting self-government arrangements."
+        },
+        {
+          "party": "Israeli right-wing opposition",
+          "framing": "Likud and settler groups condemned the agreement as a dangerous concession to a terrorist organisation that endangered Israeli security and the Jewish presence in Judea and Samaria."
+        },
+        {
+          "party": "United States",
+          "framing": "The Clinton administration hosted the ceremony and described the declaration as a historic act of reconciliation that the United States would support through aid and continued mediation."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Agreement - Declaration of Principles on Interim Self-Government Arrangements (a.k.a. \"Oslo Accord\") - Question of Palestine",
+          "url": "https://www.un.org/unispal/document/auto-insert-180015/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Declaration of Principles | Ministry of Foreign Affairs",
+          "url": "https://www.gov.il/en/pages/declaration-of-principles",
+          "publisher": "Israel Ministry of Foreign Affairs",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Milestones in the History of U.S. Foreign Relations - The Oslo Accords and the Arab-Israeli Peace Process",
+          "url": "https://history.state.gov/milestones/1993-2000/oslo",
+          "publisher": "US Department of State, Office of the Historian",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Oslo Accords | Significance, Palestine, Israel, Two-State Solution, Breakdown, & Map",
+          "url": "https://www.britannica.com/topic/Oslo-Accords",
+          "publisher": "Britannica",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "oslo-process",
+      "verified": true
+    },
+    {
+      "id": "1994-02-25-hebron-ibrahimi-mosque-massacre",
+      "date": "1994-02-25",
+      "lat": 31.5247,
+      "lng": 35.1107,
+      "location": "Cave of the Patriarchs / Ibrahimi Mosque, Hebron, West Bank",
+      "title": "Cave of the Patriarchs / Ibrahimi Mosque massacre in Hebron",
+      "category": "attack",
+      "significance": 4,
+      "summary": "On 25 February 1994, during Ramadan, Baruch Goldstein, an Israeli settler physician from Kiryat Arba and supporter of the Kach movement, opened fire with an assault rifle on Muslim worshippers at dawn prayers in the Ibrahimi Mosque at the Cave of the Patriarchs in Hebron. He killed 29 worshippers and wounded about 125 before being overpowered and beaten to death, according to accounts reported by The Times of Israel and the Institute for Palestine Studies; Palestinian sources such as WAFA count more than 50 dead when those killed in subsequent protests are included. The Israeli government condemned the attack, outlawed Kach and appointed the Shamgar Commission of inquiry. Security Council Resolution 904 of 18 March 1994 condemned the massacre and led to the Temporary International Presence in Hebron. Israel-PLO talks were suspended for several weeks.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Prime Minister Rabin condemned the killings as the act of a 'degenerate murderer' outside the Israeli mainstream, banned Kach and Kahane Chai, and set up a state commission of inquiry, while rejecting Palestinian demands to remove the Hebron settlers."
+        },
+        {
+          "party": "Palestine Liberation Organization",
+          "framing": "The PLO called the attack a massacre that exposed the danger of armed settlers, suspended negotiations, and demanded the evacuation of settlements in Hebron and international protection for Palestinians."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Hamas described the attack as a Zionist massacre of worshippers and announced retaliation; its first suicide bombings inside Israel in April 1994 were declared to be revenge for Hebron."
+        },
+        {
+          "party": "United Nations",
+          "framing": "Security Council Resolution 904 strongly condemned the massacre, called on Israel as the occupying Power to disarm settlers and prevent settler violence, and endorsed a temporary international presence in Hebron."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Two decades after massacre, Hebron is still hurting",
+          "url": "https://www.timesofisrael.com/two-decades-after-massacre-hebron-is-still-hurting/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Hebron Massacre, 1994",
+          "url": "https://www.palestine-studies.org/en/node/1652605",
+          "publisher": "Institute for Palestine Studies",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Resolution 904 (1994)",
+          "url": "https://www.un.org/unispal/document/auto-insert-189598",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Chapter 3: The Massacre in Hebron and its Aftermath",
+          "url": "https://catalog.archives.gov.il/site/en/chapter/chapter-3-the-massacre-in-hebron-and-its-aftermath/",
+          "publisher": "Israel State Archives",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "The Ibrahimi Mosque massacre 29 years later: The victims are still paying the price",
+          "url": "https://english.wafa.ps/Pages/Details/133561",
+          "publisher": "WAFA",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "oslo-process",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Palestinian worshippers killed in the mosque",
+          "value": "29",
+          "attribution": "The Times of Israel / Institute for Palestine Studies",
+          "note": "About 125 wounded; the attacker was killed at the scene."
+        },
+        {
+          "label": "Palestinians killed including subsequent protests",
+          "value": "more than 50",
+          "attribution": "WAFA (Palestinian news agency)",
+          "note": "Includes Palestinians killed by Israeli forces during protests in the days after the massacre."
+        }
+      ]
+    },
+    {
+      "id": "1994-05-04-gaza-jericho-agreement-cairo",
+      "date": "1994-05-04",
+      "lat": 30.0444,
+      "lng": 31.2357,
+      "location": "Cairo, Egypt",
+      "title": "Gaza-Jericho Agreement signed in Cairo, creating the Palestinian Authority",
+      "category": "treaty",
+      "significance": 4,
+      "summary": "On 4 May 1994 Prime Minister Yitzhak Rabin and PLO Chairman Yasser Arafat signed the Agreement on the Gaza Strip and the Jericho Area in Cairo, witnessed by the United States, Russia and Egypt. Implementing the first stage of the 1993 Declaration of Principles, it provided for the withdrawal of Israeli forces from most of the Gaza Strip and from the Jericho area, the transfer of civil and internal-security powers to a 24-member Palestinian Authority, the deployment of a Palestinian police force, and the release of Palestinian prisoners. Annexes covered security arrangements, civil affairs, legal matters and economic relations, incorporating the Paris Protocol on economic relations signed a week earlier. Israel retained control of settlements, military installations, external security and border crossings. According to the UN, the Israeli withdrawal from the specified areas was completed on schedule in May 1994.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Israel presented the agreement as the 'Gaza and Jericho first' implementation of Oslo, transferring responsibility for a densely populated and costly area while retaining overall security control, the settlements and the borders."
+        },
+        {
+          "party": "Palestine Liberation Organization",
+          "framing": "The PLO framed the Cairo agreement as the first exercise of Palestinian national authority on Palestinian soil and a stepping stone toward independence, while criticising Israel's retained powers and the small size of the Jericho enclave."
+        },
+        {
+          "party": "Egypt",
+          "framing": "Egypt, as host and witness, portrayed the signing as vindication of its own peace with Israel and of its mediating role in the Arab-Israeli conflict."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Hamas rejected the agreement as a surrender that turned the PLO into an Israeli security subcontractor, and vowed to continue armed resistance."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Agreement on the Gaza Strip and the Jericho Area: Palestinian Authority, international presence, Paris Protocol - Question of Palestine",
+          "url": "https://www.un.org/unispal/document/auto-insert-185298/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Agreement on the Gaza Strip and the Jericho Area, Cairo, May 4, 1994",
+          "url": "https://peacemaker.un.org/sites/default/files/document/files/2024/05/il20ps940504agreement20on20the20gaza20strip20and20the20jericho20area2028cairo20agreement29.pdf",
+          "publisher": "UN Peacemaker",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Yitzhak Rabin and Yasser Arafat sign accord for Palestinian self-rule | May 4, 1994",
+          "url": "https://www.history.com/this-day-in-history/may-4/rabin-and-arafat-sign-accord-for-palestinian-self-rule",
+          "publisher": "HISTORY",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Cairo Agreement on Gaza and Jericho (1994)",
+          "url": "https://ecf.org.il/issues/issue/186",
+          "publisher": "Economic Cooperation Foundation",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "oslo-process",
+      "verified": true
+    },
+    {
+      "id": "1994-07-01-arafat-returns-to-gaza",
+      "date": "1994-07-01",
+      "lat": 31.5017,
+      "lng": 34.4668,
+      "location": "Gaza City, Gaza Strip",
+      "title": "Yasser Arafat returns to Gaza after 27 years in exile",
+      "category": "political",
+      "significance": 3,
+      "summary": "On 1 July 1994 PLO Chairman Yasser Arafat crossed from Egypt into the Gaza Strip at Rafah, his first return to Palestinian territory since leaving the West Bank in 1967. Under the Gaza-Jericho Agreement, Israeli forces had withdrawn from most of the Gaza Strip and the Jericho area in May and a Palestinian police force had deployed. Arafat was driven to Gaza City, where he addressed a crowd that press reports put in the tens of thousands, and days later visited Jericho, where the Palestinian Authority was sworn in. He established the seat of the new Authority in Gaza. Israeli opponents of the accords protested the visit, and Hamas supporters boycotted the welcome, but The Washington Post and other outlets described the return as the symbolic start of Palestinian self-rule.",
+      "perspectives": [
+        {
+          "party": "Palestinian Authority / PLO",
+          "framing": "Palestinian officials and WAFA describe the day as the triumphant homecoming of the national leader and the beginning of building state institutions on Palestinian land."
+        },
+        {
+          "party": "Israeli government",
+          "framing": "The Rabin government treated the visit as a contractual consequence of the Cairo agreement and stressed that Arafat's authority was limited to the autonomous areas under Israeli overall security responsibility."
+        },
+        {
+          "party": "Israeli opposition",
+          "framing": "Likud and settler leaders denounced the return as the entry of a terrorist leader to the gates of Israel and staged protests."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Hamas stayed away from the welcome ceremonies and characterised the Authority as a product of a flawed agreement that legitimised the occupation."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Arafat Ends Exile, Rallies Palestinians",
+          "url": "https://www.washingtonpost.com/archive/politics/1994/07/02/arafat-ends-exile-rallies-palestinians/3234281e-6e65-462d-8b53-89b40044e611/",
+          "publisher": "The Washington Post",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Chronological Review of Events relating to the Question of Palestine (July 1994)",
+          "url": "https://www.un.org/unispal/document/auto-insert-195356",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Today marks 27 years since the triumphant return of Yasser Arafat to his homeland in Palestine",
+          "url": "https://english.wafa.ps/Pages/Details/125241",
+          "publisher": "WAFA",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Arafat back in Gaza Strip",
+          "url": "https://www.upi.com/Archives/1994/07/12/Arafat-back-in-Gaza-Strip/9675773985600/",
+          "publisher": "UPI",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "oslo-process",
+      "verified": true
+    },
+    {
+      "id": "1994-10-26-israel-jordan-peace-treaty",
+      "date": "1994-10-26",
+      "lat": 29.5805,
+      "lng": 34.9735,
+      "location": "Wadi Araba / Arava border crossing, Israel-Jordan",
+      "title": "Israel and Jordan sign the Wadi Araba peace treaty",
+      "category": "treaty",
+      "significance": 5,
+      "summary": "On 26 October 1994 Israel and Jordan signed a Treaty of Peace at the Wadi Araba (Arava) border crossing north of Eilat and Aqaba. Prime Minister Yitzhak Rabin and Jordanian Prime Minister Abdul Salam al-Majali signed, with King Hussein, Israeli President Ezer Weizman and US President Bill Clinton, who witnessed the treaty, in attendance. It followed the Washington Declaration of 25 July 1994, which had ended the state of belligerency. The treaty delimited the international boundary along the Jordan and Yarmouk rivers and the Arava, with special arrangements for the Baqura/Naharayim and Ghumar/Zofar areas, allocated Jordan and Yarmouk water shares, established diplomatic relations, and committed both states to cooperation on trade, tourism and security and to preventing their territory from being used for attacks on the other. Jordan became the second Arab state, after Egypt, to make peace with Israel.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Israel hailed the treaty as a 'warm peace' with its longest border neighbour, securing its eastern frontier and recognising Jordan's special role at Muslim holy sites in Jerusalem pending permanent-status talks."
+        },
+        {
+          "party": "Jordanian government",
+          "framing": "King Hussein presented the treaty as recovering Jordanian land and water rights and securing the kingdom's future, while Jordanian opposition and professional associations rejected normalisation and called it a 'cold peace'."
+        },
+        {
+          "party": "Palestine Liberation Organization",
+          "framing": "The PLO welcomed the peace but objected to the clause giving Jordan a special role over Islamic holy places in Jerusalem, insisting that Jerusalem was a Palestinian matter for final-status negotiations."
+        },
+        {
+          "party": "United States",
+          "framing": "The Clinton administration described the treaty as a milestone toward a comprehensive regional peace and offered Jordan debt relief and military assistance."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Treaty of Peace between the State of Israel and the Hashemite Kingdom of Jordan",
+          "url": "https://peacemaker.un.org/sites/default/files/document/files/2024/05/il20jo941026peacetreatyisraeljordan.pdf",
+          "publisher": "UN Peacemaker",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel-Jordan Peace Treaty (1994)",
+          "url": "https://ecf.org.il/issues/issue/185",
+          "publisher": "Economic Cooperation Foundation",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Twenty Years of Israeli-Jordanian Peace: A Brief Assessment",
+          "url": "https://www.washingtoninstitute.org/policy-analysis/twenty-years-israeli-jordanian-peace-brief-assessment",
+          "publisher": "The Washington Institute for Near East Policy",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Three decades after their historic treaty, Jordan and Israel are not at war - but nor are they at peace",
+          "url": "https://www.thenationalnews.com/news/mena/2024/10/25/jordan-israel-peace-treaty/",
+          "publisher": "The National",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "oslo-process",
+      "verified": true
+    },
+    {
+      "id": "1995-01-22-beit-lid-junction-bombing",
+      "date": "1995-01-22",
+      "lat": 32.3236,
+      "lng": 34.9269,
+      "location": "Beit Lid junction, near Netanya, Israel",
+      "title": "Double suicide bombing at Beit Lid junction",
+      "category": "attack",
+      "significance": 3,
+      "summary": "On the morning of 22 January 1995 two Palestinian suicide bombers detonated explosives about three minutes apart at a crowded bus stop at the Beit Lid (Sharon) junction near Netanya, where soldiers were waiting for transport back to their bases after the weekend. The second blast struck those who had rushed to help the wounded. Palestinian Islamic Jihad claimed responsibility, saying the bombers came from the Gaza Strip; it was the group's first suicide attack inside Israel. The Washington Post reported 19 dead the following day, while the Israel Ministry of Foreign Affairs lists 20 soldiers and one civilian killed and 66 wounded. Israel sealed the West Bank and Gaza Strip, Prime Minister Rabin raised the idea of physical separation from the Palestinians, and the attack intensified Israeli debate over continuing the Oslo process.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Israel described the bombing as a terrorist massacre of young soldiers, demanded that the Palestinian Authority crack down on Islamic Jihad and Hamas, and imposed a closure on the territories."
+        },
+        {
+          "party": "Palestinian Islamic Jihad",
+          "framing": "Islamic Jihad claimed the attack as a 'martyrdom operation' against occupation soldiers and as retaliation for the killing of its members, rejecting the Oslo accords."
+        },
+        {
+          "party": "Palestinian Authority",
+          "framing": "Yasser Arafat condemned the attack and ordered arrests of Islamic Jihad activists in Gaza, while objecting that closures collectively punished Palestinians."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Two-Stage Bombing Kills 19 at Israeli Military Bus Stop",
+          "url": "https://www.washingtonpost.com/archive/politics/1995/01/23/two-stage-bombing-kills-19-at-israeli-military-bus-stop/6556496b-964b-4c41-88c3-773f02de98df/",
+          "publisher": "The Washington Post",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Suicide and Other Bombing Attacks in Israel Since the Declaration of Principles (Sept 1993)",
+          "url": "https://www.gov.il/en/pages/suicide-and-other-bombing-attacks-since-the-declaration-of-principles",
+          "publisher": "Israel Ministry of Foreign Affairs",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Attack in Beit Lid - Letter from Israel - Question of Palestine",
+          "url": "https://www.un.org/unispal/document/auto-insert-177575/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "oslo-process",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Killed",
+          "value": "19",
+          "attribution": "The Washington Post",
+          "note": "Figure reported on 23 January 1995; some of the wounded later died."
+        },
+        {
+          "label": "Killed",
+          "value": "21 (20 soldiers and 1 civilian)",
+          "attribution": "Israel Ministry of Foreign Affairs",
+          "note": "66 wounded. Another MFA listing gives 18 soldiers and 1 civilian."
+        }
+      ]
+    },
+    {
+      "id": "1995-09-28-oslo-ii-interim-agreement-signed",
+      "date": "1995-09-28",
+      "lat": 38.8977,
+      "lng": -77.0365,
+      "location": "White House, Washington, D.C.",
+      "title": "Oslo II Interim Agreement divides the West Bank into Areas A, B and C",
+      "category": "treaty",
+      "significance": 5,
+      "summary": "On 28 September 1995 Prime Minister Yitzhak Rabin and PLO Chairman Yasser Arafat signed the Israeli-Palestinian Interim Agreement on the West Bank and the Gaza Strip at the White House, witnessed by the United States, Russia, Egypt, Jordan, Norway and the European Union. Known as Oslo II, the agreement, initialled in Taba four days earlier, extended Palestinian self-government beyond Gaza and Jericho. It divided the West Bank into Area A, where the Palestinian Authority held civil and internal-security powers; Area B, with Palestinian civil control and Israeli overriding security responsibility; and Area C, under full Israeli control. Israel undertook to redeploy from six West Bank cities and hundreds of villages ahead of elections for a Palestinian Council, with further redeployments to follow. Hebron received special arrangements. The interim period was to end with a permanent-status agreement by May 1999.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "The Rabin government presented Oslo II as ending Israeli rule over most Palestinians while keeping security control of settlements, the Jordan Valley and Area C, and insisted the Palestinian entity would be less than a state."
+        },
+        {
+          "party": "Palestine Liberation Organization",
+          "framing": "The PLO framed the agreement as extending Palestinian sovereignty over its cities and setting a timetable toward a state, while critics within Fatah noted that Area A covered only a small share of the West Bank."
+        },
+        {
+          "party": "Israeli right-wing opposition",
+          "framing": "Likud and settler groups denounced the agreement as a surrender of parts of the Land of Israel; the Knesset ratified it by only 61 votes to 59 amid heated protests in which Rabin was labelled a traitor."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Hamas rejected Oslo II as a fragmentation of Palestinian land into isolated enclaves that entrenched occupation, and continued attacks on Israelis."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Israeli-Palestinian Interim Agreement on the West Bank and the Gaza Strip (a.k.a. \"Oslo II\") - Question of Palestine",
+          "url": "https://www.un.org/unispal/document/auto-insert-185434/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel-PLO Interim Agreements since 1993 | Ministry of Foreign Affairs",
+          "url": "https://www.gov.il/en/Departments/General/israel-plo-interim-agreements-since-1993",
+          "publisher": "Israel Ministry of Foreign Affairs",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Oslo Accords | Significance, Palestine, Israel, Two-State Solution, Breakdown, & Map",
+          "url": "https://www.britannica.com/topic/Oslo-Accords",
+          "publisher": "Britannica",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israeli-Palestinian Interim Agreement (Oslo II, 1995)",
+          "url": "https://ecf.org.il/issues/issue/818",
+          "publisher": "Economic Cooperation Foundation",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "oslo-process",
+      "verified": true
+    },
+    {
+      "id": "1995-11-04-yitzhak-rabin-assassinated",
+      "date": "1995-11-04",
+      "lat": 32.0809,
+      "lng": 34.7806,
+      "location": "Kings of Israel Square (now Rabin Square), Tel Aviv",
+      "title": "Prime Minister Yitzhak Rabin assassinated at Tel Aviv peace rally",
+      "category": "attack",
+      "significance": 5,
+      "summary": "On the night of 4 November 1995 Prime Minister Yitzhak Rabin was shot twice at close range by Yigal Amir, a 25-year-old Israeli law student and religious nationalist opposed to the Oslo accords, as he left a rally in support of the peace process attended by more than 100,000 people in Kings of Israel Square, Tel Aviv. Rabin died at Ichilov Hospital shortly afterwards. Amir was arrested at the scene, confessed, and was sentenced to life imprisonment. It was the first assassination of an Israeli prime minister. Shimon Peres became acting prime minister, and world leaders including King Hussein of Jordan and President Hosni Mubarak of Egypt attended the funeral on Mount Herzl on 6 November. The killing followed months of incitement against Rabin over Oslo II and deepened divisions within Israeli society.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Israel's leadership mourned Rabin as a soldier and statesman murdered by a Jewish extremist for pursuing peace, and pledged to continue the Oslo process; the Shamgar Commission later examined security failures."
+        },
+        {
+          "party": "Israeli right-wing opposition",
+          "framing": "Likud and religious-nationalist leaders condemned the murder while rejecting accusations that their campaign against the accords had created the climate for it."
+        },
+        {
+          "party": "Palestinian Authority",
+          "framing": "Yasser Arafat described Rabin as a partner in peace and expressed fear that the assassination would derail implementation of the interim agreement."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The General Assembly held a special session at which speakers expressed shock and urged that the peace process for which Rabin had worked continue."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Rabin assassinated at peace rally - Nov. 4, 1995",
+          "url": "https://www.cnn.com/WORLD/9511/rabin/index.html",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Assassination of Yitzhak Rabin | Israeli Prime Minister, Peace Deal, & Oslo Accords",
+          "url": "https://www.britannica.com/topic/assassination-of-Yitzhak-Rabin",
+          "publisher": "Britannica",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Speakers express great shock over assassination of Israeli Prime Minister",
+          "url": "https://press.un.org/en/1995/19951106.ga8986.html",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Yitzhak Rabin | Ministry of Foreign Affairs",
+          "url": "https://www.gov.il/en/Departments/General/yitzhak-rabin",
+          "publisher": "Israel Ministry of Foreign Affairs",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "oslo-process",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Killed",
+          "value": "1 (Prime Minister Yitzhak Rabin)",
+          "attribution": "CNN / Britannica",
+          "note": "Bodyguard Yoram Rubin was wounded."
+        }
+      ]
+    },
+    {
+      "id": "1996-02-25-hamas-bus-bombings-jerusalem-tel-aviv",
+      "date": "1996-02-25",
+      "endDate": "1996-03-04",
+      "lat": 31.7857,
+      "lng": 35.2078,
+      "location": "Jaffa Road, Jerusalem (also Ashkelon and Tel Aviv)",
+      "title": "Wave of Hamas suicide bombings in Jerusalem, Ashkelon and Tel Aviv",
+      "category": "attack",
+      "significance": 4,
+      "summary": "Between 25 February and 4 March 1996 Hamas carried out four suicide bombings inside Israel, which it said avenged the killing of its bomb-maker Yahya Ayyash in January. On 25 February a bomber destroyed a No. 18 bus on Jaffa Road in Jerusalem, killing 26 people (17 civilians and nine soldiers) according to the Israel Ministry of Foreign Affairs; the same morning a bomber killed one soldier at a hitch-hiking post in Ashkelon. On 3 March a second No. 18 bus was bombed on Jaffa Road, killing 19, and on 4 March a bomber at Tel Aviv's Dizengoff Center killed 13 people, with CNN reporting 14 dead. In total about 59 people were killed and well over 100 wounded. Israel closed the territories, Prime Minister Peres declared 'war' on Hamas, and world leaders convened the Sharm el-Sheikh Summit of Peacemakers on 13 March.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "The Peres government called the bombings terrorist massacres of civilians, imposed a full closure, demanded that the Palestinian Authority dismantle Hamas's military wing, and framed the response as a war on terrorism."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Hamas's military wing claimed the attacks as 'martyrdom operations' in revenge for the assassination of Yahya Ayyash and as resistance to occupation, while some political leaders offered a conditional halt."
+        },
+        {
+          "party": "Palestinian Authority",
+          "framing": "Yasser Arafat condemned the bombings, arrested hundreds of Hamas activists and outlawed its armed wing, but protested that the closure devastated the Palestinian economy."
+        },
+        {
+          "party": "United States",
+          "framing": "The Clinton administration condemned the attacks, co-hosted the Sharm el-Sheikh summit against terrorism and pledged support for Israeli security and for Peres's government."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Hamas admits to fatal Israeli bus bombings - Feb. 25, 1996",
+          "url": "https://www.cnn.com/WORLD/9602/israel_explosion/02-25/pm/",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "At least 19 dead in Jerusalem bombing - Mar. 3, 1996",
+          "url": "https://www.cnn.com/WORLD/9603/jerusalem_blast/1a/index.html",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Suicide and Other Bombing Attacks in Israel Since the Declaration of Principles (Sept 1993)",
+          "url": "https://www.gov.il/en/pages/suicide-and-other-bombing-attacks-since-the-declaration-of-principles",
+          "publisher": "Israel Ministry of Foreign Affairs",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "1996 Global Terrorism: Middle East Overview",
+          "url": "https://1997-2001.state.gov/global/terrorism/1996Report/middle.html",
+          "publisher": "US Department of State",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Chronological Review of Events relating to the Question of Palestine (February-March 1996)",
+          "url": "https://www.un.org/unispal/document/auto-insert-196309",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "oslo-process",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Killed, Jerusalem bus 18 bombing (25 Feb)",
+          "value": "26 (17 civilians, 9 soldiers)",
+          "attribution": "Israel Ministry of Foreign Affairs",
+          "note": "About 48 wounded; one soldier also killed the same day in Ashkelon."
+        },
+        {
+          "label": "Killed, Jerusalem bus 18 bombing (3 Mar)",
+          "value": "19",
+          "attribution": "CNN / Israel Ministry of Foreign Affairs"
+        },
+        {
+          "label": "Killed, Dizengoff Center, Tel Aviv (4 Mar)",
+          "value": "13",
+          "attribution": "Israel Ministry of Foreign Affairs",
+          "note": "CNN reported 14 killed and about 130 wounded."
+        }
+      ]
+    },
+    {
+      "id": "1996-04-11-operation-grapes-of-wrath-qana",
+      "date": "1996-04-11",
+      "endDate": "1996-04-27",
+      "lat": 33.2094,
+      "lng": 35.2997,
+      "location": "Qana and southern Lebanon",
+      "title": "Operation Grapes of Wrath and the shelling of the UN compound at Qana",
+      "category": "war",
+      "significance": 4,
+      "summary": "From 11 to 27 April 1996 Israel conducted Operation Grapes of Wrath, a campaign of air strikes and artillery fire across southern Lebanon and Beirut aimed at pressing Hezbollah and the Lebanese government to halt Katyusha rocket fire on northern Israel. Human Rights Watch documented some 600 air raids and 25,000 shells, and it and Amnesty International reported around 154 civilians killed and 351 injured in Lebanon, with roughly 400,000 people displaced after Israeli warnings to evacuate villages. On 18 April Israeli artillery struck the UNIFIL Fijian battalion compound at Qana, where about 800 civilians had sought shelter, killing 106 people according to the United Nations. A UN investigation concluded it was unlikely the shelling was the result of technical or procedural errors; Israel said it was responding to Hezbollah fire from nearby. US-brokered understandings announced on 26 April ended the fighting.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Israel described the operation as a defensive response to Hezbollah rocket attacks on Kiryat Shmona and Galilee, said the Qana deaths were a tragic error caused by targeting Hezbollah fighters firing from near the base, and rejected the UN report's conclusions."
+        },
+        {
+          "party": "Hezbollah",
+          "framing": "Hezbollah framed its rocket fire as resistance to Israeli occupation of southern Lebanon and retaliation for civilian deaths, and called Qana a deliberate massacre."
+        },
+        {
+          "party": "Lebanese government",
+          "framing": "Lebanon condemned the operation as aggression against its sovereignty and civilians and sought Security Council action and compensation for the Qana victims."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The Secretary-General's investigation, led by General Franklin van Kappen, found it unlikely that the shelling of the compound was due to gross technical or procedural errors, while noting Hezbollah fired from near the base; the Secretary-General deplored the loss of life."
+        },
+        {
+          "party": "Human-rights organisations",
+          "framing": "Human Rights Watch and Amnesty International documented unlawful killings and argued Israel's evacuation orders and indiscriminate shelling violated the laws of war, while also criticising Hezbollah's rocket fire at Israeli civilians."
+        }
+      ],
+      "sources": [
+        {
+          "title": "\"Operation Grapes of Wrath\": The Civilian Victims",
+          "url": "https://www.hrw.org/report/1997/09/01/operation-grapes-wrath/civilian-victims",
+          "publisher": "Human Rights Watch",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israel/Lebanon: Unlawful killings during operation \"Grapes of Wrath\"",
+          "url": "https://www.amnesty.org/en/documents/mde15/042/1996/en/",
+          "publisher": "Amnesty International",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Secretary-General statement on the report of the investigation into the shelling of the UN compound at Qana (8 May 1996)",
+          "url": "https://press.un.org/en/1996/19960508.sgsm5982.html",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Factsheet: Qana and Belhas v. Ya'alon",
+          "url": "https://ccrjustice.org/home/get-involved/tools-resources/fact-sheets-and-faqs/factsheet-qana-and-belhas-v-yaalon",
+          "publisher": "Center for Constitutional Rights",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "A most painful lesson: The 1996 Shelling of Qana, why it matters today",
+          "url": "https://www.army.mil/article/166556/a_most_painful_lesson_the_1996_shelling_of_qana_why_it_matters_today",
+          "publisher": "US Army",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "oslo-process",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Civilians killed in Lebanon during the operation",
+          "value": "about 154",
+          "attribution": "Human Rights Watch",
+          "note": "351 injured; figures broadly consistent with Amnesty International."
+        },
+        {
+          "label": "Killed in the shelling of the UN compound at Qana (18 April)",
+          "value": "106",
+          "attribution": "United Nations / Center for Constitutional Rights",
+          "note": "About 116 injured, including UN peacekeepers."
+        },
+        {
+          "label": "Displaced in Lebanon",
+          "value": "about 400,000",
+          "attribution": "Human Rights Watch / Center for Constitutional Rights"
+        }
+      ]
+    },
+    {
+      "id": "1996-05-29-netanyahu-elected-prime-minister",
+      "date": "1996-05-29",
+      "lat": 31.7683,
+      "lng": 35.2137,
+      "location": "Jerusalem, Israel",
+      "title": "Benjamin Netanyahu narrowly defeats Shimon Peres in first direct vote for PM",
+      "category": "political",
+      "significance": 3,
+      "summary": "On 29 May 1996 Israelis voted for the first time in a direct election for prime minister alongside the Knesset ballot. Likud leader Benjamin Netanyahu, who had campaigned against the Oslo accords under the slogan of 'peace with security' after the spring suicide bombings, defeated Labour's Shimon Peres by 50.5 to 49.5 percent, a margin of about 29,500 votes, according to the Israel Democracy Institute and CNN. Likud-Gesher-Tzomet won 32 Knesset seats to Labour's 34, and Netanyahu formed a coalition of 66 members with religious and immigrant parties in June. The result ended the Labour government that had negotiated Oslo I and II. Netanyahu pledged to honour signed agreements but to condition further redeployments on Palestinian security performance and to oppose a Palestinian state, slowing implementation of the interim agreement.",
+      "perspectives": [
+        {
+          "party": "Likud / Netanyahu government",
+          "framing": "Netanyahu presented his victory as a mandate for 'peace with security', reciprocity from the Palestinian Authority and opposition to dividing Jerusalem or establishing a Palestinian state."
+        },
+        {
+          "party": "Israeli Labour opposition",
+          "framing": "Labour attributed its defeat to the Hamas bombings and warned that the new government would freeze the peace process."
+        },
+        {
+          "party": "Palestinian Authority",
+          "framing": "Palestinian officials voiced alarm at the election of a leader who had opposed Oslo, while stating they would hold Israel to its signed commitments."
+        },
+        {
+          "party": "United States",
+          "framing": "The Clinton administration, which had visibly favoured Peres, said it would work with the new government and urged continued implementation of the agreements."
+        }
+      ],
+      "sources": [
+        {
+          "title": "1996 - Elections and Parties",
+          "url": "https://en.idi.org.il/israeli-elections-and-parties/elections/1996/",
+          "publisher": "The Israel Democracy Institute",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Netanyahu wins Israeli election - May 31, 1996",
+          "url": "http://edition.cnn.com/WORLD/9605/31/netanyahu.wins/",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Netanyahu Celebrates Victory",
+          "url": "https://www.washingtonpost.com/archive/politics/1996/06/01/netanyahu-celebrates-victory/c4516116-1d48-4126-a1b6-54fb96208fde/",
+          "publisher": "The Washington Post",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "oslo-process",
+      "verified": true
+    },
+    {
+      "id": "1996-09-24-western-wall-tunnel-clashes",
+      "date": "1996-09-24",
+      "endDate": "1996-09-27",
+      "lat": 31.778,
+      "lng": 35.234,
+      "location": "Old City of Jerusalem, spreading to the West Bank and Gaza Strip",
+      "title": "Western Wall tunnel opening triggers deadly clashes across the territories",
+      "category": "attack",
+      "significance": 3,
+      "summary": "Overnight on 23-24 September 1996 the Israeli government opened a new exit from the Western Wall tunnel onto the Via Dolorosa in Jerusalem's Muslim Quarter, near the Temple Mount / Haram al-Sharif. Palestinian protests began in Jerusalem on 24 September and spread over the following days to Ramallah, Bethlehem, Nablus, Gaza and other areas, where for the first time Palestinian police exchanged fire with Israeli soldiers. Israel deployed tanks and helicopters around Palestinian cities. Reported death tolls vary: the Palestinian Centre for Human Rights and Israeli and international press accounts put the dead at between 64 and 74 Palestinians and 15 and 17 Israeli soldiers, with more than 1,000 Palestinians and dozens of Israelis wounded. The Security Council called for a halt to violence, and President Clinton summoned Netanyahu and Arafat to Washington on 1-2 October to restart talks.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Netanyahu said the 'Hasmonean tunnel' exit was an archaeological and tourism project that did not affect the mosques, accused Arafat of incitement, and condemned Palestinian policemen who fired on Israeli soldiers."
+        },
+        {
+          "party": "Palestinian Authority",
+          "framing": "Arafat called the opening a 'big crime against our religious and holy places' and an attempt to change Jerusalem's status, and defended Palestinian police as protecting demonstrators from Israeli fire."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The Security Council in Resolution 1073 called for the immediate cessation of all acts that had negative results on the peace process and for the safe return to normalcy; the Special Committee on Israeli practices recorded the casualty figures."
+        },
+        {
+          "party": "Human-rights organisations",
+          "framing": "B'Tselem found that Israeli police used lethal force at the Temple Mount / Haram al-Sharif in situations where their lives were not threatened; PCHR documented Palestinian deaths across the territories."
+        }
+      ],
+      "sources": [
+        {
+          "title": "The Clashes of September 1996: Documented Investigation and Analysis - Summary of Findings",
+          "url": "https://pchrgaza.org/the-clashes-of-september-1996-documented-investigation-and-analysis-summary-of-findings/",
+          "publisher": "Palestinian Centre for Human Rights",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israeli practices - Special Committee periodic report - Question of Palestine",
+          "url": "https://www.un.org/unispal/document/auto-insert-189717/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Jerusalem Demolitions May Spark Repeat of 1996 Riots",
+          "url": "https://www.haaretz.com/2009-03-10/ty-article/jerusalem-demolitions-may-spark-repeat-of-1996-riots/0000017f-e7e2-d62c-a1ff-fffbfaa80000",
+          "publisher": "Haaretz",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Rioting Responds to New Tunnel Exit",
+          "url": "https://israeled.org/rioting-responds-to-new-tunnel-exit/",
+          "publisher": "Center for Israel Education",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Letter dated 26 September 1996 from the Permanent Representative of Israel",
+          "url": "https://www.un.org/unispal/document/auto-insert-185345",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "oslo-process",
+      "verified": true,
+      "casualties": [
+        {
+          "label": "Palestinians killed",
+          "value": "64-74",
+          "attribution": "Range across Palestinian Centre for Human Rights, Israeli and international press reports",
+          "note": "Commonly cited figure is about 70; more than 1,000 Palestinians wounded."
+        },
+        {
+          "label": "Israeli soldiers killed",
+          "value": "15-17",
+          "attribution": "Range across Israeli and international press reports",
+          "note": "About 58 Israelis wounded."
+        }
+      ]
+    },
+    {
+      "id": "1997-01-17-hebron-protocol-signed",
+      "date": "1997-01-17",
+      "lat": 31.5326,
+      "lng": 35.0998,
+      "location": "Hebron, West Bank",
+      "title": "Hebron Protocol divides the city into H1 and H2",
+      "category": "treaty",
+      "significance": 3,
+      "summary": "On 17 January 1997 Israel and the PLO signed the Protocol Concerning the Redeployment in Hebron, the first agreement concluded by the Netanyahu government with the Palestinians, after months of US-mediated talks in which King Hussein of Jordan intervened. Netanyahu and Arafat had shaken hands on the deal at Erez on 14 January. The protocol, a supplement to the 1995 Interim Agreement, divided Hebron into area H1, about 80 percent of the city, transferred to Palestinian Authority civil and security control, and H2, containing the Israeli settler enclaves and the Cave of the Patriarchs / Ibrahimi Mosque, where Israel retained security responsibility. Israeli forces redeployed within days. An attached US 'Note for the Record' set out further Israeli redeployments and Palestinian obligations, and the Temporary International Presence in Hebron was re-established.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Netanyahu presented the protocol as proof that Likud would honour signed agreements while securing better protection for Hebron's Jewish community and the principle of reciprocity; settler leaders and some coalition members opposed it."
+        },
+        {
+          "party": "Palestinian Authority",
+          "framing": "The PA welcomed the transfer of most of Hebron as overdue implementation of Oslo II, while objecting that Israeli control of H2 left tens of thousands of Palestinians under military rule."
+        },
+        {
+          "party": "United States",
+          "framing": "The United States, through envoy Dennis Ross, framed the protocol and its Note for the Record as reviving the peace process and committing both sides to further redeployments and security cooperation."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Hamas dismissed the protocol as consolidating the settler presence in the heart of Hebron and continuing the fragmentation of Palestinian land."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Agreement - Hebron Protocol text - Non-UN document - Question of Palestine",
+          "url": "https://www.un.org/unispal/document/auto-insert-196311/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Netanyahu, Arafat shake hands on Hebron accord - Jan. 14, 1997",
+          "url": "https://www.cnn.com/WORLD/9701/14/hebron.late/",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "The Hebron Protocol in the Context of the Peace Process (15 Jan 1997)",
+          "url": "https://www.gov.il/en/departments/news/the-hebron-protocol-in-the-context-of-the-peace-process-15-jan-1997",
+          "publisher": "Israel Ministry of Foreign Affairs",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Hebron Protocol (1997)",
+          "url": "https://ecf.org.il/issues/issue/220",
+          "publisher": "Economic Cooperation Foundation",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "oslo-process",
+      "verified": true
+    },
+    {
+      "id": "1998-10-23-wye-river-memorandum-signed",
+      "date": "1998-10-23",
+      "lat": 38.8977,
+      "lng": -77.0365,
+      "location": "White House, Washington, D.C. (negotiated at Wye River, Maryland)",
+      "title": "Wye River Memorandum signed to revive Oslo implementation",
+      "category": "treaty",
+      "significance": 3,
+      "summary": "On 23 October 1998 Prime Minister Benjamin Netanyahu and Chairman Yasser Arafat signed the Wye River Memorandum at the White House after nine days of talks at the Wye River conference centre in Maryland led by President Bill Clinton, with King Hussein of Jordan present at the ceremony. The memorandum set out steps to resume implementation of the 1995 Interim Agreement: Israeli further redeployment from an additional 13 percent of the West Bank, transferring 1 percent to Area A and 12 percent to Area B (3 percent of it as nature reserves), and the shift of 14.2 percent from Area B to Area A; Palestinian security commitments, including a plan to combat armed groups verified with US assistance; reaffirmation of the annulment of hostile clauses in the Palestinian National Charter; and resumed permanent-status talks. Israel completed only the first phase before suspending implementation in December 1998.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Netanyahu portrayed Wye as securing reciprocity, concrete Palestinian security obligations verified by the CIA, and a limited land transfer, but coalition partners on the right accused him of surrendering territory."
+        },
+        {
+          "party": "Palestinian Authority",
+          "framing": "The PA welcomed the resumption of redeployments as overdue Israeli compliance with Oslo II and framed the security clauses as commitments it was already fulfilling, while insisting on a state by May 1999."
+        },
+        {
+          "party": "United States",
+          "framing": "The Clinton administration described the memorandum as breaking an 18-month deadlock and committed the CIA to verify security steps and the US to assist with economic and security needs."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Hamas rejected the memorandum as a security agreement that turned the Authority into an instrument for suppressing resistance, and Israel and the PA arrested its activists in its wake."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Agreement - Wye River Memorandum (23 October 1998) - Non-UN document - Question of Palestine",
+          "url": "https://www.un.org/unispal/document/auto-insert-204357/",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "The Wye River Memorandum (CRS Report 98-911)",
+          "url": "https://www.everycrsreport.com/files/19981105_98-911_da97ad46eb68744c953d26ad0353371d3da24306.pdf",
+          "publisher": "Congressional Research Service (via EveryCRSReport)",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "The Wye River Memorandum",
+          "url": "https://unsco.unmissions.org/sites/default/files/the_wye_river_memorandum.pdf",
+          "publisher": "UNSCO",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Wye River Memorandum (1998)",
+          "url": "https://ecf.org.il/issues/issue/221",
+          "publisher": "Economic Cooperation Foundation",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "oslo-process",
+      "verified": true
+    },
+    {
+      "id": "2000-05-24-israel-withdraws-from-southern-lebanon",
+      "date": "2000-05-24",
+      "lat": 33.3,
+      "lng": 35.55,
+      "location": "Southern Lebanon (former Israeli 'security zone')",
+      "title": "Israel withdraws from its southern Lebanon security zone",
+      "category": "war",
+      "significance": 4,
+      "summary": "On 24 May 2000 Israel completed a unilateral withdrawal of its forces from the self-declared security zone it had held in southern Lebanon since 1985, ending an 18-year military presence that began with the 1982 invasion. Prime Minister Ehud Barak had pledged to leave by July 2000 without waiting for a peace agreement with Syria and Lebanon. The withdrawal was accelerated when Israel's ally, the South Lebanon Army, collapsed over 22-24 May; Hezbollah fighters and villagers moved into the evacuated villages, thousands of SLA members and families fled into Israel, and detainees in Khiam prison were freed. The United Nations identified a line of withdrawal, the Blue Line, and on 16 June 2000 the Secretary-General reported that Israel had withdrawn in accordance with Security Council Resolution 425, a conclusion the Council endorsed on 18 June.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Barak presented the pullout as fulfilling an election promise, ending a costly deployment and removing any pretext for Hezbollah attacks, with UN certification giving Israel international legitimacy on the border."
+        },
+        {
+          "party": "Hezbollah",
+          "framing": "Hezbollah celebrated 25 May as 'Resistance and Liberation Day', claiming the first Arab victory over Israel achieved by force, and asserted that the Shebaa Farms remained occupied, justifying continued resistance."
+        },
+        {
+          "party": "Lebanese government",
+          "framing": "Lebanon welcomed the liberation of its territory but disputed the Blue Line at several points, including the Shebaa Farms, and declined to deploy the army to the border."
+        },
+        {
+          "party": "United Nations",
+          "framing": "The Secretary-General and UNIFIL described the Blue Line as a line of withdrawal for the purpose of confirming compliance with Resolution 425, not an international border, and confirmed Israel's withdrawal on 16 June 2000."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Security Council endorses Secretary-General's conclusion on Israeli withdrawal from Lebanon as of 16 June",
+          "url": "https://press.un.org/en/2000/20000618.sc6878.doc.html",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Background | UNIFIL",
+          "url": "https://unifil.unmissions.org/en/background",
+          "publisher": "UNIFIL",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Israeli Withdrawal from Lebanon (2000)",
+          "url": "https://ecf.org.il/issues/issue/956",
+          "publisher": "Economic Cooperation Foundation",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Why Israel's retreat from Lebanon marked the birth of today's Middle East",
+          "url": "https://www.timesofisrael.com/why-israels-retreat-from-lebanon-marked-the-birth-of-todays-middle-east/",
+          "publisher": "The Times of Israel",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Ex-Israeli leader who pulled out of Lebanon warns against getting stuck again",
+          "url": "https://www.npr.org/2026/06/10/g-s1-126791/israeli-leader-who-pulled-out-of-lebanon-warns-against-getting-stuck-again",
+          "publisher": "NPR",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "oslo-process",
+      "verified": true
+    },
+    {
+      "id": "2000-07-11-camp-david-summit",
+      "date": "2000-07-11",
+      "endDate": "2000-07-25",
+      "lat": 39.648,
+      "lng": -77.465,
+      "location": "Camp David, Maryland, United States",
+      "title": "Camp David summit on permanent status ends without agreement",
+      "category": "political",
+      "significance": 4,
+      "summary": "From 11 to 25 July 2000 President Bill Clinton hosted Prime Minister Ehud Barak and Chairman Yasser Arafat at Camp David for an intensive summit intended to reach a framework agreement on permanent status. The talks addressed borders and territory, settlements, Jerusalem, refugees and security. Accounts by participants and press reports indicate that Israel offered a Palestinian state on most of the West Bank and all of Gaza with partial arrangements in East Jerusalem, and that the sides could not agree on sovereignty over the Old City and the Temple Mount / Haram al-Sharif or on the refugees' claimed right of return. On 25 July Clinton announced that no agreement had been reached; a trilateral statement committed the parties to continue negotiating and to avoid unilateral actions. Clinton publicly praised Barak's flexibility, and the failure preceded the outbreak of the second intifada two months later.",
+      "perspectives": [
+        {
+          "party": "Israeli government",
+          "framing": "Barak said he had offered unprecedented concessions, including on Jerusalem, and that Arafat's refusal to make a counter-offer showed there was 'no partner' for peace, a narrative that shaped Israeli politics afterwards."
+        },
+        {
+          "party": "Palestinian Authority",
+          "framing": "Palestinian negotiators argued the offer would have left a non-contiguous state without sovereignty over the Haram al-Sharif or a solution for refugees, that the summit was premature and poorly prepared, and that they were unfairly blamed."
+        },
+        {
+          "party": "United States",
+          "framing": "Clinton's statement called the talks the most far-reaching ever held, credited Barak with moving further than Arafat, and urged both sides to keep negotiating; US aides later differed over the allocation of blame."
+        },
+        {
+          "party": "Hamas",
+          "framing": "Hamas said the summit's collapse proved that negotiations could not achieve Palestinian rights and called for renewed resistance."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Mideast talks end with no agreement - July 25, 2000",
+          "url": "https://www.cnn.com/2000/WORLD/meast/07/25/mideast.summit.01/index.html",
+          "publisher": "CNN",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Mideast Peace Summit Ends With No Deal",
+          "url": "https://www.washingtonpost.com/archive/politics/2000/07/26/mideast-peace-summit-ends-with-no-deal/460070ad-7719-49b0-8635-85d060a3b798/",
+          "publisher": "The Washington Post",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "Trilateral Statement on the Middle East Peace Summit at Camp David, 25 July 2000",
+          "url": "https://www.un.org/unispal/document/auto-insert-193931",
+          "publisher": "United Nations",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "President Clinton: Statement on the Middle East Summit at Camp David (25 July 2000)",
+          "url": "https://1997-2001.state.gov/regions/nea/000725_clinton_stmt.html",
+          "publisher": "US Department of State",
+          "accessedDate": "2026-09-14"
+        },
+        {
+          "title": "What Happened at Camp David in 2000?",
+          "url": "https://imeu.org/resources/palestine-101/what-happened-at-camp-david-in-2000-1/353",
+          "publisher": "Institute for Middle East Understanding",
+          "accessedDate": "2026-09-14"
+        }
+      ],
+      "era": "oslo-process",
+      "verified": true
+    }
+  ],
+  "boundaryChanges": [
+    {
+      "date": "1994-05-04",
+      "description": "Gaza-Jericho Agreement: Israeli forces withdrew from most of the Gaza Strip (excluding settlement blocs and military installations) and from the Jericho area, completed by late May 1994; the Palestinian Authority assumed civil and internal-security administration there.",
+      "sources": [
+        "https://www.un.org/unispal/document/auto-insert-185298/"
+      ]
+    },
+    {
+      "date": "1994-10-26",
+      "description": "Israel-Jordan peace treaty delimited the international boundary along the Jordan and Yarmouk rivers, the Dead Sea, the Arava and the Gulf of Aqaba, with special regimes for the Baqura/Naharayim and Ghumar/Zofar areas.",
+      "sources": [
+        "https://peacemaker.un.org/sites/default/files/document/files/2024/05/il20jo941026peacetreatyisraeljordan.pdf"
+      ]
+    },
+    {
+      "date": "1995-09-28",
+      "description": "Oslo II Interim Agreement divided the West Bank into Areas A (Palestinian civil and security control), B (Palestinian civil control, Israeli security) and C (full Israeli control); Israeli redeployment from Jenin, Tulkarm, Qalqilya, Nablus, Bethlehem and Ramallah and most villages followed in late 1995.",
+      "sources": [
+        "https://www.un.org/unispal/document/auto-insert-185434/",
+        "https://ecf.org.il/issues/issue/818"
+      ]
+    },
+    {
+      "date": "1997-01-17",
+      "description": "Hebron Protocol: Israeli forces redeployed from about 80 percent of Hebron (H1) to Palestinian Authority control; H2, including the settler enclaves and the Cave of the Patriarchs / Ibrahimi Mosque, remained under Israeli security control.",
+      "sources": [
+        "https://www.un.org/unispal/document/auto-insert-196311/"
+      ]
+    },
+    {
+      "date": "1998-10-23",
+      "description": "Wye River Memorandum scheduled further Israeli redeployment from 13 percent of the West Bank (Area C to Areas A/B) and a shift of 14.2 percent from Area B to Area A; only the first phase was implemented before Israel suspended the process in December 1998.",
+      "sources": [
+        "https://www.un.org/unispal/document/auto-insert-204357/"
+      ]
+    },
+    {
+      "date": "2000-05-24",
+      "description": "Israel withdrew from its southern Lebanon security zone to the UN-identified Blue Line; the Secretary-General confirmed the withdrawal under Resolution 425 on 16 June 2000 and the Security Council endorsed it on 18 June 2000.",
+      "sources": [
+        "https://press.un.org/en/2000/20000618.sc6878.doc.html",
+        "https://unifil.unmissions.org/en/background"
+      ]
+    }
+  ],
+  "excluded": [
+    {
+      "title": "First Palestinian general elections (Legislative Council and President)",
+      "date": "1996-01-20",
+      "reason": "Significant but not researched: the session's shared WebSearch budget was exhausted before it could be corroborated by two publishers; candidate for a future addition."
+    },
+    {
+      "title": "Sharm el-Sheikh Summit of Peacemakers",
+      "date": "1996-03-13",
+      "reason": "Mentioned in the 1996 bombings event summary; not researched as a standalone event within the target count."
+    },
+    {
+      "title": "Mahane Yehuda market and Ben Yehuda Street bombings, Jerusalem",
+      "date": "1997-07-30",
+      "reason": "Not researched as a standalone event within the target count and search budget."
+    },
+    {
+      "title": "Sharm el-Sheikh Memorandum (Barak-Arafat)",
+      "date": "1999-09-04",
+      "reason": "Not researched within the target count and search budget; candidate for a future addition."
+    },
+    {
+      "title": "Ehud Barak elected prime minister",
+      "date": "1999-05-17",
+      "reason": "Not researched within the target count and search budget; referenced in the Lebanon withdrawal and Camp David events."
+    }
+  ],
+  "uncertainties": [
+    "The WebSearch budget for this session was exhausted after roughly 30 searches for this unit (the counter is shared across the session), so several planned follow-up searches (Israel MFA text of the Jordan treaty, the UN van Kappen report on Qana, the exact dates of the late-1995 Oslo II city handovers, and Wye implementation dates) could not be run; these details were taken from sources already returned and from the agreement texts and should be spot-checked.",
+    "Hebron 1994 death toll: 29 killed in the mosque is the figure reported by The Times of Israel and the Institute for Palestine Studies; Palestinian sources (WAFA) give more than 50 by including those killed in subsequent protests. Both are recorded.",
+    "Beit Lid 1995: The Washington Post reported 19 dead on the day after; the Israel MFA lists 21 (20 soldiers and one civilian) in one listing and 19 (18 soldiers and one civilian) in another. Both are recorded.",
+    "Western Wall tunnel clashes 1996: death tolls in the returned sources range from 64 to 74 Palestinians and 15 to 17 Israeli soldiers; the sources could not be matched one-to-one to each figure, so ranges are given. The Security Council resolution number (1073) and the 1-2 October Washington summit are from general knowledge consistent with the returned UN material but were not separately corroborated.",
+    "1996 bombings: Dizengoff Center deaths are given as 13 by the Israel MFA and 14 by CNN; totals across the four attacks are therefore about 59-60.",
+    "Grapes of Wrath: Israeli casualty figures (no deaths, dozens of civilians wounded by rockets, as widely reported) were not confirmed by the returned sources and are omitted from the casualties array.",
+    "Wye River percentages (13 percent, 14.2 percent) are from the memorandum text as reproduced by the UN/UNSCO; the statement that only about 2 percent was actually transferred before suspension appears in a returned summary but its precise date (20 November 1998) is from general knowledge.",
+    "Boundary change for Oslo II: the agreement date (1995-09-28) is used; the physical handovers of the six cities took place between November and December 1995, but their individual dates were not corroborated within the search budget."
+  ]
+}
