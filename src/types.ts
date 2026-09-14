@@ -11,6 +11,8 @@ export interface Attachment {
   name: string
   size: number
   type: string
+  /** Path of a real file served with the app; attachments without one are demo placeholders. */
+  url?: string
 }
 
 export interface Message {

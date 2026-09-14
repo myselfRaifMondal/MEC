@@ -1,5 +1,5 @@
 import { createContext, useContext, useEffect, useMemo, useReducer, type ReactNode } from 'react'
-import { createSeedState } from '../data/seed'
+import { BCREC_MESSAGE_ID, bcrecNotice, createSeedState } from '../data/seed'
 import type { AppState } from '../types'
 import { reducer, type Action } from './reducer'
 
@@ -17,12 +17,18 @@ function loadState(): AppState {
     const raw = localStorage.getItem(STORAGE_KEY)
     if (raw) {
       const parsed = JSON.parse(raw) as AppState
-      if (parsed && Array.isArray(parsed.messages) && parsed.settings) return parsed
+      if (parsed && Array.isArray(parsed.messages) && parsed.settings) return migrate(parsed)
     }
   } catch {
     // ignore corrupt storage and fall back to seed data
   }
   return createSeedState()
+}
+
+/** Adds seed messages introduced after a mailbox was first saved, without touching the user's own changes. */
+export function migrate(state: AppState): AppState {
+  if (state.messages.some((m) => m.id === BCREC_MESSAGE_ID)) return state
+  return { ...state, messages: [bcrecNotice(), ...state.messages] }
 }
 
 export function StoreProvider({ children }: { children: ReactNode }) {

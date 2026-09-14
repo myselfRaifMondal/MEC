@@ -11,8 +11,45 @@ function at(daysAgo: number, hour: number, minute: number): string {
   return d.toISOString()
 }
 
-function attach(name: string, size: number, type: string): Attachment {
-  return { id: `att_${name.replace(/\W/g, '')}`, name, size, type }
+function attach(name: string, size: number, type: string, url?: string): Attachment {
+  return { id: `att_${name.replace(/\W/g, '')}`, name, size, type, url }
+}
+
+export const BCREC_MESSAGE_ID = 'seed_bcrec_indiquant'
+
+/** Notice from BCREC with the IndiQuant press-meet PDF attached; always the newest inbox message. */
+export function bcrecNotice(): Message {
+  return {
+    id: BCREC_MESSAGE_ID,
+    folder: 'inbox',
+    from: { name: 'Dr. B. C. Roy Engineering College', email: 'info@bcrec.ac.in' },
+    to: [ME],
+    cc: [],
+    bcc: [],
+    subject: 'Notice: Press Meet for the Felicitation of IndiQuant – 16 September 2026',
+    date: at(0, 9, 5),
+    read: false,
+    starred: false,
+    hasCalendarInvite: true,
+    attachments: [attach('IndiQuant-BCREC.pdf', 388778, 'application/pdf', '/attachments/IndiQuant-BCREC.pdf')],
+    body: `Ref. No.: BCREC/PR/2026-27/1
+Date: 13.09.2026
+
+Dear Representatives of IndiQuant,
+
+This is to notify you that Dr. B. C. Roy Engineering College, Durgapur, will be hosting a Press Meet on Wednesday, 16th September 2026 at 11:00 A.M. in the Albert Einstein Hall, BCREC campus, on the occasion of the Felicitation of IndiQuant.
+
+Representatives of IndiQuant are cordially invited to be present on the occasion. Members of the press and media are being invited to cover the event. The list of media houses proposed to be invited, covering regional outlets such as Anandabazar Patrika, Ei Samay and ABP Ananda as well as national outlets including The Telegraph, The Times of India, Hindustan Times and PTI, is enclosed in the attached notice for your reference and confirmation.
+
+All concerned departments and committees (Media & Public Relations Cell, Administration, Security and Hospitality) have been requested to extend the necessary cooperation for the smooth conduct of the programme.
+
+Kindly confirm your attendance by replying to this email.
+
+Warm regards,
+General Secretary
+Dr. B. C. Roy Engineering College, Durgapur
+info@bcrec.ac.in`,
+  }
 }
 
 let counter = 0
@@ -209,7 +246,7 @@ const senders = [
 
 function generated(): Message[] {
   const out: Message[] = []
-  const total = 110
+  const total = 109
   for (let i = 0; i < total; i++) {
     const s = senders[i % senders.length]
     const daysAgo = 4 + Math.floor(i / 3)
@@ -221,7 +258,7 @@ function generated(): Message[] {
         from: { name: s[0], email: s[1] },
         subject: s[2],
         date: at(daysAgo, hour, minute),
-        read: i % 7 !== 0,
+        read: i % 7 !== 6,
         starred: i % 11 === 0,
         hasCalendarInvite: s[0] === 'Calendly',
         attachments: withAttachment
@@ -352,7 +389,7 @@ const setupSteps: SetupStep[] = [
 export function createSeedState(): AppState {
   counter = 0
   return {
-    messages: [...featured(), ...generated(), ...other()],
+    messages: [bcrecNotice(), ...featured(), ...generated(), ...other()],
     customFolders: [{ id: 'f_receipts', name: 'Receipts' }],
     contacts,
     settings,

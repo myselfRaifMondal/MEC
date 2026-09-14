@@ -13,7 +13,7 @@ A pixel-faithful, fully working clone of the Hostinger Mail web client, built wi
 - Search across the current folder or all folders, with attachment-only and unread-only options
 
 **Reading**
-- Preview with sender details, calendar-invite RSVP card, attachment chips, and prev/next navigation
+- Preview with sender details, calendar-invite RSVP card, attachment chips (real files under `public/attachments` download; the BCREC IndiQuant notice ships with its PDF), and prev/next navigation
 - Reply, reply all, forward (with quoted text and signature), mark unread, star, move to folder, spam, delete, print, download as `.eml`
 - Trash and Spam notices with restore; empty Trash / empty Spam
 

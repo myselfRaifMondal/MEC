@@ -324,8 +324,18 @@ export function MessagePreview({ message: m, onBack, onTrash, onMove, onRestore,
               <button
                 key={a.id}
                 className="attachment"
-                title="Download attachment"
-                onClick={() => push(`"${a.name}" is a demo attachment and has no file contents to download`)}
+                title={a.url ? `Download ${a.name}` : 'Demo attachment'}
+                onClick={() => {
+                  if (!a.url) {
+                    push(`"${a.name}" is a demo attachment and has no file contents to download`)
+                    return
+                  }
+                  const link = document.createElement('a')
+                  link.href = a.url
+                  link.download = a.name
+                  link.click()
+                  push(`Downloading ${a.name}`)
+                }}
               >
                 <span className="att-icon">
                   <FileText size={18} />

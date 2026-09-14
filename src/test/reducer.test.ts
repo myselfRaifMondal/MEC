@@ -1,5 +1,6 @@
 import { describe, expect, it } from 'vitest'
-import { createSeedState } from '../data/seed'
+import { BCREC_MESSAGE_ID, createSeedState } from '../data/seed'
+import { migrate } from '../store/StoreContext'
 import { reducer } from '../store/reducer'
 import { listMessages, paginate, unreadCount } from '../store/queries'
 import type { Message } from '../types'
@@ -111,9 +112,26 @@ describe('queries', () => {
     expect(clamped.page).toBe(p1.pages)
   })
 
-  it('seed inbox fills twelve pages of ten', () => {
+  it('seed inbox fills twelve pages of ten with 26 unread', () => {
     const s = base()
     const inbox = listMessages(s, { folder: 'inbox', filter: 'all', sort: 'newest', search: '' })
     expect(paginate(inbox, 1, 10).pages).toBe(12)
+    expect(unreadCount(s.messages, 'inbox')).toBe(26)
+  })
+
+  it('puts the BCREC notice with its PDF first in the inbox', () => {
+    const s = base()
+    const inbox = listMessages(s, { folder: 'inbox', filter: 'all', sort: 'newest', search: '' })
+    expect(inbox[0].id).toBe(BCREC_MESSAGE_ID)
+    expect(inbox[0].from.email).toBe('info@bcrec.ac.in')
+    expect(inbox[0].attachments[0]).toMatchObject({ name: 'IndiQuant-BCREC.pdf', type: 'application/pdf', url: '/attachments/IndiQuant-BCREC.pdf' })
+  })
+
+  it('migrates a saved mailbox that predates the BCREC notice', () => {
+    const s = base()
+    const old = { ...s, messages: s.messages.filter((m) => m.id !== BCREC_MESSAGE_ID) }
+    const migrated = migrate(old)
+    expect(migrated.messages[0].id).toBe(BCREC_MESSAGE_ID)
+    expect(migrate(migrated)).toBe(migrated)
   })
 })
