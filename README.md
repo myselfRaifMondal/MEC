@@ -63,4 +63,4 @@ State lives in a single reducer (`src/store/reducer.ts`) and is persisted under 
 
 ## Also in this repository: mideast-3d
 
-`mideast-3d/` is a separate app: an interactive, sourced 3D globe timeline of the Middle East crisis (1917 to September 2026), built with Vite, React, TypeScript and three.js. See [`mideast-3d/README.md`](mideast-3d/README.md) for how to run, build and deploy it, and for its data methodology. To deploy it on Vercel, create a project for this repository with **Root Directory** set to `mideast-3d` (framework Vite, output `dist`); the root `vercel.json` belongs to the mail client.
+`mideast-3d/` is a separate app: an interactive, sourced 3D globe timeline of the Middle East crisis (1917 to September 2026), built with Vite, React, TypeScript and three.js. See [`mideast-3d/README.md`](mideast-3d/README.md) for how to run, build and deploy it, and for its data methodology. It is deployed alongside the mail client at **`/timeline/`**: the root `vercel.json` builds both apps and copies the timeline's output into `dist/timeline/`, and the mail client's SPA rewrite leaves `/timeline/` alone.

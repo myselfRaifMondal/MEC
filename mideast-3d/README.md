@@ -21,7 +21,7 @@ npm test           # Playwright smoke test at 1440px and 375px (needs a build fi
 
 The Playwright test uses Chromium. If a pre-installed Chromium should be used instead of Playwright's managed download, set `CHROMIUM_PATH=/path/to/chrome` before `npm test`.
 
-Deploy `dist/` to any static host. All data is bundled or served as static assets; per-era boundary GeoJSON is fetched lazily when a chapter is first shown.
+The app is built with a `/timeline/` base path because the repository's root `vercel.json` deploys it alongside the mail client at `/timeline/`. To host it at a domain root instead, build with `BASE_PATH=/ npm run build` and deploy `dist/` to any static host. All data is bundled or served as static assets; per-era boundary GeoJSON is fetched lazily when a chapter is first shown.
 
 ## Project layout
 

@@ -4,7 +4,10 @@ import tailwindcss from '@tailwindcss/vite';
 
 // GeoJSON files are served as static assets and fetched lazily per era,
 // so they never enter the JavaScript bundle.
+// Served under /timeline/ on the shared Vercel project (see ../vercel.json);
+// override with BASE_PATH=/ to host it at a domain root.
 export default defineConfig({
+  base: process.env.BASE_PATH ?? '/timeline/',
   plugins: [react(), tailwindcss()],
   assetsInclude: ['**/*.geojson'],
   build: {

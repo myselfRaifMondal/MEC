@@ -43,7 +43,7 @@ async function ensurePanelExpanded(page: Page): Promise<void> {
 }
 
 test.beforeEach(async ({ page }) => {
-  await page.goto('/');
+  await page.goto('./');
   await expect(page.getByTestId('globe-canvas')).toBeVisible();
   await page.waitForFunction(() => typeof window.__mideast?.getState === 'function');
 });
