@@ -15,7 +15,7 @@ export default defineConfig({
   retries: process.env.CI ? 1 : 0,
   reporter: [['list']],
   use: {
-    baseURL: 'http://127.0.0.1:4173/timeline/',
+    baseURL: 'http://127.0.0.1:4173',
     trace: 'retain-on-failure',
     launchOptions: {
       ...(executablePath ? { executablePath } : {}),
@@ -35,7 +35,7 @@ export default defineConfig({
   ],
   webServer: {
     command: 'npm run preview',
-    url: 'http://127.0.0.1:4173/timeline/',
+    url: 'http://127.0.0.1:4173',
     reuseExistingServer: !process.env.CI,
     timeout: 60_000,
   },

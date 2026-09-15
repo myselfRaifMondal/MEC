@@ -1,9 +1,8 @@
 node_modules
 dist
-dist-ssr
-*.local
+scripts/dist
+test-results
+playwright-report
 .DS_Store
-coverage
-
-# TypeScript incremental build state
-*.tsbuildinfo
+*.log
+__pycache__
