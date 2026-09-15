@@ -1,8 +1,0 @@
-node_modules
-dist
-scripts/dist
-test-results
-playwright-report
-.DS_Store
-*.log
-__pycache__
